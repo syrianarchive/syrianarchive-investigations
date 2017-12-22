@@ -80,7 +80,7 @@ Abdel Salam confirmed that the damage to the hospital was extensive. The operati
 
 [1]: https://www.youtube.com/watch?v=AlLyo9V7xFo
 [2]: /assets/Screen_Shot_2017-05-13_at_6.12.43_PM.png
-[3]: https://syrianarchive.org/database/62560/
+[3]: https://syrianarchive.org/en/database?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%B4%D9%86%D8%A7%D9%86&term=Targeting%20the%20Children%20Hospital%20with%204%20airstrikes%20in%20Shinan&unit=030a2825
 [4]: /assets/Screen_Shot_2017-05-13_at_11.34.29_AM.png
 [5]: /assets/Screen_Shot_2017-05-13_at_11.33.49_AM.png
 [6]: /assets/Screen_Shot_2017-05-13_at_11.33.40_AM.png

@@ -11,7 +11,7 @@ image: /assets/investigations/cw-attacks.png
 
 وقد أصدرت الشبكة السورية لحقوق الإنسان تقريرا [يؤكد استخدام الغازات السامة 139](http://sn4hr.org/arabic/2016/08/20/6828/) مرة بعد قرار مجلس الأمن من قبل النظام السوري وتنظيم داعش.
 
-يقدّم "الأرشيف السوري" في هذا التقرير [قاعدة بيانات تحتوي على أدلة مصورة لبعض الهجمات الكيميائية المذكورة بتقرير الشبكة السورية لحقوق الإنسان. تحتوي ](https://syrianarchive.org/database/?type_of_violation=3&weapons=1&location=&startDate=&endDate=)[قاعدة بيانات الهجمات الكيميائية على 392](https://syrianarchive.org/database/?type_of_violation=3&weapons=1&location=&startDate=&endDate=) فيديو من تاريخ 01/12/2012 إلى تاريخ 06/09/2016.
+يقدّم "الأرشيف السوري" في هذا التقرير [قاعدة بيانات تحتوي على أدلة مصورة لبعض الهجمات الكيميائية المذكورة بتقرير الشبكة السورية لحقوق الإنسان. تحتوي ](https://syrianarchive.org/en/database?type_of_violation=Use_of_illegal_weapons&weapons_used=Chemical%20Weapons)[قاعدة بيانات الهجمات الكيميائية على 392](https://syrianarchive.org/en/database?type_of_violation=Use_of_illegal_weapons&weapons_used=Chemical%20Weapons) فيديو من تاريخ 01/12/2012 إلى تاريخ 06/09/2016.
 
 ## منهجية التحقق من الأدلة المصورة
 
@@ -59,37 +59,37 @@ image: /assets/investigations/cw-attacks.png
 
 تحقّق فريق "الأرشيف السوري" من الأدلّة المصوّرة (فيديو) التي تؤكّد استخدام الغازات الكيميائية (الكلور) خلال الهجمات التي حدثت مؤخرا في:
 
-1. حي الزبدية في مدينة حلب بتاريخ 10/08/2016 | [5 فيديوهات](https://syrianarchive.org/database/?type_of_violation=3&weapons=1&location=86&startDate=&endDate=)
+1. حي الزبدية في مدينة حلب بتاريخ 10/08/2016 | [5 فيديوهات](https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%AD%D9%8A%20%D8%A7%D9%84%D8%B2%D8%A8%D8%AF%D9%8A%D8%A9&type_of_violation=Use_of_illegal_weapons&weapons_used=Chemical%20Weapons)
 
-2. مارع في ريف حلب بتاريخ 16/08/2016 | [5 فيديوهات](https://syrianarchive.org/database/?type_of_violation=3&weapons=1&location=134&startDate=15%2F08%2F2016&endDate=17%2F08%2F2016)
+2. مارع في ريف حلب بتاريخ 16/08/2016 | [5 فيديوهات](https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D9%85%D8%A7%D8%B1%D8%B9&after=2016-08-15&before=2016-08-17&type_of_violation=Use_of_illegal_weapons&weapons_used=Chemical%20Weapons)
 
-3. حي السكري في مدينة حلب بتاريخ 06/09/2016 | [5 فيديوهات](https://syrianarchive.org/database/?type_of_violation=3&weapons=1&location=80&startDate=&endDate=)
+3. حي السكري في مدينة حلب بتاريخ 06/09/2016 | [5 فيديوهات](https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%AD%D9%8A%20%D8%A7%D9%84%D8%B3%D9%83%D8%B1%D9%8A&type_of_violation=Use_of_illegal_weapons&weapons_used=Chemical%20Weapons)
 
 تعاون فريق الأرشيف السوري مع صحفيي "[Bellingcat](https://www.bellingcat.com/)" على نشر تحقيقين حول الهجمات الكيميائية في منطقتي [حي الزبدية في حلب](https://www.bellingcat.com/news/2016/08/13/reports-of-chlorine-gas-that-targeted-civilians-in-aleppo/) و[مارع في ريف حلب.](https://www.bellingcat.com/news/mena/2016/08/31/evidence-august-16-2016-chemical-attack-marea-isis/)
 
 فيما يلي الحالات التسع التي تم التحقيق فيها من قبل "لجنة التحقيق المشتركة" بالإضافة إلى الادلّة المصوّرة التي تم التحقّق منها من قبل فريق "الأرشيف السوري" لدعم التقرير:
 
-(ا) كفرزيتا، محافظة حماة، 11/04/2014; تحقّقنا رقميا من [16](https://syrianarchive.org/database/?type_of_violation=&location=444&startDate=09%2F04%2F2014&endDate=14%2F04%2F2014) فيديو
+(ا) كفرزيتا، محافظة حماة، 11/04/2014; تحقّقنا رقميا من [16](https://syrianarchive.org/en/database?location=%D8%AD%D9%85%D8%A7%D8%A9%20:%20%D9%83%D9%81%D8%B1%D8%B2%D9%8A%D8%AA%D8%A7&after=2014-04-09&before=2014-04-14&weapons_used=Chemical%20Weapons) فيديو
 
-(ب) كفرزيتا، محافظة حماة، 18/04/2014; تحقّقنا رقميا من [8 ](https://syrianarchive.org/database/?type_of_violation=&location=&startDate=17%2F04%2F2014&endDate=19%2F04%2F2014) فيديوهات
+(ب) كفرزيتا، محافظة حماة، 18/04/2014; تحقّقنا رقميا من [8 ](https://syrianarchive.org/en/database?after=2014-04-17&before=2014-04-19) فيديوهات
 
-(ت) تلمنس، محافظة ادلب، 21/04/2014; تحقّقنا رقميا من [21](https://syrianarchive.org/database/?type_of_violation=3&location=1659&startDate=19%2F04%2F2014&endDate=22%2F04%2F2014) فيديو
+(ت) تلمنس، محافظة ادلب، 21/04/2014; تحقّقنا رقميا من [21](https://syrianarchive.org/en/database?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%AA%D9%84%20%D9%85%D9%86%D9%8A%D8%B3&after=2014-04-19&before=2014-04-22&type_of_violation=Use_of_illegal_weapons) فيديو
 
-(ث) التمانعة، محافظة ادلب، 29/04/214 و 30/04/2014; تحقّقنا رقميا من [7](https://syrianarchive.org/database/?type_of_violation=&location=673&startDate=28%2F04%2F2014&endDate=01%2F05%2F2014) فيديوهات
+(ث) التمانعة، محافظة ادلب، 29/04/214 و 30/04/2014; تحقّقنا رقميا من [7](https://syrianarchive.org/en/database/?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D9%86%D8%B9%D8%A9&after=2014-04-28&before=2014-05-01) فيديوهات
 
-(ج) التمانعة، محافظة ادلب، 25/05/2014 و 26/05/2014; تحقّقنا رقميا من [14 ](https://syrianarchive.org/database/?type_of_violation=&location=673&startDate=20%2F05%2F2014&endDate=31%2F05%2F2014) فيديو
+(ج) التمانعة، محافظة ادلب، 25/05/2014 و 26/05/2014; تحقّقنا رقميا من [14 ](https://syrianarchive.org/en/database/?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D9%86%D8%B9%D8%A9&after=2014-05-20&before=2014-05-31) فيديو
 
 (ح) قمينس، محافظة ادلب، 16/03/2015; تحقّقنا رقميا من [21 ](https://syrianarchive.org/database/?type_of_violation=&location=664&startDate=15%2F03%2F2015&endDate=18%2F03%2F2015) فيديو
 
-(خ) سرمين، محافظة ادلب، 16/03/2015; تحقّقنا رقميا من [21](https://syrianarchive.org/database/?type_of_violation=&location=664&startDate=15%2F03%2F2015&endDate=18%2F03%2F2015) فيديو
+(خ) سرمين، محافظة ادلب، 16/03/2015; تحقّقنا رقميا من [21](https://syrianarchive.org/en/database/?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%B3%D8%B1%D9%85%D9%8A%D9%86&after=2015-03-15&before=2015-03-18) فيديو
 
-(د) بنش، محافظة ادلب، 24/03/2015; تحقّقنا رقميا من [2](https://syrianarchive.org/database/?type_of_violation=&location=557&startDate=22%2F03%2F2015&endDate=25%2F03%2F2015) فيديو
+(د) بنش، محافظة ادلب، 24/03/2015; تحقّقنا رقميا من [2](https://syrianarchive.org/en/database/?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%A8%D9%86%D8%B4&after=2015-03-22&before=2015-03-25) فيديو
 
 (ر) مارع، محافظة حلب، 21/08/2015; تحقّقنا رقميا من  [3](https://syrianarchive.org/database/?type_of_violation=&location=&startDate=20%2F08%2F2015&endDate=22%2F08%2F2015) فيديوهات
 
 ## تحليل النتائج من خلال قاعدة البيانات
 
-حلّل فريق "الأرشيف السوري" البيانات من خلال إظهارها على خريطة لتحديد الأماكن التي تعرضت للهجمات باستخدام الأسلحة الكيميائية من 01/12/2012 إلى 06/09/2016\. ما يلي الخريطة التي تم اظهارها [باستخدام قاعدة بيانات الأسلحة الكيميائية](https://syrianarchive.org/database/?type_of_violation=3&weapons=1&location=&startDate=&endDate=)
+حلّل فريق "الأرشيف السوري" البيانات من خلال إظهارها على خريطة لتحديد الأماكن التي تعرضت للهجمات باستخدام الأسلحة الكيميائية من 01/12/2012 إلى 06/09/2016\. ما يلي الخريطة التي تم اظهارها [باستخدام قاعدة بيانات الأسلحة الكيميائية](https://syrianarchive.org/en/database/?type_of_violation=Use_of_illegal_weapons&weapons_used=Chemical%20Weapons)
 
 <iframe src="https://public.tableau.com/views/timeline_of_chemical_weapons_attacks_syria_fixed/Dashboard1?:showVizHome=no&:embed=y&:display_count=yes" width="800" height="800"></iframe>
 

@@ -150,7 +150,7 @@ This is a timeline of statements of the United States (US) airstrikes that targe
 <iframe allowfullscreen="" frameborder="0" height="650" src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pH2dQjrU4QMcaD4V8GHkkZCnz50Il0NM1DO1qatHXlQ&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650" width="100%"></iframe>
 
 [1]: https://www.bellingcat.com/
-[2]: https://syrianarchive.org/database/?type_of_violation=&location=1771&startDate=15%2F03%2F2017&endDate=19%2F03%2F2017
+[2]: https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%A7%D9%84%D8%AC%D9%8A%D9%86%D8%A9&after=2017-03-15&before=2017-03-19
 [3]: https://www.bellingcat.com/news/mena/2017/03/16/us-missile-remains-reportedly-recovered-from-site-of-aleppo-mosque-bombing/
 [4]: http://wikimapia.org/#lang=en&lat=36.107785&lon=36.786904&z=15&m=b
 [5]: /assets/j01.width-800.png

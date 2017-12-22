@@ -162,7 +162,7 @@ If you have new information about a particular event; if you find an error in ou
 
 *   [Syria conflict mapping which includes Russian attacks](http://www.cartercenter.org/peace/conflict_resolution/syria-conflict-resolution.html)
 
-[1]: https://syrianarchive.org/database/?type_of_violation=16
+[1]: https://syrianarchive.org/en/database?collection=Civilian%20casualties%20as%20a%20result%20of%20alleged%20russian%20attacks
 [2]: http://www.vdc-sy.info/index.php/en/martyrs/1/c29ydGJ5PWEua2lsbGVkX2RhdGV8c29ydGRpcj1ERVNDfGFwcHJvdmVkPXZpc2libGV8ZXh0cmFkaXNwbGF5PTB8c3RhdHVzPTF8NT1SdXNzaWFufA==
 [3]: https://public.tableau.com/static/images/At/Attackedlocations-monthlySep2015March2016/TimlineofpublishedvideosSep2015March2016/1_rss.png
 [4]: /assets/timeline_russianattacks.png
@@ -171,13 +171,13 @@ If you have new information about a particular event; if you find an error in ou
 [7]: https://public.tableau.com/static/images/At/Attackedlocations-sourcesSep2015March2016/Sheet3/1_rss.png
 [8]: /assets/sheet.png
 [9]: https://public.tableau.com/static/images/Ma/MapofattackedlocationsinSyriaSep2015March2016/Locations/1_rss.png
-[10]: https://syrianarchive.org/database/2049/
+[10]: https://syrianarchive.org/en/database?term=cluster%20bombs%20was%20delivered%20by%20Russian%20aircraft%20flying%20over%20the%20western%20Aleppo&unit=efd4dd2f
 [11]: /assets/cluster1.png
-[12]: https://syrianarchive.org/database/1819/
+[12]: https://syrianarchive.org/en/database?term=The%20civil%20defense%20defuse%20a%20cluster%20bomb%20fired%20by%20a%20Russian&unit=7efa8e82
 [13]: /assets/cluster2.png
 [14]: https://www.youtube.com/watch?v=EmWcfssz9r0
 [15]: https://www.youtube.com/watch?v=sa9LqFMk9mg
 [16]: /assets/vdc.png
-[17]: http://syrianarchive.org/database/1567/
+[17]: https://syrianarchive.org/en/database?term=Interview%20to%20the%2080%20observatory%20and%20Abu%20Faysal%20observatory%20in%20Hama%20province&unit=65f239d0
 [18]: /assets/phr.png
 [19]: /assets/yt1.png

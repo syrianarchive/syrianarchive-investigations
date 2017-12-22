@@ -143,7 +143,7 @@ In a related context, Anas Diyab, a member of the Civil Defense in Khan Sheikhou
 [9]: https://www.youtube.com/watch?v=5mZa0S94eXU
 [10]: https://syrianarchive.org/database/60516/
 [11]: https://www.youtube.com/watch?v=xtDy8xoRuSc
-[12]: https://syrianarchive.org/database/60520/
+[12]: https://syrianarchive.org/en/database?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%AE%D8%A7%D9%86%20%D8%B4%D9%8A%D8%AE%D9%88%D9%86&after=2017-04-02&before=2017-04-05&term=the%20warplaens%20targeting%20a%20hospital%20in%20Khan%20Shaykhun&unit=657c9b61
 [13]: /assets/Screen_Shot_2017-05-10_at_9.30.13_AM.png
 [14]: https://twitter.com/yamaankh_kh/status/849239505743872000
 [15]: /assets/Screen_Shot_2017-05-11_at_10.00.42_AM.png
@@ -151,7 +151,7 @@ In a related context, Anas Diyab, a member of the Civil Defense in Khan Sheikhou
 [17]: /assets/Screen_Shot_2017-05-11_at_10.19.46_AM.png
 [18]: https://www.youtube.com/watch?v=lIG0fOnOlyI
 [19]: https://www.youtube.com/watch?v=e5tjfi4cdf4
-[20]: https://syrianarchive.org/database/60537/
+[20]: https://syrianarchive.org/en/database?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%AE%D8%A7%D9%86%20%D8%B4%D9%8A%D8%AE%D9%88%D9%86&after=2017-04-02&before=2017-04-05&term=the%20warplaens%20targeting%20a%20hospital%20in%20Khan%20Shaykhun&unit=24358768
 [21]: /assets/Screen_Shot_2017-05-10_at_9.45.15_AM.png
 [22]: https://www.youtube.com/watch?v=-3PHLF3VLx4
 [23]: https://www.youtube.com/watch?v=wuizYFSCzs0
