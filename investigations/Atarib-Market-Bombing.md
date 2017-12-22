@@ -26,7 +26,7 @@ _This article was collaboratively done by the Syrian Archive Team and Bellingcat
 
 On 13 November 2017 between 14:07 and 14:11, the Atarib market and police station were targeted by three airstrikes resulting in the death of 69 civilians, significant damage to several buildings on the Atarib market street, and to the Free Syrian police building. Open source materials indicate this attack was conducted by either the Russian or Syrian airforce.
 
-On November 13, Alexander Ivanov, the spokesman for the Khmeimim airbase used by Russia, denied that Russian aircraft committed a “massacre” at a civilian site in Atarib. This was posted also on the official Telegram channel of Khmeimim airbase. See blow:
+On November 13, Alexander Ivanov, the unofficial spokesman for the Khmeimim airbase used by Russia, denied that Russian aircraft committed a “massacre” at a civilian site in Atarib. This was posted also on the unofficial Telegram channel of Khmeimim airbase. See blow:
 
 ![Telegram post](/assets/investigations/atarib-35.png)
 
