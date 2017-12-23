@@ -3,7 +3,7 @@ layout: contentwithsiblings.html
 title: Technology
 date: 2017-11-27
 desc: Open Source Tools and Methods for Open Source Investigations
-image: /assets/technology/technology.png
+image: /assets/technology/technologyyy.jpg
 ---
 The Syrian Archive Identify, collect, and preserve digital content in a variety of formats from a variety of sources, and platforms. Content is stored in a centralised database and then accessed by our open-source tools to search, investigate, verify, categorise, and expand. Rather applying out-of-the-box technology solutions to the content challenges faced by the Syrian Archive team, we take a user-centered approach to developing or contributing to custom open-source modular solutions (e.g. [Sugarcube](https://gitlab.com/sucarcube)), allowing our teams of investigators to collaboratively work on our data pipeline.
 
