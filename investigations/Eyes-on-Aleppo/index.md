@@ -48,7 +48,7 @@ While attacks and violations have been committed by all parties including the [I
 **[Download PDF of the report]**[11]
 
 [1]: http://www.ohchr.org/EN/HRBodies/HRC/IICISyria/Pages/IndependentInternationalCommission.aspx
-[2]: https://syrianarchive.org/database/?type_of_violation=&location=1&startDate=01%2F07%2F2016&endDate=31%2F12%2F2016
+[2]: https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%AD%D9%84%D8%A8&after=2016-07-01&before=2016-12-31
 [3]: https://www.bellingcat.com/?s=syria
 [4]: https://airwars.org/civilian-casualty-claims/
 [5]: Research-Methodology.md

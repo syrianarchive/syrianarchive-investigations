@@ -108,15 +108,15 @@ These violations include unlawful attacks against civilians, including an attack
 
 In-depth analysis of verified video evidence has led to finding the use of illegal munitions, such as chlorine gas, as a main tactic used by Syrian government forces to regain control of Aleppo city. Visual evidence concerning chlorine gas attacks has been geolocated in the map above and is available on the Syrian Archive website. [Human Rights Watch][8] and [Bellingcat][12] have written and conducted extensive analysis on these incidents, for which the Syrian Archive assisted.  As a result, and to not duplicate findings, the Syrian Archive will not be providing in-depth analysis of chlorine gas attacks in this report.  
 
-[1]: https://syrianarchive.org/database/?type_of_violation=&location=1&startDate=01%2F07%2F2016&endDate=31%2F12%2F2016
+[1]: https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%AD%D9%84%D8%A8&after=2016-07-01&before=2016-12-31
 [2]: /assets/aleppo1.png
 [3]: http://www.publications.atlanticcouncil.org/breakingaleppo/wp-content/uploads/2017/02/BreakingAleppo.pdf
 [4]: http://sn4hr.org/blog/2017/01/09/30900/
-[5]: https://syrianarchive.org/database/11638/
+[5]: https://syrianarchive.org/en/database?after=2016-08-16&before=2016-08-18&term=3%20dead%20and%2012%20wounded%20in%20Al-Qaterji%20neighborhood&unit=307f73fe
 [6]: https://www.bellingcat.com/news/mena/2016/11/09/fact-checking-russias-claim-didnt-bomb-another-hospital-syria/
-[7]: https://syrianarchive.org/database/46020/
+[7]: https://syrianarchive.org/en/database?after=2016-11-19&before=2016-11-22&term=Chlorine%20gas%20attack%20that%20targeted%20Aleppo%20city&unit=6b040038/
 [8]: https://www.hrw.org/news/2017/02/13/syria-coordinated-chemical-attacks-aleppo
-[9]: https://syrianarchive.org/database/16469/
-[10]: https://syrianarchive.org/database/?type_of_violation=&location=164&startDate=18%2F09%2F2016&endDate=22%2F09%2F2016
-[11]: https://syrianarchive.org/database/36449/
+[9]: https://syrianarchive.org/en/database?after=2016-08-11&before=2016-08-13&term=the%20local%20market%27s%20massacre%20in%20Owayjel%20town&unit=70590ec2
+[10]: https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%A7%D9%88%D8%B1%D9%85%20%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89&after=2016-08-18&before=2016-09-22
+[11]: https://syrianarchive.org/en/database?location=%D8%AD%D9%84%D8%A8%20:%20%D8%A8%D8%B4%D9%82%D8%A7%D8%AA%D9%8A%D9%86&after=2016-11-13&before=2016-11-15&term=Alleged%20Russian%20airstrikes%20using%20Incendiary%20weapons&unit=db509a0a
 [12]: https://www.bellingcat.com/news/mena/2016/12/19/the-cl2-before-the-storm/

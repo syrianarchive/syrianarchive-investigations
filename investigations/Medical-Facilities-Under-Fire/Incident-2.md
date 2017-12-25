@@ -141,7 +141,7 @@ In a related context, Anas Diyab, a member of the Civil Defense in Khan Sheikhou
 [7]: /assets/Screen_Shot_2017-05-09_at_5.55.27_PM.png
 [8]: /assets/Screen_Shot_2017-05-09_at_6.20.44_PM.png
 [9]: https://www.youtube.com/watch?v=5mZa0S94eXU
-[10]: https://syrianarchive.org/database/60516/
+[10]: https://syrianarchive.org/en/database?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%AE%D8%A7%D9%86%20%D8%B4%D9%8A%D8%AE%D9%88%D9%86&term=%20warplaens%20targeting%20a%20hospital%20in%20Khan%20Shaykhun&unit=238a3c4e
 [11]: https://www.youtube.com/watch?v=xtDy8xoRuSc
 [12]: https://syrianarchive.org/en/database?location=%D8%A7%D8%AF%D9%84%D8%A8%20:%20%D8%AE%D8%A7%D9%86%20%D8%B4%D9%8A%D8%AE%D9%88%D9%86&after=2017-04-02&before=2017-04-05&term=the%20warplaens%20targeting%20a%20hospital%20in%20Khan%20Shaykhun&unit=657c9b61
 [13]: /assets/Screen_Shot_2017-05-10_at_9.30.13_AM.png

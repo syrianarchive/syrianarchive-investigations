@@ -28,7 +28,7 @@ Preserving the hundreds of thousands of pictures and videos recorded by Syrian c
 
 This material also forms valuable evidence that can be used in the exposure and investigation of human rights violations by all parties, that will play a vital role in future justice and accountability efforts.
 
-[1]: https://syrianarchive.org/database/
-[2]: https://syrianarchive.org/database/map/
+[1]: https://syrianarchive.org/en/database
+[2]: https://syrianarchive.org/en/database/map
 [3]: /assets/media_activist_in_Damascus.jpg
-[4]: https://syrianarchive.org/database/507/
+[4]: https://syrianarchive.org/en/database?term=ccef0219&type_of_violation=Use_of_illegal_weapons&unit=ccef0219

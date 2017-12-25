@@ -28,7 +28,7 @@ image: /assets/media_activist_in_Damascus.jpg
 
 <iframe allowfullscreen="" src="https://www.youtube.com/embed/y6CZtF6pGvQ" width="690" height="450" frameborder="0"></iframe>
 
-[تفاصيل الفيديو.](https://syrianarchive.org/database/507/)
+[تفاصيل الفيديو.](https://syrianarchive.org/ar/database?term=ccef0219&unit=ccef0219)
 
 تعد هذه الأدلة البصرية ذات قيمة كبيرة لإمكانية استخدامها في عمليات التحقّق والمناصرة والمحاسبة ضد مجرمي الحرب.
 
