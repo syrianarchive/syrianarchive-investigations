@@ -9,19 +9,19 @@ image: /assets/technology/methods-workflows.png
 
 This page provides an overview of the Digital Evidence Workflow methodology used by the Syrian Archive in carrying out its work. The methodology section contains the following elements:
 
-A) Identification, collection and secure preservation methodology;  
-B) Initial verification methodology;  
-C) In-depth verification methodology.
+A) Identification, collection and secure preservation
+B) Initial verification
+C) In-depth verification
 
-## A. Identification, collection and secure preservation methodology
+## A. Identification, collection and secure preservation
 
-The Syrian Archive has divided its collection and archival methodology into five distinct steps:
+The Syrian Archive identification, collection, and secure preservation methodology comprises of the following five steps:
 
-1. Establish database of credible sources for content;  
-2. Establish database of credible sources for verification;  
-3. Establish standardised metadata schema;  
-4. Record additional metadata, and;  
-5. Collect, store, hash, and timestamp visual evidence from verified sources.
+1. Establish database of credible sources for content
+2. Establish database of credible sources for verification
+3. Establish standardised metadata schema
+4. Record additional metadata
+5. Collect, store, hash, and timestamp visual evidence from verified sources
 
 These five steps are presented and outlined in greater detail in the visualisation below
 
@@ -62,15 +62,15 @@ Additional value is added to the material by recording as much metadata and chai
 
 To ensure that the original content is not lost due to removal on corporate platforms, visual evidence from credible social media channels is scraped and stored securely on external backend servers before it goes through basic verification. Videos are hashed with (SHA-256) and timestamped to ensure they are not tampered with after scraped from social media platforms or taken directly from sources.
 
-## B. Initial verification methodology
+## B. Initial verification
 
-Similar to the archival and collection methodology, the initial verification methodology is also broken into five distinct steps:
+Similar to the archival and collection methodology, the initial verification methodology comprises of the following five steps:
 
-1. Aggregate metadata from visual evidence;  
-2. Verify the source of the video;  
-3. Verify the location of the video;  
-4. Verify the dates in which the video was filmed and uploaded, and;  
-5. Publish verified video evidence on the Syrian Archive's online database.  
+1. Aggregate metadata from visual evidence
+2. Verify the source of the video
+3. Verify the location of the video  
+4. Verify the dates in which the video was filmed and uploaded, and
+5. Publish verified video evidence on the Syrian Archive's online database.
 
 These five steps will be discussed in further detail.
 
@@ -104,7 +104,7 @@ The Syrian Archive has verified the date of capturing the video by cross referen
 
 After videos have gone through the basic verification process, they are backed up and uploaded to the Syrian Archive website where they are made publicly available in a free and open-source format.
 
-## C. In-depth verification methodology
+## C. In-depth verification
 
 In some cases, the Syrian Archive is able to conduct in-depth online open source investigations. Videos and other open source materials shared online are used in order to understand the incident and verify the veracity of claims made about incidents. Time and capacity limitations means not all incidents are able to be analysed in-depth, however by developing a replicable workflow it is hoped that others can assist in these efforts to investigate other incidents using similar methods.
 
