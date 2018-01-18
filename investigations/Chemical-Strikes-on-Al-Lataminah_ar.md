@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "Chemical Strikes on Al-Lataminah"
+title: "ضربات كيماوية في اللطامنة"
 date: 2018-01-17
 desc: "تحقيق طلّابي مفتوح المصدر حول حادثتي الكيماوي في 25 و 30 مارس 2017"
 image: /assets/investigations/hrc_cover.png
