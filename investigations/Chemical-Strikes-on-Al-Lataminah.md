@@ -16,3 +16,4 @@ By targeting a medical facility in one attack and utilising chemical weapons for
 The Human Rights Investigations Lab (HRC Lab) was launched in 2016 as part of the Human Rights Center at UC Berkeley's Technology and Human Rights Program. Students were provided with mentorships and guidance from the Syrian Archive, as well as assisting with analysis and technical guidance.
 
 The full report is available below:
+[Download the full report as .pdf](/assets/hama/Syrian_Archive_Hama_Report_Final.pdf)
