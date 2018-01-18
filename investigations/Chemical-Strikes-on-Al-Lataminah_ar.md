@@ -2,7 +2,7 @@
 layout: investigation.html
 title: Chemical Strikes on Al-Lataminah
 date: 2018-01-17
-desc: 25 & 30 March 2017: A Student-Led Open Source Investigation
+desc: تحقيق طلّابي مفتوح المصدر حول حادثتي الكيماوي في 25 و 30 مارس 2017
 image: /assets/cover-photo-web.width-800.png
 ---
 في 18 كانون الثاني - يناير 2018؛ نشرت وحدة تحقيقات حقوق الإنسان في جامعة بيركلي (HRC Lab)، أحد شركاء الأرشيف السوري، نتائج تحقيق مفتوح المصدر يتعلق بهجومين على بلدة اللطامنة في مارس 2017 استُخدم فيهما السلاح الكيماوي.
