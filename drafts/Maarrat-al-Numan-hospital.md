@@ -1,11 +1,20 @@
+---
+layout: investigation.html
+title: Targeting civilians in public market in Al Atarib
+date: 2018-01-23
+desc: 69 civilians dead as a result of airstrikes that attacked Atarib market
+image: /assets/investigations/atarib-25.png
+---
+
 # Al-Salaam Hospital is out of service now
 
 - Location: Maarat al-Numaan (Idlib governorate, Syria)
-- Claimed targets: Al-Salaam hospital 
+- Claimed targets: Al-Salaam hospital
 - Date: 03 January 2018
+- Attacks: 2 alleged airstrikes
 - Reported killed: 5 killed
-- Reported injured: ?? injured
-- Munitions identified: ??
+- Reported injured: 10 injured reported
+- Munitions identified: Not available
 - Potentially responsible: Russian or Syrian Air Force
 
 ![al-salaam](assets/al-salaam9.jpg)
@@ -32,7 +41,7 @@ Al Salaam Hospital is the only maternity hospital in Maarat al-Numan, providing 
 
 The Syrian Archive has done in-depth two open source analysis about targeting medical facilities in Idlib governorate. The first one was entitled [Medical Facilities Under Fire](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) which addressed targeting eight hospitals and medical points including [The national hospital of Marret Numan](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html) whose beneficiaries was estimated about 500,000 people. The second report was under the heading [Three Idlib Medical Facilities Attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) and provided overviews of visual content regarding attacks targeted some of Idlib's hospital and medical points.
 
-This report presents an in-depth analysis of the last attacks on al-Salaam hospital especially the last one which led to destroy it and becoming out of order. 
+This report presents an in-depth analysis of the last attacks on al-Salaam hospital especially the last one which led to destroy it and becoming out of order.
 
 ### De-escalation zone
 
@@ -111,6 +120,3 @@ The authors of this report have strived for accuracy and transparency of process
 With that said, while all efforts have been made to present our best understanding of alleged incidents, it is recognised that the publicly available information for specific events can at times be limited.
 
 If readers have new information about particular events; find an error in our work - or have concerns about the way we are reporting our data - please do engage with us. You can reach us at *info@syrianarchive.org*.
-
-
-
