@@ -1,7 +1,15 @@
+---
+layout: investigation.html
+title: "Chemical Strikes on Al-Lataminah"
+date: 2018-01-17
+desc: "25 & 30 March 2017: A Student-Led Open Source Investigation"
+image: /assets/investigations/hrc_cover.png
+---
+
 # Al-Salaam Hospital is out of service now
 
 - Location: Maarat al-Numaan (Idlib governorate, Syria)
-- Claimed targets: Al-Salaam hospital 
+- Claimed targets: Al-Salaam hospital
 - Date: 03 January 2018
 - Reported killed: 5 killed
 - Reported injured: ?? injured
@@ -32,7 +40,7 @@ Al Salaam Hospital is the only maternity hospital in Maarat al-Numan, providing 
 
 The Syrian Archive has done in-depth two open source analysis about targeting medical facilities in Idlib governorate. The first was entitled [Medical Facilities Under Fire](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) which addressed targeting eight hospitals and medical points including [The national hospital of Marret Numan](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-1.html) whose beneficiaries was estimated about 500,000 people. The second report was under the heading [Three Idlib Medical Facilities Attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) and provided overviews of visual content regarding attacks targeted some of Idlib's hospital and medical points.
 
-This report presents an in-depth analysis of the last attacks on al-Salaam hospital especially the last one which led to becoming out of order. 
+This report presents an in-depth analysis of the last attacks on al-Salaam hospital especially the last one which led to becoming out of order.
 
 ### De-escalation zone
 

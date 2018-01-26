@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: Three Idlib Medical Facilities Attacked
+title: "Three Idlib Medical Facilities Attacked"
 date: 2017-09-19
-desc: Three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked in airstrikes attributed to Syrian or Russian forces
+desc: "Three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked in airstrikes attributed to Syrian or Russian forces"
 image: /assets/cover-photo-web.width-800.png
 ---
 On 19 September 2017, just four days after the [Astana International meeting establishing Syria's De-Escalation Zones][1] in many parts of the country, and only days after[ the United Nations' Commission of Inquiry presented findings of a fact-finding][2] mission confirming the illegal use of chemical weapons and the systemic targeting of medical facilities by the Syrian government in April 2017, three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked in airstrikes attributed to Syrian or Russian forces.
