@@ -66,19 +66,17 @@ On 03 Jan 2018 between 11:38 and 12:00 AM (in Damascus local time), al-Salaam ho
 
 ![al-salaam01](assets/al-salaam01.png)
 
-![al-salaam01](assets/al-salaam00.png)
-
 The video includes an interview with one of the medical staff stated, who stated: "Russian aircraft targeted al-Salaam hospital after the Duhur prayer [noon prayer], the hospital is out of service now as a resulte of this attack, we have ten injuries, including three children."
 
 [Hadi Alabdallah also published a video](https://www.youtube.com/watch?v=Y6LrgHofQB4) showing the destruction in the incubators section of the hospital, see below:
 
 ![al-salaam01](assets/al-salaam02.png)
 
+![al-salaam01](assets/al-salaam11.jpg)
+
 In the same video, Alabdallah conducted an interview with one of the hospital doctors who stated: "We were in the operations room when we surprised by a huge explosion caused by two missiles. We went out immediately to check the casualties. We had five victims and a number of wounded, in addition to extreme physical damage."
 
-[RFS Media also published a video](https://www.youtube.com/watch?v=RH0g4bxbbAQ) showing the destruction in the front of the hospital, see below:
-
-![al-salaam01](assets/al-salaam03.png)
+[RFS Media also published a video](https://www.youtube.com/watch?v=RH0g4bxbbAQ) showing the destruction in the front of the hospital.
 
 The video also features an interview with a member of Syrian Civil Defence rescue team, who said: "The warplanes launched heaviest attacks on several areas in the southern countryside of Idlib. We are now in al-Salaam hospital in Maarat al-Numan, a civilian hospital, which was targeted by airstrikes, resulting in five victims and ten wounded".
 
@@ -94,10 +92,7 @@ The video contains an interview with one of Syrian Civil Defence members who sta
 
 ![al-salaam01](assets/outside01.jpg)
 ![al-salaam01](assets/outside02.jpg)
-![al-salaam01](assets/outside03.jpg)
-![al-salaam01](assets/outside04.png)
-![al-salaam01](assets/outside05.jpg)
-![al-salaam01](assets/outside06.jpg)
+![al-salaam01](assets/al-salaam12.jpg)
 
 [Edlib Media Center also published a video](https://www.youtube.com/watch?v=Ht_bbjEXEUg) showing the first moments after the attack, see below:
 
@@ -112,7 +107,7 @@ The Syrian Archive team was able to geolocate several landmarks and building usi
 ![al-salaam01](assets/B.png)
 ![al-salaam01](assets/A.png)
 
-We can compare the geolocation with the following satellite image taken from XXXX:
+We can compare the geolocation with the following satellite image taken from Digital Globe:
 
 ![al-salaam01](assets/BB2.png)
 
@@ -133,7 +128,9 @@ Hadi Alabdallah [published another video](https://www.youtube.com/watch?v=5LIEMU
 
 ![al-salaam](assets/al-salaam10.jpg)
 
-In the video, Hadi said "Although it's raining and the sky is full of clouds, but the Russian warplanes do not stop flying and bombing the areas of Idlib countryside,", returning to the weather forecast on 03 January we find XXXXXX
+In the same video, Hadi said "Although it's raining and the sky is full of clouds, but the Russian warplanes do not stop flying and bombing the areas of Idlib countryside," and returning to [the weather on 03 January](https://weather.com/en-GB/weather/monthly/l/SYXX0099:1:SY) we found that day was a rainy and cloudy:
+
+![al-salaam01](assets/al-salaam13.jpg)
 
 ## Flight Analysis Data
 
@@ -149,13 +146,9 @@ While there is no direct evidence available that one of the observed aircrafts w
 
 ## Some of killed civilians names and pictures:
 
-On his Facebook page, [Anas Al Marwai published a photo of a newborn babay girl](https://www.facebook.com/photo.php?fbid=544037762619528&set=a.115427455480563.1073741828.100010399271536&type=3&theater) named "Tal Firas Al Omar", said that she died an hour after she was born in Al Salaam Hospital, as a result of the bombing the area by Russian warplanes, see below:
+On his Facebook page, [Anas Al Marwai published a photo of a newborn babay girl](https://www.facebook.com/photo.php?fbid=544037762619528&set=a.115427455480563.1073741828.100010399271536&type=3&theater) named "Tal Firas Al Omar", said that she died an hour after she was born in Al Salaam Hospital, as a result of the bombing the area by Russian warplanes.
 
-![flight data](assets/7741873071796419369_n.jpg)
-
-Mukhils Kahttab, a citizen-based in Marrat al-Numan, [published a photo](https://www.facebook.com/photo.php?fbid=2018781351743914&set=a.2016163322005717.1073741829.100008362053367&type=3&theater) on his Facebook page to what he said it was "to his nephew, who killed as a result of the al-Salaam hospital targeting." see below:
-
-![flight data](assets/6907706745428609072_o.jpg)
+Mukhils Kahttab, a citizen-based in Marrat al-Numan, [published a photo](https://www.facebook.com/photo.php?fbid=2018781351743914&set=a.2016163322005717.1073741829.100008362053367&type=3&theater) on his Facebook page to what he said it was "to his nephew, who killed as a result of the al-Salaam hospital targeting.".
 
 The Syrian archives team could not find other victims's names for this attack.
 
