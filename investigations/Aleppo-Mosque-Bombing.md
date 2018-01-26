@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: CONFIRMED US Responsible for ‘Aleppo Mosque Bombing’
+title: "CONFIRMED US Responsible for ‘Aleppo Mosque Bombing"
 date: 2017-04-18
-desc: CONFIRMED US Responsible for ‘Aleppo Mosque Bombing’
+desc: "CONFIRMED US Responsible for ‘Aleppo Mosque Bombing"
 image: /assets/8j.width-800.png
 ---
 _This is a developing investigation, which will be updated as soon as there are new findings. We are currently waiting for a reaction from CENTCOM and the Pentagon with regards to our findings. Last update: March 18, 2017, 19:41 UTC._  
