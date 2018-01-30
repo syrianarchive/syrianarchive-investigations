@@ -29,10 +29,6 @@ Niko directs the technical systems for the [Syrian Archive's workflow and verifi
 
 Previously, he has worked with the Tactical Technology Collective and Global Witness. Niko is based in Berlin, Germany.
 
-[email](mailto:niko@syrianarchive.org)
-[gitlab](https://gitlab.com/nikonikoniko)
-[twitter](https://twitter.com/allthatisair)
-
 ### Tareef MD
 __Open source analyst__
 
