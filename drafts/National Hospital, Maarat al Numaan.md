@@ -33,9 +33,10 @@ Hadi Alabdallah, a citizen journalist, [published a video on his YouTube channel
 
 ![national06](assets/national06.jpg)
 
-in the video at 0:29 ,some body askes the Syria Civil Defence members while they were carrying babies "Where are you taking babeis?", some one can be heard answering "to the incubators, Syria Civil Defence taking them to the incubators".
+In the video at 0: 29, somebody askes the Syria Civil Defence members while they were carrying babies "Where are you taking babies?", someone can be heard answering "to the incubators, Syria Civil Defence taking them to the incubators."
 
-In his video at 0:49, Hadi Alabdallah said " a little while ago, Russian warplanes targeted the national hospital in Ma'arat al-Numan, which caused the hospital to be out of service, martyrs and wounded and trapped under the rubble as a result of targeting the National Hospital by these aircrafts. This hospital was containing large numbers of wounded, patients, and babies, and the babies who were inside the incubators were evacuated, some of them may be dying because they were evacuated under abnormal d harsh conditions. most parts of the hospital were damaged and destroyed. "
+In his video at 0:49, Hadi Alabdallah said " a little while ago, Russian warplanes targeted the national hospital in Ma'arat al-Numan, which caused the hospital to be out of service, martyrs and wounded and trapped under the rubble as a result of targeting the National Hospital by these aircrafts. This hospital was containing large numbers of wounded, patients, and babies, and the babies who were inside the incubators were evacuated, some of them may be dying because they were evacuated under abnormal d harsh conditions. Most parts of the hospital were damaged and destroyed."
+
 
 
 
