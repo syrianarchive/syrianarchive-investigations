@@ -24,5 +24,11 @@ Harasta has a population of 34,184 (2007 census) and considers as the northern g
 
 [The first demonstration video](https://www.youtube.com/watch?v=wZ-n0Os7qxw) we could find for Harasta back to 8 April 2011 which chanted 'The Syrian people will not be humiliated' and 'We want freedom.' Demonstrations [continued during 2012](https://www.youtube.com/watch?v=HZRuaThF6RU), while in April 2013 the Free Syrian Army took control of most of the city's neighborhoods, [in this video](https://www.youtube.com/watch?v=BRFw8CMNfkA), one of the FSA fighters in a field interview states that they have taken over 75% of the city. 
 
+After the Syrian regime was forced out of Harasta in April 2013 a local council was formed
+
+
 Harasta has been bombed by poison gas several times over the past years, such as [the strike on 20 October 2014](https://www.youtube.com/watch?v=jc4DGGySRCc) and [the one on 25 December 2014](https://www.youtube.com/watch?v=HGX5E3WgszQ) which resulting in thirty casualties.
 
+### The battle of "They Were Wronged"
+
+"They Were Wronged" is a military operation [launched by Syrian rebels](https://twitter.com/harastaa/status/930881389985222656) (mainly by Ahrar al-Sham), in mid-Novermber 2017, against positions of the Syrian Arab Army in Harasta. Ahrar al-Sham announced the launch of this battle as a response to the deteriorating humanitarian situation, and the repeated bombing of the regime on the villages and towns in Eastern Ghouta.
