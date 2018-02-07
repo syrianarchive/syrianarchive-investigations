@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Chemical Strikes on Al-Lataminah"
 date: 2018-01-17
-desc: "25 & 30 March 2017: A Student-Led Open Source Investigation"
+desc: "25 & 30 March 2017: Al Salam hospital attack"
 image: /assets/investigations/hrc_cover.png
 ---
 
