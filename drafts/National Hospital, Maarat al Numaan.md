@@ -1,13 +1,21 @@
-Location: IDLIB : Marret Numan
-Hospital: The national hospital of Marret Numan
-Beneficiaries: ~500,000 people
-Date: 4 February 2018
-Time: 
-Attacks: 
-Reported casualties: 
-Reported injured: 
-Munitions identified: 
-Potentially responsible: Russian air force
+---
+layout: investigation.html
+title: "Chemical Strikes on Al-Lataminah"
+date: 2018-01-17
+desc: "25 & 30 March 2017: A Student-Led Open Source Investigation"
+image: /assets/investigations/hrc_cover.png
+---
+
+- Location: IDLIB : Marret Numan
+- Hospital: The national hospital of Marret Numan
+- Beneficiaries: ~500,000 people
+- Date: 4 February 2018
+- Time:
+- Attacks:
+- Reported casualties:
+- Reported injured:
+- Munitions identified:
+- Potentially responsible: Russian air force
 
 On 04 February 2018 at 9:19pm (Damascus local time), a citizen reporter Anas Al Marwai who based in Marrat al-Numaan published [a video on his Facebook page shows](https://www.facebook.com/100010399271536/videos/559320804424557/) what he said "A huge explosion as a result of Russian warplanes missiles at the national hospital in Maarat al-Numan".
 
@@ -36,10 +44,3 @@ Hadi Alabdallah, a citizen journalist, [published a video on his YouTube channel
 In the video at 0: 29, somebody askes the Syria Civil Defence members while they were carrying babies "Where are you taking babies?", someone can be heard answering "to the incubators, Syria Civil Defence taking them to the incubators."
 
 In his video at 0:49, Hadi Alabdallah said " a little while ago, Russian warplanes targeted the national hospital in Ma'arat al-Numan, which caused the hospital to be out of service, martyrs and wounded and trapped under the rubble as a result of targeting the National Hospital by these aircrafts. This hospital was containing large numbers of wounded, patients, and babies, and the babies who were inside the incubators were evacuated, some of them may be dying because they were evacuated under abnormal d harsh conditions. Most parts of the hospital were damaged and destroyed."
-
-
-
-
-
-
-
