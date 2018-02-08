@@ -38,7 +38,7 @@ On 13 March 2016 al-Nusra Front and Jund al-Aqsa [attacked](https://apnews.com/5
 
 Al Salaam Hospital is a maternity hospital, which founded in 1995 in Maarat al-Numan. It contains all medical departments, including women's clinics, orthopedics, and general surgery.
 
-Before Jan 03 2018, the hospital treats approximately 8,000 to 9,000 patients per month. Last month, the [hospital delivered 674 babies](https://www.facebook.com/alsalam.Hospital2/photos/a.390735564429659.1073741860.182840021885882/870621066441104/?type=3), and the total number of beneficiaries from its services reached 8670 patients, including 1789 in the internal clinic, 3356 in the pediatrics clinic, 2668 in the women's clinics, and hundreds of other patients in different clinics:
+Before Jan 03 2018, the hospital treats approximately 8,000 to 9,000 patients per month. Last month, the [hospital delivered 674 babies](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/), and [the total number of beneficiaries](https://www.facebook.com/alsalam.Hospital2/photos/a.390735564429659.1073741860.182840021885882/870621066441104/?type=3) from its services reached 8670 patients, including 1789 in the internal clinic, 3356 in the pediatrics clinic, 2668 in the women's clinics, and hundreds of other patients in different clinics:
 
 ![al-salaam00.jpg](assets/al-salaam00.jpg)
 
