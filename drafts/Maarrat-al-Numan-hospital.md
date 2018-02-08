@@ -24,19 +24,23 @@ image: /assets/investigations/hrc_cover.png
 
 ## Background of Maarat al-Numaan
 
-Maarat al-Numaan (also known as al-Maarra) is a city located 33 km south of Idlib, with a population of about 58,008 (2004 census), and so it's considered as the second largest city in Idlib. Al-Maarra has a long history, and its museum has mosaics from Dead Cities, which date back to 1st to 7th centuries. _[link?]_
+Maarat al-Numaan (also known as al-Maarra) is a city located 33 km south of Idlib, with a population of about 58,008 (2004 census), and so it's considered as the second largest city in Idlib. Al-Maarra has a long history, and its [museum has mosaics](http://www.esyria.sy/eidleb/index.php?p=stories&category=ruins&filename=200801071848011) from Dead Cities, which date back to 1st to 7th centuries.
 
-[The first demonstration](https://www.youtube.com/watch?v=BZBbgO3ujm0) there took place On 25 March 2011 _[ask jaloud and sam]_, which called for freedom and Daraa, the city swiftly became an important hub for [organizing protests](https://www.youtube.com/watch?v=uxRnTy3-UCk). The tenth month of 2012 saw [the control of Free Syrian Army](https://www.youtube.com/watch?v=5aralZ54lXs) (FSA) on Maarat al-Numaan and since that date the city still out of the Syrian government control.
+The demonstrations in Maarat al-Numaan started with the beginning of the Syrian uprising, [this video shows](https://www.youtube.com/watch?v=ptgRwJ0tGq8) one of the first demonstrations there which date back to 24 April 2011, chanted for freedom and Daraa. In most demonstrations [the intervention of security forces](https://www.youtube.com/watch?v=Z_8a7FlJMAU) to break up them had been reported.
+
+Also the city has been seen [number of defection of military officers](https://www.youtube.com/watch?v=sp29oYjAGRQ), and swiftly became an important hub for [organizing protests](https://www.youtube.com/watch?v=mfLaZ1G3s20). The tenth month of 2012 saw [the control of Free Syrian Army](https://www.youtube.com/watch?v=5aralZ54lXs) (FSA) on Maarat al-Numaan and since that date the city still out of the Syrian government control.
 
 On 13 March 2016 al-Nusra Front and Jund al-Aqsa [attacked](https://apnews.com/5eefe3dd4c2045c3b2277fcb8276bda9) the Free Syrian Army’s Division 13 in Maarat al-Numaan, overrun their depots, killing 4 of combatants and wounding as many as 20 others during the battle. Two Division's storage facilities that filled with the U.S. manufactured anti-tank TOW missiles were surrendered to the al-Nusra. Ahmad al-Saaoud, a Syrian rebel commander, said the attackers had seized light weapons and ammunition from his group but had not managed to capture any TOW anti-tank missiles.
 
-Civilian opposition against al-Nusra continued for several months in al-Maarra, until 6 June 2016 where the clashes broke out again. On 9 June, [an agreement was signed](https://twitter.com/jenanmoussa/status/873483701140811776) between the Free Idlib Army and Tahrir al-Sham, which requires the Division 13 to be knocked down, the Free Idlib Army will also take over all the headquarters of Division 13 except one which will be managed by Tahrir al-Sham.
+[Civilian opposition against al-Nusra](http://stepagency-sy.net/archives/94904) continued for several months in al-Maarra, until 6 June 2016 where the clashes broke out again. On 9 June, [an agreement was signed](https://twitter.com/jenanmoussa/status/873483701140811776) between the Free Idlib Army and Tahrir al-Sham, which requires the Division 13 to be knocked down, the Free Idlib Army will also take over all the headquarters of Division 13 except one which will be managed by Tahrir al-Sham.
 
 ### Al-Salaam Hospital
 
 Al Salaam Hospital is a maternity hospital, which founded in 1995 in Maarat al-Numan. It contains all medical departments, including women's clinics, orthopedics, and general surgery.
 
-Before Jan 03 2018, the hospital treats approximately 8,000 to 9,000 patients per month. Last month, the [hospital delivered xxxx babies](https://www.facebook.com/alsalam.Hospital2/photos/a.390735564429659.1073741860.182840021885882/870621066441104/?type=3), and the total number of beneficiaries from its services reached 8670 patients, including 1789 in the internal clinic, 3356 in the pediatrics clinic, 2668 in the women's clinics, and hundreds of other patients in different clinics. _[add the picture of the facebook post here]_
+Before Jan 03 2018, the hospital treats approximately 8,000 to 9,000 patients per month. Last month, the [hospital delivered 674 babies](https://www.facebook.com/alsalam.Hospital2/photos/a.390735564429659.1073741860.182840021885882/870621066441104/?type=3), and the total number of beneficiaries from its services reached 8670 patients, including 1789 in the internal clinic, 3356 in the pediatrics clinic, 2668 in the women's clinics, and hundreds of other patients in different clinics:
+
+![al-salaam00.jpg](assets/al-salaam00.jpg)
 
 Al Salaam Hospital is the only maternity hospital in Maarat al-Numan, providing emergency services, medical consultations, as well as deliveries.
 
@@ -62,7 +66,7 @@ A zoomed in look at the Russian Ministry of Defense’s map (above) clearly show
 
 ## What Happened?
 
-On 03 Jan 2018 between 11:38 AM and 12:00 AM (in Damascus local time), al-Salaam hospital in Maarat al-Numan was attacked allegedly by Russian air force. The hospital was serving approximately 500,000 people. Al-Salaam hospital was previously attacked three times _[are there any videos or posts or photos about those attacks? if not we say we didn't find any open source information about those attacks]_ since 30 Dec 2017, addressed in a [report](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) published by the Syrian American Medical Society (SAMS) who supported the hospital. The report stated that the airstrikes 'killing five people, including a newborn baby girl and her father, and injuring many more'.
+On 03 Jan 2018 between 11:38 AM and 12:00 AM (in Damascus local time), al-Salaam hospital in Maarat al-Numan was attacked allegedly by Russian air force. The hospital was serving approximately 500,000 people. The Syrian American Medical Society (SAMS), who supported the hospital, published a  [report](https://www.sams-usa.net/press_release/maternity-hospital-maarat-al-numan-city-destroyed-following-three-attacks-four-days/) alleged that Al-Salaam hospital was previously attacked three times since 30 Dec 2017 [we couldn't find any open source information about those attacks]. The report stated that the last airstrikes 'killing five people, including a newborn baby girl and her father, and injuring many more'.
 
 [SAMS published a video](https://www.facebook.com/sams.arabic/videos/1209630115836875/) on their Facebook page showing the hospital from the inside immediately after the attack. In the evening SAMS [reported](https://www.facebook.com/sams.arabic/videos/1209757322490821/): "Al-Salaam hospital in Maarat al-Numan was becoming out of order, after violent attacks against it caused significant material damage, and its medical staff and patients were evacuated. A newborn baby girl was killed two hours later after she has been born in the hospital and another was injured as a result of the shelling."
 
@@ -136,7 +140,7 @@ Hadi Alabdallah [published another video](https://www.youtube.com/watch?v=5LIEMU
 
 ![al-salaam](assets/al-salaam10.jpg)
 
-In the same video, Hadi _[make sure you are using the same name]_ said "Although it's raining and the sky is full of clouds, but the Russian warplanes do not stop flying and bombing the areas of Idlib countryside," and returning to [the weather on 03 January](https://weather.com/en-GB/weather/monthly/l/SYXX0099:1:SY) we found that January 3rd was a rainy and cloudy:
+In the same video, Hadi said "Although it's raining and the sky is full of clouds, but the Russian warplanes do not stop flying and bombing the areas of Idlib countryside," and returning to [the weather on 03 January](https://weather.com/en-GB/weather/monthly/l/SYXX0099:1:SY) we found that January 3rd was a rainy and cloudy:
 
 ![al-salaam01](assets/al-salaam13.jpg)
 
@@ -147,6 +151,8 @@ To provide a further layer of verification, the Syrian Archive cross-referenced 
 ![flight data](assets/marrat-al-numan-3-jan.png)
 
 ![flight data](assets/marrat-al-numan-3-jan2.png)
+
+![flight data](assets/marrat-al-numan-3-jan3.png)
 
 Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify several flights potentially responsible for the attack (several fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting from 11:41 AM. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
 
