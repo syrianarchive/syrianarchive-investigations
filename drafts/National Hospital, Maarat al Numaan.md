@@ -11,7 +11,7 @@ image: /assets/investigations/hrc_cover.png
 - Beneficiaries: ~500,000 people
 - Date: 4 February 2018
 - Time:
-- Attacks: 10 airstrikes
+- Attacks: 6 airstrikes according to Osama Eido (Hospital x-rays department)
 - Reported casualties:
 - Reported injured:
 - Munitions identified:
