@@ -79,9 +79,9 @@ Also we can see some signs from inside the hospital, [a video from the Civil Def
 
 [In another video published](https://www.youtube.com/watch?v=IicAGAWhD_E) by Moaz Alshami a sign reading "Emergency Operation" can be seen:
 
-![outside08.jpg](assets/outside08.jpg)
+![national11](assets/national11.jpg)
 
-![outside09.jpg](assets/outside09.jpg)
+![national10](assets/national10.jpg)
 
 ## When did it happed?
 
