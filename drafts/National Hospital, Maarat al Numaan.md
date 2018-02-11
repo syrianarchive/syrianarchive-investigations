@@ -25,7 +25,7 @@ Idlib Health Directorate published [a post on their Facebook page](https://www.f
 
 ![national07](assets/national07.jpg)
 
-Syrian Civil Defense in Idlib [published photos](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1562499310515786) in their Facebook page at 10:41pm saying "Civil Defense teams evacuated the patients from the national hospital in Ma'arat al-Nu'man to nearby hospitals after the hospital was targeted with 4 air strikes.", the photos show destructions as aresult of the attacks as well as evacuating injured people. see below:
+Syrian Civil Defense in Idlib [published photos](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1562499310515786) in their Facebook page at 10:41 pm saying "Civil Defense teams evacuated the patients from the national hospital in Ma'arat al-Nu'man to nearby hospitals after the hospital was targeted with four air strikes.", the photos show destructions as aresult of the attacks as well as evacuating injured people. See below:
 
 ![national01](assets/national06.jpg)
 
@@ -34,13 +34,13 @@ On their YouTube channel Civil Defense published several videos show fire-fighti
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V4Nt8JWXVcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [A second video shows](https://www.youtube.com/watch?v=de7N2n7eYJc) rescuing newborn child, the 
-paramedic asked someone to bring him a Laryngoscope then after several seconds another man come and said "go to the car now, the tanks might explode.", the paramedic toke the child and went to a car.
+paramedic asked someone to bring him a Laryngoscope then after several seconds another man came and said "go to the car now, the tanks might explode.", the paramedic took the child and went to a car.
 
 [Another video presents a summary](https://www.youtube.com/watch?v=Q4DboRpV9L0) of what happened, says the hospital is out of service now and shows stills from incubators room. below a still for one incubator's label:
 
 ![national08.png](assets/national08.png)
 
-The label return to baby called Abdullah Amir Sarjawi, 13 days old, the date of his admission was 04 February, and his parents live in Aleppo.
+The label return to a baby called Abdullah Amir Sarjawi, 13 days old, the date of his admission was 04 February, and his parents live in Aleppo.
 
 Hadi Alabdallah, a citizen journalist, [published a video on his YouTube channel](https://www.youtube.com/watch?v=HcMurYLYlEo) showing destruction inside the hospital, injured including elderly men and women, fires outside of the hospital as a result of the attack, as well as the evacuation of babies and injured from the hospital by the Syria Civil Defense members. See still below:
 
@@ -50,15 +50,15 @@ In the video at 0:29, somebody asks the Syria Civil Defense members while they w
 
 In the same video at 0:49, Hadi Alabdallah said "a little while ago, Russian warplanes targeted the national hospital in Ma'arat al-Numan, which caused the hospital to be out of service, martyrs, wounded and trapped under the rubble as a result of targeting the National Hospital by these aircrafts. This hospital was containing large numbers of wounded, patients, babies. The babies who were inside the incubators were evacuated, some of them may be dying because they were evacuated under abnormal harsh conditions. Most parts of the hospital were damaged and destroyed."
 
-At 1:47 said "Many medical facilities in Idlib have been attacked. The airforce is flying now over us and maybe it'll target this area in any moment because this hospital was attacked with more than 10 airstrikes so maybe it gets targeted again."
+At 1:47 said "Many medical facilities in Idlib have been attacked. The airforce is now flying over us and maybe it'll target this area in any moment because this hospital was attacked with more than ten airstrikes so maybe it gets targeted again."
 
 Another citizen reporter Moaz Alshami also published a video in front of the hospital shows Civil defense team were trying to put out fires, said: "After the massacre carried out by Russian aircrafts in Kafr Nabl city, the National Hospital in Maarat al-Numan is now targeting more than six air strikes. It is the only hospital operating here. It contains dozens of injured people who were injured in Kafr Nabl and taken here".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fRHSrvXJLDs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-After that Alshami enter the hospital and said: "The Civil Defense evacuate the incubators. A few days ago, a massacre in Kafr Nabl and before it in Khan al-Sabeel and before it in Maazran, every day there is a new targeting of civilians."
+After that Alshami entered the hospital and said: "The Civil Defense evacuate the incubators. A few days ago, a massacre in Kafr Nabl and before it in Khan al-Sabeel and before it in Maazran, every day there is a new targeting of civilians."
 
-At 4:31, Moaz Alshami conducted an interview with two women standing beside an injured. One of women said: "We are from Khan Sheikhan. We were in the hospital there, when it targeted. We came here and now this hospital has been targeted too. Where are we going?"
+At 4:31, Moaz Alshami conducted an interview with two women standing beside an injured. One of the women said: "We are from Khan Sheikhan. We were in the hospital there, when it targeted. We came here and now this hospital has been targeted too. Where are we going?"
 
 The Common Syrian Observatory published a [short video show two newborn babies](https://www.youtube.com/watch?v=GAB-hichb5A) during their transfer.
 
@@ -66,12 +66,17 @@ The Common Syrian Observatory published a [short video show two newborn babies](
 
 ## Where did it happen?
 
-The Syrian Archive team was able to match several objects between Moaz Alshami's video and Smart's one which confirms they captured in the same place, see below:
+The Syrian Archive team was able to match several objects between Moaz Alshami's video and Smart agency's one which confirms they captured in the same place, see below:
 
 ![national08](assets/national08.jpg)
 ![national09](assets/national09.jpg)
 
-Also we can see some signs from inside the hospital, [a video from the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women. It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
+Also, we were able to geolocate several landmarks and objects using the Smart agency's video and a satellite image for the National hospital in Maarat al-Numaan, which confirming that it was the targeted place, see below:
+
+![national12.jpg](assets/national12.jpg)
+![national13.jpg](assets/national13.jpg)
+
+Also, we can see some signs from inside the hospital, [a video from the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0) shows evacuation process for children and women. It also shows two Civil Defense members walking in a hospital corridor, at 1:19 of the video a banner can be seen on the floor says: "Children's Division", see below:
 
 ![national02](assets/national02.jpg)
 
@@ -83,5 +88,5 @@ Also we can see some signs from inside the hospital, [a video from the Civil Def
 
 ![national10](assets/national10.jpg)
 
-## When did it happed?
+## When did it happened?
 
