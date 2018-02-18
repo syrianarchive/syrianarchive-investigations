@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Bombing Al Salam Medical facility"
-date: 2018-01-17
+date: 2018-02-17
 desc: "An investigation about attacking Syrian hospitals"
 image: /assets/investigations/hrc_cover.png
 ---

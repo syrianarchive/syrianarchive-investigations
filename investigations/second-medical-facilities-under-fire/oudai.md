@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "Oudai hospital attack"
+title: "Bombing the Oudai hospital"
 date: 2018-02-13
 desc: "joint report of medical facilities attacks in Idlib"
 image: /assets/investigations/hrc_cover.png
