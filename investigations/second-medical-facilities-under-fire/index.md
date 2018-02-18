@@ -30,7 +30,7 @@ Now, six months later, little has changed. Hospitals remain at the frontlines of
 
 The first week of February 2018 has shown a flurry of media attention focused on potential Russian involvement in the bombing of civilians in Syria. In response, the Russian Embassy to the United Kingdom [published a press release](https://www.rusemb.org.uk/fnapr/6391) on 15 Feb. 2018 claiming a misinformation campaign by "Western media." The press release claims "the misinformation comes down to allegations that the Russian Aerospace Forces are striking rebel strongholds in Idlib, killing civilians and damaging civilian infrastructure, including medical institutions." See below:
 
-[Ministry statement](/assets/russian_embassy_press_release_15022018.png)
+![Ministry statement](/assets/russian_embassy_press_release_15022018.png)
 
 This statement, implies (though does not outrightly deny) that Russian airforces are not responsible for the bombing of civilian infrastructure, including hospitals and medical facilities. Later, the same press release states that "on February 3 the Russian Su-25 assault aircraft piloted by Major Roman Filippov...was monitoring compliance with the ceasefire in the Idlib de-escalation zone" at the time his plane was shot down.
 
