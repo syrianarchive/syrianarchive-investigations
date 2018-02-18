@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: Data Ethics - Medical Facilities Under Fire
+title: "Data Ethics - Medical Facilities Under Fire"
 date: 2018-02-17
-desc: An investigation about attacking Syrian hospitals
+desc: "An investigation about attacking Syrian hospitals"
 image: /assets/cover-photo-web.width-800.png
 ---
 

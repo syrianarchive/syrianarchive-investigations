@@ -5,8 +5,6 @@ date: 2018-02-17
 desc: "An investigation about attacking Syrian hospitals"
 image: /assets/investigations/hrc_cover.png
 ---
-# Al-Salaam Hospital is out of service
-
 - Location: Maarat al-Numaan (Idlib governorate, Syria)
 - Claimed targets: Al-Salaam hospital
 - Date: 03 January 2018
