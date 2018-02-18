@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Bombing the national hospital"
 date: 2018-02-17
-desc: "joint report of medical facilities attacks"
+desc: "An investigation about attacking Syrian hospitals"
 image: /assets/investigations/hrc_cover.png
 ---
 

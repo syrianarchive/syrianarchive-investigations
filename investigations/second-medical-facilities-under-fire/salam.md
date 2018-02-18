@@ -2,14 +2,9 @@
 layout: investigation.html
 title: "Bombing Al Salam Medical facility"
 date: 2018-01-17
-<<<<<<< HEAD
-desc: ""
-=======
-desc: "3 January 2018: Al Salam hospital attack"
->>>>>>> 4dd5dc47f4484cffb66d5204d540f7a1dcffa0ae
+desc: "An investigation about attacking Syrian hospitals"
 image: /assets/investigations/hrc_cover.png
 ---
-
 # Al-Salaam Hospital is out of service
 
 - Location: Maarat al-Numaan (Idlib governorate, Syria)
