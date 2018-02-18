@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "قصف مستشفى عديّ"
 date: 2018-02-17
-desc: "تقرير مشترك حول الهجمات على المرافق الطبية في ادلب"
+desc: "مرافق صحية تحت النار"
 image: /assets/investigations/hrc_cover.png
 ---
 

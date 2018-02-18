@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "الهجوم على مشفى الأورينت"
 date: 2018-02-13
-desc: "تقرير مُشترك عن الهجمات التي استهدفت المرافق الطبيّة في إدلب"
+desc: "مرافق صحية تحت النار"
 image: /assets/cover-photo-web.width-800.png
 ---
 
