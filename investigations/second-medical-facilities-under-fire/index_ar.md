@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "بعد ستّة أشهر!"
 date: 2018-02-17
-desc: "منشآت طبية تحت الهجوم"
+desc: "مرافق صحية تحت النار"
 image: /assets/cover-photo-web.width-800.png
 ---
 

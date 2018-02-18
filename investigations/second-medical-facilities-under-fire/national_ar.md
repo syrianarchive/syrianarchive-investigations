@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "قصف المشفى الوطني"
 date: 2018-02-17
-desc: "تقرير مشترك حول الهجمات على المرافق الطبية"
+desc: "مرافق صحية تحت النار"
 image: /assets/investigations/hrc_cover.png
 ---
 
