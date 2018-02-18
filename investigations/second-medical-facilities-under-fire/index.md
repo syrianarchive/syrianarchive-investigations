@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: Six Months Later
-date: 2018-01-17
+date: 2018-02-17
 desc: Medical Facilities Under Fire
 image: /assets/cover-photo-web.width-800.png
 ---

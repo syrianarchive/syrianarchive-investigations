@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: Methodology - Medical Facilities Under Fire
-date: 2018-01-17
+date: 2018-02-17
 desc: An investigation about attacking Syrian hospitals
 image: /assets/cover-photo-web.width-800.png
 ---
