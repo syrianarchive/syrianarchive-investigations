@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Methodology"
 date: 2018-02-17
 desc: "An investigation about attacking Syrian hospitals"
-image: /assets/cover-photo-web.width-800.png
+image: /assets/national15.jpg
 ---
 
 This report took an interdisciplinary approach towards investigating attacks on medical facilities in Idlib during January and February 2018. In the report, the authors have included a variety of sources for analysis and investigation, which each have their own respective methodologies. Specific methodologies are provided in the following pages:

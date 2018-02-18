@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Bombing Al Salam Medical facility"
 date: 2018-02-17
 desc: "An investigation about attacking Syrian hospitals"
-image: /assets/investigations/hrc_cover.png
+image: /assets/anas-alsalam.jpg
 ---
 - Location: Maarat al-Numaan (Idlib governorate, Syria)
 - Claimed targets: Al-Salaam hospital
@@ -12,7 +12,7 @@ image: /assets/investigations/hrc_cover.png
 - Reported injured: 10 injured, as reported by Thiqa News Agency
 - Potentially responsible: Russian or Syrian Air Force
 
-![al-salaam](assets/al-salaam09.jpg)
+![al-salaam](/assets/al-salaam09.jpg)
 
 ## Background of Maarat al-Numaan
 
