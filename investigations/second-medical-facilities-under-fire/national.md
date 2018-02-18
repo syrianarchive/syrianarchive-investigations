@@ -90,12 +90,19 @@ The following day, 5 February 2018, the Syrian American Medical Society (SAMS) -
 The Syrian Archive team was able to match several objects between Alshami's video and SMART News Agency's video which confirms both documented the same location. See below:
 
 ![national08](/assets/national08.jpg)
+
+Other objects were identified from a different angle of the same location using the same videos above:
+
 ![national09](/assets/national09.jpg)
+
+We also identified objects that were shown in Smart News Agency's morning video about this incident:
+
+![national13.jpg](/assets/national13.jpg)
 
 The Syrian Archive team was also able to geolocate several landmarks and objects using SMART News Agency's video and a satellite image for the National Hospital in Maarat al-Numaan, confirming it was the same location. See below:
 
 ![national12.jpg](/assets/national12.jpg)
-![national13.jpg](/assets/national13.jpg)
+
 
 Seems from inside the hospital were also able to be cross referenced. In a video [from the Civil Defense](https://www.youtube.com/watch?v=d6oF9r2oFv0), the evacuation process for children and women can clearly be seen. It also documents two Syrian Civil Defense members walking in a hospital corridor. At 1:19 of the video, a banner can be seen on the floor that states: "Children's Division." See below:
 
@@ -135,11 +142,7 @@ The Syrian Archive was unable to gather additional information regarding munitio
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 19:00 and 22:00, the period directly before and after the reported attack between 20:45 and 20:51 as was claimed by media activists. See below:
 
-[//]: <> (Start Tableau embed code)
-
-<div class='tableauPlaceholder' id='viz1518695673715' style='position: relative'><noscript><a href='#'><img alt='Observed flight data, Idlib province 4 Feb. 2018 (20:00-22:00) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;04&#47;04022018_marrat_al_numan&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='04022018_marrat_al_numan&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;04&#47;04022018_marrat_al_numan&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1518695673715');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
-[//]: <> (End tableau embed code)
+<iframe height="800" src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/04022018_marrat_al_numan/Sheet1;:embed=y&amp;:display_count=yes" width="800"></iframe>
 
 Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify several flights potentially responsible for the attack (several fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting from 11:41 AM. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
 
