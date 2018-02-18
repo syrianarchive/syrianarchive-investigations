@@ -3,7 +3,7 @@ layout: investigation.html
 title: "الهجوم على مشفى الأورينت"
 date: 2018-02-13
 desc: "مرافق صحية تحت النار"
-image: /assets/cover-photo-web.width-800.png
+image: /assets/Impact-hospital.jpg
 ---
 
 - الموقع: إدلب : كفرنبل

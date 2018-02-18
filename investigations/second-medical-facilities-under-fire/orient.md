@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Bombing the Orient hospital"
 date: 2018-02-13
 desc: "joint report of medical facilities attacks in Idlib"
-image: /assets/investigations/hrc_cover.png
+image: /assets/Impact-hospital.jpg
 ---
 
 - Location: IDLIB : Kafranbel
