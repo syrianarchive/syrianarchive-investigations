@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: Errors, Corrections, and Feedback - Medical Facilities Under Fire
+title: "Errors, Corrections, and Feedback"
 date: 2018-02-17
-desc: An investigation about attacking Syrian hospitals
+desc: "An investigation about attacking Syrian hospitals"
 image: /assets/cover-photo-web.width-800.png
 ---
 
