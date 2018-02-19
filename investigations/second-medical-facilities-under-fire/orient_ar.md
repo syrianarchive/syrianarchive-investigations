@@ -92,7 +92,7 @@ image: /assets/Impact-hospital.jpg
 
 <iframe height="800" src="https://public.tableau.com/views/05022018_Kafranbel/Sheet1?:showVizHome=no&:embed=y&:display_count=yes" width="800"></iframe>
 
-https://public.tableau.com/views/05022018_Kafranbel/Sheet1?:showVizHome=no&:embed=y&:display_count=yes
+[View full visualisation](https://public.tableau.com/views/05022018_Kafranbel/Sheet1?:showVizHome=no&:embed=y&:display_count=yes)
 
 من خلال مقارنة الرحلات الجوية المرصودة، نوع الطائرات المرصودة، الوقت الذي رُصدت به، ووجهات هذه الرحلات، ومقارنة هذه البيانات مع المواقع الجغرافية المقدّمة في الخطوات السابقة؛ تمكّن الأرشيف السوري من تحديد العديد من الرحلات المحتملة المسؤولة عن هذا الهجوم (عدّة طائرات روسية ثابتة الجناح) حيث شوهدت هذه الطائرات تُحلق مباشرة حول الموقع الجغرافي للهجوم بدءًا من الساعة 09:00 صباحًا. وقد خلصت التحقيقيات السابقة إلى أن الطيران الدائري في السماء عادةً ما يُشير إلى محاولة الاستحواذ على الهدف أو التحضير لهجوم وشيك.
 

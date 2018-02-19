@@ -109,7 +109,7 @@ To provide a further layer of verification, the Syrian Archive cross-referenced 
 
 <iframe height="800" src="https://public.tableau.com/views/29012018_saraqib/Sheet1?:showVizHome=no&:embed=y&:display_count=yes" width="800"></iframe>
 
-https://public.tableau.com/views/29012018_saraqib/Sheet1?:showVizHome=no&:embed=y&:display_count=yes
+[View full visualisation](https://public.tableau.com/views/29012018_saraqib/Sheet1?:showVizHome=no&:embed=y&:display_count=yes)
 
 Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify several flights potentially responsible for the attack (several fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting from 7:45 AM. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
 
