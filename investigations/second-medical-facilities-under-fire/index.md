@@ -57,3 +57,13 @@ By examining a variety of sources of information for each attack, the Syrian Arc
 To cross-reference findings from visual content, flight observation data was provided to the Syrian Archive by an organisation employing a well-developed network of spotters. Following an analysis of the visual content and flight observation data, the Syrian Archive identified excerpts of statements from witnesses and victims collected by Syrians for Truth and Justice combined them with findings from their earlier analysis to provide corroborating witness statements for each attack.
 
 Detailed overviews of each incident are provided in the following pages. An overview of the visual content is provided first, followed by an overview of the corroborating flight observation data and witness statements. All times provided are in Damascus local time, and in 24-hour format. Prior to publication, consent was acquired with those interviewed (e.g. medical workers, facility managers, and Civil Defense volunteers) regarding the public sharing of information regarding attacks.
+
+- [Bombing the Orient Hospital](orient)
+- [Bombing the Oudai Hospital](oudai)
+- [Bombing the National Hospital](national)
+- [Bombing the Al Salam Medical Facility](salam)
+
+- [About the Authors](about-the-authors)
+- [Data Ethics](data-ethics)
+- [Errors, Corrections, and Feedback](errors)
+- [Methodology](methods)
