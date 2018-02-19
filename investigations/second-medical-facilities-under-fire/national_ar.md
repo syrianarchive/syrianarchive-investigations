@@ -3,7 +3,7 @@ layout: investigation.html
 title: "قصف المشفى الوطني"
 date: 2018-02-19T00:06:18.055Z
 desc: "مرافق صحية تحت النار"
-image: /assets/national15.jpg
+image: /assets/national09.jpg
 ---
 
 - الموقع: محافظة ادلب: معرة النعمان
