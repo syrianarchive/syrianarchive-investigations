@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "About the Authors - Medical Facilities Under Fire"
-date: 2018-02-17
+date: 2018-02-19T00:08:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
 image: /assets/cover-photo-web.width-800.png
 ---
