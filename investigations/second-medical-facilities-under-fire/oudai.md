@@ -81,7 +81,7 @@ The Syrian Archive team created a Panoramic image using the [video of Sham News 
 
 ## Munitions identified
 
-Sham News Network published a video showing remnants of a munition used during the potato market attack. The Syrian Archive has been unable to identify exact location or type of munition used. See below:
+Sham News Network published a video showing remnants of a munition that is claims was used during the potato market attack. The remains of the rocket indicates it would have been launched by a [BM-30 multiple rocket launcher](https://twitter.com/EliotHiggins/status/563393370413105153), a type of surface to surface rocket launcher. If this was the munition used in the attack, it would contradict claims the attack was launched from the air.
 
 ![weapon](/assets/weapon.png)
 
