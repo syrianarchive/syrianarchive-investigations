@@ -8,6 +8,8 @@ image: /assets/orient07.jpg
 
 ## Introduction
 
+In the period between 03 January 2018 and 05 February 2018 4 hospitals in Idleb governorate well within the De-Escalation Zones were attacked by airstrikes that visual, witness statements, and flight observation data attributes to Syrian or Russian forces. Three of these hospitals were attacked within the span of a week.
+
 In July 2017, the Syrian Archive, in partnership with [Syrians for Truth and Justice](https://stj-sy.com/en), [Justice for Life](http://jfl.ngo/), [Bellingcat](https://www.bellingcat.com/) and a flight observation organisation, published a report titled [Medical Facilities Under Fire: Systemic Attacks during April 2017 on Idlib Hospitals.](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/) Detailed reports of eight hospitals or medical facilities targeted within one month in one province (Idlib) were provided.
 
 Findings in this previous report suggest that in April 2017 Syrian and Russian armed forces were responsible for the eight attacks on Syrian hospitals and healthcare centres - facilities in Idlib serving a combined 1.3 million people (a beneficiary group larger than the population of Brussels), as reported in witness statements as well as by the managers of those medical facilities. Subsequently, [the United Nations' Commission of Inquiry presented findings of a fact-finding](http://webtv.un.org/live-now/watch/commission-of-inquiry-on-the-syrian-arab-republic-press-conference/4473491386001) mission confirmed the systemic targeting of medical facilities by the Syrian government in April 2017, as well as the illegal use of chemical weapons.
@@ -24,7 +26,7 @@ These areas included Idlib province, some parts of northern Homs province, as we
 
 Just four days after the [Astana International meeting establishing Syria's De-Escalation Zones](http://www.aljazeera.com/news/2017/09/final-de-escalation-zones-agreed-astana-170915102811730.html) in many parts of the country, [three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) in airstrikes attributed to Syrian or Russian forces on a single day.
 
-Now, six months later, little has changed. Hospitals remain at the frontlines of the Syrian conflict, and attacks against medical facilities are regular. Within a four week period, four additional Idlib hospitals, well within the De-Escalation Zones, were attacked by airstrikes that visual, witness statements, and flight observation data attributes to Syrian or Russian forces. Three of these hospitals were attacked within the span of a week.
+Now, six months later, little has changed. Hospitals remain at the frontlines of the Syrian conflict, and attacks against medical facilities are regular.
 
 ### Russian Ministry Statement of Denial
 
