@@ -12,9 +12,6 @@ image: /assets/Impact-hospital.jpg
 - Date of the attack: 5 February 2018
 - Time: 08:45 am
 - Attacks: 4 airstrikes
-- Reported casualties:
-- Reported injured:
-- Munitions identified:
 - Potentially responsible: Russian or Syrian air force
 - Date of previous attacks on this hospital: 19/09/2017
 
