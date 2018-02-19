@@ -33,7 +33,7 @@ image: /assets/Impact-hospital.jpg
 
 ويُظهر فيديو مُلقتط أثناء وبعد هجوم 5 فبراير 2018 بوضوح أن المشفى استهدف بشكل مباشر، فيديو آخر مُحدّد الموقع الجغرافي التقط صورًا للقذيفة أثناء سقوطها جوًا واستهدافها القسم الشرقي من مبنى المشفى. انظر أدناه:
 
-<iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="560" height="315" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26xo5DvcJlJ73tTsQ"></a></p>
+<iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="560" height="315" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![moment of attack](/assets/Impact-hospital.jpg)
 
@@ -71,6 +71,7 @@ image: /assets/Impact-hospital.jpg
 [نشر معاذ الشامي فيديو](https://www.youtube.com/watch?v=_dJphbuMm1E) يُظهر ثلاثة طوابق متضرّرة نتيجة الذخيرة المُستخدمة بالهجوم على المشفى.
 
 ![3-floors](/assets/internal-damage-3-floors.png)
+
 
 ### متى حدث؟
 
