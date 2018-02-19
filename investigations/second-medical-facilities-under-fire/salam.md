@@ -99,10 +99,7 @@ At 11:48 AM on 03 January, a citizen reporter, based in Maarat al-Numaan, [Anas 
 
 ![al-salaam01](/assets/anas-alsalam.jpg)
 
-Another Citizen reporter Mutie Jalal also published a tweet at 11:55 AM about the attack, stating: "Two Russian airstrikes on Sarakib and one on Maarat al-Numaan and another one on Muharram."
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="ar" dir="rtl">غارتين من الطيران الروسي على <a href="https://twitter.com/hashtag/%D8%B3%D8%B1%D8%A7%D9%82%D8%A8?src=hash&amp;ref_src=twsrc%5Etfw">#سراقب</a> وغارة على <a href="https://twitter.com/hashtag/%D9%85%D8%B9%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%B9%D9%85%D8%A7%D9%86?src=hash&amp;ref_src=twsrc%5Etfw">#معرة_النعمان</a> وأخرى على <a href="https://twitter.com/hashtag/%D9%85%D8%B9%D8%B1_%D8%AD%D8%B1%D9%85%D8%A9?src=hash&amp;ref_src=twsrc%5Etfw">#معر_حرمة</a></p>&mdash; مطيع جلال (@shamalmjd1) <a href="https://twitter.com/shamalmjd1/status/948492991605411840?ref_src=twsrc%5Etfw">January 3, 2018</a></blockquote>
-
+Another Citizen reporter Mutie Jalal also [published a tweet](https://twitter.com/shamalmjd1/status/948492991605411840?ref_src=twsrc%5Etfw) at 11:55 AM about the attack, stating: "Two Russian airstrikes on Sarakib and one on Maarat al-Numaan and another one on Muharram."
 
 Hadi Alabdallah [published another video](https://www.youtube.com/watch?v=5LIEMU7tMIQ) showing the destruction of shops around the hospital. See below:
 
