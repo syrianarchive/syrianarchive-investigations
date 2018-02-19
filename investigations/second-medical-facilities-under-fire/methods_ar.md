@@ -158,3 +158,9 @@ image: /assets/cover-photo-web.width-800.png
 ### ج) النشر
 
 بمجرد التحقق من المحتوى البصري ومراجعته، يتم نشره بعد ذلك على قاعدة بيانات الأرشيف السوري وجعله متاحاً للعموم بصيغة حرّة ومفتوحة المصدر. وتضمن التقارير المنتظمة حول المحتوى البصري المتحقق منه أن تكون حلقة التغذية الراجعة بين الأرشيف السوري والمصادر التي قامت بتصوير الفيديو مغلقة. ويسمح ذلك للأرشيف السوري بإضافة قيمة للمحتوى البصري الذي تم حفظه والتحقق منه وتحليله بهدف تدعيم حملات المناصرة مباشرةً ولأغراض المساءلة والعدالة لاحقاً.
+
+[1]: http://www.edrm.net/frameworks-and-standards/edrm-model/
+[2]: /assets/workflow.png
+[3]: https://syrianarchive.org/en/tools_methods/methodology/metadata_schema/
+[4]: https://gitlab.com/sugarcube/sugarcube
+[5]: https://syrianarchive.org/p/blog/
