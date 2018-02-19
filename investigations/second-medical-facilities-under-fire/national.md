@@ -2,13 +2,8 @@
 layout: investigation.html
 title: "Bombing the National Hospital"
 date: 2018-02-19T00:06:18.055Z
-<<<<<<< HEAD
 desc: "An investigation about attacking Syrian hospitals"
 image: /assets/national09.jpg
-=======
-desc: "Joint report of medical facilities attacked in Idlib"
-image: /assets/investigations/hrc_cover.png
->>>>>>> 35106f474fcba44efab1eb4c6bb28cbf2b1b9b5e
 ---
 
 - Location: IDLIB : Maarat al-Numan
