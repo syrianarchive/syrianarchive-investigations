@@ -140,7 +140,7 @@ image: /assets/national09.jpg
 
 <iframe height="800" src="https://public.tableau.com/views/04022018_marrat_al_numan/Sheet1?:showVizHome=no&:embed=y&:display_count=yes" width="800"></iframe>
 
-[View full visualisation](https://public.tableau.com/views/04022018_marrat_al_numan/Sheet1?:showVizHome=no&:embed=y&:display_count=yes)
+[عرض الإظهار البصري كاملًا](https://public.tableau.com/views/04022018_marrat_al_numan/Sheet1?:showVizHome=no&:embed=y&:display_count=yes)
 
 من خلال مقارنة الرحلات الجوية المرصودة، نوع الطائرات المرصودة، الوقت الذي رُصدت به، ووجهات هذه الرحلات، ومقارنة هذه البيانات مع المواقع الجغرافية المقدّمة في الخطوات السابقة؛ تمكّن الأرشيف السوري من تحديد العديد من الرحلات المحتملة المسؤولة عن هذا الهجوم (عدّة طائرات روسية ثابتة الجناح) حيث شوهدت هذه الطائرات تُحلق فوق المنطقة الجغرافية للهجوم بدءًا من الساعة 11:41 صباحًا. وقد خلصت التحقيقيات السابقة إلى أن الطيران الدائري في السماء عادةً ما يُشير إلى محاولة الاستحواذ على الهدف أو التحضير لهجوم وشيك.
 
