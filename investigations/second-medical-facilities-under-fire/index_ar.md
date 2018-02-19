@@ -3,7 +3,7 @@ layout: investigation.html
 title: "بعد ستّة أشهر!"
 date: 2018-02-17
 desc: "مرافق صحية تحت النار"
-image: /assets/Impact-hospital.jpg
+image: /assets/orient07.jpg
 ---
 
 ## مُقدمة
