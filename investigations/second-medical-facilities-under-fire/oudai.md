@@ -75,7 +75,7 @@ The bomb landed in front of the main hospital building, leaving a large crater a
 
 ## Where did it happen?
 
-The Syrian Archive team created a Panoramio image using the [video of Sham News Network](https://www.youtube.com/watch?v=9H0OWyzd8jo&t=1s) which was published after the attack. The hospital building and another building were identified through comparing the image with Google earth satellite imagery. See below:
+The Syrian Archive team created a Panoramic image using the [video of Sham News Network](https://www.youtube.com/watch?v=9H0OWyzd8jo&t=1s) which was published after the attack. The hospital building and another building were identified through comparing the image with Google earth satellite imagery. See below:
 
 ![geolocating Oudai Hospital](/assets/oudai-geolocation-1.jpg)
 
