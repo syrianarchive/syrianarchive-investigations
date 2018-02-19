@@ -38,7 +38,9 @@ On 5 February 2018, local sources including [Muaz Al Shami reported](https://you
 
 [Footage filmed during](https://www.youtube.com/watch?v=WzFAjvqC9uw&list=PLPC0Udeof3T4QmV4f9tEhDmQzr2Z_vTKZ&index=1) and after the 5 February 2018 attack clearly shows the hospital was attacked directly, with one [geolocated video](https://www.youtube.com/watch?v=WzFAjvqC9uw) capturing a bomb as it fell through the air and struck the east side of the hospital building. See below:
 
-<iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="560" height="315" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26xo5DvcJlJ73tTsQ"></a></p>
+<iframe src="https://giphy.com/embed/26xo5DvcJlJ73tTsQ" width="560" height="315" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<p><a href="https://giphy.com/gifs/26xo5DvcJlJ73tTsQ"></a></p>
 
 ![moment of attack](/assets/Impact-hospital.jpg)
 
@@ -74,10 +76,13 @@ Edlib Media Center [published video](https://www.youtube.com/watch?v=JEKPnfVrVQE
 
 Muaz Al Shami [published a video](https://www.youtube.com/watch?v=_dJphbuMm1E) showing three floors damage as a result of the munition that targeted the building.
 
+
 ![3-floors](/assets/internal-damage-3-floors.png)
 
 
+
 ## When did it happen?
+
 
 Witness statements of the attack was provided by Syrians for Truth and Justice.One of the nurses, who was at Orient Hospital at the time of the attack, spoke to Syrians for Truth and justice about the details of the incident, stating:
 
