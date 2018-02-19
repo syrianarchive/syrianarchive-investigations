@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Bombing the national hospital"
-date: 2018-02-17
+date: 2018-02-19T00:06:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
 image: /assets/investigations/hrc_cover.png
 ---
@@ -12,8 +12,6 @@ image: /assets/investigations/hrc_cover.png
 - Date: 4 February 2018
 - Time: around 20:40
 - Attacks: 6 airstrikes according to Osama Eido (Hospital x-rays department)
-- Reported casualties:
-- Reported injured:
 - Munitions identified: One photo acquired by the Syrians for Truth and Justice
 - Potentially responsible: Russian or Syrian air force
 

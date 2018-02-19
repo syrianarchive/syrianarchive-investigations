@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Bombing the Orient hospital"
-date: 2018-02-13
+date: 2018-02-19T00:07:18.055Z
 desc: "joint report of medical facilities attacks in Idlib"
 image: /assets/Impact-hospital.jpg
 ---
