@@ -1,16 +1,9 @@
 ---
 layout: investigation.html
-<<<<<<< HEAD
-title: "Six Months Later"
-date: 2018-02-1900:00:18.055Z
-desc: "Medical Facilities Under Fire"
-image: /assets/Impact-hospital.jpg
-=======
 title: "Six Months On"
 date: 2018-02-17
 desc: "Medical Facilities in Syria Still Under Fire"
 image: /assets/orient07.jpg
->>>>>>> 0c16b1d23831107cc742fc348212e39444897b36
 ---
 
 ## Introduction
