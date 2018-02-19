@@ -59,7 +59,7 @@ The Syrian Archive compared images between previous attacks 19 September 2017 an
 
 ![orient09](/assets/orient099.jpg)
 
-The external damage surrounding the hospital can be identified in the satellite image below, from Digital Globe.
+The satellite image below shows the exact location of the impact site and damage, from Digital Globe.
 
 ![sat-image](/assets/orient-sattelite-2.jpg)
 
