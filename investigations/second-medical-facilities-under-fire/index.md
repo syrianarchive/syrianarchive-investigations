@@ -1,9 +1,9 @@
 ---
 layout: investigation.html
-title: "Six Months Later"
+title: "Six Months On"
 date: 2018-02-17
-desc: "Medical Facilities Under Fire"
-image: /assets/Impact-hospital.jpg
+desc: "Medical Facilities in Syria Still Under Fire"
+image: /assets/orient07.jpg
 ---
 
 ## Introduction
@@ -22,7 +22,7 @@ On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey, and Iran) 
 
 These areas included Idlib province, some parts of northern Homs province, as well as some parts of adjacent provinces (Latakia, Hama, and Aleppo), Eastern Ghouta in Damascus countryside and some parts of southern Syria.
 
-Just four days after the [Astana International meeting establishing Syria's De-Escalation Zones][1] in many parts of the country, [three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) in airstrikes attributed to Syrian or Russian forces on a single day.
+Just four days after the [Astana International meeting establishing Syria's De-Escalation Zones](http://www.aljazeera.com/news/2017/09/final-de-escalation-zones-agreed-astana-170915102811730.html) in many parts of the country, [three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) in airstrikes attributed to Syrian or Russian forces on a single day.
 
 Now, six months later, little has changed. Hospitals remain at the frontlines of the Syrian conflict, and attacks against medical facilities are regular. Within a four week period, four additional Idlib hospitals, well within the De-Escalation Zones, were attacked by airstrikes that visual, witness statements, and flight observation data attributes to Syrian or Russian forces. Three of these hospitals were attacked within the span of a week.
 
@@ -57,3 +57,13 @@ By examining a variety of sources of information for each attack, the Syrian Arc
 To cross-reference findings from visual content, flight observation data was provided to the Syrian Archive by an organisation employing a well-developed network of spotters. Following an analysis of the visual content and flight observation data, the Syrian Archive identified excerpts of statements from witnesses and victims collected by Syrians for Truth and Justice combined them with findings from their earlier analysis to provide corroborating witness statements for each attack.
 
 Detailed overviews of each incident are provided in the following pages. An overview of the visual content is provided first, followed by an overview of the corroborating flight observation data and witness statements. All times provided are in Damascus local time, and in 24-hour format. Prior to publication, consent was acquired with those interviewed (e.g. medical workers, facility managers, and Civil Defense volunteers) regarding the public sharing of information regarding attacks.
+
+- [Bombing the Orient Hospital](orient)
+- [Bombing the Oudai Hospital](oudai)
+- [Bombing the National Hospital](national)
+- [Bombing the Al Salam Medical Facility](salam)
+
+- [About the Authors](about-the-authors)
+- [Data Ethics](data-ethics)
+- [Errors, Corrections, and Feedback](errors)
+- [Methodology](methods)
