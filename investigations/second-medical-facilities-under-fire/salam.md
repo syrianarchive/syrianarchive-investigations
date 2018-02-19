@@ -117,8 +117,9 @@ In the same video, Alabdallah stated: "Although it's raining and the sky is full
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 11:00 and 14:00, the period directly before and after the reported attack between 11:30 and 11:45 as was claimed by media activists. See below:
 
 
-<iframe height="800" src="https://public.tableau.com/views/03012018_marrat_al_numan/Sheet1?:embed=y&:display_count=yes
-" width="800"></iframe>
+<iframe height="800" src="https://public.tableau.com/views/03012018_marrat_al_numan/Sheet1?:showVizHome=no&:embed=y&:display_count=yes" width="800"></iframe>
+
+https://public.tableau.com/views/03012018_marrat_al_numan/Sheet1?:showVizHome=no&:embed=y&:display_count=yes
 
 
 <iframe height="800" src="https://public.tableau.com/views/timeline_of_chemical_weapons_attacks_syria_fixed/Dashboard1?:showVizHome=no&amp;:embed=y&amp;:display_count=yes" width="800"></iframe>
