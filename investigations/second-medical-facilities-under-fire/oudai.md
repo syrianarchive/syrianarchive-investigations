@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: "Bombing the Oudai hospital"
+title: "Bombing the Oudai Hospital"
 date: 2018-02-19T00:05:18.055Z
-desc: "joint report of medical facilities attacks in Idlib"
+desc: "Joint report of medical facilities attacked in Idlib"
 image: /assets/EMC-overview-damage.jpg
 ---
 
