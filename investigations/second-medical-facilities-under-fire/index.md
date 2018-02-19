@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: "Six Months Later"
+title: "Six Months On"
 date: 2018-02-17
-desc: "Medical Facilities Under Fire"
+desc: "Medical Facilities in Syria Still Under Fire"
 image: /assets/Impact-hospital.jpg
 ---
 
@@ -22,7 +22,7 @@ On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey, and Iran) 
 
 These areas included Idlib province, some parts of northern Homs province, as well as some parts of adjacent provinces (Latakia, Hama, and Aleppo), Eastern Ghouta in Damascus countryside and some parts of southern Syria.
 
-Just four days after the [Astana International meeting establishing Syria's De-Escalation Zones][1] in many parts of the country, [three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) in airstrikes attributed to Syrian or Russian forces on a single day.
+Just four days after the [Astana International meeting establishing Syria's De-Escalation Zones](http://www.aljazeera.com/news/2017/09/final-de-escalation-zones-agreed-astana-170915102811730.html) in many parts of the country, [three Idlib medical facilities serving a combined more than 100.000 people yearly were allegedly attacked](https://syrianarchive.org/en/investigations/Three-Idlib-Medical-Facilities-Attacked.html) in airstrikes attributed to Syrian or Russian forces on a single day.
 
 Now, six months later, little has changed. Hospitals remain at the frontlines of the Syrian conflict, and attacks against medical facilities are regular. Within a four week period, four additional Idlib hospitals, well within the De-Escalation Zones, were attacked by airstrikes that visual, witness statements, and flight observation data attributes to Syrian or Russian forces. Three of these hospitals were attacked within the span of a week.
 
