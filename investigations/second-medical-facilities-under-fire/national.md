@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: "Bombing the national hospital"
+title: "Bombing the National Hospital"
 date: 2018-02-19T00:06:18.055Z
-desc: "An investigation about attacking Syrian hospitals"
+desc: "Joint report of medical facilities attacked in Idlib"
 image: /assets/investigations/hrc_cover.png
 ---
 
