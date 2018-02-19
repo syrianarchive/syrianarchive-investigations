@@ -95,7 +95,7 @@ Obayda al-Othman, the director of the Syrian Civil Defense Center in Kafranbel, 
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 8:00 and 10:00, the period directly before and after the reported attack between 7:45 and 8:00 as was claimed by media activists. See below:
 
-<iframe height="800" src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/05022018_Kafranbel/Sheet1;:embed=y&amp;:display_count=yes" width="800"></iframe>
+<iframe height="800" src="https://public.tableau.com/views/05022018_Kafranbel/Sheet1?:showVizHome=no&:embed=y&:display_count=yes" width="800"></iframe>
 
 Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify several flights potentially responsible for the attack (several fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting from 9:00 AM. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
 
