@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Six Months Later"
-date: 2018-02-17
+date: 2018-02-1900:00:18.055Z
 desc: "Medical Facilities Under Fire"
 image: /assets/Impact-hospital.jpg
 ---

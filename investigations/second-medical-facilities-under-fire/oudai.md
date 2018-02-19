@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Bombing the Oudai hospital"
-date: 2018-02-13
+date: 2018-02-19T00:05:18.055Z
 desc: "joint report of medical facilities attacks in Idlib"
 image: /assets/EMC-overview-damage.jpg
 ---
@@ -13,7 +13,6 @@ image: /assets/EMC-overview-damage.jpg
 - Time: 07:40am (potato market) 08:10am (hospital attack)
 - Attacks: 1 airstrike
 - Reported injured: 3 injured from the medical facility staff
-- Munitions identified: [waiting for the reporter]
 - Potentially responsible: Russian or Syrian air force
 - Previous attack on the hospital: 21/01/2018
 
