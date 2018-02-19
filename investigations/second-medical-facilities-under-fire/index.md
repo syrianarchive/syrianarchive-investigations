@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Six Months On"
 date: 2018-02-17
 desc: "Medical Facilities in Syria Still Under Fire"
-image: /assets/Impact-hospital.jpg
+image: /assets/orient07.jpg
 ---
 
 ## Introduction
