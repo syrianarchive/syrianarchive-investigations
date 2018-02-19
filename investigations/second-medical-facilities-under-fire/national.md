@@ -1,9 +1,14 @@
 ---
 layout: investigation.html
-title: "Bombing the national hospital"
+title: "Bombing the National Hospital"
 date: 2018-02-19T00:06:18.055Z
+<<<<<<< HEAD
 desc: "An investigation about attacking Syrian hospitals"
+image: /assets/national09.jpg
+=======
+desc: "Joint report of medical facilities attacked in Idlib"
 image: /assets/investigations/hrc_cover.png
+>>>>>>> 35106f474fcba44efab1eb4c6bb28cbf2b1b9b5e
 ---
 
 - Location: IDLIB : Maarat al-Numan
@@ -73,9 +78,7 @@ In a separate video, published by citizen reporter Moaz Alshami while they were 
 
 After that Alshami entered the hospital and said: "The Civil Defense evacuate the incubators. A few hours ago, a massacre in Kafranabel and before it in Khan al-Sabeel and before it in Maazran, every day there is a new targeting of civilians."
 
-At 4:31, Moaz Alshami conducted an interview with two women standing beside an injured. One of the women said: "We are from Khan Sheikhan. We were in the hospital there, when it targeted. We came here and now this hospital has been targeted too. Where are we going?"
-
-The Common Syrian Observatory published a [short video showing two newborn babies](https://www.youtube.com/watch?v=GAB-hichb5A) during their transfer.
+At 4:31, Moaz Alshami conducted an interview with two women standing beside an injured. One of the women said: "We are from Khan Sheikhan. We were in the hospital there, when it targeted. We came here and now this hospital has been targeted too. Where are we going?".
 
 SMART News Agency [published a video](https://www.youtube.com/watch?v=-GA92EyURH8) on their YouTube channel as well, containing a testimony from the Head of Radiology Department. He stated: "The hospital was targeted last night 4 Feb 2018 by six strikes from Russian warplanes. As a result, the hospital is now completely out of service, which was the only hospital in this region, serving more than 20 thousand patients per month."
 
