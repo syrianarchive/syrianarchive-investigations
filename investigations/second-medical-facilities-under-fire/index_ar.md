@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "بعد ستّة أشهر!"
-date: 2018-02-17
+date: 2018-02-1900:00:18.055Z
 desc: "مرافق صحية تحت النار"
 image: /assets/Impact-hospital.jpg
 ---

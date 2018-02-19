@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Methodology"
-date: 2018-02-17
+date: 2018-02-19T00:02:18.055Z
 desc: "An investigation about attacking Syrian hospitals"
 image: /assets/national15.jpg
 ---
