@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: "Bombing Al Salam Medical facility"
+title: "Bombing Al Salam Medical Facility"
 date: 2018-02-19T00:04:18.055Z
-desc: "An investigation about attacking Syrian hospitals"
+desc: "Joint report of medical facilities attacked in Idlib"
 image: /assets/anas-alsalam.jpg
 ---
 - Location: Maarat al-Numaan (Idlib governorate, Syria)

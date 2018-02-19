@@ -62,7 +62,6 @@ Detailed overviews of each incident are provided in the following pages. An over
 - [Bombing the Oudai Hospital](oudai)
 - [Bombing the National Hospital](national)
 - [Bombing the Al Salam Medical Facility](salam)
-
 - [About the Authors](about-the-authors)
 - [Data Ethics](data-ethics)
 - [Errors, Corrections, and Feedback](errors)
