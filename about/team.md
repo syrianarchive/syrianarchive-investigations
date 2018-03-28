@@ -27,7 +27,13 @@ __Lead Developer__
 
 Niko directs the technical systems for the [Syrian Archive's workflow and verification processes](https://github.com/syrianarchive), as well as the Syrian Archive's contributions to open source softwares such as [Sugarcube](https://gitlab.com/sugarcube).  He maintains the central databases and websites, and has been with the Syrian Archive since 2014.
 
-Previously, he has worked with the Tactical Technology Collective and Global Witness. Niko is based in Berlin, Germany.
+Previously, he has worked with the Tactical Technology Collective and Global Witness.
+
+### Haneen K
+__Open source analyst__
+Haneen works on website and database layout and design, as well as on the translation of human rights reports and database content from Arabic into English.
+Previously, she has worked as a journalist with Enabbaladi.
+
 
 ### Tareef MD
 __Open source analyst__
