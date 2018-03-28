@@ -13,7 +13,11 @@ image: "/assets/about/press-1.png"
 
 
 #### باللغة الإنكليزية:
-- - Video from Tous les internets, ARTE (2018). [The Syrian Archive](https://www.facebook.com/touslesinternets/videos/vb.1431579507148714/1752559641717364/?type=2&theater).
+- Fastcompany (2018). [Erasing History: YouTube’s Deletion Of Syria War Videos Concerns Human Rights Groups](https://www.fastcompany.com/40540411/erasing-history-youtubes-deletion-of-syria-war-videos-concerns-human-rights-groups)
+- Sueddeutsche (2018). [Das digitale Gedächtnis des Krieges](http://www.sueddeutsche.de/medien/kriegsverbrechen-in-syrien-das-digitale-gedaechtnis-des-krieges-1.3896417)
+- Deutschlandfunk (2018). [Internationales Team sichert Kriegsvideos, ](http://www.deutschlandfunk.de/syrian-archive-internationales-team-sichert-kriegsvideos.2907.de.html?dram:article_id=412892)
+- WSD Handa Center for Human Rights and International Justice (2018). [Panel Convened on Technology, Syria, and Human Rights](https://handacenter.stanford.edu/news/panel-convened-technology-syria-and-human-rights)
+- Video from Tous les internets, ARTE (2018). [The Syrian Archive](https://www.facebook.com/touslesinternets/videos/vb.1431579507148714/1752559641717364/?type=2&theater).
 - Kayyali, D and Althaibani, R. (2017). [Vital Human Rights Evidence in Syria is Disappearing from YouTube](http://www.voxpol.eu/vital-human-rights-evidence-syria-disappearing-youtube/). Voxpol.
 - El Deeb, S. [History of Syria’s war at risk as YouTube reins in content](https://apnews.com/d9f1c4f1bf20445ab06cbdff566a2b70). AP News.
 - Syrian observer staff. [The Syrian Archive: Preserving Evidence of War Crimes in the Digital Era](http://syrianobserver.com/EN/Features/33462). The Syrian Observer.
