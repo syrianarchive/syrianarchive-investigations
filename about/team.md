@@ -25,9 +25,7 @@ Jeff has been working on developing, refining and documenting the research metho
 ### Niko Para
 __Lead Developer__
 
-Niko directs the technical systems for the [Syrian Archive's workflow and verification processes](https://github.com/syrianarchive), as well as the Syrian Archive's contributions to open source softwares such as [Sugarcube](https://gitlab.com/sugarcube).  He maintains the central databases and websites, and has been with the Syrian Archive since 2014.
-
-Previously, he has worked with the Tactical Technology Collective and Global Witness.
+Niko is a developer who works on the technical systems and workflows of the Syrian Archive, helping to verify observations and process large amounts of data.  He makes the websites, maintains the databases, and deploys collection and verification tools.
 
 ### Haneen K
 __Open source analyst__
