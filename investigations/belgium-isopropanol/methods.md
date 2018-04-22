@@ -18,7 +18,7 @@ Syrian Archive staff began our investigation in the aftermath of last year April
 
 We consulted The [UN Comtrade](https://comtrade.un.org/) database to identify whether any shipments of isopropanol, a sanctioned chemical from EU Member States to Syria, were reported after [sanctions were put in place in 2013](http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1493825060366&uri=CELEX:02012R0036-20170321).
 
-The [Comtrade](https://comtrade.un.org/), coordinated by the United Nations Statistical Division, collects monthly and annual trade statistics from more than 170 countries and displays these figures [online in a public, downloadable and queriable format](https://comtrade.un.org/data/dev/portal). The OCCRP similarly queried the Comtrade database in their [investigation of Croatian arms sales](https://www.occrp.org/en/makingakilling/croatia-sells-record-number-of-arms-to-saudi-arabia-in-2016/) being diverted to Syria.
+[Comtrade](https://comtrade.un.org/), coordinated by the United Nations Statistical Division, collects monthly and annual trade statistics from more than 170 countries and displays these figures [online in a public, downloadable and queriable format](https://comtrade.un.org/data/dev/portal). The OCCRP similarly queried the Comtrade database in their [investigation of Croatian arms sales](https://www.occrp.org/en/makingakilling/croatia-sells-record-number-of-arms-to-saudi-arabia-in-2016/) being diverted to Syria.
 
 Below is a walkthrough of the search we conducted on the Comtrade database.
 
@@ -26,6 +26,7 @@ Below is a walkthrough of the search we conducted on the Comtrade database.
   <source src="https://cube.syrianarchive.org/isopropanoluncomptrade.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+
 
 While amounts reported to Comtrade may potentially under-represent true trade export figures due to self-reporting bias, the data shows that since 2014, an estimated 1.28 million kilo of propanol and isopropanol were exported by various countries to Syria (both propanol and isopropanol are registered under the same code). See below:
 
