@@ -3,6 +3,7 @@ layout: "none.html"
 title: "testing something"
 date: 2017-08-01T00:05:18.055Z
 desc: this is describe
+snippet: true
 image: /assets/logos/loogback.jpg
 ---
 
