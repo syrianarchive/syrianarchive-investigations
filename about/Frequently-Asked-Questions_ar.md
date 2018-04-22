@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "أسئلة شائعة"
-image: "/assets/about/faq.png"
+image: "/assets/main_back.jpg"
 ---
 
 #### ما الذي يقوم به الأرشيف السوري؟
