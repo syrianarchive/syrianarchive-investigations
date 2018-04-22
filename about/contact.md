@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Contact Us
-image: "/assets/about/contactnew.png"
+image: "/assets/about/contactusnew.png"
 ---
 
  Contact us:
