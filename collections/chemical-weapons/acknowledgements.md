@@ -1,10 +1,9 @@
 ---
-layout: "none.html"
-title: 170 Chemical Attacks in time
+layout: "collections/chemicalcontent.html"
+title: Acknowledgements
 date: 2017-07-01T00:05:18.055Z
-desc: grraaaaaa
-snippet: true
-image: /assets/logos/loogback.jpg
+desc: helpers, papers, dreamers
+image: /assets/chemical/chemicalheader.jpg
 ---
 
 Lorem ipsum dolor sit amet, an mentitum vulputate pro, per simul deserunt an. Et amet justo quaerendum pri. Sed ei tacimates senserit ocurreret. Fugit atqui ad pri. Mea sale singulis ne, omnis euismod probatus at est. Ei his diceret meliore epicurei.
