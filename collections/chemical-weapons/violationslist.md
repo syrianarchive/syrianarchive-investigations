@@ -1,13 +1,11 @@
 ---
 layout: "none.html"
-title: At a Glance
+title: These videos include
 date: 2017-07-01T00:05:18.055Z
 desc: grraaaaaa
 snippet: true
 image: /assets/logos/loogback.jpg
 ---
-
-##### Within these verified videos are details of:
 
 - Casualties as a result of the chemical attacks
 - People being treated in medical facilities and other locations including children and women as a result of the chemical attacks
