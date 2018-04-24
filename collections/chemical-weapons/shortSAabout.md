@@ -8,5 +8,3 @@ image: /assets/logos/loogback.jpg
 ---
 
 The Syrian Archive is a civil society group that has been documenting the Syrian conflict since 2014. To date over 1.4 million videos have been located and preserved. Like many monitoring organisations, the Syrian Archive is unable to go into Syria to investigate these attacks. Relying on a network of journalists and video makers it is essential to monitor, document and report on the crimes in Syria and preserve these pieces of evidence for accountability and justice initiatives.
-
-This is the first publicly available collection of open source content documenting chemical weapon attacks in Syria between 2012 - 2018. The collection contains documentation of 212 attacks from over 190 sources that can be viewed, analysed and downloaded.
