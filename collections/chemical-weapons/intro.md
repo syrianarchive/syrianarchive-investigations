@@ -8,7 +8,6 @@ image: /assets/logos/loogback.jpg
 ---
 
 
-International Humanitarian Law [prohibits the use of chemical munitions](https://ihl-databases.icrc.org/customary-ihl/eng/docs/v1_rul_rule74) in both international and non-international conflicts.
 
 Attacks using chemical weapons have been taking place in Syria since 2012. As of April 2018, official reports from the [French Foreign Ministry](https://www.diplomatie.gouv.fr/IMG/pdf/170425_-_national_evaluation_annex_-_anglais_cle81722e.pdf) and the [Commission of Inquiry on the Syrian Arab Republic](http://www.ohchr.org/SiteCollectionImages/Bodies/HRCouncil/IICISyria/COISyria_ChemicalWeapons.jpg) put the number of chemical attacks at 163.
 

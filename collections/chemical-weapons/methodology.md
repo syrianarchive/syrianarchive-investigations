@@ -15,7 +15,7 @@ Syrian Archive staff sifted through its existing database of over 1.4 million vi
 For each of the 212 incidents identified, a detailed process of discovery was initiated. This process necessitated:
 Extracting units from the Syrian Archive database about specific incidents using dates and locations;
 Extracted units through specific geo-based areas;
-Using content discovery tools for social media content such as whopostedwhat.com.
+Using content discovery tools for social media content such as [whopostedwhat.com](https://whopostedwhat.com).
 
 Through adding context to data, the Syrian Archive transformed digital content to useful and searchable information with querying capabilities.
 
