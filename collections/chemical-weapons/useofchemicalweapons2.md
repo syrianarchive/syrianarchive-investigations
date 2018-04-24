@@ -19,7 +19,7 @@ Through comparing a temporal analysis of chemical weapons attacks with territori
 
 Syrian Archive has identified 85 unique locations which were attacked using chemical weapons. The Damascus countryside experienced the majority of chemical weapons attacks with 61 attacks documented. Idlib experienced 49 chemical weapons attacks. Aleppo and Hama experienced 33 and 29 chemical weapons attacks respectively. Homs experienced six chemical weapons attacks. Daraa experienced three chemical weapons attacks, and Deir Ezzor experienced one.
 
-In their research of 129 chemical attacks, the [French Foreign Ministry](https://www.diplomatie.gouv.fr/IMG/pdf/170425_-_national_evaluation_annex_-_anglais_cle81722e.pdf) attributed five chemical weapon attacks in which sarin was used to the Syrian government (five proven, two with strong presumption). The Foreign Ministry additionally claimed there was a strong presumption of chlorine used by the Syrian government in 22 incidents. Three chemical weapon attacks using mustard gas were also attributed by the Foreign Ministry to Daesh. The Foreign Ministry did not attribute 97 chemical attacks.
+In their research of 130 chemical attacks, the [French Foreign Ministry](https://www.diplomatie.gouv.fr/IMG/pdf/170425_-_national_evaluation_annex_-_anglais_cle81722e.pdf) attributed five chemical weapon attacks in which sarin was used to the Syrian government (five proven, two with strong presumption). The Foreign Ministry additionally claimed there was a strong presumption of chlorine used by the Syrian government in 22 incidents. Three chemical weapon attacks using mustard gas were also attributed by the Foreign Ministry to Daesh. The Foreign Ministry did not attribute 98 chemical attacks.
 
 ----------------------
 
