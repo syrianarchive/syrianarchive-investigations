@@ -2,7 +2,7 @@
 layout: "none.html"
 title: These videos include
 date: 2017-07-01T00:05:18.055Z
-desc: grraaaaaa
+desc: ""
 snippet: true
 image: /assets/logos/loogback.jpg
 ---
