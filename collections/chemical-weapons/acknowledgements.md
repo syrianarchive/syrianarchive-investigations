@@ -6,12 +6,8 @@ desc: helpers, papers, dreamers
 image: /assets/chemical/chemicalheader.jpg
 ---
 
-Lorem ipsum dolor sit amet, an mentitum vulputate pro, per simul deserunt an. Et amet justo quaerendum pri. Sed ei tacimates senserit ocurreret. Fugit atqui ad pri. Mea sale singulis ne, omnis euismod probatus at est. Ei his diceret meliore epicurei.
+The videos in this database have been collected by groups and individuals living or working in Syria. This collection would not be possible without those documenting and reporting on war crimes and crimes against humanity. Currently in this database there are 240 different sources, our thanks to each of them.  
 
-At vel indoctum urbanitas, duis dolor aperiri in nam, mea placerat assentior assueverit ne. At sed clita tempor, ut vix diam movet explicari. Pri ea elitr maiorum fabellas, voluptua conclusionemque quo id. Possim periculis persecuti sit et, at tale quaestio voluptatum eam. Vidit consulatu eam eu. Usu ex nibh volumus albucius.
+The Syrian Archive would like to thank the student groups, in particular the Human Rights Center Investigations Lab, UC Berkeley, for their work verifying, annotating, and analysing videos. In particular we would like to thank: Amy Choi, Anna Banchik, Annabell Brockhues, Ariela Levy, Carlos Sanchez, Caron Creighton, Charlotte Godart,  Elaria Youssef, Elise Baker, Félim McMahon, Greg Waters, Hannah Ellis, Manu Chaturvedi, Mariya Katsman, Michael Elsanadi, Monica Namo, Natalia Krapiva, Natalie Fowler, Rachel Thampapillai and Sarah Solieman.
 
-Duo no dicit invenire definitionem. Id vidit saepe quaeque nam, ei tibique accusam sit, te commune tacimates persequeris vis. Amet falli an sea, ex nam quidam reformidans, nam menandri cotidieque ut. Mei exerci voluptua evertitur cu. Eos an lucilius patrioque hendrerit.
-
-Sed phaedrum elaboraret cu, volutpat corrumpit at pri, vel cu alii everti commodo. Quo cu error omnesque repudiare. Ius quidam reprehendunt in, est dicant primis no, est an unum inani. Ut nec possit vituperatoribus, audiam tacimates cu nam. Prima malis moderatius mei ea, nec diam paulo semper te, vis cu vide graeci ancillae. Cum id soleat mandamus.
-
-Quo ea everti vulputate expetendis, an mea cibo maluisset. Eu usu malis graeci, usu cu erant delicatissimi, ut eam ludus praesent. Sanctus menandri mei no. Cum adhuc elaboraret ex, vis conceptam vituperatoribus an.
+This project was partially made possible by The Prototype Fund project of the Open Knowledge Foundation Germany, funded by the Federal Ministry of Education and Research (BMBF) in 2016, volunteers and individual donations. To donate to the project, visit our Patreon page.
