@@ -1,7 +1,7 @@
 ---
 layout: "collections/chemicalcontent.html"
 title: Acknowledgements
-date: 2017-07-01T00:05:18.055Z
+date: 2018-04-24T00:05:18.055Z
 desc: ""
 image: /assets/about/about2.jpg
 ---
