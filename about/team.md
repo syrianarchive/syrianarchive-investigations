@@ -20,7 +20,7 @@ Jaloud has worked on human rights in Syria since 2010 and has been documenting h
 ### Jeff Deutch
 __Lead Researcher__
 
-Jeff has been working on developing, refining and documenting the research methodology of the Syrian Archive. He additionally works on verification and long-form investigations and reports. Jeff has worked previously with Tactical Technology Collective, with the Global Public Policy Institute, and with Civic Consulting.  In addition to working with the Syrian Archive, Jeff is a PhD candidate at Humboldt University and a fellow at the Centre for Internet and Human Rights. Jeff holds a Master of Public Policy from Hertie School of Governance and a Bachelors of Arts from Hampshire College. Jeff is based in Berlin, Germany.
+Jeff is a researcher with Syrian Archive, where he develops workflows and methodologies for open source investigations. He additionally works on verification and long-form investigations and reports. Jeff is a fellow at the Centre for Internet and Human Rights and a PhD candidate at the Humboldt-University in Berlin.
 
 ### Niko Para
 __Lead Developer__
@@ -29,6 +29,7 @@ Niko is a developer who works on the technical systems and workflows of the Syri
 
 ### Haneen K
 __Open source analyst__
+
 Haneen works on website and database layout and design, as well as on the translation of human rights reports and database content from Arabic into English.
 Previously, she has worked as a journalist with Enabbaladi.
 
@@ -44,3 +45,8 @@ engineering. Tareef is based in Turkey.
 __Open source analyst__
 
 Sam identifies and verifies sources and visual documentation of human rights violations. Since 2011, he has worked with various Syrian organisations documenting human rights violations. Sam studied medicine in Syria and has worked with International Medical Corps in Turkey. Sam is based in Denmark.
+
+### Gabi Sobliye
+__Open source investigator__
+
+Gabi works on locating and analysing open source material to investigate human rights violations. She has a background in human rights and technology and has previously worked at the investigative portal Exposing the Invisible and the Khmer Rouge Tribunal in Cambodia. She is particularly interested in methods to track planes.
