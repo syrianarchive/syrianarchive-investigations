@@ -8,6 +8,19 @@ image: "/assets/about/press-1.png"
 
 Articles in which the work of the Syrian Archive was highlighted include the following:
 
+- The Guardian (2018). [Belgian firms prosecuted over Syria chemical exports](https://www.theguardian.com/world/2018/apr/18/belgian-firms-prosecuted-over-chemicals-exports-to-syria-sarin?CMP=twt_gu)
+- The Brussels Times (2018). [Belgian companies exported component of sarin to Syria](http://www.brusselstimes.com/brussels/11023/belgian-companies-exported-component-of-sarin-to-syria)
+- Knack (2018). [Douane vervolgt Vlaamse bedrijven voor illegale export naar Syrië](http://www.knack.be/nieuws/belgie/douane-vervolgt-vlaamse-bedrijven-voor-illegale-export-naar-syrie/article-normal-1103273.html)
+- Buzzfeed (2018). [These 3 Companies Are Under Investigation For Selling A Chemical Weapons Ingredient To Syria](https://www.buzzfeed.com/mitchprothero/belgium-investigating-3-companies-for-selling-chemical?utm_term=.plagxNWAx#.oeMwRLYQR)
+- BBC (2018). [Belgium firms prosecuted over exporting Sarin precursor to Syria](https://www.bbc.co.uk/news/amp/world-europe-43811614?__twitter_impression=true)
+- The Daily Beast (2018). [Belgian Firms Sent 96 Tons of Sarin ‘Precursor’ to Syria: Prosecutor](https://www.thedailybeast.com/belgian-firms-sent-96-tons-of-sarin-precursor-to-syria-prosecutor)
+- Vlaams Parlement (2018). [Plenaire vergadering](https://www.vlaamsparlement.be/plenaire-vergaderingen/1246769/verslag/1248020)
+- Buzzfeed (2018). [Silicon Valley Can't Be Trusted With Our History](https://www.buzzfeed.com/evanhill/silicon-valley-cant-be-trusted-with-our-history?utm_term=.tyBvkWAjk#.shOADk6QD)
+- Global Investigative Journalism Network (2018). [Dig into the Open Source Database of Chemical Weapons Attacks in Syria](https://gijn.org/2018/04/30/dig-open-source-database-chemical-weapons-attacks-syria/)
+- SWR2 (2018). [Bildmaterial aus dem Syrien-Krieg dokumentiert Kriegsverbrechen](https://www.swr.de/swr2/kultur-info/the-syrian-archive-menschenrechtsaktivismus-kriegsverbrechen/-/id=9597116/did=21557334/nid=9597116/1u5mseb/index.html)
+- Qantara (2018). [Netting the war criminals](https://en.qantara.de/content/the-syrian-archive-netting-the-war-criminals)
+- re:publica (2018). [Accelerating Human Rights Investigations with Computer Vision](https://18.re-publica.com/en/session/accelerating-human-rights-investigations-computer-vision)
+- The National (2018). [Belgian trial could shed light on Syrian chemical weapons supply lines](https://www.thenational.ae/world/mena/belgian-trial-could-shed-light-on-syrian-chemical-weapons-supply-lines-1.727068)
 - Fastcompany (2018). [Erasing History: YouTube’s Deletion Of Syria War Videos Concerns Human Rights Groups](https://www.fastcompany.com/40540411/erasing-history-youtubes-deletion-of-syria-war-videos-concerns-human-rights-groups)
 - Sueddeutsche (2018). [Das digitale Gedächtnis des Krieges](http://www.sueddeutsche.de/medien/kriegsverbrechen-in-syrien-das-digitale-gedaechtnis-des-krieges-1.3896417)
 - Deutschlandfunk (2018). [Internationales Team sichert Kriegsvideos, ](http://www.deutschlandfunk.de/syrian-archive-internationales-team-sichert-kriegsvideos.2907.de.html?dram:article_id=412892)
