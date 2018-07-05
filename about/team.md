@@ -46,7 +46,7 @@ __Open source analyst__
 
 Sam identifies and verifies sources and visual documentation of human rights violations. Since 2011, he has worked with various Syrian organisations documenting human rights violations. Sam studied medicine in Syria and has worked with International Medical Corps in Turkey. Sam is based in Denmark.
 
-### Gabi Sobliye
+### Gabriela Ivens
 __Open source investigator__
 
 Gabi works on locating and analysing open source material to investigate human rights violations. She has a background in human rights and technology and has previously worked at the investigative portal Exposing the Invisible and the Khmer Rouge Tribunal in Cambodia. She is particularly interested in methods to track planes.
