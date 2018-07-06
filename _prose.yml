@@ -1,5 +1,5 @@
 prose:
-  rooturl: 'investigations'
+  # rooturl: 'investigations'
   media: '/assets/investigations'
   metadata:
     investigations:
@@ -23,5 +23,3 @@ prose:
           filed:
             element: 'hidden'
             value: 'IMAGE PATH HERE'
-            
-          
