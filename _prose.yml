@@ -10,16 +10,17 @@ prose:
       - name: 'title'
         field:
           element: 'text'
-          value: 'CHANGE THIS TITLE'
-      - name: 'date'
-        field:
-          element: 'text'
-          value: 'DATE HERE'
-      - name: 'desc'
-        field:
-          element: 'text'
-          value: 'DESCRIPTION HERE'
-      - name: 'image'
-          field:
-            element: 'text'
-            value: 'IMAGE PATH HERE'
+          label: 'title'
+          value: ''
+      # - name: 'date'
+      #   field:
+      #     element: 'text'
+      #     value: 'DATE HERE'
+      # - name: 'desc'
+      #   field:
+      #     element: 'text'
+      #     value: 'DESCRIPTION HERE'
+      # - name: 'image'
+      #     field:
+      #       element: 'text'
+      #       value: 'IMAGE PATH HERE'
