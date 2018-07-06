@@ -12,15 +12,18 @@ prose:
           element: 'text'
           label: 'title'
           value: ''
-      # - name: 'date'
-      #   field:
-      #     element: 'text'
-      #     value: 'DATE HERE'
-      # - name: 'desc'
-      #   field:
-      #     element: 'text'
-      #     value: 'DESCRIPTION HERE'
-      # - name: 'image'
-      #     field:
-      #       element: 'text'
-      #       value: 'IMAGE PATH HERE'
+      - name: 'date'
+        field:
+          element: 'text'
+          label: 'date'
+          value: ''
+      - name: 'desc'
+        field:
+          element: 'text'
+          label: 'desc'
+          value: ''
+      - name: 'image'
+          field:
+            element: 'text'
+            label: 'image'
+            value: ''
