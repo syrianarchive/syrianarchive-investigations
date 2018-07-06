@@ -1,2 +1,27 @@
 prose:
-    media: '/assets/investigations'
+  rooturl: 'investigations'
+  media: '/assets/investigations'
+  metadata:
+    investigations:
+      - name: 'layout'
+        field:
+          element: 'hidden'
+          value: 'investigation.html'
+      - name: 'title'
+        field:
+          element: 'hidden'
+          value: 'CHANGE THIS TITLE'
+      - name: 'date'
+        field:
+          element: 'hidden'
+          value: 'DATE HERE'
+      - name: 'desc'
+        field:
+          element: 'hidden'
+          value: 'DESCRIPTION HERE'
+      - name: 'image'
+          filed:
+            element: 'hidden'
+            value: 'IMAGE PATH HERE'
+            
+          
