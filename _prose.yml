@@ -12,18 +12,18 @@ prose:
           element: 'text'
           label: 'title'
           value: ''
-      - name: 'date'
-        field:
-          element: 'text'
-          label: 'date'
-          value: ''
-      - name: 'desc'
-        field:
-          element: 'text'
-          label: 'desc'
-          value: ''
-      - name: 'image'
-          field:
-            element: 'text'
-            label: 'image'
-            value: ''
+      # - name: 'date'
+      #   field:
+      #     element: 'text'
+      #     label: 'date'
+      #     value: ''
+      # - name: 'desc'
+      #   field:
+      #     element: 'text'
+      #     label: 'desc'
+      #     value: ''
+      # - name: 'image'
+      #     field:
+      #       element: 'text'
+      #       label: 'image'
+      #       value: ''
