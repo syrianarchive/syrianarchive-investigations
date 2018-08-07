@@ -37,7 +37,7 @@ Previously, she has worked as a journalist with Enabbaladi.
 ### Tareef MD
 __Developer__
 
-Tareef works on front-end development and data visualization with Syrian Archive. He has previously worked with Frontline Defenders, with Tactical Technology Collective and with [Hsoub](https://www.hsoub.com/en/), a group of Internet businesses serving Arabic speaking users across the world.
+Tareef is a developer, works on front-end development and data visualization. He has previously worked with Frontline Defenders, with Tactical Technology Collective and with [Hsoub](https://www.hsoub.com/en/), a group of Internet businesses serving Arabic speaking users across the world.
 Tareef has an educational background in Electrical engineering.
 
 ### Sam Razzouk
