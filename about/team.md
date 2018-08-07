@@ -35,11 +35,10 @@ Previously, she has worked as a journalist with Enabbaladi.
 
 
 ### Tareef MD
-__Open source analyst__
+__Developer__
 
-Tareef verifies and analyses visual documentation of human rights violations. He has previously worked with Frontline Defenders, with Tactical Technology Collective and with [Hsoub](https://www.hsoub.com/en/) Academy, a technical academy teaching programming
-languages to youth. Tareef has an educational background in Electrical
-engineering. Tareef is based in Turkey.
+Tareef works on front-end development and data visualization with Syrian Archive. He has previously worked with Frontline Defenders, with Tactical Technology Collective and with [Hsoub](https://www.hsoub.com/en/), a group of Internet businesses serving Arabic speaking users across the world.
+Tareef has an educational background in Electrical engineering.
 
 ### Sam Razzouk
 __Open source analyst__
