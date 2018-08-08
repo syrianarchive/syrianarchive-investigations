@@ -38,7 +38,7 @@ Previously, she has worked as a journalist with Enabbaladi.
 __Developer__
 
 Tareef is a developer, works on front-end development and data visualization. He has previously worked with Frontline Defenders, with Tactical Technology Collective and with [Hsoub](https://www.hsoub.com/en/), a group of Internet businesses serving Arabic speaking users across the world.
-Tareef has an educational background in Electrical engineering.
+Tareef is studying Electrical engineering.
 
 ### Sam Razzouk
 __Open source analyst__
