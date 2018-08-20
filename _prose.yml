@@ -1,5 +1,4 @@
 prose:
-  rooturl: 'investigations'
   media: '/assets/investigations'
   metadata:
     investigations:
