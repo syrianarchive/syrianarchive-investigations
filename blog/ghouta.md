@@ -20,7 +20,7 @@ With Eastern Ghouta lying near the strategic Mezzah Air Base and the Air Force I
     
 Eight to twelve modified 122mm Grad-style rockets, which were [most likely](https://www.bellingcat.com/news/mena/2014/07/15/identifying-government-positions-during-the-august-21st-sarin-attacks/) fired from regime-held territory, landed in Eastern Ghouta. The rockets exploded with a small explosive charge, dispersing their contents in a fine mist. The effect on human and animal life in the impacted zone was immediate, and in the language of the United Nations investigation into the [attack](https://syrianarchive.org/en/collections/chemical-weapons/database?term=ghouta&unit=b2df3580&incident=DAM210813)(A/67/997–S/2013/553):
 
-![https://syrianarchive.org/en/collections/chemical-weapons/database?term=ghouta&unit=b2df3580&incident=DAM210813]({{site.baseurl}}/assets/investigations/ghouta2.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-THvtFT9zOk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 “Survivors reported an attack with shelling, followed by the onset of a common range
 of symptoms, including shortness of breath, disorientation, rhinorrhea (runny nose), eye
@@ -36,7 +36,7 @@ Immediately after the chemical attack, the Assad regime’s Syrian Arab Army (SA
 
 While around 4,000 people began displaying symptoms of sarin exposure, [videos](https://syrianarchive.org/en/collections/chemical-weapons/database?term=ghouta&incident=DAM210813) circulated online of the attack and shocked the world. The United Nations Security Council (UNSC) [met](https://www.telegraph.co.uk/news/worldnews/middleeast/syria/10258597/Syria-UN-Security-Council-wants-clarity-over-alleged-chemical-attack.html) in an emergency session. A resolution was drafted calling for an immediate investigation into the attack. At the insistence of Russia, however, the wording of strongly worded draft resolution was watered down to meekly say that the Council was “seeking clarity” on the attacks. Investigators were also not granted the ability to name the party responsible for the attack, once more due to Russia and China threatening with a veto. 
 
-![https://syrianarchive.org/en/collections/chemical-weapons/database?term=ghouta&unit=6492d27c&incident=DAM210813]({{site.baseurl}}//assets/investigations/GhoutaUN.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rly5IM-zBrM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Five days later, when experts finally [arrived](https://syrianarchive.org/en/collections/chemical-weapons/database?term=ghouta&unit=6492d27c&incident=DAM210813) in Eastern Ghouta, much of the evidence had been erased and/or compromised although investigators were still able to discern that sarin had been used, carried by surface-to-surface rockets. This was able to be determined through examining samples of soil,debris (including with rocket fragments) and medical samples from patients at local hospitals.
 
@@ -66,17 +66,4 @@ Sarin is not the only toxin used by the Assad regime;the Syrian government has u
 
 “The Leadership Panel also determined, in the third report and in section III above, that the Syrian Arab Armed Forces had been involved in the use of toxic chemicals as weapons in three cases: Talmenes (21 April 2014), Qmenas (16 March 2015) and Sarmin (16 March 2015). Their helicopters were used to drop barrel bombs in those three cases.”([LINK](https://www.securitycouncilreport.org/atf/cf/%7b65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7d/s_2016_888.pdf))
 
-Thus, there is no real question as to who is responsible for the use of chemical weapons on a wide scale in Syria. Further, much of the information in the UN reports can be discerned by the general public by looking through the Syrian Archive’s [chemical weapons violation database](https://syrianarchive.org/en/collections/chemical-weapons/database). Without the infrastructure required to produce sarin, and without access to large quantities of industrial chemicals, the Syrian opposition was simply not in a position to manufacture or utilize sarin gas in August of 2013. As has been mentioned above, not only has the United Nations [declared](http://undocs.org/A/HRC/25/65) that the sarin used on 21 August 2013 was from Syrian government stockpiles, but they have even named the government as the [guilty party](https://reliefweb.int/report/syrian-arab-republic/seventh-report-organisation-prohibition-chemical-weapons-united-nations) for the 4 April 2017 attack. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Thus, there is no real question as to who is responsible for the use of chemical weapons on a wide scale in Syria. Further, much of the information in the UN reports can be discerned by the general public by looking through the Syrian Archive’s [chemical weapons violation database](https://syrianarchive.org/en/collections/chemical-weapons/database). Without the infrastructure required to produce sarin, and without access to large quantities of industrial chemicals, the Syrian opposition was simply not in a position to manufacture or utilize sarin gas in August of 2013. As has been mentioned above, not only has the United Nations [declared](http://undocs.org/A/HRC/25/65) that the sarin used on 21 August 2013 was from Syrian government stockpiles, but they have even named the government as the [guilty party](https://reliefweb.int/report/syrian-arab-republic/seventh-report-organisation-prohibition-chemical-weapons-united-nations) for the 4 April 2017 attack.
