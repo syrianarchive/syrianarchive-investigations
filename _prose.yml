@@ -1,4 +1,7 @@
+baseurl: /making-of-history
+url: https://syrianarchive.org/
 prose:
+  siteurl: 'https://syrianarchive.org/'
   media: '/assets/investigations'
   metadata:
     investigations:
