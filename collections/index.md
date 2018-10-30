@@ -1,7 +1,7 @@
 ---
-layout: "collections/basecollection.html"
-title: Chemical Weapons Database
+layout: "investigationshome.html"
+title: Incident Collections
 date: 2018-04-24T00:05:18.055Z
-desc: Key findings and database
-image: /assets/chemical/chemicalheader.jpg
+desc: Clustered visual content by incident, thematically disaggregated.
+image: /assets/collections/collectionsheader.png
 ---
