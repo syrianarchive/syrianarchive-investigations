@@ -1,12 +1,14 @@
 ---
 layout: "collections/russianairstrikes.html"
-title: Documentation of alleged Russian airstrikes targeting civilians and civilian infrastructure
+title: Russian Airstrikes Database
 date: 2018-10-31T00:05:18.055Z
-desc: Summary of findings, about, and methods
+desc: Documentation of alleged Russian airstrikes targeting civilians and civilian infrastructure
 image: /assets/russian/Atarib-market.png
 ---
-### Civilian Harm as a Result of Alleged Russian Airstrikes
 
+<small>31 Oct 2018</small>
+
+### Civilian harm as a result of alleged russian airstrikes
 
 Several years of monitoring alleged Russian airstrikes in Syria reveals a pattern of indiscriminate targeting of civilians and civilian infrastructure. In an analysis of **3303 videos** documenting alleged Russian airstrikes from **116 sources** between **30 September 2015 and 9 September 2018**, Syrian Archive has identified **1418 incidents** in which Russian forces allegedly targeted civilians or civilian infrastructure of little to no military value. Content included in this database can be viewed, analysed and downloaded.
 
