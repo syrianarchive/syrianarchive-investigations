@@ -3,7 +3,7 @@ layout: "collections/russianairstrikes.html"
 title: Russian Airstrikes Database
 date: 2018-10-31T00:05:18.055Z
 desc: Documentation of alleged Russian airstrikes targeting civilians and civilian infrastructure
-image: /assets/russian/Atarib-market.png
+image: /assets/collections/atarib-airstrike.png
 ---
 
 <small>31 Oct 2018</small>
