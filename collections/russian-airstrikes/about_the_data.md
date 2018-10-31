@@ -16,4 +16,6 @@ The sheer amount of content being created, and the near constant removals of mat
 ## Using the Database
 Syrian Archive created the Database for a variety of audiences working on human rights monitoring in Syria. This includes journalists, who are be able to quickly find verified materials relating to hundreds of incidents, non-governmental organisations who use this material in their advocacy work, and lawyers, who use materials to seek accountability of perpetrators of these attacks.
 
- *Of importance to note is that much of the content contained in the database is highly graphic.* It is recommended users take precautions in viewing material.
+*Of importance to note is that much of the content contained in the database is highly graphic.*
+
+It is recommended users take precautions in viewing material.
