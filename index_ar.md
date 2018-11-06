@@ -1,5 +1,5 @@
 ---
-layout: sy-homepage.html
+layout: syhomepage.html
 title: الأرشيف السوري
 date: 2017-07-01T00:05:18.055Z
 desc: صون الوثائق البصرية للعدالة وحقوق الإنسان

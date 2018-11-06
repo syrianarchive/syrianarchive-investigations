@@ -1,5 +1,5 @@
 ---
-layout: sy-homepage.html
+layout: syhomepage.html
 title: Syrian Archive
 date: 2017-07-01T00:05:18.055Z
 desc: Curating visual documentation for justice and human rights
