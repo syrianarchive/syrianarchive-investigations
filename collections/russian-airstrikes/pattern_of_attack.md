@@ -27,7 +27,7 @@ Below is a table that summarises the number of incidents and videos per category
 
 | *Category*                                                   | *Number of incidents* | *Number of videos* |
 |------------------------------------------------------------|---------------------|------------------|
-| Russian airstrikes in Syria                                | 1418                | 3131             |
+| Russian airstrikes in Syria                                | 1418                | 3303             |
 | Civilian casualties as a result of alleged Russian attacks | 704                 | 2184             |
 | Attacks claimed by Russian Ministry of Defense             | 242                 | 172              |
 | Attacks on other civilian infrastructure                   | 52                  | 63               |
