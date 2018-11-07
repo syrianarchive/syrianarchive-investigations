@@ -10,7 +10,7 @@ The team working on the Syrian Archive is uniquely comprised of researchers, jou
 ### Hadi Al Khatib
 __Founder and Director__
 
-Hadi has been working on collecting, verifying, and investigating citizen-generated data as evidence of human rights violations in order to expose and draw attention to human rights violations committed by all sides in the Syrian conflict, and to make sure that journalists are able to use verified data for their investigations. Hadi has previously worked with Tactical Technology Collective for the last 5 years to support journalists and news agencies in securing their data, devices and communications online, as well as a digital and informational security trainer with the International Research and Exchange Board (IREX). In addition to working with the Syrian Archive, Hadi is part-time project leader for Middle East and North Africa investigations with Bellingcat. Hadi is also a fellow at the Centre for Internet and Human Rights.
+Hadi has been working since 2011 on collecting, verifying, and investigating citizen-generated data as evidence of human rights violations in order to expose and draw attention to human rights violations committed by all sides in the Syrian conflict, and to make sure that journalists are able to use verified data for their investigations. Hadi has previously worked with Tactical Technology Collective for the last 5 years to support journalists and news agencies in securing their data, devices and communications online. Hadi worked as a part-time open source investigator with Human Rights Watch and Bellingcat. Hadi is also a fellow at the Centre for Internet and Human Rights.
 
 ### Abdul Rahman Jaloud
 __Communication and Outreach__
