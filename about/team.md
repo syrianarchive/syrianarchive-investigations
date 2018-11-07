@@ -28,7 +28,7 @@ __Lead Developer__
 Niko is a developer who works on the technical systems and workflows of the Syrian Archive, helping to verify observations and process large amounts of data.  He makes the websites, maintains the databases, and deploys collection and verification tools.
 
 ### Haneen K
-__Arabic Editor and translations__
+__Arabic Editor and Translations__
 
 Haneen works on website and database layout and design, as well as on the translation of human rights reports and database content from Arabic into English.
 Previously, she has worked as a journalist with Enabbaladi.
@@ -41,11 +41,11 @@ Tareef is a developer, works on front-end development and data visualization. He
 Tareef is studying Electrical engineering.
 
 ### Sam Razzouk
-__Open source analyst__
+__Open Source Analyst__
 
 Sam identifies and verifies sources and visual documentation of human rights violations. Since 2011, he has worked with various Syrian organisations documenting human rights violations. Sam studied medicine in Syria and has worked with International Medical Corps in Turkey. Sam is based in Denmark.
 
 ### Gabriela Ivens
-__Open source analyst__
+__Open Source Analyst__
 
 Gabi works on locating and analysing open source material to investigate human rights violations. She has a background in human rights and technology and has previously worked at the investigative portal Exposing the Invisible and the Khmer Rouge Tribunal in Cambodia. She is particularly interested in methods to track planes.
