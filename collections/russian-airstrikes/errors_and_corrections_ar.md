@@ -1,7 +1,7 @@
 ---
 layout: "none.html"
 title: "الأخطاء والتصحيحات"
-date: 2017-07-01T00:05:18.055Z
+date: 2018-10-31T00:05:18.055Z
 desc: ""
 snippet: true
 image: /assets/logos/loogback.jpg
