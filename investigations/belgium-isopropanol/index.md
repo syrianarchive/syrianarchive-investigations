@@ -4,7 +4,6 @@ title: "Belgium illegally shipped 96 tonnes of sarin precursor to Syria"
 date: 2018-04-18
 desc: "Jeff Deutch, additional reporting by Kristof Clerix from Knack"
 image: /assets/port.jpg
-ogimage: /assets/chemical/chemicalheader.jpg
 ---
 
 Knack and Syrian Archive reveal today that Belgian companies have violated EU sanctions against Syria, according to the summons of an upcoming lawsuit.
