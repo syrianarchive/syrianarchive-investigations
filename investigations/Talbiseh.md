@@ -115,7 +115,7 @@ The landmarks and the targeted area has been identified as shown below in the Go
 
 Below are two satellite images (the first was taken on July 17, 2015 two months before the airstrike and the second was taken on November 12, 2015 two months after the airstrike) showing the extent of damage to the targeted location, the northern buildings, and the school along the same street.
 
-![](/assets/investigations/Talbiseh/talbisah-2-before-after.png)
+![](/assets/investigations/Talbiseh/talbisah-2-before-after.jpg)
 
 Later, after the airstrike, several sources spoke of targeting the same site of the first raid again during rescue operations by warplanes. Many activists and news networks published pictures and news of victims and wounded civilians who were killed in air raids on Talbiseh town. The second bombing was also by Russian aircraft according to some media networks.
 
