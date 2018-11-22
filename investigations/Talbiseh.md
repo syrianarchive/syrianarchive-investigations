@@ -6,6 +6,18 @@ desc: ""
 image: /assets/investigations/russian-attacks.png
 drafts: true
 ---
+## Incident information
+
+- Location: Homs : Talbiseh
+- Date: 30/09/2015  
+- Time of Attack: ~ 10:00am  
+- Target: Buildings lived by civilians, mosque and a school
+- Reported killed:
+- Reported injured:
+- Munitions identified: Not available  
+- Potentially responsible: Russian air force  
+
+## What Happened?
 
 On September 30th, 2015, several news networks and activist pages [reported](https://www.youtube.com/watch?v=pPfe3S5vvMc) that the Russian airforce carried out airstrikes on [Talbiseh](https://goo.gl/maps/HR6mru5nPSz) town in the countryside of Homs, in conjunction with the Russian Federation Council that authorised Russian President Vladimir Putin to use the force in Syria, [announcing the start of Russian military operations in Syrian territory](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqblmOvkV9KM&sa=D&ust=1539188171178000).
 
@@ -41,13 +53,15 @@ The impact site in Talbiseh town, and the water tower can be seen again in this 
 
 ![](/assets/investigations/Talbiseh/image17.png)
 
+## When did it happen
+
 The Violations Documentation Center in Syria [published a report](http://www.vdc-sy.info/pdf/reports/1444252328-Arabic.pdf) on the Russian air raids on 30 September 2015, in which the Paramedic Omar Al Daqa (Abu Khaled Al Homsy), one of Talbiseh’s field hospital staff, recounted his experience:
 
 “On Wednesday 30 September 2015, around 10:00 am, Russian warplanes launched several fierce airstrikes on Talbiseh city, targeting a number of neighborhoods with thermobaric missiles, including Karameh, Post, and Mashjer streets, as well as the city’s bread distribution center. The shelling was along one track with almost 100 meters between each missile. As a result, 17 civilians were killed, 34 were wounded, and one is missing (probably torn into pieces).”
 
 Syrian Civil Defense member Dhiaa Abu Musaab (26), who was present during the airstrikes on the city of Talbiseh told the Violations Documentation Center:
 
-“On 30 September 2015, at about 11:00 am, we were informed by the observatories that two warplanes were flying over the northern countryside of Homs, including over the city of Talbiseh. I took my video camera and rushed to the roof of my house to film them, but before I got there, the observatories requested civilians to instantly evacuate the streets, adding that the pilots were speaking Russian. A few seconds later, the warplanes launched eight vacuum missiles – specifically on the northern neighborhoods, which were crowded with civilians. The attack also hit a civilian bread distribution center, although there were no military headquarters in the targeted area. It was probably the first time that I saw a smoke cloud that large after an explosion. When I arrived at the scene, I saw three large holes in the street of different depths from one meter to two and a half meters. Some of the missiles had fallen directly between civilian houses and streets.“
+“On 30 September 2015, at about 10:00 am, we were informed by the observatories that two warplanes were flying over the northern countryside of Homs, including over the city of Talbiseh. I took my video camera and rushed to the roof of my house to film them, but before I got there, the observatories requested civilians to instantly evacuate the streets, adding that the pilots were speaking Russian. A few seconds later, the warplanes launched eight vacuum missiles – specifically on the northern neighborhoods, which were crowded with civilians. The attack also hit a civilian bread distribution center, although there were no military headquarters in the targeted area. It was probably the first time that I saw a smoke cloud that large after an explosion. When I arrived at the scene, I saw three large holes in the street of different depths from one meter to two and a half meters. Some of the missiles had fallen directly between civilian houses and streets.“
 
 The Center also [published](http://www.vdc-sy.info/pdf/reports/1444252328-Arabic.pdf) the names of the 18 people who were killed as a result of the airstrikes including children.
 
@@ -64,6 +78,8 @@ Below is a photo [published on google maps](https://goo.gl/maps/iZSk24sNV1F2) wh
 Another [photo published](https://goo.gl/maps/CSHK4ByDq9R2) on google maps shows the mosque as well as the water tower.
 
 ![](/assets/investigations/Talbiseh/image4.png)
+
+## Geolocation
 
 Below is a google earth imagery showing [the water tower, school, the second and the third mosque in the area of the attack](https://www.google.com/url?q=https://www.google.com.tr/maps/@34.8454128,36.730747,181m/data%3D!3m1!1e3&sa=D&ust=1539189669563000). Those landmarks are the same ones appear in the videos published above.
 
@@ -113,19 +129,21 @@ The landmarks and the targeted area has been identified as shown below in the Go
 
 ![](/assets/investigations/Talbiseh/image5.png)
 
-Below are two satellite images (the first was taken on Nov 17, 2013 and the other one on May 30, 2015) showing the structural damage to the buildings as a result of the airstrike.
+Below are two satellite images (the first was taken on Nov 17, 2013 and the other one on May 30, 2016) showing the structural damage to the buildings as a result of the airstrike.
 
 ![](/assets/investigations/Talbiseh/talbiseh-before-after-updated.png)
 
-Later, after the airstrike, several sources spoke of targeting the same site of the first raid again during rescue operations by warplanes. Many activists and news networks published pictures and news of victims and wounded civilians who were killed in air raids on Talbiseh town. The second bombing was also by Russian aircraft according to some media networks.
+Later, after the airstrike, several sources reported targeting the same impact site again during the rescue operations. Many activists and news networks published pictures and news of victims and wounded civilians who were killed in airstrikes that targeted the Talbiseh town. The second bombing was also by a Russian aircraft according to media networks that published materials about the incident.
 
-Baladi Media Network page on Facebook posted a video on September 30, 2015, [about re-bombing the impact site again during rescue operations](https://www.google.com/url?q=https://www.facebook.com/baladinetwork/videos/622454614524504/&sa=D&ust=1539188171191000) by Russian aircraft according to the network.
+Baladi Media Network page on Facebook posted a video on September 30, 2015, [about targeting the impact site again during rescue operations](https://www.google.com/url?q=https://www.facebook.com/baladinetwork/videos/622454614524504/&sa=D&ust=1539188171191000) by Russian a aircraft.
 
-On September 30, 2015, Talbiseh News channel on YouTube posted several videos of victims of Talbiseh attacks, including [a video of the child victim](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9aZ0tew17VY&sa=D&ust=1539188171192000) "Ahmed Mohammed Juma", [a video of the young victim](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0mm-S2adiU4&sa=D&ust=1539188171192000) "Musa Mahmoud Juma", and [a video of a Civil Defense member](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1bHO1ieMYwU&sa=D&ust=1539188171192000) "Abd Al-Latif al-Dahik" who was killed in the second air strike during the rescue operations. The channel also published [a video of the funeral](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DIeK-V6ywp2o&sa=D&ust=1539188171192000) of some of the victims.
+## Civilian casualties
+
+Talbiseh News channel on YouTube posted several videos of victims of Talbiseh attacks, including [a video of the child victim](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D9aZ0tew17VY&sa=D&ust=1539188171192000) "Ahmed Mohammed Juma", [a video of the young victim](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0mm-S2adiU4&sa=D&ust=1539188171192000) "Musa Mahmoud Juma", and [a video of a Civil Defense member](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D1bHO1ieMYwU&sa=D&ust=1539188171192000) "Abd Al-Latif al-Dahik" who was killed in the second airstrike during the rescue operations. The channel also published [a video of the funeral](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DIeK-V6ywp2o&sa=D&ust=1539188171192000) of some of the victims.
 
 In addition, the Syrian Civil Defense in Homs province mourned the death of the member "Abd Al-Latif Al-Dahik" [in a post on their Facebook page](https://www.google.com/url?q=https://www.facebook.com/SCDHOMS/posts/462825793895268?__tn__%3D-R&sa=D&ust=1539188171192000).
 
-The Syrian Network for Human Rights published a picture of two victim children who were killed in the air raids on Talbiseh town, Ahmad and Yamen Mohammed Al Juma.
+The Syrian Network for Human Rights published a picture of two children who were killed in the airstrikes on Talbiseh town, Ahmad and Yamen Mohammed Al Juma.
 
 ![](/assets/investigations/Talbiseh/image7.png)
 
