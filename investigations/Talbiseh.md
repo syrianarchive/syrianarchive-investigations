@@ -1,6 +1,6 @@
 ﻿---
 layout: investigation.html
-title: ""
+title: "Alleged Russian airstrike that targeted Talbiseh"
 date:
 desc: ""
 image: /assets/investigations/russian-attacks.png
@@ -10,12 +10,12 @@ drafts: true
 
 - Location: Homs : Talbiseh
 - Date: 30/09/2015  
-- Time of Attack: ~ 10:00am  
+- Time of Attack: ~ Between 10:00am and 11:00am   
 - Target: Buildings lived by civilians, mosque and a school
-- Reported killed:
+- Reported killed: 18
 - Reported injured:
 - Munitions identified: Not available  
-- Potentially responsible: Russian air force  
+- Potentially responsible: Russian airforce  
 
 ## What Happened?
 
@@ -67,6 +67,8 @@ The Center also [published](http://www.vdc-sy.info/pdf/reports/1444252328-Arabic
 
 ![](/assets/investigations/Talbiseh/image21.png)
 
+## Landmarks and Geolocation
+
 "Talbiseh Mubasher" network also published [a video]((https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlQNhP6G0u7s&sa=D&ust=1539188171184000)) showing smoke rises as a result of airstrikes that targeted Talbiseh, showing a mosque minaret in front of the explosion site. The open source investigators team at the Syrian Archive found that this minaret belongs to [Al-Iman and Al-Rahma mosque](https://goo.gl/maps/43Sk5FnU9Cs) east of the town.
 
 ![](/assets/investigations/Talbiseh/image11.png)
@@ -78,8 +80,6 @@ Below is a photo [published on google maps](https://goo.gl/maps/iZSk24sNV1F2) wh
 Another [photo published](https://goo.gl/maps/CSHK4ByDq9R2) on google maps shows the mosque as well as the water tower.
 
 ![](/assets/investigations/Talbiseh/image4.png)
-
-## Geolocation
 
 Below is a google earth imagery showing [the water tower, school, the second and the third mosque in the area of the attack](https://www.google.com/url?q=https://www.google.com.tr/maps/@34.8454128,36.730747,181m/data%3D!3m1!1e3&sa=D&ust=1539189669563000). Those landmarks are the same ones appear in the videos published above.
 
@@ -147,38 +147,27 @@ The Syrian Network for Human Rights published a picture of two children who were
 
 ![](/assets/investigations/Talbiseh/image7.png)
 
-On the same day, Talbiseh News channel published many videos of injured people, including a [video of a child](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiW_PfDoR-60&sa=D&ust=1539188171193000) injured by shrapnel due to air raids, and [a video of an injured young man](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGMU54aiGSDA&sa=D&ust=1539188171193000) receiving medical care after being extracted from under the rubble. The channel also posted [a video of one of the field hospitals](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DwUMWd_vmr1E&sa=D&ust=1539188171194000) in Talbiseh crowded with injured as a result of the attacks.
+On the same day, Talbiseh News channel published many videos of injured people, including a [video of a child](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiW_PfDoR-60&sa=D&ust=1539188171193000) injured by shrapnel as a result of the airstrikes, and [a video of an injured young man](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGMU54aiGSDA&sa=D&ust=1539188171193000) receiving medical care after being extracted from under the rubble. The channel also posted [a video of one of the field hospitals](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DwUMWd_vmr1E&sa=D&ust=1539188171194000) in Talbiseh crowded with injured as a result of the attacks.
 
-Step News Agency published the [preliminary list of victims](https://www.google.com/url?q=https://www.facebook.com/StepNewsAgency/posts/672942936174325?__tn__%3D-R&sa=D&ust=1539188171194000) of air strikes in Talbiseh.
+The media center of Talbiseh published a [video showing the people killed](https://www.youtube.com/watch?v=uN2WWMoZ1-4&list=TLzlllYDxAVbMwMjEwMjAxNQ) as a result of the Russian airstrike.
 
-![](/assets/investigations/Talbiseh/image27.png)
+Some [pro-Syrian government pages](https://www.google.com/url?q=http://archive.fo/2DS2k&sa=D&ust=1539188171195000) published news of the [continued bombing of Talbiseh town](https://www.google.com/url?q=https://www.facebook.com/General.Command.Armed.Forces963/posts/835469936572767?__tn__%3D-R&sa=D&ust=1539188171195000).
 
-Source: [Step News Agency](https://www.google.com/url?q=http://archive.fo/2gc6x&sa=D&ust=1539188171194000)
+Several hours after the airstrike at 15:45 in Damascus local time, the Turkish Anadolu News Agency reported in their [page on Facebook](https://www.google.com/url?q=https://www.facebook.com/AnadoluAgency.AR/posts/896894630431676?__tn__%3D-R&sa=D&ust=1539188171195000) that activists in the provinces of Hama and Homs saw two aircrafts of a new-model they had not seen before, simultaneously in the skies of areas under the opposition control In both provinces, pointing out that the aircraft carried out a number of raids in those areas.
 
-Some [pro-Syrian government pages](https://www.google.com/url?q=http://archive.fo/2DS2k&sa=D&ust=1539188171195000) published news of the [continued bombing of Talbiseh town](https://www.google.com/url?q=https://www.facebook.com/General.Command.Armed.Forces963/posts/835469936572767?__tn__%3D-R&sa=D&ust=1539188171195000) on the evening of September 30, 2015, when the Syrian regime bombed Talbiseh town and its suburbs with rocket launchers.
+According to the website of the Russian Defense Ministry, [the ministry has launched the first airstrike in Syria on 30th September 2015](http://syria.mil.ru/news/more.htm?id=12059172@egNews) to fight what they called global terrorist groups in the Syrian Arab Republic.
 
-Several hours after the raids, at 15:45 in Damascus local time, the Turkish Anadolu News Agency reported in their page on Facebook [that activists in the provinces of Hama and Homs saw two planes of a late-model](https://www.google.com/url?q=https://www.facebook.com/AnadoluAgency.AR/posts/896894630431676?__tn__%3D-R&sa=D&ust=1539188171195000) they had not seen before, simultaneously in the skies of areas under the opposition control In both provinces, pointing out that the aircraft carried out a number of raids in those areas.
+On 30 September 2015, the spokesman of the Russian Defense Ministry, Major General Igor Konashenkov said in a brief statement [that Russian forces launched about twenty precision airstrikes](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqblmOvkV9KM&sa=D&ust=1539188171198000) targeting eight objectives of the ISIS terrorist group at the territory of Syrian Arab Republic. The website of the Russian Defense Ministry also [published a video](http://syria.mil.ru/news/more.htm?id=12059172@egNews) about these airstrikes on Sep 30th 2015.
 
-The Anadolu News Agency reported that the raids came hours after the Russian Federation Council authorized President Putin to use force in Syria.
+The Armed Forces of the Russian Federation VK account [published a map](https://vk.com/wall-3457550_23655) showing ISIS and Al Nusra controlled areas. The location of Talbiseh that was targeted by airstrikes is not under the green area which is not under the control of ISIS neither Al Nusra.
 
-![](/assets/investigations/Talbiseh/image24.png)
+![](/assets/investigations/Talbiseh/0_140082_4067e5d2_orig.jpeg)
 
-[Anadolu News Agency post](https://www.google.com/url?q=https://www.facebook.com/AnadoluAgency.AR/posts/896894630431676?__tn__%3D-R&sa=D&ust=1539188171196000)
 
-According to the website of the Russian Defense Ministry, [the ministry has launched an air operation as from the date 30 September 2015](https://www.google.com/url?q=https://structure.mil.ru/mission/fight_against_terrorism.htm&sa=D&ust=1539188171196000) to fight what they called global terrorist groups in the Syrian Arab Republic.
+## Conclusion
 
-![](/assets/investigations/Talbiseh/image32.png)
+After collecting and analysing images and visual documentation published on social media platforms and news networks; the Syrian Archive's open source investigation team found that Talbiseh town in the countryside of Homs was targeted by Russian airstrikes on 30th September 2015.
 
-Many news media, including [Al-Mayadeen](https://www.google.com/url?q=http://www.almayadeen.net/news/politics/620487/%25D8%25B1%25D9%2588%25D8%25B3%25D9%258A%25D8%25A7--%25D9%2585%25D8%25AC%25D9%2584%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AA%25D8%25AD%25D8%25A7%25D8%25AF-%25D9%258A%25D8%25B5%25D8%25A7%25D8%25AF%25D9%2582-%25D8%25B9%25D9%2584%25D9%2589-%25D8%25AA%25D9%2581%25D9%2588%25D9%258A%25D8%25B6-%25D8%25A8%25D9%2588%25D8%25AA%25D9%258A%25D9%2586-%25D8%25A8%25D8%25A7%25D8%25B3%25D8%25AA%25D8%25AE%25D8%25AF%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D9%2582%25D9%2588%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584&sa=D&ust=1539188171197000) channel and [Russia Today](https://www.google.com/url?q=https://russian.rt.com/article/120198%23ixzz3nElK4vK8&sa=D&ust=1539188171197000) website, reported that the Russian Federation Council authorised President Vladimir Putin to use the Russian force (only aviation) outside the country on the morning of September 30, 2015, hours before the air raid on Talbiseh town and its surroundings. The Chief of the Presidential Administration Sergey Ivanov said that the decision related to the use of military air force only and not ground forces.
+It should be noted that hours before the airstrikes on the same day, the Russian Federation Council authorised President Vladimir Putin to use force in Syria as an official announcement to start Russian military operations in Syrian territory.
 
-On 30 September 2015, the spokesman of the Russian Defense Ministry, Major General Igor Konashenkov said in a brief statement [that Russian forces launched about twenty precision airstrikes](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DqblmOvkV9KM&sa=D&ust=1539188171198000) targeting eight objectives of the ISIS terrorist group at the territory of Syrian Arab Republic, he added: “ Ammunition depots, weapons, fuel and lubricants, accumulation of military equipment have been struck as a result of the air strikes. Command control posts of the ISIS militias in the mountainous area have been completely destroyed. The civilian infrastructure and the nearby territory was not stricken." The website of the Russian Defense Ministry also published a video [showing targeting several locations inside the Syrian territory](https://www.google.com/url?q=http://eng.mil.ru/en/news_page/country/more.htm?id%3D12059172@egNews&sa=D&ust=1539188171198000) on 30 September 2015, the website reported that the aircraft which carried out the eight attacks took off from the [Bassel al-Assad airport](https://www.google.com/url?q=http://wikimapia.org/%23lang%3Dtr%26lat%3D35.421651%26lon%3D35.994987%26z%3D12%26m%3Db%26show%3D/13772226/Bassel-Al-Assad-International-Airport-Humaymim-Naval-Airbase&sa=D&ust=1539188171198000) (Hmeymim airfield) in Latakia countryside, and "performed high accuracy strikes against international terrorist organization ISIS."
-
-After collecting and analysing images and visual evidence published on social media platforms and news networks; the research team in the Syrian Archive revealed that on 30 September 2015 Talbiseh town in the countryside of Homs was targeted by warplanes, likely to Russian, with two air strikes in the same location north of the town.
-
-It should be noted that hours before the air raid on the same day, the Russian Federation Council authorised President Vladimir Putin to use force in Syria as an official announcement to start Russian military operations in Syrian territory.
-
-According to the analysed evidence and sources; at about 11:00 am on the noon of 30 September 2015 Russian aircraft launched an airstrike using thermobaric rockets north of Talbiseh town, followed by a second raid at the same site during the rescue operations resulting in a larger number of victims, especially within the Civil Defense members, where the death toll in the two attacks reached 18 victims and many wounded. The Russian Defense Ministry said that its forces launched about twenty precision airstrikes targeting eight objectives of the ISIS terrorist group at the territory of Syrian Arab Republic, while the research team in Syrian Archive found that Talbiseh city is more than 100 km from the nearest point under ISIS control, which denies the Russian official explanation.
-
-Shelling was carried out on a single north-south axis, which extended along Al-Karameh Street, the Post Street, in addition to the city’s bread distribution center, using eight rockets with almost 100 meters between each missile.
-
-On the same day; news networks reported that Russian aircraft carried out five airstrikes on several locations in [Zafarana and Makramiya](https://www.google.com/url?q=https://vdc-sy.net/report-on-russian-attacks-ar/&sa=D&ust=1539188171201000) towns at about 10:30 am, then in Talbiseh at about 11:00 am and then in [Rastan](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlIX_NE2R5ms&sa=D&ust=1539188171201000) at about 11:30 am, all of these towns are located in the northern countryside of Homs.
+According to the analysed evidence and sources; between 10:00 and 11:00 am on the noon of 30 September 2015 Russian airstrikes targeted the north of Talbiseh town, followed by a second airstrike at the same site during the rescue operations resulting in a larger number of victims, especially within the Civil Defense members, where the death toll in the two attacks reached 18 victims and many wounded. The Russian Defense Ministry said that its forces launched about twenty precision airstrikes targeting eight objectives of the ISIS terrorist group at the territory of Syrian Arab Republic. Talbiseh city is not under ISIS neither Al Nusra controlled areas.
