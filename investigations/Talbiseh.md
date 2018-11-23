@@ -55,7 +55,7 @@ The impact site in Talbiseh town, and the water tower can be seen again in this 
 
 ## When did it happen
 
-The Violations Documentation Center in Syria [published a report](http://www.vdc-sy.info/pdf/reports/1444252328-Arabic.pdf) on the Russian air raids on 30 September 2015, in which the Paramedic Omar Al Daqa (Abu Khaled Al Homsy), one of Talbiseh’s field hospital staff, recounted his experience:
+The Violations Documentation Center in Syria [published a report](http://www.vdc-sy.info/pdf/reports/1444252328-English.pdf) on the Russian air raids on 30 September 2015, in which the Paramedic Omar Al Daqa (Abu Khaled Al Homsy), one of Talbiseh’s field hospital staff, recounted his experience:
 
 “On Wednesday 30 September 2015, around 10:00 am, Russian warplanes launched several fierce airstrikes on Talbiseh city, targeting a number of neighborhoods with thermobaric missiles, including Karameh, Post, and Mashjer streets, as well as the city’s bread distribution center. The shelling was along one track with almost 100 meters between each missile. As a result, 17 civilians were killed, 34 were wounded, and one is missing (probably torn into pieces).”
 
@@ -63,7 +63,7 @@ Syrian Civil Defense member Dhiaa Abu Musaab (26), who was present during the ai
 
 “On 30 September 2015, at about 10:00 am, we were informed by the observatories that two warplanes were flying over the northern countryside of Homs, including over the city of Talbiseh. I took my video camera and rushed to the roof of my house to film them, but before I got there, the observatories requested civilians to instantly evacuate the streets, adding that the pilots were speaking Russian. A few seconds later, the warplanes launched eight vacuum missiles – specifically on the northern neighborhoods, which were crowded with civilians. The attack also hit a civilian bread distribution center, although there were no military headquarters in the targeted area. It was probably the first time that I saw a smoke cloud that large after an explosion. When I arrived at the scene, I saw three large holes in the street of different depths from one meter to two and a half meters. Some of the missiles had fallen directly between civilian houses and streets.“
 
-The Center also [published](http://www.vdc-sy.info/pdf/reports/1444252328-Arabic.pdf) the names of the 18 people who were killed as a result of the airstrikes including children.
+The Center also [published](http://www.vdc-sy.info/pdf/reports/1444252328-English.pdf) the names of the 18 people who were killed as a result of the airstrikes including children.
 
 ![](/assets/investigations/Talbiseh/image21.png)
 
@@ -95,7 +95,7 @@ Below is the geolocation of the water tower on the right, and the third mosque w
 
 ![](/assets/investigations/Talbiseh/image33.jpg)
 
-In the same [video](https://www.youtube.com/watch?v=O4cP-FUFQrY), the second mosque minaret appeared for a moment, which shows how close the impact site is from the mosque.
+In the [video](https://www.youtube.com/watch?v=O4cP-FUFQrY) published by "Syria Revolutionaries Gathering, Homs northern countryside - media office" channel; the second mosque minaret appeared for a moment, which shows how close the impact site is from the mosque.
 
 ![](/assets/investigations/Talbiseh/image10.png)
 
