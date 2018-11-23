@@ -1,9 +1,9 @@
 ﻿---
 layout: investigation.html
 title: ""
-date: 
+date:
 desc: ""
-image: /assets/investigations/russian-attacks.png
+image: /assets/investigations/Talbiseh/talbiseh-before-after-updated.png
 drafts: true
 ---
 

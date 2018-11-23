@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Alleged Russian airstrike that targeted Talbiseh"
 date:
 desc: ""
-image: /assets/investigations/russian-attacks.png
+image: /assets/investigations/Talbiseh/talbiseh-before-after-updated.png
 drafts: true
 ---
 ## Incident information
@@ -13,9 +13,8 @@ drafts: true
 - Time of Attack: ~ Between 10:00am and 11:00am   
 - Target: Buildings lived by civilians, mosque and a school
 - Reported killed: 18
-- Reported injured:
 - Munitions identified: Not available  
-- Potentially responsible: Russian airforce  
+- Potentially responsible: Russian Airforce  
 
 ## What Happened?
 
