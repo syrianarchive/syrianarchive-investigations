@@ -3,8 +3,7 @@ layout: investigation.html
 title: "استهداف تلبيسة بغارات جويّة يُزعم أنها روسية"
 date:
 desc: ""
-image: /assets/investigations/russian-attacks.png
-drafts: true
+image: /assets/investigations/Talbiseh/talbiseh-before-after-updated.png
 ---
 
 ## حول الحادثة

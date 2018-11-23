@@ -4,7 +4,6 @@ title: "Alleged Russian airstrike that targeted Talbiseh"
 date:
 desc: ""
 image: /assets/investigations/Talbiseh/talbiseh-before-after-updated.png
-drafts: true
 ---
 ## Incident information
 
@@ -161,7 +160,6 @@ On 30 September 2015, the spokesman of the Russian Defense Ministry, Major Gener
 The Armed Forces of the Russian Federation VK account [published a map](https://vk.com/wall-3457550_23655) showing ISIS and Al Nusra controlled areas. The location of Talbiseh that was targeted by airstrikes is not under the green area which is not under the control of ISIS neither Al Nusra.
 
 ![](/assets/investigations/Talbiseh/0_140082_4067e5d2_orig.jpeg)
-
 
 ## Conclusion
 
