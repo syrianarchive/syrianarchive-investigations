@@ -1,8 +1,8 @@
 ﻿---
 layout: investigation.html
-title: ""
-date: 
-desc: ""
+title: "Daraa investigation"
+date: 2018-01-17
+desc: "investigation"
 image: /assets/investigations/russian-attacks.png
 drafts: true
 ---
