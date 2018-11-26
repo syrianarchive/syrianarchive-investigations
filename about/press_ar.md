@@ -19,12 +19,18 @@ image: "/assets/about/press-1.png"
 
 #### بلغات أجنبيّة:
 
+- Independent (2018). [Syrian group documents ‘Russian attacks on civilians’](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
+- AP NEWS (2018) [Syrian group documents Russian attacks on civilians](https://www.apnews.com/d18183062a9e409a84d004779abe2f1e)
+- geographical imaginations (2018) [1418 strikes and you’re still in…](https://geographicalimaginations.com/2018/10/31/1418-strikes-and-youre-still-in/) 
+- Ukrinform (2018) [Syrian Archive:1400 Angriffe russischer Truppen auf Zivilisten in Syrien](https://www.ukrinform.de/rubric-crime/2570112-syrian-archive-1400-angriffe-russischer-truppen-auf-zivilisten-in-syrien.html)
+- 20 Minutos (2018) [Grupo sirio documenta ataques rusos contra civiles](https://www.20minutos.com/noticia/134172/0/grupo-sirio-documenta-ataques-rusos-contra-civiles/)
+- Tyden.cz (2018) [Ruské útoky v Sýrii: neziskovka zmapovala 1400 případů](https://www.tyden.cz/rubriky/zahranici/asie-a-oceanie/ruske-utoky-v-syrii-neziskovka-zmapovala-1400-pripadu_501543.html)
+- РБК-Украина (2018) [Сирийский архив задокументировал свыше 1,4 тыс. российских атак на гражданских ](https://www.rbc.ua/rus/news/siriyskiy-arhiv-zadokumentiroval-svyshe-1-1541061985.html)
 - The Guardian (2018). [Belgian firms prosecuted over Syria chemical exports](https://www.theguardian.com/world/2018/apr/18/belgian-firms-prosecuted-over-chemicals-exports-to-syria-sarin?CMP=twt_gu)
 - The Brussels Times (2018). [Belgian companies exported component of sarin to Syria](http://www.brusselstimes.com/brussels/11023/belgian-companies-exported-component-of-sarin-to-syria)
 - Knack (2018). [Douane vervolgt Vlaamse bedrijven voor illegale export naar Syrië](http://www.knack.be/nieuws/belgie/douane-vervolgt-vlaamse-bedrijven-voor-illegale-export-naar-syrie/article-normal-1103273.html)
 - Buzzfeed (2018). [These 3 Companies Are Under Investigation For Selling A Chemical Weapons Ingredient To Syria](https://www.buzzfeed.com/mitchprothero/belgium-investigating-3-companies-for-selling-chemical?utm_term=.plagxNWAx#.oeMwRLYQR)
 - BBC (2018). [Belgium firms prosecuted over exporting Sarin precursor to Syria](https://www.bbc.co.uk/news/amp/world-europe-43811614?__twitter_impression=true)
-- Independent (2018). [Syrian group documents ‘Russian attacks on civilians’](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
 - The Daily Beast (2018). [Belgian Firms Sent 96 Tons of Sarin ‘Precursor’ to Syria: Prosecutor](https://www.thedailybeast.com/belgian-firms-sent-96-tons-of-sarin-precursor-to-syria-prosecutor)
 - Vlaams Parlement (2018). [Plenaire vergadering](https://www.vlaamsparlement.be/plenaire-vergaderingen/1246769/verslag/1248020)
 - Buzzfeed (2018). [Silicon Valley Can't Be Trusted With Our History](https://www.buzzfeed.com/evanhill/silicon-valley-cant-be-trusted-with-our-history?utm_term=.tyBvkWAjk#.shOADk6QD)
