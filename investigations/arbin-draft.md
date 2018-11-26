@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Shelling Arbin with incendiary munitions"
 date: 2018-03-11
-desc: ""
+desc: "arbin investigation"
 image: /assets/investigations/hrc_cover.png
 drafts: true
 ---

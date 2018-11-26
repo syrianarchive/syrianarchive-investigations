@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Shelling Harasta with Napalm"
 date: 2018-01-28
-desc: ""
+desc: "investigation"
 image: /assets/investigations/hrc_cover.png
 drafts: true
 ---

@@ -1,8 +1,8 @@
 ﻿---
 layout: investigation.html
-title: ""
-date: 
-desc: ""
+title: "درعا"
+date: 2018-01-17
+desc: "تحقيق"
 image: /assets/investigations/russian-attacks.png
 drafts: true
 ---
