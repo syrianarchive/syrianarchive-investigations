@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Shelling Hamoria with Napalm"
 date: 2018-02-22
-desc: ""
+desc: "investigation"
 image: /assets/investigations/hrc_cover.png
 drafts: true
 ---

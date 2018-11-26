@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Shelling Duma with Napalm"
 date: 2018-02-09
-desc: ""
+desc: "investigation"
 image: /assets/investigations/hrc_cover.png
 drafts: true
 ---
