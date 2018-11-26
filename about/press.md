@@ -13,6 +13,7 @@ Articles in which the work of the Syrian Archive was highlighted include the fol
 - Knack (2018). [Douane vervolgt Vlaamse bedrijven voor illegale export naar Syrië](http://www.knack.be/nieuws/belgie/douane-vervolgt-vlaamse-bedrijven-voor-illegale-export-naar-syrie/article-normal-1103273.html)
 - Buzzfeed (2018). [These 3 Companies Are Under Investigation For Selling A Chemical Weapons Ingredient To Syria](https://www.buzzfeed.com/mitchprothero/belgium-investigating-3-companies-for-selling-chemical?utm_term=.plagxNWAx#.oeMwRLYQR)
 - BBC (2018). [Belgium firms prosecuted over exporting Sarin precursor to Syria](https://www.bbc.co.uk/news/amp/world-europe-43811614?__twitter_impression=true)
+- Independent (2018). [Syrian group documents ‘Russian attacks on civilians’](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
 - The Daily Beast (2018). [Belgian Firms Sent 96 Tons of Sarin ‘Precursor’ to Syria: Prosecutor](https://www.thedailybeast.com/belgian-firms-sent-96-tons-of-sarin-precursor-to-syria-prosecutor)
 - Vlaams Parlement (2018). [Plenaire vergadering](https://www.vlaamsparlement.be/plenaire-vergaderingen/1246769/verslag/1248020)
 - Buzzfeed (2018). [Silicon Valley Can't Be Trusted With Our History](https://www.buzzfeed.com/evanhill/silicon-valley-cant-be-trusted-with-our-history?utm_term=.tyBvkWAjk#.shOADk6QD)
@@ -27,6 +28,13 @@ Articles in which the work of the Syrian Archive was highlighted include the fol
 - WSD Handa Center for Human Rights and International Justice (2018). [Panel Convened on Technology, Syria, and Human Rights](https://handacenter.stanford.edu/news/panel-convened-technology-syria-and-human-rights)
 - Video from Tous les internets, ARTE (2018). [The Syrian Archive](https://www.facebook.com/touslesinternets/videos/vb.1431579507148714/1752559641717364/?type=2&theater).
 - correctiv (2018). [Beweise sichern für einen Prozess, den es vielleicht nie gibt](https://correctiv.org/recherchen/flucht/artikel/2018/01/29/beweise-sichern-fur-einen-prozess-den-es-vielleicht-nie-gibt/)
+-The New York Review of Books, (16 October 2018). [Why Assad and Russia Target the White Helmets](https://www.nybooks.com/daily/2018/10/16/why-assad-and-russia-target-the-white-helmets/)
+- HURIDOCS, (22 June 2018). [HRC side event panel on the role of technology in human rights investigations](https://www.huridocs.org/2018/06/hrc-side-event-panel-on-the-role-of-technology-in-human-rights-investigations/)
+- El Grito [STORYTELLING with VIDEO COLLECTIONS](https://elgrito.witness.org/portfolio/other-video-examples/)
+- Jstor, 2018 [The Syrian Archive: A Methodological Case Study of Open-Source Investigation of State Crime Using Video Evidence from Social Media Platforms](https://www.jstor.org/stable/10.13169/statecrime.7.1.0046?seq=1#page_scan_tab_contents)
+-ICIJ, (11 July 2018) [How spies and investigative reporters think alike](https://www.icij.org/blog/2018/07/how-spies-and-investigative-reporters-think-alike/)
+- NTV ( 22 September 2018). [Künstliche Intelligenz scannt Bomben in Syrien](https://www.n-tv.de/mediathek/videos/politik/Kuenstliche-Intelligenz-scannt-Bomben-in-Syrien-article20634505.html)
+- Medium (2018). [How Syrian Archive use open source investigation to support accountability in Syria](https://medium.com/meedan-updates/how-syrian-archive-use-open-source-investigation-to-support-accountability-in-syria-5a39ecfe3db8)
 - Kayyali, D and Althaibani, R. (2017). [Vital Human Rights Evidence in Syria is Disappearing from YouTube](http://www.voxpol.eu/vital-human-rights-evidence-syria-disappearing-youtube/). Voxpol.
 - El Deeb, S. [History of Syria’s war at risk as YouTube reins in content](https://apnews.com/d9f1c4f1bf20445ab06cbdff566a2b70). AP News.
 - Syrian observer staff. [The Syrian Archive: Preserving Evidence of War Crimes in the Digital Era](http://syrianobserver.com/EN/Features/33462). The Syrian Observer.
