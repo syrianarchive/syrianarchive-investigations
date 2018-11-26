@@ -11,7 +11,7 @@ _This article was collaboratively done by the Syrian Archive Team and Bellingcat
 - Location: Atarib (Aleppo governorate, Syria)
 - Claimed targets: Public market and police building
 - Date: 13 November 2017
-- First airstrike: ~14:07 local time (UTC/GMT plus 2)
+- First airstrike: 14:07 local time (UTC/GMT plus 2)
 - Second airstrike: ~14:12 local time (UTC/GMT plus 2)
 - Attacks: 3 alleged airstrikes, 6 thermometric bombs
 - Reported killed: 69 killed

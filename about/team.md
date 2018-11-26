@@ -10,7 +10,11 @@ The team working on the Syrian Archive is uniquely comprised of researchers, jou
 ### Hadi Al Khatib
 __Founder and Director__
 
+<<<<<<< HEAD
 Hadi has been working since 2011 on collecting, verifying, and investigating citizen-generated data as evidence of human rights violations in order to expose and draw attention to human rights violations committed by all sides in the Syrian conflict, and to make sure that journalists and lawyers are able to use the verified data for their investigations and criminal case building. Hadi has previously worked with Tactical Technology Collective for the last 5 years to support journalists and news agencies in securing their data, devices and communications online. Hadi worked as a part-time open source investigator with Human Rights Watch and Bellingcat. Hadi is also a fellow at the Center for Internet and Human Rights, and he is currently teaching a Masters of Arts course for the Raumstrategien program at the Kunsthochschule Berlin-Weissensee.
+=======
+Hadi has been working since 2011 on collecting, verifying, and investigating citizen-generated data as evidence of human rights violations in order to expose and draw attention to human rights violations committed by all sides in the Syrian conflict, and to make sure that journalists and lawyers are able to use the verified data for their investigations and criminal case building. Hadi has previously worked with Tactical Technology Collective for the last 5 years to support journalists and news agencies in securing their data, devices and communications online. Hadi worked as a part-time open source investigator with Human Rights Watch and Bellingcat. Hadi is also a fellow at the Center for Internet and Human Rights, and he is currently teaching a course for the Spatial Strategies Masters program at the Kunsthochschule Berlin-Weissensee.
+>>>>>>> 39087b5af3904810d603fba035b8fc7a034bdc2e
 
 ### Abdul Rahman Jaloud
 __Communication and Outreach__
@@ -20,7 +24,11 @@ Jaloud has worked on human rights in Syria since 2010 and has been documenting h
 ### Jeff Deutch
 __Lead Researcher__
 
+<<<<<<< HEAD
 Jeff is a researcher with Syrian Archive, where he develops workflows and methodologies for open source investigations. He additionally works on verification and long-form investigations and reports. Jeff is a fellow at the Centre for Internet and Human Rights and a PhD candidate at the Humboldt-University in Berlin. He is currently teaching a Masters of Arts course for the Raumstrategien program at the Kunsthochschule Berlin-Weissensee.
+=======
+Jeff is a researcher with Syrian Archive, where he develops workflows and methodologies for open source investigations. He additionally works on verification and long-form investigations and reports. Jeff is a fellow at the Centre for Internet and Human Rights and a PhD candidate at the Humboldt-University in Berlin.
+>>>>>>> 39087b5af3904810d603fba035b8fc7a034bdc2e
 
 ### Niko Para
 __Lead Developer__
