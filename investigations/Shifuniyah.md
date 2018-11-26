@@ -3,7 +3,7 @@ layout: investigation.html
 title: "New chlorine attack in Al-Shifuniyah town"
 date: 2018-02-25
 desc: "Targeting civilians with chemical gas in Eastern Ghouta"
-image: /assets/investigations/
+image: /assets/investigations/crater-oudai.png
 drafts: true
 ---
 
