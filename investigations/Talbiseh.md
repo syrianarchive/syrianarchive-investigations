@@ -67,11 +67,11 @@ VDC also [published](http://www.vdc-sy.info/pdf/reports/1444252328-English.pdf) 
 
 ## Landmarks and Geolocation
 
-"Talbiseh Mubasher" network also published a video [showing smoke rising as a result of airstrikes](https://www.youtube.com/watch?v%3DlQNhP6G0u7s&sa=D&ust=1539188171184000) that targeted Talbiseh. This video shows a mosque minaret in front of the explosion site. Syrian Archive identified that this minaret belongs to the [Al-Iman and Al-Rahma mosque](https://goo.gl/maps/43Sk5FnU9Cs) east of the town.
+"Talbiseh Mubasher" network also published a video [showing smoke rising as a result of airstrikes](https://www.youtube.com/watch?v%3DlQNhP6G0u7s&sa=D&ust=1539188171184000) that targeted Talbiseh. This video shows a mosque minaret in front of the explosion site. Syrian Archive identified that this minaret belongs to the [Al Mustafa and Al Maqbara mosques](https://goo.gl/maps/43Sk5FnU9Cs) east of the town.
 
 ![](/assets/investigations/Talbiseh/image11.png)
 
-Below is a photo published on Google Maps [which shows the minaret of "Al-Iman and Al-Rahma" mosque](https://goo.gl/maps/iZSk24sNV1F2), and behind it, the minaret of a second mosque.
+Below is a photo published on Google Maps [which shows the minaret of "Al Mustafa and Al Maqbara" mosques](https://goo.gl/maps/iZSk24sNV1F2), and behind it, the minaret of a second mosque (جامع علي).
 
 ![](/assets/investigations/Talbiseh/image36.png)
 
@@ -79,7 +79,7 @@ Another photo published Google Maps [shows the mosque as well as the water tower
 
 ![](/assets/investigations/Talbiseh/image4.png)
 
-Google Earth imagery shows [the water tower, school, the second and the third mosque in the area of the attack](https://www.google.com.tr/maps/@34.8454128,36.730747,181m/data%3D!3m1!1e3&sa=D&ust=1539189669563000). Those landmarks are the same ones appear in the videos published above.
+Google Earth imagery shows [the water tower (خزان القلعة), school (مدرسة الطلائع), the second (جامع علي) and the third mosque (جامع المصطفى) in the area of the attack](https://www.google.com.tr/maps/@34.8454128,36.730747,181m/data%3D!3m1!1e3&sa=D&ust=1539189669563000). Those landmarks are the same ones appear in the videos published above.
 
 ![](/assets/investigations/Talbiseh/image8.jpg)
 
