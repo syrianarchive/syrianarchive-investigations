@@ -15,8 +15,7 @@ image: /assets/russian/patternofattack.PNG
 أدناه جدول زمني لغارات جوية روسية مزعومة أسبوعية على مدنيين سوريين وبنى تحتيّة مدنية:
 
 ---
-
-<iframe src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/AllegedRussianairstrikes2015-2018/Sheet1?publish=yes" width="750" height="600"></iframe>
+<iframe src="https://public.tableau.com/views/AllegedRussianairstrikes2015-2018/Sheet1?publish=yes:showVizHome=no&:embed=true" width="750" height="600"></iframe>
 
 ---
 

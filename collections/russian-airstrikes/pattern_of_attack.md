@@ -15,7 +15,7 @@ A timeline of weekly alleged Russian airstrikes on Syrian civilians and civilian
 
 ---
 
-<iframe src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/AllegedRussianairstrikes2015-2018/Sheet1?publish=yes" width="750" height="600"></iframe>
+<iframe src="https://public.tableau.com/views/AllegedRussianairstrikes2015-2018/Sheet1?publish=yes:showVizHome=no&:embed=true" width="750" height="600"></iframe>
 
 ---
 

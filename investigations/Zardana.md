@@ -170,7 +170,7 @@ These times coincide with the testimonies of witnesses who said that the first a
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 20:30 and 22:00, the period directly before and after the reported attack as was claimed by media activists. See below:
 
-<iframe height="800" src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes" width="800"></iframe>
+<iframe height="800" src="https://public.tableau.com/views/Zardana7June2018/Sheet1?:showVizHome=no&:embed=y" width="800"></iframe>
 
 [View full visualisation](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes)
 
