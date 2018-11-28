@@ -21,7 +21,6 @@ Jaloud has worked on human rights in Syria since 2010 and has been documenting h
 ### Jeff Deutch
 __Lead Researcher__
 
-<<<<<<< HEAD
 Jeff is a researcher with Syrian Archive, where he develops workflows and methodologies for open source investigations. He additionally works on verification and long-form investigations and reports. Jeff is a fellow at the Centre for Internet and Human Rights and a PhD candidate at the Humboldt-University in Berlin. He is currently teaching a Masters of Arts course for the Raumstrategien program at the Kunsthochschule Berlin-Weissensee.
 
 ### Niko Para
