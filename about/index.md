@@ -4,7 +4,7 @@ title: About
 desc: "Mission, vision, and workflow"
 image: "/assets/about/about3.jpg"
 ---
-# Mission
+### Mission
 
 The Syrian Archive aims to support human rights investigators, advocates, media reporters, and journalists in their efforts to document human rights violations in Syria and worldwide through developing new open source tools as well as providing a transparent and replicable methodology for collecting, preserving, verifying and investigating visual documentation in conflict areas.
 
@@ -24,7 +24,7 @@ Visual documentation aims to strengthen political campaigns of human rights advo
 
 Additionally, visual documentation aims to help human rights activists and Syrian citizens in setting up a memorialisation process and to create dialogues around issues related to peace and justice, to recognise and substantiate the suffering of citizens and provide multiple perspectives on the conflict that acts to prevent revisionist or simplified narratives while raising awareness of the situation in the country and highlighting the futility of violence to next generations. Video and images often compliments official narratives and press accounts of an event or situation, adding both detail and nuance. At other times, they directly rebut certain factual claims and contradict pervasive narratives.
 
-# Vision
+### Vision
 
 Through collecting, verifying, preserving, and investigating visual documentation of human rights violations in Syria, the Syrian Archive aims to preserve data as a digital memory, to establish a verified database of human rights violations, and to act as an evidence tool for legally implementing justice and accountability as concept and practice in Syria.
 
