@@ -19,5 +19,5 @@ We have been also collaborating with a diverse network of Syrian human rights or
 
 - [The Syrian Network for Human Rights](http://sn4hr.org/)
 - [Sham News Agency](https://www.facebook.com/ShaamNetwork.Arabic/)
-- [Baladi News Agency](https://www.baladi-news.com/ar/)
-- [Step News Agency](http://stepagency-sy.net/)
+- [Baladi News Agency](https://www.baladi-news.com/en/)
+- [Step News Agency](http://stepagency-sy.net/en)
