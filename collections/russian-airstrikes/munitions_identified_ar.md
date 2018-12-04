@@ -21,4 +21,4 @@ image: /assets/russian/munition-identified.PNG
 سيصدر الأرشيف السوري قريبا قاعدة بيانات مقاطع فيديو تم التحقق منها حول استخدام الذخائر غير القانونية من قبل القوات السورية والروسية. تم اكتشاف مقاطع الفيديو تلك يدويًا بواسطة باحثينا وأوتوماتيكيًا باستخدام [VFRAME](https://vframe.io/) كما هو موضح أدناه:
 
 
-<iframe src="https://player.vimeo.com/video/297847125" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></p>
+<iframe src="https://player.vimeo.com/video/297847125" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
