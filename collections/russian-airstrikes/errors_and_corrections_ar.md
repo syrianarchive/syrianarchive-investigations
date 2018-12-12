@@ -1,9 +1,8 @@
 ---
-layout: "none.html"
+layout: "collections/russiancontent.html"
 title: "الأخطاء والتصحيحات"
 date: 2018-10-31T00:05:18.055Z
 desc: ""
-snippet: true
 image: /assets/logos/loogback.jpg
 ---
 
