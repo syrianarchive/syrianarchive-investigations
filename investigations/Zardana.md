@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Zardana"
 date: 2018-06-07
 desc: "investigation"
-image: /assets/investigations/hrc_cover.png
+image: /assets/investigations/
 drafts: true
 ---
 
