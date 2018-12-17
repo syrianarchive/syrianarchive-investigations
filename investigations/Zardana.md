@@ -81,7 +81,7 @@ A [report published by Aleppo Today](https://www.facebook.com/HalabTodayTV/video
 
 ![](/assets/investigations/zardana/image5.png)
 
-## Comparison of the damaged building
+## Comparison of the Damaged Building
 
 Through comparing the [video published by Aleppo Today during the rescue operations at night](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154388000) and the [video by SY Plus](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DB_E0k0cBOf8&sa=D&ust=1538476154389000) which showed the destroyed impact site that was filmed the day after the airstrikes, The Syrian Archive investigation team was able to confirm that both videos filmed in the same location.
 
@@ -98,7 +98,7 @@ It should also be noted that, according to several media sources including [Step
 
 *A map showing the location of the areas controlled by the Syrian armed opposition (in green) in Idlib province, and Zardana - Source: [Liveuamap](https://www.google.com/url?q=https://syria.liveuamap.com/&sa=D&ust=1538476154392000)*
 
-## De-escalation zone
+## De-escalation Zone
 
 On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding for the establishment of de-escalation zones in Syria](https://www.youtube.com/watch?v=5cF-gIL8yzk) which took effect on 6 May 2017. The Russian Ministry of Defense [published a map showing](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Zardana is located within the de-escalation zone.
 
@@ -108,9 +108,9 @@ There is also a Turkish observation point in Tal El-Eis roughly 20 km east of Za
 
 ![](/assets/investigations/zardana/image9.jpg)
 
-## Geolocating the impact site
+## Geolocating the Impact Site
 
-[Photos](https://www.facebook.com/omar.hajkadour333/media_set?set=a.10209881398830770.1073742052.1807482420&type=3) of the impact site were captured by media activist Omar Haj Kadour and published on the AFP.
+[Photos](https://www.facebook.com/omar.hajkadour333/media_set?set=a.10209881398830770.1073742052.1807482420&type=3) of the impact site were captured by media activist Omar Haj Kadour and published on the AFP as well as Zardana AL- Hadath Facebook page.
 
 ![](/assets/investigations/zardana/image22.jpg)
 *A photograph of the targeted location, in the background Saad bin Muadh mosque can be seen- [Omar Haj Kaddour](https://www.facebook.com/omar.hajkadour333/media_set?set=a.10209881398830770.1073742052.1807482420&type=3) \- AFP*
@@ -120,6 +120,7 @@ There is also a Turkish observation point in Tal El-Eis roughly 20 km east of Za
 *photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
 
 Below is a screen capture taken through Google Earth geolocating the minaret and the impact site.
+
 ![](/assets/investigations/zardana/image13.jpg)
 
 Another photo published by Zardana Al Hadath Facebook page which was captured from the minaret and shows the impact site
@@ -134,6 +135,7 @@ The exact building is geolocated using Google earth as seen below:
 *Matching Images from the satellite with photos*
 
 Images of the mosque before and after the airstrikes were published by Google Earth and Zardana Al Hadath Facebook page.
+
 ![](/assets/investigations/zardana/image14.jpg)
 *To the right, an old photo of Saad bin Mu'adh mosque - [Google Earth](https://www.google.com/url?q=https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000301h,0.8381202t,0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg&sa=D&ust=1538476154399000)*
 *To the left, a photo of the damage in the same mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154400000)*
@@ -160,8 +162,6 @@ The Syrian Archive investigation team created 3D structure representing building
 *3D representation of the targeted site before and after the attack*
 
 Below is a photo published by Zardana Al Hadath  on their official facebook page showing the structural damage to the buildings in the impact site.
-
-![](/assets/investigations/zardana/119.png)
 
 ![](/assets/investigations/zardana/image19.jpg)
 *photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.facebook.com/Zerdna838/posts/442233609551095)*
@@ -194,4 +194,4 @@ Zardana, a town north of Idlib, was targeted on Thursday night, 7 June 2018, at 
 
 Thermobaric rockets claimed to be used in one of the two airstrikes, based on the destruction of the entire residential neighborhood, and the crater depth of 10 meters.
 
-The [Russian Ministry of Defence denied](https://sputniknews.com/middleeast/201806081065228869-russia-syria-strike-zardana-claims/) its warplanes were involved, and instead blamed the attack on artillery shelling between two fighting factions of Jaysh Al-Ahrar and Hay'at Tahrir al-Sham. Although the fighting started on the previous day, but there were no clashes in the targeted area, and all witnesses and injured confirmed that the bombardment was from aircraft flying that night, where high-explosive weapons were used. 
+The [Russian Ministry of Defence denied](https://sputniknews.com/middleeast/201806081065228869-russia-syria-strike-zardana-claims/) its warplanes were involved, and instead blamed the attack on artillery shelling between two fighting factions of Jaysh Al-Ahrar and Hay'at Tahrir al-Sham. Although the fighting started on the previous day, but there were no clashes in the targeted area, and all witnesses and injured confirmed that the bombardment was from aircraft flying that night, where high-explosive weapons were used.
