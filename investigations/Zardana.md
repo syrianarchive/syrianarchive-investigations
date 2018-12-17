@@ -33,13 +33,17 @@ On June 7th 2018, Zardana Al Hadath facebook page [published a post](https://www
 
 ![](/assets/investigations/zardana/zardana-1st-airstrike.png)
 
-![](/assets/investigations/zardana/UTC time.png) ![](/assets/investigations/zardana/damascustimezone.png)
+![](/assets/investigations/zardana/UTCtime.png) ![](/assets/investigations/zardana/damascustimezone.png)
 
 On the same day at 22:06 Damascus local time, they [published another post](https://www.facebook.com/Zerdna838/posts/441875912920198) about a second airstrike that targeted the same impact site.
 
 ![](/assets/investigations/zardana/zardana-2nd0airstrike.png)
 
-On June 12th 2018, Zardana Al Hadath facebook page [published a video](https://www.facebook.com/Zerdna838/videos/443894186051704/) showing the first moment of the second airstrike that targeted the same impact site where civilians were rescuing the injured and pulling out the dead from under the rubble as a result of the first airstrike. The sound of the aircraft can be heard at 00:31 of the video. Ibrahim Amon is one the civilians who died in the second airstrike as he was rescuing civilians as shown in this [video](https://www.facebook.com/Zerdna838/videos/442940776147045/).
+On June 12th 2018, Zardana Al Hadath facebook page [published a video](https://www.facebook.com/Zerdna838/videos/443894186051704/) showing the first moment of the second airstrike that targeted the same impact site where civilians were rescuing the injured and pulling out the dead from under the rubble as a result of the first airstrike. The sound of the aircraft can be heard at 00:31 of the video.
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FZerdna838%2Fvideos%2F443894186051704%2F&show_text=0&width=261" width="261" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Ibrahim Amon is one the civilians who died in the second airstrike as he was rescuing civilians as shown in this [video](https://www.facebook.com/Zerdna838/videos/442940776147045/).
 
 Step News Agency published a video [showing the rescue operations and the search for survivors](https://www.youtube.com/watch?v=-XrXN4jTvAk) by the Syrian Civil Defense members after the airstrikes.
 
