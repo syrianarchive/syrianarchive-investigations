@@ -1,13 +1,12 @@
 ---
 layout: investigation.html
-title: "Zardana"
-date: 2018-06-07
-desc: "investigation"
-image: /assets/investigations/drone-zardana-after-airstrikes.png
+title: "Zardana residential neighborhood targeted with airstrikes"
+date: 2018-12-17
+desc: "45 civilians dead as a result of airstrikes that attacked Zardana"
+image: /assets/investigations/zardana/drone-zardana-after-airstrikes.png
+socialMediaImage: /assets/investigations/zardana/111.png
 drafts: true
 ---
-
-# Zardana residential neighborhood targeted with airstrikes
 
 - Location: Zardana (Idlib Governorate, Syria)
 - Claimed targets: Residential construction.
@@ -16,7 +15,7 @@ drafts: true
 - Second airstrike: ~ 21:35 local time (UTC/GMT plus 2)
 - Reported killed: 45 including 7 women and 10 children
 - Reported injured: 70
-- Munitions identified: Remnants of the munition not available
+- Munitions identified: Remnants of the munition are not available
 - Potentially responsible: Russian or Syrian Air Force
 
 
