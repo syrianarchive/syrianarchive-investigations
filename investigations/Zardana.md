@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Zardana"
 date: 2018-06-07
 desc: "investigation"
-image: /assets/investigations/
+image: /assets/investigations/drone-zardana-after-airstrikes.png
 drafts: true
 ---
 
