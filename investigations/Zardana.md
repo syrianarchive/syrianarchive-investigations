@@ -142,17 +142,17 @@ Images of the mosque before and after the airstrikes were published by Google Ea
 
 A water tower can be identified in this image which confirmed the location of the impact site through geolocating it with Google earth as shown below:
 
-![](/assets/investigations/zardana/image15.jpg)
+![](/assets/investigations/zardana/image15-landmark.jpg)
 *A photo showing Saad bin Mu'adh mosque, behind it a water tower can be seen, which is located west of Zardana town - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154401000)*
 
 
 ![](/assets/investigations/zardana/image21.jpg)
 
-## Structural damage in the Impact Site
+## Structural Damage in the Impact Site
 
 Below are two satellite images taken before and after the airstrikes which shows structural damage to the residential building.
 
-![](/assets/investigations/zardana/110.png)
+![](/assets/investigations/zardana/zardana-before-after-airstrikes-2018.png)
 
 *Satellite image of the targeted site showing the aftermath of the attack*
 
