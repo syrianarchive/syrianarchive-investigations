@@ -110,41 +110,35 @@ There is also a Turkish observation point in Tal El-Eis roughly 20 km east of Za
 
 ## Geolocating the impact site
 
-Below are photos publihsed by thr AFP of the ipact site.
+[Photos](https://www.facebook.com/omar.hajkadour333/media_set?set=a.10209881398830770.1073742052.1807482420&type=3) of the impact site were captured by media activist Omar Haj Kadour and published on the AFP.
 
 ![](/assets/investigations/zardana/image22.jpg)
-*A photograph of the targeted location, in the background Saad bin Muadh mosque can be seen- [Omar Haj Kaddour](https://www.google.com/url?q=https://www.facebook.com/media/set/?set%3Da.10209881398830770.1073742052.1807482420%26type%3D3&sa=D&ust=1538476154396000) \- AFP*
+*A photograph of the targeted location, in the background Saad bin Muadh mosque can be seen- [Omar Haj Kaddour](https://www.facebook.com/omar.hajkadour333/media_set?set=a.10209881398830770.1073742052.1807482420&type=3) \- AFP*
 
 
 ![](/assets/investigations/zardana/image4.jpg)
 *photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
 
-
+Below is a screen capture taken through Google Earth geolocating the minaret and the impact site.
 ![](/assets/investigations/zardana/image13.jpg)
 
-![](/assets/investigations/zardana/image19.jpg)
-*photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
-
+Another photo published by Zardana Al Hadath Facebook page which was captured from the minaret and shows the impact site
 
 ![](/assets/investigations/zardana/image17.jpg)
 *photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154398000)*
 
 
-![](/assets/investigations/zardana/image3.jpg)
+The exact building is geolocated using Google earth as seen below:
 
 ![](/assets/investigations/zardana/image24.jpg)
 *Matching Images from the satellite with photos*
 
-
+Images of the mosque before and after the airstrikes were published by Google Earth and Zardana Al Hadath Facebook page.
 ![](/assets/investigations/zardana/image14.jpg)
 *To the right, an old photo of Saad bin Mu'adh mosque - [Google Earth](https://www.google.com/url?q=https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000301h,0.8381202t,0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg&sa=D&ust=1538476154399000)*
 *To the left, a photo of the damage in the same mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154400000)*
 
-
-![](/assets/investigations/zardana/image18.jpg)
-*Above, an old photo of Saad bin Mu'adh Mosque - [Google Earth](https://www.google.com/url?q=https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000306h,0.8381202t,0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg&sa=D&ust=1538476154400000)*
-*Below, a photo showing the damage in the mosque after the attack - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154401000)*
-
+A water tower can be identified in this image which confirmed the location of the impact site through geolocating it with Google earth as shown below:
 
 ![](/assets/investigations/zardana/image15.jpg)
 *A photo showing Saad bin Mu'adh mosque, behind it a water tower can be seen, which is located west of Zardana town - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154401000)*
@@ -152,36 +146,25 @@ Below are photos publihsed by thr AFP of the ipact site.
 
 ![](/assets/investigations/zardana/image21.jpg)
 
-![](/assets/investigations/zardana/image2.jpg)
-*Satellite images showing the location of Saad bin Mu'adh mosque and the water tower, which located west of Zardana town*
+## Structural damage in the Impact Site
 
+Below are two satellite images taken before and after the airstrikes which shows structural damage to the residential building.
 
 ![](/assets/investigations/zardana/110.png)
+
 *Satellite image of the targeted site showing the aftermath of the attack*
+
+The Syrian Archive investigation team created 3D structure representing buildings that were damaged as a result of the airstrikes.
 
 ![](/assets/investigations/zardana/111.png)
 *3D representation of the targeted site before and after the attack*
 
-![](/assets/investigations/zardana/112.png)
-*3D representation of the targeted buildings, before the attack*
-
-![](/assets/investigations/zardana/113.png)
-*3D representation of the targeted buildings, after the attack*
-
-![](/assets/investigations/zardana/114.png)
-
-![](/assets/investigations/zardana/115.png)
-
-![](/assets/investigations/zardana/116.png)
-
-![](/assets/investigations/zardana/117.png)
-
-![](/assets/investigations/zardana/118.png)
+Below is a photo published by Zardana Al Hadath  on their official facebook page showing the structural damage to the buildings in the impact site.
 
 ![](/assets/investigations/zardana/119.png)
 
 ![](/assets/investigations/zardana/image19.jpg)
-*photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
+*photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.facebook.com/Zerdna838/posts/442233609551095)*
 
 ![](/assets/investigations/zardana/120.png)
 *3D representation of impact site showing the targeted buildings, before the attack*
@@ -192,23 +175,23 @@ Below are photos publihsed by thr AFP of the ipact site.
 
 ## Flight Data Analysis
 
-To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 20:30 and 22:00, the period directly before and after the reported attack as was claimed by media activists. See below:
+To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 20:30 and 22:00 Damascus local time, the period directly before and after the reported attack as was claimed by media activists. See below:
 
 <iframe height="550" src="https://public.tableau.com/views/Zardana7June2018/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 [View full visualisation](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes)
 
-Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify a flight potentially responsible for the attack (a fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting at 21:07 in Atarib, and then likely moving to Abin. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
+Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify a flight potentially responsible for the attack (a fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting at xxxxxxx, and then likely moving to xxxxxx. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
 
 While there is no direct evidence available that one of the observed aircrafts was involved in the attack on Zardana the presence of these aircrafts increase the likelihood that an air attack occurred at this location and the time stated by the citizen reporters as well as humanitarian groups, and estimated also using imagery from the attack.
 
-Syrian planes are unable to fly at night, according to a statement made by [Russian Foreign Minister Sergey Lavrov](https://ria.ru/20160921/1477468029.html) to the Russian Information Agency (RIU).
+Syrian planes are unable to fly at night according to an official statement made by [Russian Foreign Minister Sergey Lavrov](https://ria.ru/20160921/1477468029.html) to the Russian Information Agency (RIU) which gives more possibility that these airstrikes were carried by the Russian airforce.
 
 
 ## Conclusion:
 
-Zardana, a town north of Idlib, was targeted on Thursday night, 7 June 2018, at approximately 21:05, with an airstrike followed by another one about half an hour later, by aircraft likely to be Russian. The airstrikes targeted a [residential neighborhood](https://www.google.com/url?q=https://earth.google.com/web/@36.04395964,36.75224262,319.55971579a,147.93847951d,35y,145.27914805h,0.15301545t,0r&sa=D&ust=1538476154403000) south of Zardana, near [Saad bin Mua'dh mosque](https://www.google.com/url?q=https://earth.google.com/web/@36.04418524,36.75250114,319.86556206a,452.25160956d,35y,145.27877064h,0.15302276t,-0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGTCE4n2xBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgCIAEoAg&sa=D&ust=1538476154403000), killing 44 people, injuring dozens and destroying dozens of homes.
+Zardana, a town north of Idlib, was targeted on Thursday night, 7 June 2018, at approximately 21:05, with an airstrike followed by another one about half an hour later, by aircraft likely to be Russian. The airstrikes targeted a [residential neighborhood](https://www.google.com/url?q=https://earth.google.com/web/@36.04395964,36.75224262,319.55971579a,147.93847951d,35y,145.27914805h,0.15301545t,0r&sa=D&ust=1538476154403000) south of Zardana, near [Saad bin Mua'dh mosque](https://www.google.com/url?q=https://earth.google.com/web/@36.04418524,36.75250114,319.86556206a,452.25160956d,35y,145.27877064h,0.15302276t,-0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGTCE4n2xBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgCIAEoAg&sa=D&ust=1538476154403000), killing 45 people including women and children, injuring 70 and destroying dozens of homes.
 
-Thermobaric rockets were used in one of the two airstrikes, based on the destruction of the entire residential neighborhood, and the crater depth of 10 meters.
+Thermobaric rockets claimed to be used in one of the two airstrikes, based on the destruction of the entire residential neighborhood, and the crater depth of 10 meters.
 
-The Russian Ministry of Defence denied its warplanes were involved, and instead blamed the attack on artillery shelling between two fighting factions of Jaysh Al-Ahrar and Hay'at Tahrir al-Sham. Although the fighting started on the previous day, but there were no clashes in the targeted area, and all witnesses and injured confirmed that the bombardment was from aircraft flying that night, where high-explosive weapons were used.
+The [Russian Ministry of Defence denied](https://sputniknews.com/middleeast/201806081065228869-russia-syria-strike-zardana-claims/) its warplanes were involved, and instead blamed the attack on artillery shelling between two fighting factions of Jaysh Al-Ahrar and Hay'at Tahrir al-Sham. Although the fighting started on the previous day, but there were no clashes in the targeted area, and all witnesses and injured confirmed that the bombardment was from aircraft flying that night, where high-explosive weapons were used. 
