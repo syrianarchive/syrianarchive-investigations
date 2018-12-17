@@ -3,7 +3,7 @@ layout: "collections/russianairstrikes.html"
 title: "قاعدة بيانات الغارات الجوية الروسية"
 date: 2018-10-31T00:05:18.055Z
 desc: "توثيق غارات جوية روسية مزعومة استهدفت مدنيين وبُنى تحتيّة مدنيّة"
-image: /assets/collections/atarib-airstrike.png
+image: /assets/collections/atarib-airstrike100.jpg
 ---
 
 <small>31 Oct 2018</small>
