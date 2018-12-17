@@ -16,7 +16,7 @@ drafts: true
 - Second airstrike: ~ 21:35 local time (UTC/GMT plus 2)
 - Reported killed: 45 including 7 women and 10 children
 - Reported injured: 70
-- Munitions identified: Thermobaric rockets
+- Munitions identified: Remnants of the munition not available
 - Potentially responsible: Russian or Syrian Air Force
 
 
@@ -31,23 +31,27 @@ The [Russian Ministry of Defense claimed](https://sputniknews.com/middleeast/201
 
 On June 7th 2018, Zardana Al Hadath facebook page [published a post](https://www.facebook.com/Zerdna838/posts/441860366255086) about an airstrike that targeted Zardana at 21:14 Damascus local time.
 
-![](/assets/investigations/zardana/imagexxx.jpg)
+![](/assets/investigations/zardana/zardana-1st-airstrike.png)
 
-![](/assets/investigations/zardana/xxxxunixtime.jpg) ![](/assets/investigations/zardana/xxxxunixtimeconvert.jpg)
+![](/assets/investigations/zardana/UTC time.png) ![](/assets/investigations/zardana/damascustimezone.png)
 
 On the same day at 22:06 Damascus local time, they [published another post](https://www.facebook.com/Zerdna838/posts/441875912920198) about a second airstrike that targeted the same impact site.
 
-On June 12th 2018, Zardana Al Hadath facebook page [published a video](https://www.facebook.com/Zerdna838/videos/443894186051704/) showing the first moment of the second airstrike that targeted the same impact site where civilians were rescuing the injured and pulling out the dead from under the rubble as a result of the first airstrike. The sound of the aircraft can be heard at 00:31 of the video. Ibrahim Amon is one the civilians who died inthe second airstrike as he was rescuing civilians as shown in this [video](https://www.facebook.com/Zerdna838/videos/442940776147045/).
+![](/assets/investigations/zardana/zardana-2nd0airstrike.png)
+
+On June 12th 2018, Zardana Al Hadath facebook page [published a video](https://www.facebook.com/Zerdna838/videos/443894186051704/) showing the first moment of the second airstrike that targeted the same impact site where civilians were rescuing the injured and pulling out the dead from under the rubble as a result of the first airstrike. The sound of the aircraft can be heard at 00:31 of the video. Ibrahim Amon is one the civilians who died in the second airstrike as he was rescuing civilians as shown in this [video](https://www.facebook.com/Zerdna838/videos/442940776147045/).
 
 Step News Agency published a video [showing the rescue operations and the search for survivors](https://www.youtube.com/watch?v=-XrXN4jTvAk) by the Syrian Civil Defense members after the airstrikes.
 
-another rescue video?????
+The Syrian Civil Defense in Idlib published a [video](https://www.youtube.com/watch?v=0XSAfmUmiHY) showing their rescue operation on June 7th 2018. The video titled: "Pulling out a women from under the rubble in Zardana".
 
-One witness interviewed by [Naba News Agency](https://www.youtube.com/watch?v%3DBLwZlWwQbfg%26feature%3Dyoutu.be&sa=D&ust=1538476154383000) in their coverage of the incident stated: “After the incident, I rushed with members of Civil Defense to rescue the people who were trapped or injured. People were under the rubble due to the massive destruction. After 30 minutes of the first airstrike the aircraft returned and bombed the same impact site. This led to new casualties among the Civil Defense members as well as to civilians who were rescuing the injured from the first airstrike. After the second airstrike, one of the Civil Defense members died, and residential buildings were destroyed due to both airstrikes. The impact sites are civilian locations that hold no military strongholds.”
+Some of the injured as a result of this attack were transferred to Turkey through Bab Al Hawa boarder as can be seen in a [video](https://www.youtube.com/watch?v=AtesBXymKw8) published on June 8th 2018 by Bab Al Hawa YouTube channel. An injured boy was among the people going to Turkey for the treatment accompanied by his father.  
+
+One witness interviewed by [Naba News Agency](https://www.youtube.com/watch?v=BLwZlWwQbfg) in their coverage of the incident stated: “After the incident, I rushed with members of Civil Defense to rescue the people who were trapped or injured. People were under the rubble due to the massive destruction. After 30 minutes of the first airstrike the aircraft returned and bombed the same impact site. This led to new casualties among the Civil Defense members as well as to civilians who were rescuing the injured from the first airstrike. After the second airstrike, one of the Civil Defense members died, and residential buildings were destroyed due to both airstrikes. The impact sites are civilian locations that hold no military strongholds.”
 
 In the same video, another witness spoke about the airstrikes stating that they occurred after the Iftar meal and shortly before the Isha'a prayer. The witness said they heard the noise of the aircraft which he claimed to be Russian. Following this, he states that he heard a loud explosion and that he was surprised at the scale of the destruction, and the number of individuals killed and injured that he saw when he rushed to the impact site.
 
-Thiqa news agency [published a video](https://www.youtube.com/watch?v%3DvCuO3SLaM6U&sa=D&ust=1538476154383000) documenting the scale of the destruction. Their video contains an interview with a witness of the airstrike, who, similarly to the Naba News Agency report, also stated that the first airstrike took place 15 minutes after finishing the Iftar meal (after the sunset prayer), and that the second air strike occurred 20 to 30 minutes after the first one.
+Thiqa news agency [published a video](https://www.youtube.com/watch?v=vCuO3SLaM6U) documenting the scale of the destruction. Their video contains an interview with a witness of the airstrike, who, similarly to the Naba News Agency report, also stated that the first airstrike took place 15 minutes after finishing the Iftar meal (after the sunset prayer), and that the second air strike occurred 20 to 30 minutes after the first one.
 
 Using the photage from the video, the Syrian Archive investigation team created a panoramic shot of the impact site which was the location of a residential building that was destroyed as a result of this attack.
 
@@ -60,9 +64,9 @@ Using the photage from the video, the Syrian Archive investigation team created 
 ![](/assets/investigations/zardana/image7.jpg)
 *The locations of the attack which was close to the Saad bin Mu'adh mosque as located above*
 
-Qasioun News Agency also published a [video](https://www.youtube.com/watch?v%3DUNoVvij0Eqs&sa=D&ust=1538476154385000) in which one of injured as a result of the airstrike was interviewed. He said: "After the Iftar meal, we heard a huge explosion sound and we saw a bright flash. Due to this explosion, a three floors building was utterly destroyed. I lost seven or eight members of my family. More than 30 other victims and the number of injured is not known yet."
+Qasioun News Agency also published a [video](https://www.youtube.com/watch?v=UNoVvij0Eqs) in which one of injured as a result of the airstrike was interviewed. He said: "After the Iftar meal, we heard a huge explosion sound and we saw a bright flash. Due to this explosion, a three floors building was utterly destroyed. I lost seven or eight members of my family. More than 30 other victims and the number of injured is not known yet."
 
-SY Plus agency published a video [in which one of the witnesses of the airstrikes was interviewed](https://www.youtube.com/watch?v%3DB_E0k0cBOf8&sa=D&ust=1538476154386000). The witness said that: "After the Iftar meal, we went to work in our shops, and suddenly we saw a bright flash when the airstrike took place. We tried to hide during this attack which killed and injured many people, in addition to destroying residential buildings. We started to help those injured and extract them from under the rubble and transfer them to the cars to be taken to the hospital. Then, the Civil Defense team came to rescue the injured, and the second strike occurred, which had a higher number of casualties than the first one."
+SY Plus agency published a video [in which one of the witnesses of the airstrikes was interviewed](https://www.youtube.com/watch?v=B_E0k0cBOf8). The witness said that: "After the Iftar meal, we went to work in our shops, and suddenly we saw a bright flash when the airstrike took place. We tried to hide during this attack which killed and injured many people, in addition to destroying residential buildings. We started to help those injured and extract them from under the rubble and transfer them to the cars to be taken to the hospital. Then, the Civil Defense team came to rescue the injured, and the second strike occurred, which had a higher number of casualties than the first one."
 
 A [report published by Aleppo Today](https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154387000) contains interviews with a few of the witnesses of the two airstrikes. The Aleppo Today correspondent stated that the attack was committed by a [Sukhoi Su-24 aircraft](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sukhoi_Su-24&sa=D&ust=1538476154388000), which carried out two air strikes. One of the airstrikes used thermobaric rockets that destroyed an entire neighborhood, created a crater depth of 10 meters and caused the death of more than 35 victims and more than 80 injured. This included womenj, children and members of the Civil Defense.
 
