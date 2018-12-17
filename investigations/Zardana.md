@@ -73,20 +73,22 @@ Qasioun News Agency also published a [video](https://www.youtube.com/watch?v=UNo
 
 SY Plus agency published a video [in which one of the witnesses of the airstrikes was interviewed](https://www.youtube.com/watch?v=B_E0k0cBOf8). The witness said that: "After the Iftar meal, we went to work in our shops, and suddenly we saw a bright flash when the airstrike took place. We tried to hide during this attack which killed and injured many people, in addition to destroying residential buildings. We started to help those injured and extract them from under the rubble and transfer them to the cars to be taken to the hospital. Then, the Civil Defense team came to rescue the injured, and the second strike occurred, which had a higher number of casualties than the first one."
 
-In a video [published by the citizen reporter Ahmed Rahal](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DwjS4WmBQn2k&sa=D&ust=1538476154395000) published by , one of those injured appears crying on the rubble after losing members of his family. As those nearby attempt to console him, he is heard saying: "I no longer have anyone," the second airstrike occurred in the same place. After that, the sound of the cameraman moaning can be heard. Near him, someone is heard saying "can anyone pull me out?"
+All the witnesses interviewed by news agencies said that the strike took place after the Iftar meal and shortly before the night prayer. On Thursday, 7 June 2018, corresponding to [22 Ramadan](https://www.prayer-times.info/emsakia/2018/syria/dimashq/), sunset prayer call (the Iftar meal) was recited at 19:43 (Damascus local time), while the night prayer was recited at 21:13 (Damascus local time). These times coincide with the testimonies of witnesses who said that the first airstrike occurred at around 21:00.
 
-All the witnesses interviewed by news agencies said that the strike took place after the Iftar meal and shortly before the night prayer. On Thursday, 7 June 2018, corresponding to [22 Ramadan](https://www.google.com/url?q=http://dirarab.net/prayertimes/ramadan/Syria/Idlib&sa=D&ust=1538476154395000), sunset prayer call (the Iftar meal) was recited at 19:48, while the night prayer was recited at 21:18 (Zardana local time).
-
-These times coincide with the testimonies of witnesses who said that the first airstrike occurred at around 21:00.
+## Aircraft and Munition
 
 A [report published by Aleppo Today](https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154387000) contains interviews with few of the witnesses of the two airstrikes. The Aleppo Today correspondent stated that the attack was committed by a [Sukhoi Su-24 aircraft](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sukhoi_Su-24&sa=D&ust=1538476154388000), which carried out two air strikes. One of the airstrikes used thermobaric rockets that destroyed an entire neighborhood, created a crater depth of 10 meters and caused the death of more than 35 victims and more than 80 injured. This includes women, children and members of the Civil Defense. The video shows killed people as a result of the airstrikes as well as the injured.
 
 ![](/assets/investigations/zardana/image5.png)
 
+## Comparison of the damaged building
+
 Through comparing the [video published by Aleppo Today during the rescue operations at night](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154388000) and the [video by SY Plus](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DB_E0k0cBOf8&sa=D&ust=1538476154389000) which showed the destroyed impact site that was filmed the day after the airstrikes, The Syrian Archive investigation team was able to confirm that both videos filmed in the same location.
 
 ![](/assets/investigations/zardana/image12.jpg)
 *The same impact site according to two videos published by Aleppo Today (7th June 2018) and SY Plus (8th June 2018)*
+
+## Statement by the Russian Ministry of Defence
 
 On Friday, 8 June 2018, the [Russian Ministry of Defense denied they had bombed Zardana](https://www.google.com/url?q=https://russian.rt.com/world/news/521128-minoborony-oprovergli-udar-siriya&sa=D&ust=1538476154390000), stating that fierce fighting with heavy artillery had taken place in this region between the large detachments of the *Al-Nusra Front* (designated as a terrorist organisation in Russia and a number of countries) and *Jaysh al-Islam*.
 
@@ -96,12 +98,17 @@ It should also be noted that, according to several media sources including [Step
 
 *A map showing the location of the areas controlled by the Syrian armed opposition (in green) in Idlib province, and Zardana - Source: [Liveuamap](https://www.google.com/url?q=https://syria.liveuamap.com/&sa=D&ust=1538476154392000)*
 
+## De-escalation zone
 
-It is worth mentioning that there is a Turkish observation point in Tal El-Eis roughly 20 km east of Zardana. In a [press conference](https://www.youtube.com/watch?time_continue=106&amp=&v=oqUQxr-FU9I) of the Russian Ministry of Defence concerning the observation points, it is possible to identify the Turkish observation point on Tal El-Eis on the map.
+On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding for the establishment of de-escalation zones in Syria](https://www.youtube.com/watch?v=5cF-gIL8yzk) which took effect on 6 May 2017. The Russian Ministry of Defense [published a map showing](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Zardana is located within the de-escalation zone.
+
+There is also a Turkish observation point in Tal El-Eis roughly 20 km east of Zardana. This can be confirmed by a video of a [press conference](https://www.youtube.com/watch?time_continue=106&amp=&v=oqUQxr-FU9I) publlished by the Russian Ministry of Defence concerning the observation points, it is possible to identify the Turkish observation point on Tal El-Eis on the map.
 
 ![](/assets/investigations/zardana/image8.png)
 
 ![](/assets/investigations/zardana/image9.jpg)
+
+## Geolocating the impact site
 
 Below are photos publihsed by thr AFP of the ipact site.
 
@@ -183,9 +190,7 @@ Below are photos publihsed by thr AFP of the ipact site.
 ![](/assets/investigations/zardana/121.png)
 *3D representation of impact site showing the targeted buildings after the attack*
 
-
-
-## Flight Data
+## Flight Data Analysis
 
 To provide a further layer of verification, the Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 20:30 and 22:00, the period directly before and after the reported attack as was claimed by media activists. See below:
 
