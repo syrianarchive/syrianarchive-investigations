@@ -173,7 +173,7 @@ socialMediaImage: /assets/investigations/zardana/111.jpg
 
 بغرض إضافة طبقة أخرى من التحقق؛ قارن الأرشيف السوري النتائج المستخلصة من مقاطع الفيديو وإفادات الشهود مع بيانات رصد الطيران من قبل منظمة مراقبة. استلزمت هذه العملية تحليل بيانات رصد الطيران ما بين الساعة 20:30 و 22:00 وهي الفترة الزمنية التي سبقت الهجوم وتلت مباشرة الإبلاغ عنه من قبل الناشطين الإعلاميين، انظر أدناه:
 
-<iframe height="800" src="https://public.tableau.com/views/Zardana7June2018/Sheet1?:showVizHome=no&:embed=y" width="800"></iframe>
+<iframe height="550" src="https://public.tableau.com/views/Zardana7June2018/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 [عرض الإظهار البصري كاملًا](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes)
 
