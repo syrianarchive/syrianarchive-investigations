@@ -42,7 +42,7 @@ Five days later, on June 12th, the Zardana Al Hadath Facebook page [published a 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FZerdna838%2Fvideos%2F443894186051704%2F&show_text=0&width=261" width="261" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
-Ibrahim Amon is one the civilians who died in the second airstrike as he was rescuing civilians [as shown in this video](https://www.facebook.com/Zerdna838/videos/442940776147045/).
+Ahmad Ibrahim Amon is one the civilians who died in the second airstrike as he was rescuing civilians [as shown in this video](https://www.facebook.com/Zerdna838/videos/442940776147045/).
 
 Step News Agency published a video [showing the rescue operations and the search for survivors](https://www.youtube.com/watch?v=-XrXN4jTvAk) by the Syrian Civil Defence members after the airstrikes.
 
@@ -75,26 +75,26 @@ All the witnesses interviewed by news agencies said that the strike took place a
 
 ## Aircraft and Munition
 
-A [report published by Aleppo Today](https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154387000) contains interviews with few of the witnesses of the two airstrikes. The Aleppo Today correspondent stated that the attack was committed by a [Sukhoi Su-24 aircraft](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Sukhoi_Su-24&sa=D&ust=1538476154388000), which carried out two air strikes. One of the airstrikes used thermobaric rockets that destroyed an entire neighbourhood, created a crater depth of 10 meters and caused the death of more than 35 victims and more than 80 injured. This includes women, children and members of the Civil Defence. The video shows killed people as a result of the airstrikes as well as the injured.
+A [report published by Aleppo Today](https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154387000) contains interviews with few of the witnesses of the two airstrikes. The Aleppo Today correspondent stated that the attack was committed by a [Sukhoi Su-24 aircraft](https://en.wikipedia.org/wiki/Sukhoi_Su-24), which carried out two air strikes. One of the airstrikes used thermobaric rockets that destroyed an entire neighbourhood, created a crater depth of 10 meters and caused the death of more than 35 victims and more than 80 injured. This includes women, children and members of the Civil Defence. The video shows killed people as a result of the airstrikes as well as the injured.
 
 ![](/assets/investigations/zardana/image5.png)
 
 ## Comparison of the Damaged Building
 
-Through comparing the [video published by Aleppo Today during the rescue operations at night](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/videos/2247042018646557/&sa=D&ust=1538476154388000) and the [video by SY Plus](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DB_E0k0cBOf8&sa=D&ust=1538476154389000), which showed the destroyed impact site that was filmed the day after the airstrikes, Syrian Archive was able to confirm that both videos filmed in the same location.
+Through comparing the [video published by Aleppo Today during the rescue operations at night](https://www.facebook.com/HalabTodayTV/videos/2247042018646557/) and the [video by SY Plus](https://www.youtube.com/watch?v=B_E0k0cBOf8), which showed the destroyed impact site that was filmed the day after the airstrikes, Syrian Archive was able to confirm that both videos filmed in the same location.
 
 ![](/assets/investigations/zardana/image12.jpg)
 *The same impact site according to two videos published by Aleppo Today (7th June 2018) and SY Plus (8th June 2018)*
 
 ## Statement by the Russian Ministry of Defence
 
-On Friday, 8 June 2018, the [Russian Ministry of Defence denied they had bombed Zardana](https://www.google.com/url?q=https://russian.rt.com/world/news/521128-minoborony-oprovergli-udar-siriya&sa=D&ust=1538476154390000), stating that fierce fighting with heavy artillery had taken place in this region between the large detachments of the *Al-Nusra Front* (designated as a terrorist organisation in Russia and a number of countries) and *Jaysh al-Islam*.
+On Friday, 8 June 2018, the [Russian Ministry of Defence denied they had bombed Zardana](https://russian.rt.com/world/news/521128-minoborony-oprovergli-udar-siriya), stating that fierce fighting with heavy artillery had taken place in this region between the large detachments of the *Al-Nusra Front* (designated as a terrorist organisation in Russia and a number of countries) and *Jaysh al-Islam*.
 
 It should also be noted that, according to several media sources including [Step News agency](http://stepagency-sy.net/archives/198035), Zardana had seen some instances of fighting between *Jaysh Al-Ahrar* and *Hay'at Tahrir al-Sham*, and that fighting was renewed on 7 June 2018, resulting in the deaths and injuries including civilians. Fighting was instigated after a dispute broke out between these groups the previous evening.
 
 ![](/assets/investigations/zardana/image11.jpg)
 
-*A map showing the location of the areas controlled by the Syrian armed opposition (in green) in Idlib province, and Zardana - Source: [Liveuamap](https://www.google.com/url?q=https://syria.liveuamap.com/&sa=D&ust=1538476154392000)*
+*A map showing the location of the areas controlled by the Syrian armed opposition (in green) in Idlib province, and Zardana - Source: [Liveuamap](https://syria.liveuamap.com/)*
 
 ## De-escalation Zone
 
@@ -115,7 +115,7 @@ There is also a Turkish observation point in Tal El-Eis roughly 20 km east of Za
 
 
 ![](/assets/investigations/zardana/image4.jpg)
-*Photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154397000)*
+*Photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.facebook.com/Zerdna838/posts/442233609551095)*
 
 Below is a screen capture taken through Google Earth geolocating the minaret and the impact site.
 
@@ -124,7 +124,7 @@ Below is a screen capture taken through Google Earth geolocating the minaret and
 Another photo published by Zardana Al Hadath Facebook page which was captured from the minaret and shows the impact site.
 
 ![](/assets/investigations/zardana/image17.jpg)
-*Photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154398000)*
+*Photograph of the targeted location taken from the minaret of Saad bin Mu'adh Mosque - [Zardana AL- Hadath Facebook page](https://www.facebook.com/Zerdna838/posts/442233609551095)*
 
 
 The exact building is geolocated using Google earth, as seen below:
@@ -135,13 +135,13 @@ The exact building is geolocated using Google earth, as seen below:
 Images of the mosque before and after the airstrikes were published by Google Earth and Zardana Al Hadath Facebook page.
 
 ![](/assets/investigations/zardana/image14.jpg)
-*To the right, an old photo of Saad bin Mu'adh mosque - [Google Earth](https://www.google.com/url?q=https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000301h,0.8381202t,0r/data%3DCmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg&sa=D&ust=1538476154399000)*
-*To the left, a photo of the damage in the same mosque - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154400000)*
+*To the right, an old photo of Saad bin Mu'adh mosque - [Google Earth](https://earth.google.com/web/@36.04600937,36.753989,319.43737442a,1015.92452168d,35y,-0.00000301h,0.8381202t,0r/data=CmgaZhJeCiUweDE1MjU3MmM1MGRjOGQ0ZGY6MHhhMmZkYzhkY2Y3ZGQwODdiGbMgb4KxBUJAIXdiJ3Y6YEJAKiNTYWFkIGJpbiBmb3JiaWQKY29sbGVjdG9yIChXZXN0ZXJuKRgDIAEoAg)*
+*To the left, a photo of the damage in the same mosque - [Zardana AL- Hadath Facebook page](https://www.facebook.com/Zerdna838/posts/442233609551095)*
 
 A water tower can be identified in this image which confirmed the location of the impact site through geolocating it with Google earth as shown below:
 
 ![](/assets/investigations/zardana/image15-landmark.jpg)
-*A photo showing Saad bin Mu'adh mosque, behind it a water tower can be seen, which is located west of Zardana town - [Zardana AL- Hadath Facebook page](https://www.google.com/url?q=https://www.facebook.com/Zerdna838/posts/442233609551095&sa=D&ust=1538476154401000)*
+*A photo showing Saad bin Mu'adh mosque, behind it a water tower can be seen, which is located west of Zardana town - [Zardana AL- Hadath Facebook page](https://www.facebook.com/Zerdna838/posts/442233609551095)*
 
 
 ![](/assets/investigations/zardana/image21.jpg)
@@ -179,7 +179,7 @@ To provide a further layer of verification, Syrian Archive cross-referenced find
 
 [View full visualisation](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Zardana7June2018/Sheet1?publish=yes)
 
-Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify a flight potentially responsible for the attack (a fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting at Atarib, and then likely moving to Abin. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
+Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, the Syrian Archive was able to identify a flight potentially responsible for the attack (a fixed-wing Russian aircraft), seen circling in the immediate vicinity of the geolocated attack site starting at Zardana, and then likely moving to Abin. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
 
 ![](/assets/investigations/zardana/zardana_map.png)
 *Map showing the distance between Abin and Zardana*
