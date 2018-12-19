@@ -3,7 +3,7 @@ layout: investigation.html
 title: "استهداف تلبيسة بغارات جويّة يُزعم أنها روسية"
 date: 2018-11-26
 desc: "بعد جمع وتحليل الصور والأدلّة البصريّة التي نشرت على مواقع التواصل الاجتماعي وشبكات الأخبار؛ تبيّن لفريق التحقيقات مفتوحة المصدر في الأرشيف السوري أن مدينة تلبيسة في ريف حمص قد استُهدفت بغارات جوية روسية بتاريخ 30 أيلول سبتمبر 2015"
-image: /assets/investigations/Talbiseh/talbiseh-before-after-updated.png
+image: /assets/investigations/Talbiseh/talbiseh-before-after-updated100.jpg
 ---
 
 ## حول الحادثة

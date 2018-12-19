@@ -2,5 +2,5 @@
 layout: investigationshome.html
 title: Investigations
 desc: Verification and open source analysis
-image: /assets/investigations/investigations.jpg
+image: /assets/investigations/investigations100.jpg
 ---

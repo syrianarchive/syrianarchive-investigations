@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Alleged Russian airstrike targeted Talbiseh"
 date: 2018-11-26
 desc: "After collecting and analysing visual content published on social media platforms and news networks, Syrian Archive found the town of Talbiseh (Homs Province) was targeted by Russian airstrikes on 30 September 2015"
-image: /assets/investigations/Talbiseh/talbiseh-before-after-updated.png
+image: /assets/investigations/Talbiseh/talbiseh-before-after-updated100.jpg
 ---
 ## Incident information
 

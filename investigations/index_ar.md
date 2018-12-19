@@ -2,5 +2,5 @@
 layout: investigationshome.html
 title: التحقيقات
 desc: "تحليلات وتحقيقات للوثائق البصرية"
-image: /assets/investigations/investigations.jpg
+image: /assets/investigations/investigations100.jpg
 ---
