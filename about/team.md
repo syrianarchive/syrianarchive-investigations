@@ -12,10 +12,6 @@ __Founder and Director__
 
 Hadi has been working since 2011 on collecting, verifying, and investigating citizen-generated data as evidence of human rights violations in order to expose and draw attention to human rights violations committed by all sides in the Syrian conflict, and to make sure that journalists and lawyers are able to use the verified data for their investigations and criminal case building. Hadi has previously worked with Tactical Technology Collective for the last 5 years to support journalists and news agencies in securing their data, devices and communications online. Hadi worked as a part-time open source investigator with Human Rights Watch and Bellingcat. Hadi is also a fellow at the Centre for Internet and Human Rights, and he is currently teaching a Masters of Arts course for the Raumstrategien program at the Kunsthochschule Berlin-Weissensee.
 
-### Abdul Rahman Jaloud
-__Communication and Outreach__
-
-Jaloud has worked on human rights in Syria since 2010 and has been documenting human rights violations in cooperation with various Syrian organisations since 2011. From 2013 until 2017 while working with Witness, Jaloud conducted trainings on archiving and on international humanitarian law. He has also assisted in research for the UN Commission of Inquiry for Syria for the last 6 years. Abdul Rahman is based in Sweden.
 
 ### Jeff Deutch
 __Lead Researcher__
