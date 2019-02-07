@@ -2,10 +2,10 @@
 layout: investigation.html
 title: "Antwerp court convicts three Flemish firms for shipping 168 tonnes of isopropanol to Syria"
 date: 2019-02-07
-image: /assets/investigations/Belgium/image1.png
+image: /assets/investigations/Belgium/image4.png
 ---
 
-###Illegal export of isopropanol to Syria
+### Illegal export of isopropanol to Syria
 
 Today, Antwerp Criminal court convicted the three Flemish companies (AAE Chemie Trading, Anex Customs and Danmar logistics) and two managing directors for shipping 168 tonnes of the chemical substance isopropanol with 95% purity to Syria between 2014 and 2016 without submitting the appropriate export licences. The court imposed conditional fines of up to 500.000 EUR as well as (conditional) prison sentences for one managing director and one manager. A export licence for isopropanol 95% has been mandatory since the European Union ratified sanctions on Syria with [regulation 36/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1493825060366&uri=CELEX:02012R0036-20170321). This conviction follows a story published jointly on April 18th, 2018 from [Knack and Syrian Archive](https://syrianarchive.org/en/investigations/belgium-isopropanol/).
 
@@ -19,7 +19,7 @@ After the 2017 sarin attack in Khan Shaykhun, the Organisation for the Preventio
 
 The lawsuit against the three companies began in Antwerp on May 15, 2018 and the sentencing took place on February 7, 2019.  
 
-###Companies faced possible fines and prison sentence
+### Companies faced possible fines and prison sentence
 
 In the pleadings, lawyer Pieter Borms, representing the Belgian Customs, asked for a minimum fine of 346.443 EUR for AAE Chemie as this was the company's first infringement.
 
@@ -32,14 +32,14 @@ Vercraeye stated that Anex Customs and Danmar Logistics (that took care of the a
 
 According to Vercraeye the last update of TARWEB regarding isopropanol was implemented on April 19, 2018, one day after the article was published by [Knack](https://m.knack.be/nieuws/belgie/isopropanol-schandaal-hoe-een-grondstof-voor-gifgas-door-de-handen-van-de-belgische-douane-glipte/article-longread-1097291.html).
 
-###Internal audit report of Belgian customs
+### Internal audit report of Belgian customs
 
 Knack submitted a FOIA request to the Belgian Customs in order to get a copy of the audit report. After a procedure battle, on January 25, 2019, Knack received the 31 page document entitled [“Audit Control Sensitive Goods in the context of the Isopropanol case.”](https://www.knack.be/nieuws/belgie/de-zaak-isopropanol-audit-hekelt-falende-douanecontrole/article-normal-1422901.html)
 
 According to this internal audit report, the Customs' inspection service was asked on February 23, 2018 to launch an audit into the subject matter. This was shortly after Knack had contacted the Belgian Customs with worrying indications –based on Syrian Archive's findings in the UN Comtrade database– about the export of isopropanol to Syria.
 
-![Internal audit](/aassets/investigations/Belgium/image2.png)
-<small>*Screenshot from the pdf of the internal audit by the Belgian Customs, showing the timeline of the audit process and the following action plan.*
+![Internal audit](/assets/investigations/Belgium/image2.png)
+<small>*Screenshot from the pdf of the internal audit by the Belgian Customs, showing the timeline of the audit process and the following action plan.*</small>
 
 “Most control weaknesses are in the first line,” the audit concludes. On the basis of a studied sample of isopropanol exports, the inspection service of the Customs found that “many physical checks were requested but virtually none performed.” Customs usually checked only the documents, not the chemicals. Customs officers surveyed indicated that they were under time pressure, that it was difficult to consult European legislation in the internal Customs system, and that the selection profile document to detect fraud was insufficiently informative.
 
@@ -65,8 +65,8 @@ The audit also includes a series of screenshots from the Customs’ TARIC and TA
 
 Below is a screenshot of the TARIC database, with the code of isopropanol entered (2905120000). It is important to note that this search was conducted on “05-05-2018”, roughly a month after the audit was started.
 
-![TARIC database](/aassets/investigations/Belgium/image1.png)
+![TARIC database](/assets/investigations/Belgium/image1.png)
 
-![TARIC database](/aassets/investigations/Belgium/image3.png)
+![TARIC database](/assets/investigations/Belgium/image3.png)
 
-![TARBEL database](/aassets/investigations/Belgium/image5.png)
+![TARBEL database](/assets/investigations/Belgium/image5.png)
