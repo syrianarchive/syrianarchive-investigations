@@ -32,6 +32,10 @@ Vercraeye stated that Anex Customs and Danmar Logistics (that took care of the a
 
 According to Vercraeye the last update of TARWEB regarding isopropanol was implemented on April 19, 2018, one day after the article was published by [Knack](https://m.knack.be/nieuws/belgie/isopropanol-schandaal-hoe-een-grondstof-voor-gifgas-door-de-handen-van-de-belgische-douane-glipte/article-longread-1097291.html).
 
+He also stated that all 24 shipments had been checked by the Belgian Customs. “Samples were taken, examined in the lab, and afterwards the products were released by the Customs for shipment. It was only later that the manager learned through Dutch Customs that an export license was required for isopropanol. He then spontaneously sent the Dutch Customs a list of shipments that had been exported to Syria.”
+
+Vercraeye also denounced that the judicial file was not complete: the Belgian Customs had conducted their own internal audit into the matter, but neither the lawyers of the defense nor the judge had access to that audit report.
+
 ### Internal audit report of Belgian customs
 
 Knack submitted a FOIA request to the Belgian Customs in order to get a copy of the audit report. After a procedure battle, on January 25, 2019, Knack received the 31 page document entitled [“Audit Control Sensitive Goods in the context of the Isopropanol case.”](https://www.knack.be/nieuws/belgie/de-zaak-isopropanol-audit-hekelt-falende-douanecontrole/article-normal-1422901.html)
