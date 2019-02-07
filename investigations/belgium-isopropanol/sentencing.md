@@ -3,7 +3,7 @@ layout: investigation.html
 title: "Antwerp court convicts three Flemish firms for shipping 168 tonnes of isopropanol to Syria"
 date: 2019-04-07
 desc: "Jeff Deutch, additional reporting by Kristof Clerix from Knack"
-image: /assets/port.jpg
+image: /assets/investigations/Belgium/image1.png
 ---
 
 ###Illegal export of isopropanol to Syria
@@ -35,6 +35,7 @@ Knack submitted a FOIA request to the Belgian Customs in order to get a copy of 
 
 According to this internal audit report, the Customs' inspection service was asked on February 23, 2018 to launch an audit into the subject matter. This was shortly after Knack had contacted the Belgian Customs with worrying indications –based on Syrian Archive's findings in the UN Comtrade database– about the export of isopropanol to Syria.
 
+![Internal audit](/aassets/investigations/Belgium/image2.png)
 <small>*Screenshot from the pdf of the internal audit by the Belgian Customs, showing the timeline of the audit process and the following action plan.*
 
 “Most control weaknesses are in the first line,” the audit concludes. On the basis of a studied sample of isopropanol exports, the inspection service of the Customs found that “many physical checks were requested but virtually none performed.” Customs usually checked only the documents, not the chemicals. Customs officers surveyed indicated that they were under time pressure, that it was difficult to consult European legislation in the internal Customs system, and that the selection profile document to detect fraud was insufficiently informative.
@@ -60,3 +61,9 @@ The audit report lists 17 concrete recommendations and improvement actions, such
 The audit also includes a series of screenshots from the Customs’ TARIC and TARBEL databases. From the screenshots, it appears that the database includes information about the export restrictions for isopropanol.
 
 Below is a screenshot of the TARIC database, with the code of isopropanol entered (2905120000). It is important to note that this search was conducted on “05-05-2018”, roughly a month after the audit was started.
+
+![TARIC database](/aassets/investigations/Belgium/image1.png)
+
+![TARIC database](/aassets/investigations/Belgium/image3.png)
+
+![TARBEL database](/aassets/investigations/Belgium/image5.png)
