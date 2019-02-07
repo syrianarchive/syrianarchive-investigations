@@ -1,8 +1,7 @@
 ---
 layout: investigation.html
 title: "Antwerp court convicts three Flemish firms for shipping 168 tonnes of isopropanol to Syria"
-date: 2019-04-07
-desc: "Jeff Deutch, additional reporting by Kristof Clerix from Knack"
+date: 2019-02-07
 image: /assets/investigations/Belgium/image1.png
 ---
 
