@@ -6,7 +6,7 @@ desc: Recent articles featuring the Syrian Archive
 image: "/assets/about/press-1.png"
 ---
 
-Articles in which the work of the __Syrian Archive__ was highlighted include the following: 
+ARTICLES IN WHICH THE WORK OF THE __SYRIAN ARCHIVE__ WAS HIGHLIGHTED INCLUDE THE FOLLOWING:
 - 
 ### 2018 
 >[Independent](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
