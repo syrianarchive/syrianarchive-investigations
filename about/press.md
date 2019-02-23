@@ -6,14 +6,34 @@ desc: Recent articles featuring the Syrian Archive
 image: "/assets/about/press-1.png"
 ---
 
-Articles in which the work of __Syrian Archive__ was highlighted include the following: 
+Articles in which the work of __Syrian Archive__ was highlighted include the following:
+- 
+### 2018 DEC
+>[Foreign Policy](https://foreignpolicy.com/2018/12/27/ugur-umit-ungor-syria-oral-history-project/)
+>
+> We Can’t Save Syrians Anymore, But We Can Save the Truth
+- 
+### 2018 DEC
+>[ABC News](https://mobile.abc.net.au/news/2018-12-03/syrian-war-crimes-evidence-strongest-since-nuremberg-trials/10577206?pfmredir=sm)
+>
+> Syrian war crimes evidence strongest since Nuremberg trials, says prosecutor
+- 
+### 2018 DEC
+>[BuzzFeed](https://www.buzzfeednews.com/amphtml/meghara/facebook-youtube-icc-war-crimes?bftwnews=&utm_term=4ldqpgc&__twitter_impression=true)
+>
+> The Histories Of Today’s Wars Are Being Written On Social Media, But Crucial Evidence Of War Crimes Is Vanishing
+- 
+### 2018 DEC
+>[Huridocs](https://huridocs.org/2018/12/inspiring-projects-2018/)
+>
+> Projects that inspired the HURIDOCS team in 2018
 - 
 ### 2018 
 >[Independent](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
 >
 > Syrian group documents ‘Russian attacks on civilians'
 - 
-### 2018 DEC  
+### 2018 
 >[AP NEWS](https://www.apnews.com/d18183062a9e409a84d004779abe2f1e)
 >
 > Syrian group documents Russian attacks on civilians
@@ -28,7 +48,7 @@ Articles in which the work of __Syrian Archive__ was highlighted include the fol
 >
 > Syrian Archive:1400 Angriffe russischer Truppen auf Zivilisten in Syrien
 - 
-### 2018 DEC
+### 2018
 > [20 Minutos](https://www.20minutos.com/noticia/134172/0/grupo-sirio-documenta-ataques-rusos-contra-civiles/)
 >
 > Grupo sirio documenta ataques rusos contra civiles
@@ -114,9 +134,9 @@ Articles in which the work of __Syrian Archive__ was highlighted include the fol
 > Das digitale Gedächtnis des Krieges
 - 
 ### 2018
-> [Internationales Team sichert Kriegsvideos](http://www.deutschlandfunk.de/syrian-archive-internationales-team-sichert-kriegsvideos.2907.de.html?dram:article_id=412892)
+> [Deutschlandfunk](http://www.deutschlandfunk.de/syrian-archive-internationales-team-sichert-kriegsvideos.2907.de.html?dram:article_id=412892)
 >
-> Das digitale Gedächtnis des Krieges
+> Internationales Team sichert Kriegsvideos
 - 
 ### 2018
 > [WSD Handa Center for Human Rights and International Justice](https://handacenter.stanford.edu/news/panel-convened-technology-syria-and-human-rights)
@@ -133,12 +153,12 @@ Articles in which the work of __Syrian Archive__ was highlighted include the fol
 >
 > Beweise sichern für einen Prozess, den es vielleicht nie gibt
 - 
-### 2018
+### 16 OCT 2018
 > [The New York Review of Books](https://www.nybooks.com/daily/2018/10/16/why-assad-and-russia-target-the-white-helmets/)
 >
 > Why Assad and Russia Target the White Helmets
 - 
-### 22 June 2018
+### 22 JUNE 2018
 > [HURIDOCS](https://www.huridocs.org/2018/06/hrc-side-event-panel-on-the-role-of-technology-in-human-rights-investigations/)
 >
 > HRC side event panel on the role of technology in human rights investigations
@@ -153,12 +173,12 @@ Articles in which the work of __Syrian Archive__ was highlighted include the fol
 >
 > The Syrian Archive: A Methodological Case Study of Open-Source Investigation of State Crime Using Video Evidence from Social Media Platforms
 - 
-### July 2018
+### 11 JULY 2018
 > [ICIJ](https://www.icij.org/blog/2018/07/how-spies-and-investigative-reporters-think-alike/)
 >
 > How spies and investigative reporters think alike
 - 
-### 2018 Sept
+### 22 SEPT 2018
 > [NTV](https://www.n-tv.de/mediathek/videos/politik/Kuenstliche-Intelligenz-scannt-Bomben-in-Syrien-article20634505.html)
 >
 > Künstliche Intelligenz scannt Bomben in Syrien
@@ -219,11 +239,6 @@ Articles in which the work of __Syrian Archive__ was highlighted include the fol
 > 120.000 videos removed by YouTube while the Syrian Archive is preserving them
 - 
 ### 2017 July
-> [Middle East Eye](http://www.middleeasteye.net/news/new-report-claims-syrian-and-russian-forces-responsible-8-attacks-medical-facilities-1262436722)
->
-> Syrian and Russian forces 'targeted medical facilities after gas attack'
-- 
-### 2017 July 
 > [Middle East Eye](http://www.middleeasteye.net/news/new-report-claims-syrian-and-russian-forces-responsible-8-attacks-medical-facilities-1262436722)
 >
 > Syrian and Russian forces 'targeted medical facilities after gas attack'
