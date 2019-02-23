@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "Belgium illegally shipped 96 tonnes of sarin precursor to Syria"
+title: "Belgium illegally shipped 168 tonnes of sarin precursor to Syria"
 date: 2018-04-18
 desc: "Jeff Deutch, additional reporting by Kristof Clerix from Knack"
 image: /assets/port.jpg
@@ -10,7 +10,7 @@ Knack and Syrian Archive reveal today that Belgian companies have violated EU sa
 
 Based on information found through the [UN Comtrade database](https://comtrade.un.org/), freedom of information requests, and confirmed by the Belgian Customs, we can reveal that a criminal case regarding exports of chemicals to Syria has been opened in Antwerp Criminal Court. This case is brought by the Belgian Customs against three Flemish companies, one managing director and one manager, according to court press judge *Roland Cassiers* citing the summons.
 
-Since EU sanctions from September 2013 made export licences compulsory for the export of isopropanol to Syria in concentrations of 95% or higher, Syrian Archive and [Knack](https://www.knack.be/nieuws/belgie/isopropanol-schandaal-hoe-een-grondstof-voor-gifgas-door-de-handen-van-de-belgische-douane-glipte/article-longread-1097291.html) can report that Belgian companies exported 96 tonnes of isopropanol, a sarin precursor, to Syria between 2014 and 2016.
+Since EU sanctions from September 2013 made export licences compulsory for the export of isopropanol to Syria in concentrations of 95% or higher, Syrian Archive and [Knack](https://www.knack.be/nieuws/belgie/isopropanol-schandaal-hoe-een-grondstof-voor-gifgas-door-de-handen-van-de-belgische-douane-glipte/article-longread-1097291.html) can report that Belgian companies exported 168 tonnes of isopropanol, a sarin precursor, to Syria between 2014 and 2016.
 
 Sarin is the nerve gas used by the Syrian government in the Khan Shaykhun attack that killed 74-100 people in April of last year, as [attributed](https://www.diplomatie.gouv.fr/en/country-files/syria/events/article/chemical-attack-in-syria-national-evaluation-presented-by-jean-marc-ayrault) by the French Ministry of Foreign Affairs. According to Belgian toxicologist Jan Tytgat (KU Leuven), victims of sarin die a painful death. “Diarrhea, urinary flare, narrowed pupils, spasms that give you the feeling of suffocation, vomiting, lacrimation and saliva production: the victim quickly becomes paralyzed, suffocates and dies. The lethal dose of sarin for adults is estimated to be less than 1 milligram.”
 
@@ -20,7 +20,7 @@ Your browser does not support the video tag.
 </video>
 <small>[Video](https://syrianarchive.org/en/database?unit=e58e64bc) by Hadi Alabdallah of a factory next to the impact site which was targeted by a chemical bomb in Khan Shaykhun</small>
 
-The Organisation for the Prevention of Chemical Weapons (OPCW), that oversees compliance with the Chemical Weapons Convention, examined samples from and around the impact crater in Khan Shaykhun, [finding](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_2017_904.pdf) in laboratory tests that isopropanol was used in the production of sarin used in the attack.
+The Organisation for the Prevention of Chemical Weapons (OPCW), that oversees compliance with the Chemical Weapons Convention, examined samples from and around the impact crater in Khan Shaykhun, [finding](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF168FF9%7D/s_2017_904.pdf) in laboratory tests that isopropanol was used in the production of sarin used in the attack.
 
 Isopropanol, also known as isopropyl alcohol, is considered a “dual use” product, much like chlorine, which has ordinary industrial uses (such as in the manufacturing of pharmaceuticals or acetate, where it is favoured due to its low toxicity and small amount of residue). It can also be used in the synthesis process when manufacturing chemical agents such as the nerve agent sarin. Like all chemical weapons, the use of sarin has been banned since the 1993 Chemical Weapons Convention.
 

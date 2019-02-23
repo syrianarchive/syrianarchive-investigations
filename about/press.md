@@ -267,6 +267,3 @@ Articles in which the work of __Syrian Archive__ was highlighted include the fol
 > [Knight, B. - Deutsche Welle](http://www.dw.com/en/syrian-archive-catalogues-war-atrocities-online/a-36945803) 
 >
 > Syrian Archive catalogues war atrocities online
-
-
-

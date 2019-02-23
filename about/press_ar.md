@@ -19,6 +19,10 @@ image: "/assets/about/press-1.png"
 
 #### بلغات أجنبيّة:
 
+- Foreign Policy (December 2018) [‘We Can’t Save Syrians Anymore, But We Can Save the Truth’](https://foreignpolicy.com/2018/12/27/ugur-umit-ungor-syria-oral-history-project/)
+- ABC News (December 2018) [Syrian war crimes evidence strongest since Nuremberg trials, says prosecutor](https://mobile.abc.net.au/news/2018-12-03/syrian-war-crimes-evidence-strongest-since-nuremberg-trials/10577206?pfmredir=sm)
+- BuzzFeed News (December 2018). [The Histories Of Today’s Wars Are Being Written On Social Media, But Crucial Evidence Of War Crimes Is Vanishing](https://www.buzzfeednews.com/amphtml/meghara/facebook-youtube-icc-war-crimes?bftwnews=&utm_term=4ldqpgc&__twitter_impression=true)
+- Huridocs (December 2018) [Projects that inspired the HURIDOCS team in 2018](https://huridocs.org/2018/12/inspiring-projects-2018/)
 - Independent (2018). [Syrian group documents ‘Russian attacks on civilians’](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
 - AP NEWS (2018) [Syrian group documents Russian attacks on civilians](https://www.apnews.com/d18183062a9e409a84d004779abe2f1e)
 - geographical imaginations (2018) [1418 strikes and you’re still in…](https://geographicalimaginations.com/2018/10/31/1418-strikes-and-youre-still-in/) 
