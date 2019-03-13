@@ -6,7 +6,7 @@ desc: "How we tracked the illegal shipment of sarin precursor from Belgium to Sy
 image: /assets/shippingtracking.png
 ---
 
-On 18 April 2018 Syrian Archive and Knack revealed information that Belgium violated EU sanctions against Syria according to the summons of an upcoming lawsuit. The Belgian customs found that without having requested the appropriate export licenses three Flemish companies  have exported 96 tonnes of isopropanol in a concentration of 95% or higher to Syria since sanctions came into force in September 2013.
+On 18 April 2018 Syrian Archive and Knack revealed information that Belgium violated EU sanctions against Syria according to the summons of an upcoming lawsuit. The Belgian customs found that without having requested the appropriate export licenses three Flemish companies  have exported 168 tonnes of isopropanol in a concentration of 95% or higher to Syria since sanctions came into force in September 2013.
 
 The Syrian Archive has worked with Belgian news outlet Knack on this investigation for the past year. All of the information was publicly or collaboratively sourced through searching online databases, submitting Freedom of Information Requests and requesting statements from authorities, courts and companies involved.
 
@@ -14,7 +14,7 @@ This article documents some of the open source investigative methods employed in
 
 ### Global trade figures
 
-Syrian Archive staff began our investigation in the aftermath of last year April’s sarin attack in Khan Sheikhoun in which the Organisation for the Prevention of Chemical Weapons (OPCW), that oversees compliance with the Chemical Weapons Convention, examined samples from and around the impact crater in Khan Sheikhoun, [finding](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_2017_904.pdf) in laboratory tests that isopropanol was used in the production of sarin used in the attack.
+Syrian Archive staff began our investigation in the aftermath of last year April’s sarin attack in Khan Sheikhoun in which the Organisation for the Prevention of Chemical Weapons (OPCW), that oversees compliance with the Chemical Weapons Convention, examined samples from and around the impact crater in Khan Sheikhoun, [finding](http://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF168FF9%7D/s_2017_904.pdf) in laboratory tests that isopropanol was used in the production of sarin used in the attack.
 
 We consulted The [UN Comtrade](https://comtrade.un.org/) database to identify whether any shipments of isopropanol, a sanctioned chemical from EU Member States to Syria, were reported after [sanctions were put in place in 2013](http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1493825060366&uri=CELEX:02012R0036-20170321).
 
