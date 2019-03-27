@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "German and Belgian authorities react to new findings on chemicals’ exports to Syria"
 date: 2019-03-27
-image: /assets/port.jpg
+image: /assets/investigations/3-logos.jpg
 ---
 
 Three groups working on accountability for atrocity crimes in Syria are asking why the European Union’s sanctions regime was unable to prevent the reported shipment to Syria in 2014 of chemicals that can be used in the production of chemical weapons, to a company with links to the Syrian government.
