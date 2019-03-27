@@ -1,51 +1,50 @@
 ---
 layout: investigation.html
-title: "German and Belgian authorities react to new findings on chemicals’ exports to Syria"
+title: "ردود السلطات الألمانية والبلجيكية على النتائج الجديدة بخصوص صادرات المواد الكيميائية إلى سوريا"
 date: 2019-03-27
 image: /assets/investigations/3-logos.jpg
 ---
 
-Three groups working on accountability for atrocity crimes in Syria are asking why the European Union’s sanctions regime was unable to prevent the reported shipment to Syria in 2014 of chemicals that can be used in the production of chemical weapons, to a company with links to the Syrian government.
+تتساءل ثلاث مجموعات عاملة في مجال المساءلة عن الجرائم الوحشية في سوريا عن سبب عجز نظام العقوبات الأوربي عن منع شحنات المواد الكيماوية المُبلغ عنها إلى سوريا في 2014؛ والتي يمكن أن تكون استُخدمت لإنتاج أسلحة كيماوية، إلى شركة لها ارتباطاتها بالحكومة السورية. 
 
-Last month, the Syrian Archive, TRIAL International and the Open Society Justice Initiative asked two European export control authorities—Germany’s BAFA and the Arms Trade Monitoring Unit of the Flemish Ministry of Foreign Affairs—to investigate shipments of isopropanol and diethylamine manufactured in Germany and Belgium that were delivered to Syria via Switzerland in 2014.
-
-
-## Potentially dangerous products
-
-Isopropanol can be used in the production of sarin, a deadly chemical agent that has been used by the Syrian government against civilians. Diethylamine, in addition to having legitimate uses in the production of pharmaceuticals, is also used in the production of VX, a highly toxic nerve agent that has been found in Syria’s chemical weapons stockpiles.
+في الشهر الماضي، طلب كل من الأرشيف السوري و TRIAL International و The Justice Society Initiative من اثنين من هيئات مراقبة الصادرات الأوروبية - BAFA في ألمانيا ووحدة مراقبة تجارة الأسلحة التابعة لوزارة الشؤون الخارجية الفلمنكية - التحقيق في شحنات الأيزوبروبانول وثنائي إيثيل أمين المصنعة في ألمانيا وبلجيكا التي سُلّمت إلى سوريا عبر سويسرا عام 2014.
 
 
-## A questionable business partner
+## منتجات خطرة مُحتملة
 
-Three Swiss newspapers, Le Matin Dimanche, Sonntagszeitung and La Tribune de Genève, reported on 17 and 18 February details of the sale of these potential chemical weapon precursors to Mediterranean Pharmaceutical Industries (MPI), a Syrian company with close links to the Syrian government. MPI was licensed to manufacture Voltaren, an over-the-counter anti-inflammatory that uses the two chemicals, by a subsidiary of Novartis, the Swiss pharmaceutical company. Novartis states that its subsidiary’s agreement with MPI covered the supply of Voltaren’s active ingredient (diclofenac) only, and that it did not source isopropanol or diethylamine for MPI.
-
-The newspapers reported that the shipments appear to have involved five tons of isopropanol manufactured in Germany by Sasol Solvents, a South Africa-based chemical and energy company, and 280 kilograms of diethylamine, supplied from Belgium by BASF, the German chemical company.
-
-Documents obtained by the three NGOs indicate that the isopropanol was produced in Germany, and the diethylamine in Belgium.
+يمكن استخدام الأيزوبروبانول في إنتاج السارين، وهو عامل كيميائي فتاك تستخدمه الحكومة السورية ضد المدنيين. أما بالنسبة لثنائي إيثيل أمين، فبالإضافة إلى استخداماته المشروعة في إنتاج الأدوية؛ يُستخدم في إنتاج VX، وهو عامل أعصاب شديد السمية وُجد في مخزونات الأسلحة الكيميائية في سوريا.
 
 
-## Products subject to export authorisation
+## شريك تجاري مُريب
 
-Since 2012, EU sanctions laws required companies in EU member states selling, supplying, transferring or exporting these chemicals directly or indirectly to Syria to obtain prior authorization from the national export control authorities. In its initial response to questions from the three NGOs, Germany’s export control agency BAFA said that since the EU regulation came into force, “BAFA has not granted any authorization for exports of listed Isopropanol from Germany to Syria.”
+في 17 و 18 فبراير نشرت ثلاث صحف سويسرية، Le Matin Dimanche و Sonntagszeitung و La Tribune de Genève،  تفاصيل بيع هذه المواد، التي يُحتمل استخدامها لإنتاج أسلحة كيماوية، لشركة الصناعات الدوائية المتوسطية (MPI)، وهي شركة سورية لها صلات وثيقة بالحكومة السورية. حصلت MPI على رخصة لتصنيع الفولتارين، وهو مضاد التهابات يباع دون وصفة طبية ويستخدم المادتين الكيماويتين المذكورتين، من قبل شركة تابعة لشركة الأدوية السويسرية Novartis. تنص شركة Novartis على أن اتفاقية الشركة التابعة لها مع MPI غطت توريد المادة الفعالة في فولتارين (ديكلوفيناك) فقط، وأنها لم تصدر الأيزوبروبانول أو ثنائي إيثيل أمين، لـ MPI.
 
-The Arms Trade Monitoring Unit of the Flemish Ministry of Foreign Affairs said that it “did not receive any authorization requests for the export of diethylamine from Belgium with Syria as final destination.” It added that “[a]ny knowledge or indication that the final destination was Syria before or at the time of export, should have led to the blocking of the transaction and the initiation of the export authorization procedure.”
+ذكرت الصحف أن الشحنات شملت على ما يبدو خمسة أطنان من الأيزوبروبانول المصنعة في ألمانيا من قبل شركة Sasol Solvents، وهي شركة كيماويات وطاقة مقرها جنوب إفريقيا، و 280 كيلوغرام من ثنائي إيثيل أمين تم توفيره من بلجيكا بواسطة شركة الكيماويات الألمانية BASF.
 
-The two chemicals transited through Switzerland, and were apparently supplied to the Syrian company MPI by Brenntag Schweizerhall AG, the Swiss subsidiary of the German chemical distribution company Brenntag AG.
+تشير الوثائق التي حصلت عليها المنظمات غير الحكومية الثلاث إلى أنه تمّ إنتاج الأيزوبروبانول في ألمانيا، وثنائي إيثيل أمين في بلجيكا.
 
 
-## Shipment legal under Swiss law
+## منتجات خاضعة لرخصة التصدير
 
-Details of the isopropanol shipment from Switzerland were reported in Switzerland last year, with the State Secretariat for Economic Affairs (SECO) saying in April 2018 that the shipment was legal under Swiss law. SECO added that the client was “a private Syrian pharmaceutical firm” and that there was “no indication that it had links to the Syrian government at the time, nor today”. All of the companies say their actions were in accordance with existing sanctions regulations. Novartis in particular states that the due diligence they conducted on MPI “indicated no red flags.”
+منذ عام 2012؛ فرضت قوانين عقوبات الاتحاد الأوروبي على الشركات في الدول الأعضاء في الاتحاد الأوروبي الحصول على إذن مسبق من السلطات الوطنية لمراقبة الصادرات عند بيع أو توريد أو نقل أو تصدير هذه المواد الكيميائية إلى سوريا بشكل مباشر أو غير مباشر. قالت وكالة مراقبة الصادرات الألمانية BAFA في ردها المبدئي على أسئلة المنظمات الثلاث أنه، ومنذ دخول لائحة الاتحاد الأوروبي حيز التنفيذ، "لم تمنح BAFA أي تصريح لتصدير الأيزوبروبانول من ألمانيا إلى سوريا".
 
-Yet, the investigation by the three NGOs shows that, in 2014, MPI was headed by Abdul Rahman Attar, now deceased, who was a prominent Syrian businessman with close ties to senior figures in the Syrian government. At the time of the export, it was known that Mr. Attar was suspected of attempting to facilitate evasion of U.S. sanctions. “Attar had close business relationships with Cham Holdings, a company that was sanctioned in Switzerland and the European Union since 2012, and in the United States and Canada since 2011,” said Hadi al Khatib, director of Syrian Archive.
+قالت وحدة مراقبة تجارة الأسلحة التابعة لوزارة الشؤون الخارجية الفلمنكية أنها "لم تتلق أي طلبات ترخيص لتصدير مادة ثنائي إيثيل أمين من بلجيكا إلى سوريا كوجهة نهائية". وأضافت أن "[1] أيّ مؤشر أو إدراك على أن الوجهة النهائية للشحنات هي سوريا قبل أو أثناء التصدير كان ينبغي أن يؤدي إلى حظر العملية والبدء في إجراءات ترخيص التصدير."
 
-Questions therefore remain whether sufficient due diligence was conducted by the companies: “Conducting comprehensive due diligence is particularly important for pharmaceutical companies that transact in Syria, which has a history of stockpiling dual-use chemicals for its chemical weapon development,” said Montse Ferrer, corporate accountability expert at TRIAL International.
+نُقلت المادتان الكيماويّتان عبر سويسرا، ويبدو أنه تم توريدها لشركة MPI السورية بواسطة Brenntag Schweizerhall AG، الفرع السويسري لشركة توزيع المواد الكيميائية الألمانية Brenntag AG.
 
-James A. Goldston of the Justice Initiative said: “At the time these shipments were made, the world was all too aware that the Assad government had developed and used chemical weapons. But the responses that we have received so far raise grave concerns about the effectiveness of the E.U. Syria sanctions regime and company due diligence regarding the export of restricted dual-use chemicals.”
+## الشحنة قانونية بموجب القانون السويسري
+
+نُشرت تفاصيل حول شحنة الأيزوبروبانول في سويسرا العام الماضي، حيث ذكرت أمانة الدولة للشؤون الاقتصادية (SECO) في أبريل 2018 أن الشحنة كانت قانونية بموجب القانون السويسري. أضافت SECO أن العميل كان "شركة أدوية سورية خاصة" وأنه "لا توجد أية دلالة على ارتباطاتها بالحكومة السورية آنذاك، ولا اليوم". تقول جميع الشركات أن تصرفاتها كانت متوافقة مع أنظمة العقوبات الحالية. وتشير Novartis على وجه الخصوص إلى أن إجراءات الحيطة التي تم توخّيها بشأن  شركة MPI "لم تظهر أية مؤشرات حمراء".
+
+رغم ذلك، يظهر التحقيق الذي أجرته المنظمات الثلاث أنه في عام 2014 ترأس عبد الرحمن عطار، المتوفى الآن، شركة MPI، وهو رجل أعمال سوري بارز كانت له علاقات وثيقة مع شخصيات كبيرة في الحكومة السورية. في وقت التصدير؛ كان من المعروف عن عطّار الاشتباه في محاولاته  المساعدة على التهرب من العقوبات الأمريكية. قال هادي الخطيب، مدير الأرشيف السوري: "كان للعطار علاقات تجارية وثيقة مع شركة شام القابضة، وهي شركة واقعة تحت العقوبات في سويسرا والاتحاد الأوروبي منذ 2012، وفي الولايات المتحدة وكندا منذ 2011".
+
+لذا، يبقى التساؤل حول مدى اتخاذ الشركات الحيطة الكافية، يقول مونتس فيرير خبير مساءلة الشركات في  TRIAL International: "إن توخّي بالغ الحذر أمر مهم بشكل خاص لشركات الأدوية ذات التعاملات مع سوريا، والتي لديها تاريخ في تخزين المواد الكيميائية مزدوجة الاستخدام لتطوير سلاحها الكيميائي".
+
+قال جيمس أ. جولدستون من مبادرة العدالة: "في الوقت الذي أُرسلت هذه الشحنات، كان العالم يدرك تمام الإدراك أن حكومة الأسد طورت واستخدمت أسلحة كيميائية. لكن الردود التي تلقيناها حتى الآن تثير مخاوف جدية حول مدى فعالية نظام عقوبات الاتحاد الأوروبي على سوريا، والحيطة الواجب توخيها من قبل الشركات فيما يتعلق بتصدير المواد الكيميائية مزدوجة الاستخدام المحظورة."
 
 ---
-The United Nations launched its investigation on the possible use of chemical weapons in Syria in April 2013, after first reports of chemical weapons use appeared in December, 2012.
+بدأت الأمم المتحدة تحقيقها بشأن الاستخدام المحتمل للأسلحة الكيميائية في سوريا في أبريل 2013، بعد ظهور التقارير الأولى عن استخدام الأسلحة الكيميائية في ديسمبر 2012.
 
-The shipment of 5,000kg of Isopropanol came after the Organization for the Prohibition of Chemical Weapons (OPCW) announced in May 2014 that Syria had destroyed its stock of 120 metric tons of isopropanol.
+وصلت شحنة الـ  5000 كيلوغرام من الأيزوبروبانول بعد إعلان منظمة حظر الأسلحة الكيميائية (OPCW) في مايو 2014 أن سوريا قد دمرت مخزونها البالغ 120 طنًا من الأيزوبروبانول.
 
-In April, 2017, nearly 100 people were killed and more than 200 injured in a chemical attack at Khan Shaykun using sarin produced with isopropanol.
+في أبريل 2017، قُتل حوالي 100 شخص وأصيب أكثر من 200 في هجوم كيماوي على خان شيخون باستخدام السارين الذي استُخدمت مادة الأيزوبروبانول في إنتاجه.
