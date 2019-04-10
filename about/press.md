@@ -8,7 +8,11 @@ image: "/assets/about/press-1.png"
 
 Articles in which the work of the Syrian Archive was highlighted include the following:
 
-- Independent (2018). [Syrian group documents ‘Russian attacks on civilians’](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
+- Trial International (2019) [German and Belgian authorities react to new findings on chemicals’ exports to Syria ](https://trialinternational.org/latest-post/german-and-belgian-authorities-react-to-new-findings-on-chemicals-exports-to-syria/)
+- The Verge (2019) [Upload filters and one-hour takedowns: the EU’s latest fight against terrorism online, explained](https://www.theverge.com/2019/3/21/18274201/european-terrorist-content-regulation-extremist-terreg-upload-filter-one-hour-takedown-eu)
+- Monument Lab (2019) [THE NEW GATEKEEPERS: WILL GOOGLE DECIDE HOW WE REMEMBER SYRIA’S CIVIL WAR? ](http://monumentlab.com/news/2019/2/19/the-new-gatekeepers-syrian-war)
+- Just Security (2019) [Scramble to Erase New Zealand Attack Videos Exposes Pitfalls Too](https://www.justsecurity.org/63451/scramble-to-erase-new-zealand-attack-videos-exposes-pitfalls-too/)
+- Independent (2018) [Syrian group documents ‘Russian attacks on civilians’](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
 - AP NEWS (2018) [Syrian group documents Russian attacks on civilians](https://www.apnews.com/d18183062a9e409a84d004779abe2f1e)
 - geographical imaginations (2018) [1418 strikes and you’re still in…](https://geographicalimaginations.com/2018/10/31/1418-strikes-and-youre-still-in/) 
 - Ukrinform (2018) [Syrian Archive:1400 Angriffe russischer Truppen auf Zivilisten in Syrien](https://www.ukrinform.de/rubric-crime/2570112-syrian-archive-1400-angriffe-russischer-truppen-auf-zivilisten-in-syrien.html)

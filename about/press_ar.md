@@ -19,6 +19,10 @@ image: "/assets/about/press-1.png"
 
 #### بلغات أجنبيّة:
 
+- Trial International (2019) [German and Belgian authorities react to new findings on chemicals’ exports to Syria ](https://trialinternational.org/latest-post/german-and-belgian-authorities-react-to-new-findings-on-chemicals-exports-to-syria/)
+- The Verge (2019) [Upload filters and one-hour takedowns: the EU’s latest fight against terrorism online, explained](https://www.theverge.com/2019/3/21/18274201/european-terrorist-content-regulation-extremist-terreg-upload-filter-one-hour-takedown-eu)
+- Monument Lab (2019) [THE NEW GATEKEEPERS: WILL GOOGLE DECIDE HOW WE REMEMBER SYRIA’S CIVIL WAR? ](http://monumentlab.com/news/2019/2/19/the-new-gatekeepers-syrian-war)
+- Just Security (2019) [Scramble to Erase New Zealand Attack Videos Exposes Pitfalls Too](https://www.justsecurity.org/63451/scramble-to-erase-new-zealand-attack-videos-exposes-pitfalls-too/)
 - Foreign Policy (December 2018) [‘We Can’t Save Syrians Anymore, But We Can Save the Truth’](https://foreignpolicy.com/2018/12/27/ugur-umit-ungor-syria-oral-history-project/)
 - ABC News (December 2018) [Syrian war crimes evidence strongest since Nuremberg trials, says prosecutor](https://mobile.abc.net.au/news/2018-12-03/syrian-war-crimes-evidence-strongest-since-nuremberg-trials/10577206?pfmredir=sm)
 - BuzzFeed News (December 2018). [The Histories Of Today’s Wars Are Being Written On Social Media, But Crucial Evidence Of War Crimes Is Vanishing](https://www.buzzfeednews.com/amphtml/meghara/facebook-youtube-icc-war-crimes?bftwnews=&utm_term=4ldqpgc&__twitter_impression=true)
