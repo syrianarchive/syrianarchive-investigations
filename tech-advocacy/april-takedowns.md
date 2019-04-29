@@ -10,7 +10,7 @@ To date, Syrian Archive has preserved and processed 1.457.465 videos from YouTub
 
 Yet roughly 190.000 videos remain unavailable as of January 2019. Some of these videos include documentation of chemical attacks, attacks on hospitals and medical facilities, or destruction of civilian infrastructure. These 190.000 are securely preserved by Syrian Archive and available upon request.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/39YEFAaZL2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="500" src="https://www.youtube.com/embed/39YEFAaZL2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Syrian Archive preserves content from 3.260 YouTube channels on a daily basis. Of this, 228 YouTube channels have been made unavailable as of April 2019 but are preserved in Syrian Archive infrastructure. Some of these channels are long-standing media houses that have been documenting human rights violations in Syria since 2011.

@@ -1,8 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "Tech Advocacy"
-date: 2019-04-29
-desc: "CONFIRMED US Responsible for ‘Aleppo Mosque Bombing"
+desc: "Amount of content preserved, made unavailable and restored"
 image: /assets/8j.width-800.png
 ---
 
