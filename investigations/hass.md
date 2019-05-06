@@ -7,7 +7,6 @@ image: /assets/investigations/
 drafts: true
 ---
 
-
 Location: [IDLIB : Hass](https://goo.gl/maps/7Uhfyp8h76TZmVUx8)
 Hospital: Nabed Al Hayat Hospital supported by Syria for Humanitarian and Development (SRD)
 Beneficiaries: ~6000 people a month (as per medical staff of the hospital)
@@ -22,16 +21,13 @@ Potentially responsible: Russian or Syrian Airforce
 
 ## What Happened?
 
-On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria about that Nabed Al Hayat Hospital is out of service as it was targeted with an airstrike.
+On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria that Nabed Al Hayat Hospital which is supported by [Syria for Humanitarian and Development](https://srd.org.tr/) is out of service as it was targeted with an airstrike.
 
-Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on their facebook page showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be noticed at 01:43 of the video. The person capturing the video mentioned "Nabed Al Hayat hospital is targeted with a Russian airstrike in Al Hass town"
+Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on their facebook page showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be heard at 01:43 of the video. The person capturing the video mentioned "Nabed Al Hayat hospital was targeted with a Russian airstrike in Al Hass town".
 
 <iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs"></a></p>
 
 The Orient video shows a direct hit of Nabed Al Hayat Hospital
-
-
-
 
 
 
@@ -44,13 +40,9 @@ Journalist Jamil Al Hassan Live facebook video from the impact site
 
 
 
+## When it Happened?
 
-
-
-
-
-
-
+According to Ali Haj Suleiman who [captured photos](https://www.facebook.com/permalink.php?story_fbid=2428696364020887&id=100006416408432) of the impact site after the attack. The incident took place at 14:42 Damascus time.
 
 
 
