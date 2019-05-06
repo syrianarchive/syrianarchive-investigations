@@ -3,7 +3,7 @@ layout: contentwithsiblings.html
 title: "Removals of Syrian human rights content: April 2019"
 date: 2019-04-29
 desc: "CONFIRMED US Responsible for ‘Aleppo Mosque Bombing"
-image: /assets/8j.width-800.png
+image: /assets/takedowns.jpg
 ---
 
 To date, Syrian Archive has preserved and processed 1.457.465 videos from YouTube. Many of these have been made unavailable for the reasons highlighted above. After Syrian Archive raised this issue with YouTube, over 200.000 videos were restored and made publicly viewable since July 2017.
