@@ -11,7 +11,7 @@ drafts: true
 Location: [IDLIB : Hass](https://goo.gl/maps/7Uhfyp8h76TZmVUx8)
 Hospital: Nabed Al Hayat Hospital supported by Syria for Humanitarian and Development (SRD)
 Beneficiaries: ~6000 people a month (as per medical staff of the hospital)
-Date: 5th May 2019
+Date: 5 May 2019
 Time: 14:42 Damascus Time
 Casualties: Not reported
 Injured: Not reported
@@ -22,32 +22,29 @@ Potentially responsible: Russian or Syrian Airforce
 
 ## What Happened?
 
-On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria about that Nabed Al Hayat Hospital is out of service as it was targeted with an airstrike.
+On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria stating that Nabed Al Hayat Hospital was out of service as a result of being targeted with an airstrike.
 
-Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on their facebook page showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be noticed at 01:43 of the video. The person capturing the video mentioned "Nabed Al Hayat hospital is targeted with a Russian airstrike in Al Hass town"
+Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on their Facebook page showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be noticed at 01:43 of the video. The person capturing the video mentioned "Nabed Al Hayat hospital is targeted with a Russian airstrike in Al Hass town"
 
 <iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs"></a></p>
 
 ![hass01](assets/investigations/hass/image2.png)
 
 ![hass02](assets/investigations/hass/image14.png)
-
-The Orient video shows a direct hit of Nabed Al Hayat Hospital
+*The Orient video shows a direct hit of Nabed Al Hayat Hospital.*
 
 Another live video published by Orient after the attack shows their journalist Jamil Al Hassan filming in the impact site.
 
-assets/investigations/hass/image4.png
-
-Journalist Jamil Al Hassan Live facebook video from the impact site
+![hass025](assets/investigations/hass/image4.png)
+*Journalist Jamil Al Hassan Live Facebook video from the impact site*
 
 
 ## Crater
 
-The journalist points to the crater which was resulted of the dropped munitions of the airstrike .
+The journalist points to the crater which was resulted of the dropped munitions of the airstrike.
 
 ![hass03](assets/investigations/hass/image15.png)
-
-The Orient video shows a crater as a result of the airstrike
+*The Orient video shows a crater as a result of the airstrike.*
 
 ## Destruction in the Hospital
 
@@ -66,11 +63,10 @@ External damage of the hospital as a result of the airstrike
 Macro Media Center (MMC) published photos of Nabed Al Hayat Hospital after the attack.
 
 ![hass06](assets/investigations/hass/image7.jpg)
-MMC photo of the targeted Hospital showing the impact site and the banner “Nabed Al Hayat Hospital”
+*MMC photo of the targeted Hospital showing the impact site and the banner “Nabed Al Hayat Hospital”*
 
 ![hass07](assets/investigations/hass/59615664_614938712306090_3501116907153522688_o.jpg)
-
-Citizen reporter capturing documentation of the impact site
+*Citizen reporter capturing documentation of the impact site*
 
 ## Geolocation of the Hospital
 Using Google earth pro, the location of the hospital was geolocated by matching Orient video with the satellite imagery below which was taken in 12/17/2017.
