@@ -28,6 +28,10 @@ Orient published a video showing the attack as it happened. Two munitions were d
 
 <iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs">via GIPHY</a></p>
 
+assets/investigations/hass/image2.png
+
+assets/investigations/hass/image14.png
+
 The Orient video shows a direct hit of Nabed Al Hayat Hospital
 
 
@@ -38,6 +42,7 @@ The Orient video shows a direct hit of Nabed Al Hayat Hospital
 
 Another live video published by Orient after the attack shows their journalist Jamil Al Hassan filming in the impact site.
 
+assets/investigations/hass/image4.png
 
 Journalist Jamil Al Hassan Live facebook video from the impact site
 
@@ -59,6 +64,7 @@ Journalist Jamil Al Hassan Live facebook video from the impact site
 
 The journalist points to the crater which was resulted of the dropped munitions of the airstrike .
 
+assets/investigations/hass/image15.png
 
 The Orient video shows a crater as a result of the airstrike
 
@@ -77,23 +83,23 @@ The Orient video shows a crater as a result of the airstrike
 
 Smart News Agency published a video showing the first moment of the airstrike as well as the structural damage of the hospital from outside and inside.
 
-
+assets/investigations/hass/image6.png
 Internal damage in the the hospital as a result of the airstrike
 
 Edlib Media Center also published photos of Nabed Al Hayat Hospital after the attack.
 
-
+assets/investigations/hass/image13.jpg
 External damage of the hospital as a result of the airstrike
 
 
 Macro Media Center (MMC) published photos of Nabed Al Hayat Hospital after the attack.
 
-
+assets/investigations/hass/image7.jpg
 MMC photo of the targeted Hospital showing the impact site and the banner “Nabed Al Hayat Hospital”
 
 
 
-
+assets/investigations/hass/59615664_614938712306090_3501116907153522688_o.jpg
 Citizen reporter capturing documentation of the impact site
 
 
@@ -111,7 +117,7 @@ Citizen reporter capturing documentation of the impact site
 ## Geolocation of the Hospital
 Using Google earth pro, the location of the hospital was geolocated by matching Orient video with the satellite imagery below which was taken in 12/17/2017.
 
-
+assets/investigations/hass/image8.png
 
 
 
@@ -126,7 +132,7 @@ Bellingcat investigation team published an investigation about this incident on 
 ## De-escalation Zone
 On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) signed a memorandum of understanding for the establishment of de-escalation zones in Syria which took effect on 6 May 2017. The Russian Ministry of Defence published a map showing the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Al Hass is located within the de-escalation zone.
 
-
+assets/investigations/hass/image12.jpg
 
 
 ## De-confliction mechanism
