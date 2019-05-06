@@ -1,14 +1,14 @@
 ---
 layout: investigation.html
-title: "Two air raids on Harem: popular market and residential housing complex  "
-date: 2018-10-02
+title: "Targeting Nabed Al Hayat hospital in Idlib"
+date: 2019-05-06
 desc: "investigation"
-image: /assets/investigations/hrc_cover.png
+image: /assets/investigations/
 drafts: true
 ---
 
 
-Location: IDLIB : Hass
+Location: [IDLIB : Hass](https://goo.gl/maps/7Uhfyp8h76TZmVUx8)
 Hospital: Nabed Al Hayat Hospital supported by Syria for Humanitarian and Development (SRD)
 Beneficiaries: ~6000 people a month (as per medical staff of the hospital)
 Date: 5th May 2019
@@ -22,11 +22,11 @@ Potentially responsible: Russian or Syrian Airforce
 
 ## What Happened?
 
-On May 5th 2019, media reports were published online by citizen reporters and news agencies in Syria about targeting Nabed Al Hayat Hospital with an airstrike.
+On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria about that Nabed Al Hayat Hospital is out of service as it was targeted with an airstrike.
 
-Orient published a video showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be noticed at xxxx of the video.
+Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on their facebook page showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be noticed at 01:43 of the video. The person capturing the video mentioned "Nabed Al Hayat hospital is targeted with a Russian airstrike in Al Hass town"
 
-<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs"></a></p>
 
 ![hass01](assets/investigations/hass/image2.png)
 
