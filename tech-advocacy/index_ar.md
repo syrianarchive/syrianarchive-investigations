@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "المناصرة التقنية"
-desc: "جهود حفظ واستعادة محتوى بعد إزالته"
+desc: "إحصائيات المواد الرقمية المؤرشفة والتي تم استرجاعها"
 image: /assets/takedowns.jpg
 ---
 
