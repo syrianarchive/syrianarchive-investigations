@@ -11,10 +11,10 @@ drafts: true
 - Hospital: Nabed Al Hayat Hospital supported by Syria for Humanitarian and Development (SRD)
 - Beneficiaries: ~6000 people a month (as per medical staff of the hospital)
 - Date: 5 May 2019
-- Time: 14:42 Damascus Time
+- Time: ~ 14:42 - 16:15 Damascus Time
 - Casualties: Not reported
 - Injured: Not reported
-- Attacks: Airstrike
+- Attacks: Four - Five Airstrike
 - Munitions identified: Two munitions can be identified in the video published by Orient News
 - Potentially responsible: Russian or Syrian Airforce
 
@@ -33,6 +33,8 @@ Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on
 ![hass02](/assets/investigations/hass/image14.png)
 *The Orient video shows a direct hit of Nabed Al Hayat Hospital.*
 
+Idlib AL Hadath [published a facebook post](https://www.facebook.com/permalink.php?story_fbid=2265878050396699&id=1475672172750628) saying: "Russian airstrike targeting Al Hass hospital South of Idlib". This post was published on 15:08 Damascus time after converting *data-utime="1557058094"* to UTC time.
+
 Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) by Orient after the attack shows their journalist Jamil Al Hassan streaming from the impact site on May 5th at 18:17 Damascus time. The journalist mentioned that the hospital was targeted directly with 4 missiles by a Russian airstrike. He then mentioned that the 4 aircrafts are back to the same impact site according to the observation centers.
 
 ![hass025](/assets/investigations/hass/image4.png)
@@ -41,13 +43,11 @@ Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/32476326
 ![hass025](/assets/investigations/hass/utc-damascus.png)
 *Time convert from UTC to Damascus time*
 
-Citizen reporter and former nurse Wassem Sherko [published photos on his facebook page](https://www.facebook.com/wassemalon/posts/1173592712801596) of the impact site after the attack at 15:50 Damascus time. The Syrian Archive team converted the UTC time found after searching for *data-utime="1557060632"* on the published post.
 
-We also connected to the MMC photographer Ali Haj Suleiman who [captured photos](https://www.facebook.com/permalink.php?story_fbid=2428696364020887&id=100006416408432) of the impact site after the attack. The incident took place at 14:42 Damascus time.
 
 ## Crater
 
-The journalist Jamil Al Hassan pointed to the crater resulted from the airstrike in the [live video](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) that he published. 
+The journalist Jamil Al Hassan pointed to the crater resulted from the airstrike in the [live video](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) that he published.
 
 ![hass03](/assets/investigations/hass/image15.png)
 *The Orient video shows a crater as a result of the airstrike.*
@@ -66,7 +66,7 @@ Edlib Media Center also published photos of Nabed Al Hayat Hospital after the at
 External damage of the hospital as a result of the airstrike
 
 
-Macro Media Center (MMC) published photos of Nabed Al Hayat Hospital after the attack.
+Macro Media Center (MMC) pubhttps://www.facebook.com/Orient.Tv.Net/videos/324763261548620/lished photos of Nabed Al Hayat Hospital after the attack.
 
 ![hass06](/assets/investigations/hass/image7.jpg)
 *MMC photo of the targeted Hospital showing the impact site and the banner “Nabed Al Hayat Hospital”*
