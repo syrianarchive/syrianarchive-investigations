@@ -22,6 +22,8 @@ drafts: true
 
 On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria that Nabed Al Hayat Hospital which is supported by [Syria for Humanitarian and Development](https://srd.org.tr/) is out of service as it was targeted with an airstrike.
 
+Syria Relief and Development (SRD) is a licensed organization in Turkey. They describe their mission on [their website](https://srd.org.tr/en/about) as the following: "Provide emergency humanitarian relief and sow the seeds of sustainable development for the people of Syria".
+
 Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on their facebook page showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be heard at 01:43 of the video. The person capturing the video mentioned "Nabed Al Hayat hospital was targeted with a Russian airstrike in Al Hass town".
 
 <iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs"></a></p>
@@ -33,10 +35,7 @@ The Orient video shows a direct hit of Nabed Al Hayat Hospital
 ![hass02](/assets/investigations/hass/image14.png)
 *The Orient video shows a direct hit of Nabed Al Hayat Hospital.*
 
-Another live video published by Orient after the attack shows their journalist Jamil Al Hassan filming in the impact site.
-
-
-Journalist Jamil Al Hassan Live facebook video from the impact site
+Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) by Orient after the attack shows their journalist Jamil Al Hassan streaming from the impact site.
 
 ![hass025](/assets/investigations/hass/image4.png)
 *Journalist Jamil Al Hassan Live Facebook video from the impact site*
