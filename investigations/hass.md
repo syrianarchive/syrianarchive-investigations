@@ -18,7 +18,7 @@ drafts: true
 - Munitions identified: Two munitions can be identified in the video published by Orient News
 - Potentially responsible: Russian or Syrian Airforce
 
-## What Happened?
+## What Happened and When?
 
 On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria that Nabed Al Hayat Hospital which is supported by [Syria for Humanitarian and Development](https://srd.org.tr/) is out of service as it was targeted with an airstrike.
 
@@ -28,28 +28,26 @@ Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on
 
 <iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs"></a></p>
 
-The Orient video shows a direct hit of Nabed Al Hayat Hospital
-
 ![hass01](/assets/investigations/hass/image2.png)
 
 ![hass02](/assets/investigations/hass/image14.png)
 *The Orient video shows a direct hit of Nabed Al Hayat Hospital.*
 
-Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) by Orient after the attack shows their journalist Jamil Al Hassan streaming from the impact site.
+Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) by Orient after the attack shows their journalist Jamil Al Hassan streaming from the impact site on May 5th at 18:17 Damascus time. The journalist mentioned that the hospital was targeted directly with 4 missiles by a Russian airstrike. He then mentioned that the 4 aircrafts are back to the same impact site according to the observation centers.
 
 ![hass025](/assets/investigations/hass/image4.png)
 *Journalist Jamil Al Hassan Live Facebook video from the impact site*
 
+![hass025](/assets/investigations/hass/utc-damascus.png)
+*Time convert from UTC to Damascus time*
 
-## When it Happened?
+Citizen reporter and former nurse Wassem Sherko [published photos on his facebook page](https://www.facebook.com/wassemalon/posts/1173592712801596) of the impact site after the attack at 15:50 Damascus time. The Syrian Archive team converted the UTC time found after searching for *data-utime="1557060632"* on the published post.
 
-According to Ali Haj Suleiman who [captured photos](https://www.facebook.com/permalink.php?story_fbid=2428696364020887&id=100006416408432) of the impact site after the attack. The incident took place at 14:42 Damascus time.
-
-
+We also connected to the MMC photographer Ali Haj Suleiman who [captured photos](https://www.facebook.com/permalink.php?story_fbid=2428696364020887&id=100006416408432) of the impact site after the attack. The incident took place at 14:42 Damascus time.
 
 ## Crater
 
-The journalist points to the crater which was resulted of the dropped munitions of the airstrike.
+The journalist Jamil Al Hassan pointed to the crater resulted from the airstrike in the [live video](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) that he published. 
 
 ![hass03](/assets/investigations/hass/image15.png)
 *The Orient video shows a crater as a result of the airstrike.*
@@ -86,6 +84,9 @@ Using Google earth pro, the location of the hospital was geolocated by matching 
 This is not the first time Nabed Al Hayat Hospital is targeted. On Sep 8th 2018, SHAM Network published a video showing destruction of the hospital claimed to be as a result of an airstrike.
 
 Bellingcat investigation team published an investigation about this incident on September 9th 2018.
+
+## Flight Data Analysis
+
 
 ## De-escalation Zone
 On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) signed a memorandum of understanding for the establishment of de-escalation zones in Syria which took effect on 6 May 2017. The Russian Ministry of Defence published a map showing the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Al Hass is located within the de-escalation zone.
