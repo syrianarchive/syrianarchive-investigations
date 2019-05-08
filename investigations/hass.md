@@ -92,7 +92,7 @@ Macro Media Center (MMC) [published photos](https://www.facebook.com/SYRMMC/post
 
 ## Geolocation of the Hospital
 
-Using Google Earth Pro, the location of the hospital was geolocated by matching the Orient [Facebook video](https://www.facebook.com/watch/?v=660363207732616) of the attack with the satellite imagery below, taken on December 17 2017. This indicates that the attacked hospital shown in the videos is located in Al Hass town in Idlib, as was reported on social media. The location of the hospital is remote and isolated with no military bases around it. 
+Using Google Earth Pro, the location of the hospital was geolocated by matching the Orient [Facebook video](https://www.facebook.com/watch/?v=660363207732616) of the attack with the satellite imagery below, taken on December 17 2017. This indicates that the attacked hospital shown in the videos is located in Al Hass town in Idlib, as was reported on social media. 
 
 ![hass08](/assets/investigations/hass/geolocation-2.png)
 
