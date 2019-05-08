@@ -47,7 +47,7 @@ Idlib AL Hadath [published a Facebook post](https://www.facebook.com/permalink.p
 
 Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) by Orient after the attack shows their journalist Jamil Al Hassan streaming from the impact site on May 5 at 18:17 Damascus time. The journalist mentioned that the hospital was targeted directly with 4 missiles by a Russian airstrike. He then mentioned that the 4 aircrafts returned to the same impact site according to the observation centers.
 
-![hass025](/assets/investigations/hass/banner-2)
+![hass025](/assets/investigations/hass/banner-2.png)
 *Journalist Jamil Al Hassan Live Facebook video from the impact site*
 
 ## Crater
