@@ -92,9 +92,13 @@ Macro Media Center (MMC) [published photos](https://www.facebook.com/SYRMMC/post
 
 ## Geolocation of the Hospital
 
-Using Google Earth Pro, the location of the hospital was geolocated by matching the Orient [Facebook video](https://www.facebook.com/watch/?v=660363207732616) of the attack with the satellite imagery below, taken on December 17 2017. This indicates that the attacked hospital shown in the videos is located in Al Hass town in Idlib, as was reported on social media. 
+Using Google Earth Pro, the location of the hospital was geolocated by matching the Orient [Facebook video](https://www.facebook.com/watch/?v=660363207732616) of the attack with the satellite imagery below, taken on December 17 2017. This indicates that the attacked hospital shown in the videos is located in Al Hass town in Idlib, as was reported on social media.
 
 ![hass08](/assets/investigations/hass/geolocation-2.png)
+
+The location of the hospital is remote and isolated with no observable military activity in the vicinity.
+
+![hass08](/assets/investigations/hass/hass-activity.png)
 
 ## Repeated Attacks on Nabed Al Hayat Hospital
 
@@ -139,4 +143,4 @@ This was also [published in a statement](https://srd.ngo/srds-pulse-of-life-medi
 
 ## Conclusion
 
-Based on verifying open source information, interviewing witnesses and analysing flight data, it is certain that Nabed Al Hayat Hospital located in Al Hass town in Idlib governorate was bombed on May 5 2019 with an airstrike that resulted in External and internal damage to the building of the hospital. The same hospital was attacked previously on September 8 2018. The hospital is located within the De-escalation zone and it was part of the De-conflicting mechanism. It is not possible to state with certainty whether the Russian or the Syrian airforce bombed this hospital.
+Based on verifying open source information, interviewing witnesses and analysing flight data, it is certain that Nabed Al Hayat Hospital located in AL Hass town in Idlib governorate was bombed on May 5 2019 with an airstrike that resulted in both external and internal damage to the building of the hospital. That same hospital was attacked previously on September 8 2018. The hospital is located within the De-escalation zone and it was part of the De-conflicting mechanism. However, with the current information, it is not possible to state with certainty whether the Russian or the Syrian airforce perpetrated this attack.
