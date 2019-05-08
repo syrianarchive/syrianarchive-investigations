@@ -9,22 +9,34 @@ drafts: true
 
 - Location: [IDLIB : Hass](https://goo.gl/maps/7Uhfyp8h76TZmVUx8)
 - Hospital: Nabed Al Hayat Hospital supported by Syria for Humanitarian and Development (SRD)
-- Beneficiaries: ~6000 people a month (as per medical staff of the hospital)
+- Beneficiaries: ~5000 people a month and over 500 surgeries monthly
 - Date: 5 May 2019
 - Time: ~ 14:42 - 16:15 Damascus Time
 - Casualties: Not reported
 - Injured: Not reported
-- Attacks: Four - Five Airstrike
+- Attacks: Four - Five Airstrikes
 - Munitions identified: Two munitions can be identified in the video published by Orient News
 - Potentially responsible: Russian or Syrian Airforce
 
 ## What Happened and When?
 
-On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria that Nabed Al Hayat Hospital which is supported by [Syria for Humanitarian and Development](https://srd.org.tr/) is out of service as it was targeted with an airstrike.
+On May 5th 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria that Nabed Al Hayat Hospital located in Al Hass in Idlib province  is out of service as it was targeted with an airstrike.
 
-Syria Relief and Development (SRD) is a licensed organization in Turkey. They describe their mission on [their website](https://srd.org.tr/en/about) as the following: "Provide emergency humanitarian relief and sow the seeds of sustainable development for the people of Syria".
+Al Hass is a town in Idlib governate with a [population of 9595](https://web.archive.org/web/20130313044847/http://www.cbssyr.org:80/new%20web%20site/General_census/census_2004/NH/TAB07-11-2004.htm) according to the Syria Central Bureau of Statistics.
 
-Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on their facebook page showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be heard at 01:43 of the video. The person capturing the video mentioned "Nabed Al Hayat hospital was targeted with a Russian airstrike in Al Hass town".
+Nabed Al Hayat Hospital is supported by the [Syria for Humanitarian and Development - SRD](https://srd.org.tr/) which is a licensed organization in Turkey. They describe their mission on [their website](https://srd.org.tr/en/about) as the following: "Provide emergency humanitarian relief and sow the seeds of sustainable development for the people of Syria". Baladi News Agency [published a video](https://www.youtube.com/watch?v=QPRb71FGCgI&feature=share) on September 8th 2018 which shows an internal damage of Nabed Al Hayat hospital in previous attack to the recent one and the logo of the SRD appears in it.
+
+![hass01](/assets/investigations/hass/SRD-1.png)
+
+![hass01](/assets/investigations/hass/SRD-2.png)
+
+SRD [published a statement](https://srd.ngo/srds-pulse-of-life-medical-hospital-attacked-destroyed/) about the attack on their website. Their founder stated the following:
+
+> "Our hospital was one of the major trauma hospitals serving Idlib and northern Hama which has continuously been targeted this week. The people served will not be able to access life saving services as over 500 surgeries were performed here each month and over 5,000 patients were seen each month. The attack left parents and children, suffering in pain and with no medical assistance,” said Amany Qaddour, SRD’s Regional Director."
+
+Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on their facebook page showing the attack as it happened. Two munitions were dropped on the hospital directly as can be seen below. The sound of an aircraft can be heard at 01:43 of the video. The person capturing the video mentioned
+
+> "Nabed Al Hayat hospital was targeted with a Russian airstrike in Al Hass town".
 
 <iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs"></a></p>
 
@@ -33,7 +45,7 @@ Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on
 ![hass02](/assets/investigations/hass/image14.png)
 *The Orient video shows a direct hit of Nabed Al Hayat Hospital.*
 
-Idlib AL Hadath [published a facebook post](https://www.facebook.com/permalink.php?story_fbid=2265878050396699&id=1475672172750628) saying: "Russian airstrike targeting Al Hass hospital South of Idlib". This post was published on 15:08 Damascus time after converting *data-utime="1557058094"* to UTC time.
+Idlib AL Hadath [published a facebook post](https://www.facebook.com/permalink.php?story_fbid=2265878050396699&id=1475672172750628) saying: "Russian airstrike targeting Al Hass hospital South of Idlib". This facebook post was published on 15:08 Damascus time after converting *data-utime="1557058094"* to UTC time.
 
 Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) by Orient after the attack shows their journalist Jamil Al Hassan streaming from the impact site on May 5th at 18:17 Damascus time. The journalist mentioned that the hospital was targeted directly with 4 missiles by a Russian airstrike. He then mentioned that the 4 aircrafts are back to the same impact site according to the observation centers.
 
@@ -43,16 +55,16 @@ Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/32476326
 ![hass025](/assets/investigations/hass/utc-damascus.png)
 *Time convert from UTC to Damascus time*
 
-
-
 ## Crater
 
-The journalist Jamil Al Hassan pointed to the crater resulted from the airstrike in the [live video](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) that he published.
+The journalist Jamil Al Hassan pointed to the crater resulted from the airstrike in the [live video](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) that he published. He mentioned that the hospital destruction was resulted from the attacks.
 
 ![hass03](/assets/investigations/hass/image15.png)
 *The Orient video shows a crater as a result of the airstrike.*
 
 ## Destruction in the Hospital
+
+## Internal Destruction
 
 Smart News Agency published a video showing the first moment of the airstrike as well as the structural damage of the hospital from outside and inside.
 
@@ -101,4 +113,7 @@ operated a humanitarian deconfliction mechanism to identify and protect humanita
 
 The Russian Federation and the Republic of Turkey air forces were not part of this original 2014 process; however, an agreement is in place with both countries to deconflict movement and static locations provided by humanitarian organizations.
 
-Nabed AL Hayat hospital is deconflicted based on a facebook statement published by Mouhammed Khatoub.
+The Co-Founder of the hospital Joumana Qaddour published a tweet mentioning that the hospital was part of the deconfliction agreement.
+This was also [published in a statement](https://srd.ngo/srds-pulse-of-life-medical-hospital-attacked-destroyed/) by the SRD which included:
+
+>"This hospital’s coordinates had previously been shared with UN OCHA as part of its formal deconfliction mechanism, yet it was still directly targeted."
