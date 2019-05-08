@@ -8,7 +8,8 @@ image: "/assets/about/press-1.png"
 نُشرت بعض المقالات الصحفية والتي سلطت الضوء على عمل الأرشيف السوري، من بينها:
 
 #### باللغة العربية:
-
+- عنب بلدي ( 5 مايو/ أيّار 2019) [“الذكاء” الصناعي يهدد مستقبل العدالة في سوريا](https://www.enabbaladi.net/archives/298617)
+- زمان الوصل ( 30 أبريل/ نيسان 2019) [الأرشيف السوري يستعيد 150 ألف فيديو عن الثورة بعد حذفها من "يوتيوب"](https://www.zamanalwsl.net/news/article/104033/)
 - العربي الجديد (1 نوفمبر/ تشرين الثاني 2018).  [توثيق أكثر من 1400 استهداف لمدنيين وبنى تحتية بسورية](https://www.alaraby.co.uk/flashnews/2018/11/1/%D8%AA%D9%88%D8%AB%D9%8A%D9%82-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-1400-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%A8%D9%86%D9%89-%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A9). 
 - الجزيرة (2018)، [أرشيف سوري في برلين يوثق جرائم النظام](http://www.aljazeera.net/news/reportsandinterviews/2018/5/4/%D8%A3%D8%B1%D8%B4%D9%8A%D9%81-%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D9%8A%D9%88%D8%AB%D9%82-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85)
 - منظمة تبادل الإعلام الاجتماعي smex [هل يحذف الذكاء الإصطناعي في “يوتوب” الفيديوهات التوثيقية لانتهاك حقوق الإنسان؟](https://www.ar.smex.org/%d9%8a%d8%ad%d8%b0%d9%81-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%8a%d9%88%d8%aa%d9%88%d8%a8-%d8%ad%d9%82%d9%88%d9%82-%d8%a5%d9%86%d8%b3%d8%a7/)
@@ -18,7 +19,11 @@ image: "/assets/about/press-1.png"
 - إرم نيوز (2017). [إثر إلغاء يوتيوب آلاف الفيديوهات.. تاريخ الأزمة السورية في خطر](https://www.eremnews.com/news/arab-world/989826)
 
 #### بلغات أجنبيّة:
-
+- The Atlantic (2019) [When Algorithms Make the Evidence Vanish](https://www.theatlantic.com/ideas/archive/2019/05/facebook-algorithms-are-making-it-harder/588931/)
+- Advox - Global Voices (May 2019) [‘Envision a new war': the Syrian Archive, corporate censorship and the struggle to preserve public history online ](https://advox.globalvoices.org/2019/05/02/envision-a-new-war-the-syrian-archive-corporate-censorship-and-the-struggle-to-preserve-public-history-online/)
+-  Enorm magazin (2019) [Wie KI Menschenrechte schützt](https://enorm-magazin.de/wie-ki-menschenrechte-schuetzt)
+- Zaman Al Wasl (May 2019) [The Syrian Archive recovers 150,000 videos after YouTube deletion](https://en.zamanalwsl.net/news/article/43672/)
+- Paris Globalist (April 2019) [Justice for Syria?](http://www.parisglobalist.org/justice-for-syria/)
 - Trial International (2019) [German and Belgian authorities react to new findings on chemicals’ exports to Syria ](https://trialinternational.org/latest-post/german-and-belgian-authorities-react-to-new-findings-on-chemicals-exports-to-syria/)
 - The Verge (2019) [Upload filters and one-hour takedowns: the EU’s latest fight against terrorism online, explained](https://www.theverge.com/2019/3/21/18274201/european-terrorist-content-regulation-extremist-terreg-upload-filter-one-hour-takedown-eu)
 - Monument Lab (2019) [THE NEW GATEKEEPERS: WILL GOOGLE DECIDE HOW WE REMEMBER SYRIA’S CIVIL WAR? ](http://monumentlab.com/news/2019/2/19/the-new-gatekeepers-syrian-war)
