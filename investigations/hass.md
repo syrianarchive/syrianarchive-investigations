@@ -109,7 +109,7 @@ Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.
 
 ## Flight Data Analysis
 
-To provide a further layer of verification, Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 14:00 and 16:00 Damascus local time, the period directly before and after the reported attack as was claimed by media activists. See below:
+To provide a further layer of verification, Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 14:00 and 16:00 Damascus local time, the period directly before and after the reported attack (14:42 - 15:08) as was claimed by media activists. See below:
 
 <iframe height="550" src="https://public.tableau.com/views/Observedflightobservationdata5May2019/Sheet1?:embed=y&:display_count=yes" width="780"></iframe>
 
