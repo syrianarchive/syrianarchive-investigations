@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "Targeting Nabed Al Hayat Hospital in Idlib"
+title: "Targeting Nabed Al Hayat Hospital in Al Hass Town in Idlib"
 date: 2019-05-08
 desc: "investigation"
 image: /assets/investigations/hass/image2.png
@@ -135,8 +135,7 @@ operated a [humanitarian deconfliction mechanism](https://www.humanitarianrespon
 
 The Russian Federation and the Republic of Turkey air forces were not part of this original 2014 process. However, an agreement is in place with both countries to deconflict movement and static locations provided by humanitarian organisations.
 
-The co-founder of the hospital, Joumana Qaddour, published a tweet mentioning that the hospital was part of the deconfliction agreement.
-This was also [published in a statement](https://srd.ngo/srds-pulse-of-life-medical-hospital-attacked-destroyed/) by SRD which included:
+The co-founder of the hospital, Joumana Qaddour, [published a tweet](https://twitter.com/jomanaqaddour/status/1126041954196889600) mentioning that the hospital was part of the deconfliction mechanism. This was also [published in a statement](https://srd.ngo/srds-pulse-of-life-medical-hospital-attacked-destroyed/) by SRD which included:
 
 >"This hospital’s coordinates had previously been shared with UN OCHA as part of its formal deconfliction mechanism, yet it was still directly targeted."
 
