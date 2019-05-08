@@ -109,6 +109,18 @@ Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.
 
 ## Flight Data Analysis
 
+To provide a further layer of verification, Syrian Archive cross-referenced findings from the videos and witness testimony with flight observation data from a spotter organisation. This process necessitated analysing observation data for flights between 14:00 and 16:00 Damascus local time, the period directly before and after the reported attack as was claimed by media activists. See below:
+
+<iframe height="550" src="https://public.tableau.com/views/Observedflightobservationdata5May2019/Sheet1?:embed=y&:display_count=yes" width="780"></iframe>
+
+
+[View full visualisation](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Observedflightobservationdata5May2019/Sheet1)
+
+Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, Syrian Archive was able to identify several flights potentially responsible for the attack. This comprises several fixed-wing Russian aircraft, seen circling in the immediate vicinity of the geolocated attack site in Kafr Nabl, as well as a fixed-wing Russian aircraft seen circling in the area of Maarrat al-Nu'man. Two additional fixed-wing Russian aircraft were observed circling Jabal al Zawiya and one additional fixed-wing Russian aircraft was observed in Hesh. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
+
+
+While there is no direct evidence available that one of the observed aircrafts was involved in the attack on Hass, the presence of these aircrafts at the time stated by citizen reporters and humanitarian groups as the time in which airstrikes occurred increase the likelihood that an air attack occurred at this location and time.
+
 
 ## De-escalation Zone
 On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding](https://www.youtube.com/watch?v=5cF-gIL8yzk) for the establishment of de-escalation zones in Syria which took effect on May 6 2017. The Russian Ministry of Defence [published a map](https://syrianarchive.org/en/investigations/Atarib-Market-Bombing.html) showing the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Al Hass town is located within the de-escalation zone.
