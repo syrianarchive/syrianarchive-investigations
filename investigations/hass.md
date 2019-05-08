@@ -47,20 +47,17 @@ Idlib AL Hadath [published a Facebook post](https://www.facebook.com/permalink.p
 
 Another [video published](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) by Orient after the attack shows their journalist Jamil Al Hassan streaming from the impact site on May 5 at 18:17 Damascus time. The journalist mentioned that the hospital was targeted directly with 4 missiles by a Russian airstrike. He then mentioned that the 4 aircrafts returned to the same impact site according to the observation centers.
 
-![hass025](/assets/investigations/hass/image4.png)
+![hass025](/assets/investigations/hass/banner-2)
 *Journalist Jamil Al Hassan Live Facebook video from the impact site*
-
-![hass025](/assets/investigations/hass/utc-damascus.png)
-*Time convert from UTC to Damascus time*
 
 ## Crater
 
-The journalist Jamil Al Hassan pointed to the crater which resulted from the airstrike in the [live video](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) that he published. He mentioned that the hospital destruction was resulted from the attacks.
+The journalist Jamil Al Hassan pointed to a large crater which resulted from the airstrike in the [live video](https://www.facebook.com/Orient.Tv.Net/videos/324763261548620/) that he published. He mentioned that the hospital destruction was resulted from the attacks.
 
 ![hass03](/assets/investigations/hass/image15.png)
 *The Orient video shows a crater as a result of the airstrike.*
 
-Two craters can also be identified in a [video published](https://www.youtube.com/watch?v=UDiGfhBdYfU) by Mouhammed Bala'as.
+Two large craters can also be identified in a [video published](https://www.youtube.com/watch?v=UDiGfhBdYfU) by Mouhammed Bala'as.
 
 ![hass03](/assets/investigations/hass/2-craters.png)
 *Two craters shown in Citizen reporter Mouhammed Bala'as YouTUbe Video*
@@ -106,6 +103,8 @@ This is not the first time Nabed Al Hayat Hospital has been targeted. On Sep 8 2
 The Bellingcat investigation team [published an investigation](https://www.bellingcat.com/news/mena/2018/09/09/battle-idlib-opens-bombing-medical-rescue-facilities/) about this incident on September 9th 2018.
 
 Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.com/watch?v=1xfCx43gadc) showing the impact site after the attack.
+
+![hass08](/assets/investigations/hass/repeated-attack-1.png)
 
 ## Flight Data Analysis
 
