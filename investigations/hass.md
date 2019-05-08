@@ -1,9 +1,9 @@
 ---
 layout: investigation.html
-title: "Targeting Nabed Al Hayat hospital in Idlib"
-date: 2019-05-06
+title: "Targeting Nabed Al Hayat Hospital in Idlib"
+date: 2019-05-08
 desc: "investigation"
-image: /assets/investigations/
+image: /assets/investigations/hass/image2.png
 drafts: true
 ---
 
@@ -14,7 +14,7 @@ drafts: true
 - Time: ~ 14:42 - 15:08 Damascus Time
 - Casualties: Not reported
 - Injured: Not reported
-- Attacks: Four - Five Airstrikes
+- Attacks: ~ 3 - 4 Airstrikes
 - Munitions identified: Two munitions can be identified in the video published by Orient News
 - Potentially responsible: Russian or Syrian Airforce
 
@@ -67,7 +67,7 @@ Two craters can also be identified in a [video published](https://www.youtube.co
 
 ## Destruction in the Hospital
 
-##$ Internal Destruction
+### Internal Destruction
 
 Smart News Agency [published a video](https://www.youtube.com/watch?v=wS_xozm-Tqk) showing the how the hospital was attacked as well as the internal damage that resulted from the airstrikes.
 
@@ -81,7 +81,7 @@ Mouhammed Bala'as [video showed](https://www.youtube.com/watch?v=UDiGfhBdYfU) th
 ![hass04](/assets/investigations/hass/position-3.png)
 *Internal damage in the the hospital as a result of the airstrikes*
 
-##$ External Destruction
+### External Destruction
 
 Edlib Media Center also [published photos](https://www.facebook.com/EdlibEmc1/posts/2321136834766539) on their Facebook page of Nabed Al Hayat Hospital after the attack shows the external damage to the hospital building.
 
@@ -99,13 +99,13 @@ Using Google Earth Pro, the location of the hospital was geolocated by matching 
 
 ![hass08](/assets/investigations/hass/geolocation-2.png)
 
-### Repeated Attacks on Nabed Al Hayat Hospital
+## Repeated Attacks on Nabed Al Hayat Hospital
 
 This is not the first time Nabed Al Hayat Hospital has been targeted. On Sep 8 2018, SHAM Network [published a video](https://www.youtube.com/watch?v=NChue9acMsw) showing destruction of the hospital, claimed to be as a result of an airstrike.
 
 The Bellingcat investigation team [published an investigation](https://www.bellingcat.com/news/mena/2018/09/09/battle-idlib-opens-bombing-medical-rescue-facilities/) about this incident on September 9th 2018.
 
-Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.com/watch?v=1xfCx43gadc showing the impact site after the attack.
+Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.com/watch?v=1xfCx43gadc) showing the impact site after the attack.
 
 ## Flight Data Analysis
 
