@@ -92,7 +92,7 @@ Macro Media Center (MMC) [published photos](https://www.facebook.com/SYRMMC/post
 
 ## Geolocation of the Hospital
 
-Using Google Earth Pro, the location of the hospital was geolocated by matching the Orient [Facebook video](https://www.facebook.com/watch/?v=660363207732616) of the attack with the satellite imagery below, taken on December 17 2017. This indicates that the attacked hospital shown in the videos is located in Al Hass town, as was reported on social media.
+Using Google Earth Pro, the location of the hospital was geolocated by matching the Orient [Facebook video](https://www.facebook.com/watch/?v=660363207732616) of the attack with the satellite imagery below, taken on December 17 2017. This indicates that the attacked hospital shown in the videos is located in Al Hass town in Idlib, as was reported on social media. The location of the hospital is remote and isolated with no military bases around it. 
 
 ![hass08](/assets/investigations/hass/geolocation-2.png)
 
@@ -115,7 +115,7 @@ To provide a further layer of verification, Syrian Archive cross-referenced find
 
 [View full visualisation](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Observedflightobservationdata5May2019/Sheet1)
 
-Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, Syrian Archive was able to identify several flights potentially responsible for the attack. This comprises several fixed-wing Russian aircraft, seen circling in the immediate vicinity of the geolocated attack site in Kafr Nabl (14:38, 14:57, and 15:02), a drone circling Kafr Nabl (15:00), as well as a fixed-wing Russian aircraft seen circling in the area of Maarrat al-Nu'man (14:46). Two additional fixed-wing Russian aircraft were observed circling Jabal al Zawiya (14:41 and 14:54) as well as one MiG-23 (14:22), and one additional fixed-wing Russian aircraft was observed in Hesh 14:39. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
+Through comparing where flights were observed, the type of aircraft observed, the time flights were observed, and the direction flights were heading, and comparing this data to geolocation conducted in earlier steps, Syrian Archive was able to identify several flights potentially responsible for the attack. This comprises several fixed-wing Russian aircraft, seen circling in the immediate vicinity of the geolocated attack site in Kafr Nabl (14:38, 14:57, and 15:02), a drone circling Kafr Nabl (15:00), as well as a fixed-wing Russian aircraft seen circling in the area of Maarrat al-Nu'man (14:46). Two additional fixed-wing Russian aircraft were observed circling Jabal al Zawiya (14:41 and 14:54) as well as one MiG-23 (14:22), and one additional fixed-wing Russian aircraft was observed in Hesh (14:39). Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.
 
 While there is no direct evidence available that one of the observed aircrafts was involved in the attack on Hass, the presence of these aircrafts at the time stated by citizen reporters and humanitarian groups as the time in which airstrikes occurred increase the likelihood that an air attack occurred at this location and time.
 
@@ -139,4 +139,4 @@ This was also [published in a statement](https://srd.ngo/srds-pulse-of-life-medi
 
 ## Conclusion
 
-Based on verifying open source information, interviewing witnesses and analysing flight data, it is certain that Nabed Al Hayat Hospital located in AL Hass town in Idlib governorate was bombed on May 5 2019 with an airstrike that resulted in External and internal damage to the building of the hospital. The same hospital was attacked previously on September 8 2018. The hospital is located within the De-escalation zone and it was part of the De-conflicting mechanism. It is not possible to state with certainty whether the Russian or the Syrian airforce bombed this hospital. 
+Based on verifying open source information, interviewing witnesses and analysing flight data, it is certain that Nabed Al Hayat Hospital located in Al Hass town in Idlib governorate was bombed on May 5 2019 with an airstrike that resulted in External and internal damage to the building of the hospital. The same hospital was attacked previously on September 8 2018. The hospital is located within the De-escalation zone and it was part of the De-conflicting mechanism. It is not possible to state with certainty whether the Russian or the Syrian airforce bombed this hospital.
