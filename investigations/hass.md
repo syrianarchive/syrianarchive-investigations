@@ -22,7 +22,7 @@ drafts: true
 
 On May 5 2019, media reports were [published online by citizen reporters](https://www.facebook.com/wassemalon/posts/1173592712801596) and news agencies in Syria that Nabed Al Hayat Hospital located in Al Hass in Idlib province was out of service as a result of being targeted with an airstrike.
 
-Al Hass is a town in Idlib governate with a [population of 9595](https://web.archive.org/web/20130313044847/http://www.cbssyr.org:80/new%20web%20site/General_census/census_2004/NH/TAB07-11-2004.htm), according to the Syria Central Bureau of Statistics.
+Al Hass is a town in Idlib governorate with a [population of 9595](https://web.archive.org/web/20130313044847/http://www.cbssyr.org:80/new%20web%20site/General_census/census_2004/NH/TAB07-11-2004.htm), according to the Syria Central Bureau of Statistics.
 
 Nabed Al Hayat Hospital is supported by the [Syria for Humanitarian and Development - SRD](https://srd.org.tr/) which is a licensed organisation in Turkey. They describe their mission on [their website](https://srd.org.tr/en/about) as follows: "Provide emergency humanitarian relief and sow the seeds of sustainable development for the people of Syria". Baladi News Agency [published a video](https://www.youtube.com/watch?v=QPRb71FGCgI&feature=share) on September 8th 2018 which shows internal damage to the Nabed Al Hayat hospital as a result of a previous attack alongside the recent attack. In that video, the logo of the SRD is visible.
 
@@ -98,7 +98,7 @@ Using Google Earth Pro, the location of the hospital was geolocated by matching 
 
 ## Repeated Attacks on Nabed Al Hayat Hospital
 
-This is not the first time Nabed Al Hayat Hospital has been targeted. On Sep 8 2018, SHAM Network [published a video](https://www.youtube.com/watch?v=NChue9acMsw) showing destruction of the hospital, claimed to be as a result of an airstrike.
+This is not the first time Nabed Al Hayat Hospital has been targeted. On September 8 2018, SHAM Network [published a video](https://www.youtube.com/watch?v=NChue9acMsw) showing destruction of the hospital, claimed to be as a result of an airstrike.
 
 The Bellingcat investigation team [published an investigation](https://www.bellingcat.com/news/mena/2018/09/09/battle-idlib-opens-bombing-medical-rescue-facilities/) about this incident on September 9th 2018.
 
@@ -125,7 +125,7 @@ On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [
 
 ![hass09](/assets/investigations/hass/image12.jpg)
 
-## De-confliction mechanism
+## De-confliction Mechanism
 
 Since September 2014 the UN Office for the Coordination of Humanitarian Affairs (OCHA) have
 operated a [humanitarian deconfliction mechanism](https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/deconfliction_syria_for_static_non_static_feb2018_eng.pdf) to identify and protect humanitarian staff, offices, facilities, distribution sites, IDP sites, routes mobile clinics travel, etc. to the greatest extent possible during kinetic operations by the Coalition Forces (“CF”) in Syria.
@@ -138,3 +138,5 @@ This was also [published in a statement](https://srd.ngo/srds-pulse-of-life-medi
 >"This hospital’s coordinates had previously been shared with UN OCHA as part of its formal deconfliction mechanism, yet it was still directly targeted."
 
 ## Conclusion
+
+Based on verifying open source information, interviewing witnesses and analysing flight data, it is certain that Nabed Al Hayat Hospital located in AL Hass town in Idlib governorate was bombed on May 5 2019 with an airstrike that resulted in External and internal damage to the building of the hospital. The same hospital was attacked previously on September 8 2018. The hospital is located within the De-escalation zone and it was part of the De-conflicting mechanism. It is not possible to state with certainty whether the Russian or the Syrian airforce bombed this hospital. 
