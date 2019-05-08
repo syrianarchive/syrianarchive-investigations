@@ -11,7 +11,7 @@ drafts: true
 - Hospital: Nabed Al Hayat Hospital supported by Syria for Humanitarian and Development (SRD)
 - Beneficiaries: ~5000 people a month and over 500 surgeries monthly
 - Date: 5 May 2019
-- Time: ~ 14:42 - 16:15 Damascus Time
+- Time: ~ 14:42 - 15:08 Damascus Time
 - Casualties: Not reported
 - Injured: Not reported
 - Attacks: Four - Five Airstrikes
@@ -62,46 +62,59 @@ The journalist Jamil Al Hassan pointed to the crater resulted from the airstrike
 ![hass03](/assets/investigations/hass/image15.png)
 *The Orient video shows a crater as a result of the airstrike.*
 
+Two craters can also be identified in a [video published](https://www.youtube.com/watch?v=UDiGfhBdYfU) by Mouhammed Bala'as.
+
+![hass03](/assets/investigations/hass/2-craters.png)
+*Two craters shown in Citizen reporter Mouhammed Bala'as YouTUbe Video*
+
 ## Destruction in the Hospital
 
 ## Internal Destruction
 
-Smart News Agency published a video showing the first moment of the airstrike as well as the structural damage of the hospital from outside and inside.
+Smart News Agency [published a video](https://www.youtube.com/watch?v=wS_xozm-Tqk) showing the how the hospital was attacked as well as the internal damage that resulted from the airtsrike.
 
 ![hass04](/assets/investigations/hass/image6.png)
-Internal damage in the the hospital as a result of the airstrike
+*Internal damage in the the hospital as a result of the airstrikes*
 
-Edlib Media Center also published photos of Nabed Al Hayat Hospital after the attack.
+Mouhammed Bala'as [video showed](https://www.youtube.com/watch?v=UDiGfhBdYfU) the internal damage in the hospital from two other positions as shown below.
+
+![hass04](/assets/investigations/hass/position-2.png)
+
+![hass04](/assets/investigations/hass/position-3.png)
+*Internal damage in the the hospital as a result of the airstrikes*
+
+## External Destruction
+
+Edlib Media Center also [published photos](https://www.facebook.com/EdlibEmc1/posts/2321136834766539) on their facebook page of Nabed Al Hayat Hospital after the attack shows the external damage to the hospital building.
 
 ![hass05](/assets/investigations/hass/image13.jpg)
+*External damage of the hospital as a result of the airstrikes*
 
-External damage of the hospital as a result of the airstrike
+Macro Media Center (MMC) [published photos](https://www.facebook.com/SYRMMC/posts/614939108972717) of Nabed Al Hayat Hospital after the attack showing the external damage.
 
-
-Macro Media Center (MMC) pubhttps://www.facebook.com/Orient.Tv.Net/videos/324763261548620/lished photos of Nabed Al Hayat Hospital after the attack.
-
-![hass06](/assets/investigations/hass/image7.jpg)
-*MMC photo of the targeted Hospital showing the impact site and the banner “Nabed Al Hayat Hospital”*
-
-![hass07](/assets/investigations/hass/59615664_614938712306090_3501116907153522688_o.jpg)
-*Citizen reporter capturing documentation of the impact site*
+![hass05](/assets/investigations/hass/mmc-external-damage.jpg)
+*External damage of around hospital's building as a result of the airstrikes*
 
 ## Geolocation of the Hospital
-Using Google earth pro, the location of the hospital was geolocated by matching Orient video with the satellite imagery below which was taken in 12/17/2017.
+
+Using Google earth pro, the location of the hospital was geolocated by matching Orient [facebook video](https://www.facebook.com/watch/?v=660363207732616) of the attack with the satellite imagery below which was taken in 12/17/2017. This confirms that the attacked hospital shown in the videos is located in Al Hass town as reported on social media.
 
 ![hass08](/assets/investigations/hass/image8.png)
 
-### Prior Attacks on Nabed Al Hayat Hospital
+### Repeated Attacks on Nabed Al Hayat Hospital
 
-This is not the first time Nabed Al Hayat Hospital is targeted. On Sep 8th 2018, SHAM Network published a video showing destruction of the hospital claimed to be as a result of an airstrike.
+This is not the first time Nabed Al Hayat Hospital is targeted. On Sep 8th 2018, SHAM Network [published a video](https://www.youtube.com/watch?v=NChue9acMsw) showing destruction of the hospital claimed to be as a result of an airstrike.
 
-Bellingcat investigation team published an investigation about this incident on September 9th 2018.
+Bellingcat investigation team [published an investigation](https://www.bellingcat.com/news/mena/2018/09/09/battle-idlib-opens-bombing-medical-rescue-facilities/) about this incident on September 9th 2018.
+
+Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.com/watch?v=1xfCx43gadc
+) showing the impact site after the attack.
 
 ## Flight Data Analysis
 
 
 ## De-escalation Zone
-On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) signed a memorandum of understanding for the establishment of de-escalation zones in Syria which took effect on 6 May 2017. The Russian Ministry of Defence published a map showing the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Al Hass is located within the de-escalation zone.
+On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding](https://www.youtube.com/watch?v=5cF-gIL8yzk) for the establishment of de-escalation zones in Syria which took effect on 6 May 2017. The Russian Ministry of Defence [published a map](https://syrianarchive.org/en/investigations/Atarib-Market-Bombing.html) showing the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Al Hass town is located within the de-escalation zone.
 
 ![hass09](/assets/investigations/hass/image12.jpg)
 
@@ -109,11 +122,13 @@ On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) s
 ## De-confliction mechanism
 
 Since September 2014 the UN Office for the Coordination of Humanitarian Affairs (OCHA) has
-operated a humanitarian deconfliction mechanism to identify and protect humanitarian staff, offices, facilities, distribution sites, IDP sites, routes mobile clinics travel, etc. to the extent possible during kinetic operations by the Coalition Forces (“CF”) in Syria.
+operated a [humanitarian deconfliction mechanism](https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/deconfliction_syria_for_static_non_static_feb2018_eng.pdf) to identify and protect humanitarian staff, offices, facilities, distribution sites, IDP sites, routes mobile clinics travel, etc. to the extent possible during kinetic operations by the Coalition Forces (“CF”) in Syria.
 
 The Russian Federation and the Republic of Turkey air forces were not part of this original 2014 process; however, an agreement is in place with both countries to deconflict movement and static locations provided by humanitarian organizations.
 
 The Co-Founder of the hospital Joumana Qaddour published a tweet mentioning that the hospital was part of the deconfliction agreement.
-This was also [published in a statement](https://srd.ngo/srds-pulse-of-life-medical-hospital-attacked-destroyed/) by the SRD which included:
+This was also [published in a statement](https://srd.ngo/srds-pulse-of-life-medical-hospital-attacked-destroyed/) by SRD which included:
 
 >"This hospital’s coordinates had previously been shared with UN OCHA as part of its formal deconfliction mechanism, yet it was still directly targeted."
+
+## Conclusion
