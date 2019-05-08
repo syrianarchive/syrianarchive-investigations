@@ -26,9 +26,7 @@ Al Hass is a town in Idlib governate with a [population of 9595](https://web.arc
 
 Nabed Al Hayat Hospital is supported by the [Syria for Humanitarian and Development - SRD](https://srd.org.tr/) which is a licensed organization in Turkey. They describe their mission on [their website](https://srd.org.tr/en/about) as the following: "Provide emergency humanitarian relief and sow the seeds of sustainable development for the people of Syria". Baladi News Agency [published a video](https://www.youtube.com/watch?v=QPRb71FGCgI&feature=share) on September 8th 2018 which shows an internal damage of Nabed Al Hayat hospital in previous attack to the recent one and the logo of the SRD appears in it.
 
-![hass01](/assets/investigations/hass/SRD-1.png)
-
-![hass01](/assets/investigations/hass/SRD-2.png)
+![hass01](/assets/investigations/hass/SRD.png)
 
 SRD [published a statement](https://srd.ngo/srds-pulse-of-life-medical-hospital-attacked-destroyed/) about the attack on their website. Their founder stated the following:
 
@@ -99,7 +97,7 @@ Macro Media Center (MMC) [published photos](https://www.facebook.com/SYRMMC/post
 
 Using Google earth pro, the location of the hospital was geolocated by matching Orient [facebook video](https://www.facebook.com/watch/?v=660363207732616) of the attack with the satellite imagery below which was taken in 12/17/2017. This confirms that the attacked hospital shown in the videos is located in Al Hass town as reported on social media.
 
-![hass08](/assets/investigations/hass/image8.png)
+![hass08](/assets/investigations/hass/geolocation-2.png)
 
 ### Repeated Attacks on Nabed Al Hayat Hospital
 
@@ -107,8 +105,7 @@ This is not the first time Nabed Al Hayat Hospital is targeted. On Sep 8th 2018,
 
 Bellingcat investigation team [published an investigation](https://www.bellingcat.com/news/mena/2018/09/09/battle-idlib-opens-bombing-medical-rescue-facilities/) about this incident on September 9th 2018.
 
-Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.com/watch?v=1xfCx43gadc
-) showing the impact site after the attack.
+Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.com/watch?v=1xfCx43gadc showing the impact site after the attack.
 
 ## Flight Data Analysis
 
@@ -117,7 +114,6 @@ Citizen reporter Mouhammed Bala'as also [published a video](https://www.youtube.
 On 4 May 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding](https://www.youtube.com/watch?v=5cF-gIL8yzk) for the establishment of de-escalation zones in Syria which took effect on 6 May 2017. The Russian Ministry of Defence [published a map](https://syrianarchive.org/en/investigations/Atarib-Market-Bombing.html) showing the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Al Hass town is located within the de-escalation zone.
 
 ![hass09](/assets/investigations/hass/image12.jpg)
-
 
 ## De-confliction mechanism
 
