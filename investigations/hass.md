@@ -36,7 +36,7 @@ Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on
 
 > "Nabed Al Hayat hospital was targeted with a Russian airstrike in Al Hass town".
 
-<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-syria-airstrike-MCFOyRtoIiPPFZvSJs"></a></p>
+<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![hass01](/assets/investigations/hass/image2.png)
 
