@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Targeting Nabed Al Hayat Hospital in Al Hass Town in Idlib"
 date: 2019-05-08
-desc: "investigation"
+desc: "open source investigation about bombing Nabed Al Hayat Hospital in Al Hass"
 image: /assets/investigations/hass/image2.png
 drafts: true
 ---
@@ -36,7 +36,7 @@ Orient [published a video](https://www.facebook.com/watch/?v=660363207732616) on
 
 > "Nabed Al Hayat hospital was targeted with a Russian airstrike in Al Hass town".
 
-<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="580" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="680" height="470" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![hass01](/assets/investigations/hass/image2.png)
 
