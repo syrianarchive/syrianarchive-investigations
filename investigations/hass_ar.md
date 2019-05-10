@@ -36,7 +36,7 @@ drafts: true
 
 > "استهداف مشفى نبض الحياة في بلدة حاس من قبل الطيران الحربي الروسي".
 
-<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="680" height="470" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![hass08](/assets/investigations/hass/222.png)
 
 ![hass01](/assets/investigations/hass/image2.png)
 
@@ -85,7 +85,7 @@ drafts: true
 ![hass05](/assets/investigations/hass/image13.jpg)
 *الأضرار الخارجية التي لحقت بمبنى المستشفى نتيجة للغارات الجوية*
 
-نشر المركز الإعلامي العام (MMC)[صورًا لمستشفى نبض الحياة بعد استهدافه] (https://www.facebook.com/SYRMMC/posts/614939108972717) والتي تظهر دمار المبنى من الخارج.
+نشر المركز الإعلامي العام (MMC)[صورًا لمستشفى نبض الحياة بعد استهدافه](https://www.facebook.com/SYRMMC/posts/614939108972717) والتي تظهر دمار المبنى من الخارج.
 
 ![hass05](/assets/investigations/hass/mmc-external-damage.jpg)
 *الدمار حول بناء المستشفى والناجم عن الغارات الجوية*
@@ -114,8 +114,7 @@ drafts: true
 
 بغرض إضافة طبقة أخرى من التحقق؛ قارن الأرشيف السوري النتائج المستخلصة من مقاطع الفيديو وإفادات الشهود مع بيانات رصد الطيران من قبل منظمة مراقبة. استلزمت هذه العملية تحليل بيانات رصد الطيران ما بين الساعة 14:00 و 16:00، وهي الفترة الزمنية التي سبقت الهجوم وتلته مباشرة، حيث أُبلغ عنه ما بين الساعة (14:42 - 15:08) وفقًا للناشطين الإعلاميين. انظر أدناه:
 
-<iframe height="550" src="https://public.tableau.com/views/Observedflightobservationdata5May2019/Sheet1?:embed=y&:display_count=yes" width="780"></iframe>
-
+![hass08](/assets/investigations/hass/111.png)
 
 [عرض الإظهار البصري كاملًا](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Observedflightobservationdata5May2019/Sheet1)
 
