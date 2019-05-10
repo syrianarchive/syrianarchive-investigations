@@ -36,7 +36,7 @@ socialMediaImage: /assets/investigations/hass/image2.png
 
 > "استهداف مشفى نبض الحياة في بلدة حاس من قبل الطيران الحربي الروسي".
 
-![hass08](/assets/investigations/hass/222.png)
+<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="680" height="470" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![hass01](/assets/investigations/hass/image2.png)
 
@@ -114,7 +114,7 @@ socialMediaImage: /assets/investigations/hass/image2.png
 
 بغرض إضافة طبقة أخرى من التحقق؛ قارن الأرشيف السوري النتائج المستخلصة من مقاطع الفيديو وإفادات الشهود مع بيانات رصد الطيران من قبل منظمة مراقبة. استلزمت هذه العملية تحليل بيانات رصد الطيران ما بين الساعة 14:00 و 16:00، وهي الفترة الزمنية التي سبقت الهجوم وتلته مباشرة، حيث أُبلغ عنه ما بين الساعة (14:42 - 15:08) وفقًا للناشطين الإعلاميين. انظر أدناه:
 
-![hass08](/assets/investigations/hass/111.png)
+<iframe height="550" src="https://public.tableau.com/views/Observedflightobservationdata5May2019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 [عرض الإظهار البصري كاملًا](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Observedflightobservationdata5May2019/Sheet1)
 

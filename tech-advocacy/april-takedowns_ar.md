@@ -9,9 +9,7 @@ image: /assets/takedowns.jpg
 
 رغم ذلك، لا يزال 190.000 مقطع فيديو غير متاح حتّى كانون الثاني/يناير 2019، يتضمن بعضها توثيقًا لهجمات كيماوية، هجمات على مستشفيات ومرافق طبية، أو تدمير بنى تحتيّة مدنيّة. إنّ هذه المقاطع الـ 190.000 محفوظة بأمان من قبل الأرشيف السوري ومتاحة عند الطلب.
 
-<div>
-<a href="https://www.youtube.com/watch?v=39YEFAaZL2U"><img src="/assets/youtube-april-takedowns.png" alt="april-takedowns" target="_blank"></a>
-</div>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/39YEFAaZL2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 يحفظ الأرشيف السوريّ محتوى 3.260 قناة يوتيوب على أساس يومي. من بينها 228 قناة لم تعد متاحة حتى نيسان/أبريل 2019 لكن محتوياتها مخزّنة لدى الأرشيف. بعض هذه القنوات تعود لمؤسساتٍ إعلاميّة لها باعٌ طويلٌ في توثيق انتهاكات حقوق الإنسان في سوريا منذ عام 2011.
 
