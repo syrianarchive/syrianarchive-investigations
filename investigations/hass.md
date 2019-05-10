@@ -4,7 +4,6 @@ title: "Targeting Nabed Al Hayat Hospital in Hass Town in Idlib"
 date: 2019-05-08
 desc: "open source investigation about bombing Nabed Al Hayat Hospital in Hass"
 image: /assets/investigations/hass/image2.png
-drafts: true
 ---
 
 - Location: [IDLIB : Hass](https://goo.gl/maps/7Uhfyp8h76TZmVUx8)

@@ -4,7 +4,6 @@ title: "استهداف مستشفى نبض الحياة في حاس، محافظ
 date: 2019-05-08
 desc: "تحقيق مفتوح المصدر حول استهداف مستشفى نبض الحياة في حاس"
 image: /assets/investigations/hass/image2.png
-drafts: true
 ---
 
 - الموقع الجغرافي: [ادلب: حاس](https://goo.gl/maps/7Uhfyp8h76TZmVUx8)
