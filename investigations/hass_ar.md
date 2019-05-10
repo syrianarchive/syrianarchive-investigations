@@ -84,11 +84,7 @@ image: /assets/investigations/hass/image2.png
 ![hass05](/assets/investigations/hass/image13.jpg)
 *الأضرار الخارجية التي لحقت بمبنى المستشفى نتيجة للغارات الجوية*
 
-<<<<<<< HEAD
-نشر المركز الإعلامي العام (MMC)[صورًا لمستشفى نبض الحياة بعد استهدافه](https://www.facebook.com/SYRMMC/posts/614939108972717) والتي تظهر دمار المبنى من الخارج.
-=======
 ونشر المركز الإعلامي العام (MMC)[صورًا لمستشفى نبض الحياة بعد استهدافه](https://www.facebook.com/SYRMMC/posts/614939108972717) تظهر دمار المبنى من الخارج.
->>>>>>> be1b40b1fe9d58be34bcad48a68b5a9ba0208608
 
 ![hass05](/assets/investigations/hass/mmc-external-damage.jpg)
 *الدمار حول بناء المستشفى والناجم عن الغارات الجوية*
