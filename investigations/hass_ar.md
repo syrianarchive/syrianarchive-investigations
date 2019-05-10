@@ -113,7 +113,7 @@ image: /assets/investigations/hass/image2.png
 
 بغرض إضافة طبقة أخرى من التحقق؛ قارن الأرشيف السوري النتائج المستخلصة من مقاطع الفيديو وإفادات الشهود مع بيانات رصد الطيران من قبل منظمة مراقبة. استلزمت هذه العملية تحليل بيانات رصد الطيران ما بين الساعة 14:00 و 16:00، وهي الفترة الزمنية التي سبقت الهجوم وتلته مباشرة، حيث أُبلغ عنه ما بين الساعة (14:42 - 15:08) وفقًا للناشطين الإعلاميين. انظر أدناه:
 
-<iframe height="550" src="https://public.tableau.com/views/Observedflightobservationdata5May2019/Sheet1?:embed=y&:display_count=yes" width="780"></iframe>
+<iframe height="550" src="https://public.tableau.com/views/Observedflightobservationdata5May2019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 
 [عرض الإظهار البصري كاملًا](https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Observedflightobservationdata5May2019/Sheet1)
