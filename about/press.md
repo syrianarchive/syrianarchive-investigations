@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Press
-date: 2017-11-27
+date: 2019-05-20
 desc: Recent articles featuring the Syrian Archive
 image: "/assets/about/press-1.png"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "في الصحافة"
-date: 2017-11-27
+date: 2019-05-20
 image: "/assets/about/press-1.png"
 ---
 
