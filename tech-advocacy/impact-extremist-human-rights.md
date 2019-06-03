@@ -103,74 +103,74 @@ WITNESS is an international nonprofit organisation that uses education and advoc
 ---
 ## Notes
 
-    Kelsey Harclerode, “Mandatory Reporting of User Content Chills Speech and Violates Privacy Rights,” Electronic Frontier Foundation, 5 August 2015, https://www.eff.org/deeplinks/2015/08/mandatory-reporting-user-content-chills-speech-and-violates-privacy-rights.
+1. Kelsey Harclerode, “Mandatory Reporting of User Content Chills Speech and Violates Privacy Rights,” Electronic Frontier Foundation, 5 August 2015, https://www.eff.org/deeplinks/2015/08/mandatory-reporting-user-content-chills-speech-and-violates-privacy-rights.
 
-    Aaron Mackey, “EFF to Court: Holding Twitter Responsible for Providing Material Support to Terrorists Would Violate Users’ First Amendment Rights,” Electronic Frontier Foundation, 8 June 2017, https://www.eff.org/deeplinks/2017/06/eff-court-holding-twitter-responsible-providing-material-support-terrorists-would.
+2. Aaron Mackey, “EFF to Court: Holding Twitter Responsible for Providing Material Support to Terrorists Would Violate Users’ First Amendment Rights,” Electronic Frontier Foundation, 8 June 2017, https://www.eff.org/deeplinks/2017/06/eff-court-holding-twitter-responsible-providing-material-support-terrorists-would.
 
-    CBS News, “The Delicate Balance Fighting ISIS Online,” 20 February 2015, https://www.cbsnews.com/news/world-governments-try-to-shut-down-isis-social-media-propaganda-operations/.
+3. CBS News, “The Delicate Balance Fighting ISIS Online,” 20 February 2015, https://www.cbsnews.com/news/world-governments-try-to-shut-down-isis-social-media-propaganda-operations/.
 
-    Amar Toor, “Facebook, Twitter, Google, and Microsoft agree to EU hate speech rules,” the Verge, 31 May 2016, https://www.theverge.com/2016/5/31/11817540/facebook-twitter-google-microsoft-hate-speech-europe.
+4. Amar Toor, “Facebook, Twitter, Google, and Microsoft agree to EU hate speech rules,” the Verge, 31 May 2016, https://www.theverge.com/2016/5/31/11817540/facebook-twitter-google-microsoft-hate-speech-europe.
 
-    Colin Lecher, “Aggressive new terrorist content regulation passes EU vote,” the Verge, 17 April 2019, https://www.theverge.com/2019/4/17/18412278/eu-terrorist-content-law-parliament-takedown.
+5. Colin Lecher, “Aggressive new terrorist content regulation passes EU vote,” the Verge, 17 April 2019, https://www.theverge.com/2019/4/17/18412278/eu-terrorist-content-law-parliament-takedown.
 
-    U.S. Department of State, list of Foreign Terrorist Organizations, https://www.state.gov/foreign-terrorist-organizations/ (accessed 29 May 2019).
+6. U.S. Department of State, list of Foreign Terrorist Organizations, https://www.state.gov/foreign-terrorist-organizations/ (accessed 29 May 2019).
 
-    The Guardian, “How Facebook Guides Moderators on Terrorist Content,” 24 May 2017, https://www.theguardian.com/news/gallery/2017/may/24/how-facebook-guides-moderators-on-terrorist-content.
+7. The Guardian, “How Facebook Guides Moderators on Terrorist Content,” 24 May 2017, https://www.theguardian.com/news/gallery/2017/may/24/how-facebook-guides-moderators-on-terrorist-content.
 
-    Holder v. Humanitarian Law Project, 561 U.S. 1 (2010).
+8. Holder v. Humanitarian Law Project, 561 U.S. 1 (2010).
 
-    See, for example, Fields v. Twitter, 881 F.3d 739 (9th Cir. 2018).
+9. See, for example, Fields v. Twitter, 881 F.3d 739 (9th Cir. 2018).
 
-    Google Transparency Report, “YouTube Community Guidelines enforcement,” https://transparencyreport.google.com/youtube-policy/removals (accessed 12 May 2019).
+10. Google Transparency Report, “YouTube Community Guidelines enforcement,” https://transparencyreport.google.com/youtube-policy/removals (accessed 12 May 2019).
 
-    Facebook, “Community Standards Enforcement Report,” https://transparency.facebook.com/community-standards-enforcement#terrorist-propaganda (accessed 12 May 2019).
+11. Facebook, “Community Standards Enforcement Report,” https://transparency.facebook.com/community-standards-enforcement#terrorist-propaganda (accessed 12 May 2019).
 
-    Don Reisinger, “Twitter Has Suspended 1.2 Million Terrorist Accounts Since 2015,” Fortune, 5 April 2018, http://fortune.com/2018/04/05/twitter-terrorist-account-suspensions/.
+12. Don Reisinger, “Twitter Has Suspended 1.2 Million Terrorist Accounts Since 2015,” Fortune, 5 April 2018, http://fortune.com/2018/04/05/twitter-terrorist-account-suspensions/.
 
-    Foo Yun Chee, “Twitter suspended 166,153 accounts for terrorism content in second half 2018,” Reuters. 9 May 2019, https://www.reuters.com/article/us-twitter-security/twitter-suspended-166153-accounts-for-terrorism-content-in-second-half-2018-idUSKCN1SF1LN.
+13. Foo Yun Chee, “Twitter suspended 166,153 accounts for terrorism content in second half 2018,” Reuters. 9 May 2019, https://www.reuters.com/article/us-twitter-security/twitter-suspended-166153-accounts-for-terrorism-content-in-second-half-2018-idUSKCN1SF1LN.
 
-    Julia Carrie Wong, “Facebook blocks Chechnya activist page in latest case of wrongful censorship,” the Guardian, 6 June 2017, https://www.theguardian.com/technology/2017/jun/06/facebook-chechnya-political-activist-page-deleted.
+14. Julia Carrie Wong, “Facebook blocks Chechnya activist page in latest case of wrongful censorship,” the Guardian, 6 June 2017, https://www.theguardian.com/technology/2017/jun/06/facebook-chechnya-political-activist-page-deleted.
 
-    The Guardian, “How Facebook Guides Moderators on Terrorist Content.” https://www.theguardian.com/news/gallery/2017/may/24/how-facebook-guides-moderators-on-terrorist-content
+15. The Guardian, “How Facebook Guides Moderators on Terrorist Content.” https://www.theguardian.com/news/gallery/2017/may/24/how-facebook-guides-moderators-on-terrorist-content
 
-    Human Rights Watch, “Turkey, Events of 2017,” https://www.hrw.org/world-report/2018/country-chapters/turkey (accessed 29 May 2019).
+16. Human Rights Watch, “Turkey, Events of 2017,” https://www.hrw.org/world-report/2018/country-chapters/turkey (accessed 29 May 2019).
 
-    Elana Beiser, “Hundreds of journalists jailed globally becomes the new normal,” Committee to Protect Journalists, 13 December 2018, https://cpj.org/reports/2018/12/journalists-jailed-imprisoned-turkey-china-egypt-saudi-arabia.php.
+17. Elana Beiser, “Hundreds of journalists jailed globally becomes the new normal,” Committee to Protect Journalists, 13 December 2018, https://cpj.org/reports/2018/12/journalists-jailed-imprisoned-turkey-china-egypt-saudi-arabia.php.
 
-    Sara Spary, “Facebook Is Embroiled In A Row With Activists Over "Censorship," Buzzfeed, 8 April 2016, https://www.buzzfeed.com/saraspary/facebook-in-dispute-with-pro-kurdish-activists-over-deleted.
+18. Sara Spary, “Facebook Is Embroiled In A Row With Activists Over "Censorship," Buzzfeed, 8 April 2016, https://www.buzzfeed.com/saraspary/facebook-in-dispute-with-pro-kurdish-activists-over-deleted.
 
-    Hurriyet Daily News, Kurdish politicians to take action after Facebook admits to banning pages with PKK content,” 29 April 2013, http://www.hurriyetdailynews.com/kurdish-politicians-to-take-action-after-facebook-admits-to-banning-pages-with-pkk-content-53465.
+19. Hurriyet Daily News, Kurdish politicians to take action after Facebook admits to banning pages with PKK content,” 29 April 2013, http://www.hurriyetdailynews.com/kurdish-politicians-to-take-action-after-facebook-admits-to-banning-pages-with-pkk-content-53465.
 
-    Sophia Cope, Jillian C. York, and Jeremy Gillula, “Industry Efforts to Censor Pro-Terrorism Online Content Pose Risks to Free Speech,” Electronic Frontier Foundation, 12 July 2017, https://www.eff.org/deeplinks/2017/07/industry-efforts-censor-pro-terrorism-online-content-pose-risks-free-speech.
+20. Sophia Cope, Jillian C. York, and Jeremy Gillula, “Industry Efforts to Censor Pro-Terrorism Online Content Pose Risks to Free Speech,” Electronic Frontier Foundation, 12 July 2017, https://www.eff.org/deeplinks/2017/07/industry-efforts-censor-pro-terrorism-online-content-pose-risks-free-speech.
 
-    The Guardian, “How Facebook Guides Moderators on Terrorist Content.” https://www.theguardian.com/news/gallery/2017/may/24/how-facebook-guides-moderators-on-terrorist-content
+21. The Guardian, “How Facebook Guides Moderators on Terrorist Content.” https://www.theguardian.com/news/gallery/2017/may/24/how-facebook-guides-moderators-on-terrorist-content
 
-    Revolutionary Echoes from Syria, (Hourriya, 2016), 18-21. Audio available at: https://archive.org/details/RevolutionaryEchoesFromSyria.
+22. Revolutionary Echoes from Syria, (Hourriya, 2016), 18-21. Audio available at: https://archive.org/details/RevolutionaryEchoesFromSyria.
 
-    Armin Rosen, “Erasing History: YouTube’s Deletion Of Syria War Videos Concerns Human Rights Groups,” Fast Company, 7 March 2018, https://www.fastcompany.com/40540411/erasing-history-youtubes-deletion-of-syria-war-videos-concerns-human-rights-groups.
+23. Armin Rosen, “Erasing History: YouTube’s Deletion Of Syria War Videos Concerns Human Rights Groups,” Fast Company, 7 March 2018, https://www.fastcompany.com/40540411/erasing-history-youtubes-deletion-of-syria-war-videos-concerns-human-rights-groups.
 
-    Syrian Archive, https://syrianarchive.org/en/tech-advocacy (accessed 29 May 2019).
+24. Syrian Archive, https://syrianarchive.org/en/tech-advocacy (accessed 29 May 2019).
 
-    Ibid.
+25. Ibid.
 
-    “Tafas: Heavy artillery shelling of the national hospital 11/8/2012”, YouTube video no longer available, https://www.youtube.com/watch?v=ipaaQGqtfTk.
+26. “Tafas: Heavy artillery shelling of the national hospital 11/8/2012”, YouTube video no longer available, https://www.youtube.com/watch?v=ipaaQGqtfTk.
 
-    Al Jazeera, “More than 70,000 killed in Yemen's civil war: ACLED,” 19 April 2019, https://www.aljazeera.com/news/2019/04/yemen-war-death-toll-reaches-70000-report-190419120508897.html.
+27. Al Jazeera, “More than 70,000 killed in Yemen's civil war: ACLED,” 19 April 2019, https://www.aljazeera.com/news/2019/04/yemen-war-death-toll-reaches-70000-report-190419120508897.html.
 
-    United Nations Agency for Refugees and Migrants, “More than 3 million displaced in Yemen – joint UN agency report,” 22 August 2016, https://refugeesmigrants.un.org/more-3-million-displaced-yemen-%E2%80%93-joint-un-agency-report
+28. United Nations Agency for Refugees and Migrants, “More than 3 million displaced in Yemen – joint UN agency report,” 22 August 2016, https://refugeesmigrants.un.org/more-3-million-displaced-yemen-%E2%80%93-joint-un-agency-report
 
-    Sam Magdy, “Save the Children says 85,000 kids may have died of hunger in Yemen,” USA Today, 21 November 2018, https://eu.usatoday.com/story/news/world/2018/11/21/yemen-children-hunger/2076683002/.
+29. Sam Magdy, “Save the Children says 85,000 kids may have died of hunger in Yemen,” USA Today, 21 November 2018, https://eu.usatoday.com/story/news/world/2018/11/21/yemen-children-hunger/2076683002/.
 
-    “The first moment of bombing the big hall in Sana’a 08/10/2016”, YouTube video no longer available, https://www.youtube.com/watch?v=dNax-YKBLNE.
+30. “The first moment of bombing the big hall in Sana’a 08/10/2016”, YouTube video no longer available, https://www.youtube.com/watch?v=dNax-YKBLNE.
 
-    “Saudi massacre targeting displaced camps in Mazraq,” YouTube video no longer available, https://www.youtube.com/watch?v=_Z5peAj4kTo.
+31. “Saudi massacre targeting displaced camps in Mazraq,” YouTube video no longer available, https://www.youtube.com/watch?v=_Z5peAj4kTo.
 
-    “Military equipment supplied by Russia to the Donbass,” YouTube video no longer available, https://www.youtube.com/watch?v=CJm5bjM3Z5c.
+32. “Military equipment supplied by Russia to the Donbass,” YouTube video no longer available, https://www.youtube.com/watch?v=CJm5bjM3Z5c.
 
-    Elliot Higgins, “Weapons From the Former Yugoslavia Spread Through Syria’s War,” The New York Times, 25 February 2013, http://atwar.blogs.nytimes.com/2013/02/25/weapons-from-the-former-yugoslavia-spread-through-syrias-war/.
+33. Elliot Higgins, “Weapons From the Former Yugoslavia Spread Through Syria’s War,” The New York Times, 25 February 2013, http://atwar.blogs.nytimes.com/2013/02/25/weapons-from-the-former-yugoslavia-spread-through-syrias-war/.
 
-    Christina Anderson, “Syrian Rebel Gets Life Sentence for Mass Killing Caught on Video,” The New York Times, 16 February 2017, https://www.nytimes.com/2017/02/16/world/europe/syrian-rebel-haisam-omar-sakhanh-sentenced.html.
+34. Christina Anderson, “Syrian Rebel Gets Life Sentence for Mass Killing Caught on Video,” The New York Times, 16 February 2017, https://www.nytimes.com/2017/02/16/world/europe/syrian-rebel-haisam-omar-sakhanh-sentenced.html.
 
-    The Prosecutor v. Mahmoud Mustafa Busayf Al-Werfalli, Case No.ICC-01/11-01/17-2, Warrant of Arrest (15 August 2017), https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/11-01/17-2.
+35. The Prosecutor v. Mahmoud Mustafa Busayf Al-Werfalli, Case No.ICC-01/11-01/17-2, Warrant of Arrest (15 August 2017), https://www.icc-cpi.int/Pages/record.aspx?docNo=ICC-01/11-01/17-2.
 
-    Ariana Tobin, Madeleine Varner, and Julia Angwin. “Facebook Uneven Enforcement of Hate Speech Rules Allows Vile Posts to Stay Up,” ProPublica, 28 December 2017, https://www.propublica.org/article/facebook-enforcement-hate-speech-rules-mistakes.
+36. Ariana Tobin, Madeleine Varner, and Julia Angwin. “Facebook Uneven Enforcement of Hate Speech Rules Allows Vile Posts to Stay Up,” ProPublica, 28 December 2017, https://www.propublica.org/article/facebook-enforcement-hate-speech-rules-mistakes.
