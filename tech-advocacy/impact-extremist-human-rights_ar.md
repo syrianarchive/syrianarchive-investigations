@@ -3,7 +3,7 @@ layout: contentwithsiblings.html
 title: "Caught in the Net: The Impact of Extremist Speech Regulations on Human Rights Content"
 date: 2019-06-03
 desc: "A joint publication from the Electronic Frontier Foundation, Syrian Archive, and Witness"
-image: assets/tech-advocacy/terror-3a-big.png
+image: /assets/tech-advocacy/terror-3a-big.png
 ---
 ## Downloads
 [Caught in the Net: The Impact of “Extremist” Speech Regulations on Human Rights Content](assets/tech-advocacy/caught_in_the_net_whitepaper_2019.pdf)
