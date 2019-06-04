@@ -1,10 +1,9 @@
 ---
 layout: contentwithsiblings.html
 title: "Caught in the Net: The Impact of Extremist Speech Regulations on Human Rights Content"
-date: 2019-04-29
+date: 2019-06-03
 desc: "A joint publication from the Electronic Frontier Foundation, Syrian Archive, and Witness"
 image: assets/tech-advocacy/terror-3a-big.png
-drafts: true
 ---
 ## Downloads
 [Caught in the Net: The Impact of “Extremist” Speech Regulations on Human Rights Content](assets/tech-advocacy/caught_in_the_net_whitepaper_2019.pdf)
@@ -45,9 +44,11 @@ To understand the scale of the issue, it is important to look at the numbers. Go
 Social media platforms wrongfully take down content across several different categories of speech, and no major social media company publishes its error rate. As a result, it can be difficult to understand where, when, and how often users suffer from inaccurate and mistaken takedowns. The examples below make clear, however, that it is difficult for human reviewers—and impossible for machines—to consistently differentiate activism, counter-speech, and satire about extremism from extremism itself. Blunt content moderation systems at scale inevitably make mistakes, and marginalised users are the ones who pay for those mistakes.
 
 ### Example 1: Independence for Chechnya
+
 In 2017, a Facebook group advocating for the independence of the Chechen Republic of Iskeria, called “Independence for Chechnya!”, was mistakenly removed for violating the company’s community standards barring “organisations engaged in terrorist activity or organised criminal activity,” despite the fact that training manuals specifically identify the Chechen Republic of Iskeria as “not violating” the rules. A Facebook spokesperson said that the deletion was made in error and that the company “sometimes gets things wrong.”(14)
 
 ### Example 2: Kurdish Activism
+
 Groups advocating for an independent Kurdistan are often the target of overbroad content moderation, despite the fact that only one such group—the Kurdistan Workers’ Party (PKK)—is considered a terrorist organisation by governments. As such, criticism and condemnation of the group is allowed on Facebook, but praise is not.(15)
 
 According to Human Rights Watch, Kurds have been frequent targets of human rights violations by the Turkish government.(16) The Turkish government is the world’s worst jailer of journalists,(17) and is also a leader in censorship demands, requiring companies to take down anything illegal in the country, including criticism of the country’s founder, Ataturk.
@@ -55,12 +56,15 @@ According to Human Rights Watch, Kurds have been frequent targets of human right
 Kurdish activists have alleged that Facebook has repeatedly removed their posts that do not violate the platform’s standards.(18) A Kurdish politician whose page was shut down called it a “dirty coalition” between the Turkish government and Facebook, noting that Turkey’s ruling party, the AKP, has shared images of the leader of Hamas (which is also listed on the U.S. government’s list of foreign terrorist organisations) with impunity.(19) When legitimate dissent such as that of Kurdish activists is removed by a company, either in error or as the result of government pressure, the company is effectively taking sides in a political dispute.
 
 ### Example 3: Satirical Commentary
+
 In 2017, Facebook removed an image posted by a prominent Emirati journalist of Hezbollah leader Hassan Nasrallah with a rainbow Pride flag overlaid on it.(20) The post, a commentary on Hezbollah’s popularity amongst a certain segment of the political left despite a lack of support for LGBTQ rights, was too subtle for content moderators, who are directed to remove most images containing the faces of known terrorist leaders.(21)
 
 ## Social media as evidence and memory
+
 Social media documentation of human rights violations is critical for justice and accountability efforts, and in some cases it serves as collective memory. Videos and text posted online are living histories for some diaspora communities, and sometimes this documentation might offer the only evidence that a crime has been committed. Yet in too many cases, social media content moderation policies around extremism lead to the deletion of vital documentation. Restoring wrongfully deleted content is nearly impossible if the person who posted the content is not alive, is arrested, or does not have access to email, all common issues in conflict zones.
 
 ### YouTube censorship of conflict documentation in Syria, Yemen, and Ukraine
+
 In Syria, human rights defenders predominantly use social media platforms to publish and publicise conflict documentation, and are able to use the medium effectively and often. In an interview with groups at the beginning of the Syrian uprising, activists said:
 
 >We achieved a point when we realised we should start organising ourselves, we should start something organised. Because all of the media channels refused to publish this kind of videos … There was actually no media coverage, only this one channel and social media, YouTube and Facebook .…Young people cooperated with channels, they made the channels actually, on YouTube .… These were the first local groups based on YouTube. They were organised, they had correspondents everywhere. They collected movies…. the first organised phenomenon in Syria was a media group.(22)
@@ -76,6 +80,7 @@ Similar examples can be seen in Yemen, where since 2015, a war largely between t
 In Ukraine, which has been immersed in a war since the 2014 annexation of Crimea by Russia, videos on YouTube documenting the arming of pro-Russia and anti-government forces have also been removed. One example is titled “Military equipment supplied by Russia to the Donbass.”(32)
 
 ### Social media conflict evidence and case law
+
 Content moderation hinders human rights efforts for legal accountability. Social media can offer irreplaceable evidence from conflict zones, particularly in places where foreign journalists, NGOs, and international monitoring agencies face difficulties accessing the country to document rights violations.(33) While courts and traditional documentation groups often lag behind in harnessing this potential, there is an emerging body of case law where social media content features prominently.
 
 In 2016, for example, a Swedish court case was concluded against a former Syrian rebel who had taken part in the killing of seven captured Syrian soldiers. The court relied on content published on Facebook and Twitter to identify the time when and place where the soldiers were captured, as well as the fact that only 41 hours had passed between their capture and execution. Facebook was contacted by prosecutors in order to verify the content’s metadata.(34)
@@ -102,7 +107,6 @@ Syrian Archive is an organisation dedicated to preserving, memorialising and add
 WITNESS is an international nonprofit organisation that uses education and advocacy to ensure human rights defenders and accidental witnesses use video ethically, safely, and effectively in their fight for human rights. WITNESS provides trainings and materials on video advocacy, video as evidence, archiving and more. WITNESS’ Tech + Advocacy program focuses on the need to ensure that tech companies tools and policies support, rather than harm, human rights defenders through policy advocacy and platform accountability efforts.
 
 ---
-## Notes
 
 ## Notes
 
