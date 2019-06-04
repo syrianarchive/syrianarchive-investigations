@@ -5,6 +5,9 @@ date: 2019-06-03
 desc: "Joint press release: OSJI, Trial International and Syrian Archive"
 image: /assets/investigations/3-logos.jpg
 ---
+
+### Press Release date: 03 June 2019
+
 Prosecutors in Belgium and Germany are being asked to open a criminal investigation into the role of three European companies in a 2014 shipment to Syria of material that can be used to produce chemical weapons.
 
 Three groups working on accountability for atrocity crimes – the Syrian Archive, TRIAL International, and the Open Society Justice Initiative – have filed criminal complaints with prosecutors in Antwerp, Hamburg and Essen. They have asked the authorities to clarify the role of three European companies in a 2014 shipment to Syria of chemical components that can be used to produce both pharmaceuticals and chemical weapons. Two months ago, the organisations informed the Belgian and German customs authorities, who replied that they were not aware of these exports. They therefore decided to take the case to the next level.
