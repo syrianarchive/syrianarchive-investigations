@@ -16,7 +16,7 @@ Yet 211.458 videos remain unavailable as of June 2019. Some of these videos incl
 
 This demonstrates an increase of 5.381 videos on YouTube being made unavailable between May and June 2019 that Syrian Archive has in its collection.
 
-Syrian Archive preserves content from 3.3533 YouTube channels on a daily basis. Of this, 247 YouTube channels have been made unavailable as of June 2019 but are preserved in Syrian Archive infrastructure. Some of these channels are long-standing media houses that have been documenting human rights violations in Syria since 2011.
+Syrian Archive preserves content from 3.533 YouTube channels on a daily basis. Of this, 247 YouTube channels have been made unavailable as of June 2019 but are preserved in Syrian Archive infrastructure. Some of these channels are long-standing media houses that have been documenting human rights violations in Syria since 2011.
 
 Between May and June 2019, an additional 13 channels that Syrian Archive includes in its preservation activities have been made unavailable. This demonstrates that the problem of platforms inadvertently removing from public view documentation of human rights violations is ongoing and has not ended.
 
