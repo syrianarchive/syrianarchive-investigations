@@ -4,7 +4,6 @@ title: "German and Belgian prosecutors urged to shed light on exports of dual-us
 date: 2019-06-03
 desc: "Joint press release: OSJI, Trial International and Syrian Archive"
 image: /assets/investigations/3-logos.jpg
-draft: true
 ---
 Prosecutors in Belgium and Germany are being asked to open a criminal investigation into the role of three European companies in a 2014 shipment to Syria of material that can be used to produce chemical weapons.
 
