@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "إزالة المحتوى السوريّ المرتبط بحقوق الإنسان: يونيو 2019)"
-date: 2019-04-29
+date: 2019-06-04
 desc: "إحصائيات المواد الرقمية المؤرشفة والتي تم استرجاعها"
 image: /assets/takedowns.jpg
 ---

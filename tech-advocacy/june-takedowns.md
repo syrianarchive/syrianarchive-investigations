@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "Removals of Syrian human rights content: May 2019"
-date: 2019-04-29
+date: 2019-06-04
 desc: "Amount of content preserved, made unavailable and restored"
 image: /assets/takedowns.jpg
 ---
