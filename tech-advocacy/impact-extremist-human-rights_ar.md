@@ -1,114 +1,117 @@
 ---
 layout: contentwithsiblings.html
-title: "Caught in the Net: The Impact of Extremist Speech Regulations on Human Rights Content"
-date: 2019-06-03
-desc: "A joint publication from the Electronic Frontier Foundation, Syrian Archive, and Witness"
+title: "عالق في الشبكة: تأثير قوانين الخطاب المتطرّف على محتوى حقوق الإنسان"
+date: 2019-06-12
+desc: "نشرة مشتركة من: EFF، الأرشيف السوريّ، ويتنس "
 image: /assets/tech-advocacy/terror-3a-big.png
 ---
-## Downloads
-[Caught in the Net: The Impact of “Extremist” Speech Regulations on Human Rights Content](assets/tech-advocacy/caught_in_the_net_whitepaper_2019.pdf)
+## تنزيلات
+[عالق في الشبكة: تأثير قوانين الخطاب "المتطرّف" على محتوى حقوق الإنسان](assets/tech-advocacy/caught_in_the_net_whitepaper_2019.pdf)
 
-## Introduction
+## مقدمة
 
-Social media companies have long struggled with what to do about extremist content on their platforms. While most companies include provisions about “extremist” content in their community standards, until recently, such content was often vaguely defined, providing policymakers and content moderators a wide berth in determining what to remove, and what to allow. Unfortunately, companies have responded with overbroad and vague policies and practices that have led to mistakes at scale that are decimating human rights content.
+لطالما واجهت شركات التواصل الاجتماعي تحديّاتٍ مع ما يجب فعله حيال المحتوى المتطرف على منصاتها. ففي حين أن معظم هذه الشركات تدرج في معايير مجتمعاتها موادًا حول المحتوى "المتطرف"، إلا أن الغموض يلف تعريف هذا المحتوى في كثيرٍ من الأحيان؛ الأمر الذي يعطي واضعي السياسات ومشرفي المحتوى هامشًا كبيرًا لتحديد ما يجب إزالته وما الذي يُسمح به. للأسف، أدت الممارسات والسياسات الغامضة والفضفاضة للشركات إلى أخطاءٍ واسعة النطاق أسهمت في تقليص محتوى حقوق الإنسان.
 
-The belief that deleting content on online platforms can solve the deeply rooted problems of extremism in modern society is a mistake. The examples highlighted in this document show that casting a wide net into the Internet with faulty automated moderation technology not only captures content deemed extremist, but also inadvertently captures useful content like human rights documentation, thus shrinking the democratic sphere. No proponent of automated content moderation has provided a satisfactory solution to this problem.
+من الخطأ الاعتقاد بأن حذف محتوىً على منصّات افتراضية يمكن أن يحل المشاكل عميقة الجذور للتطرف في المجتمعات الحديثة. توضّح الأمثلة المُساقة في هذه الوثيقة أن نصب شباكٍ كبيرة عبر الإنترنت تستخدم تقنية إدارةٍ تلقائية معيوبة؛ لا يقتصر على اصطياد محتوى يُعتبر متطرفًا، بل ويتجاوزه ليلتقط سهوًا محتوىً مفيدًا كوثائق حقوق الإنسان، ما يؤدّي بدوره إلى انكماش المجال الديمقراطي. لم يُقدّم أيٌّ من مؤيدي إدارة المحتوى التلقائية حلاً ناجعًا لهذه المشكلة.
 
-In recent years, following the rise of the Islamic State, companies have come under increasing pressure to undertake stricter measures when it comes to such speech. In the United States, this has come in the form of legislative proposals,(1) civil lawsuits from victims of terrorist attacks,(2) and pressure from the executive branch of the federal government.(3) The European Commission has ramped up its efforts from a code of conduct launched in 2017 that would require companies to review reported extremist content within 24 hours,(4) to a much more aggressive regulation that would create financial penalties for companies if they fail to act on extremist content within one hour.(5)
+عقب ظهور تنظيم الدولة الإسلامية في السنوات الأخيرة؛ تزايد الضغط على الشركات لاتخاذ إجراءات أكثر صرامة عندما يتعلق الأمر بهذا النوع من الخطاب. في الولايات المتحدة، جاء الضغط في صورة مقترحات تشريعيّة،(1) دعاوى مدنية من قبل ضحايا هجماتٍ إرهابية،(2) وضغوط من السلطة التنفيذية على الحكومة الفيدرالية.(3) وكثّفت المفوضية الأوروبية جهودها المبذولة في القواعد السلوكية التي أطلقتها عام 2017 والتي تطالب الشركات بمراجعة المحتوى المتطرف المُبلغ عنه خلال 24 ساعة،(4) إلى أحكامٍ أكثر صرامة من شأنها أن تغرّم الشركات بعقوبات مالية إذا فشلت في التعامل مع محتوى متطرف خلال ساعة واحدة.(5)
 
-Regardless of these regulations, the vast majority of companies are already restrictive when it comes to extremist content. And because there is no globally agreed-upon definition of what constitutes a terrorist (and nations would inevitably disagree as to whether a specific entity met such a definition), U.S.-based companies such as Facebook, Twitter, and YouTube look to U.S. regulations to underpin their policies. As a result, the extremist groups that receive the most focus are typically those on the U.S. Department of State’s list of Foreign Terrorist Organisations.(6) Facebook, for example, provides a list to moderators that includes photographs of leaders from groups on that list.(7)
+بغض النظر عن هذه اللوائح، فإن الغالبية العظمى من الشركات متشدّدة بالفعل عندما يتعلق الأمر بالمحتوى المتطرف. ولأنه لا يوجد تعريف متفق عليه عالميًا لمن يُعتبر إرهابيًا (إضافة إلى أن الدول ستختلف حتماً فيما إذا كان كيان معين قد استوفى هذا التعريف)، فإن الشركات التي تتخذ من الولايات المتحدة مقرًا لها، كفيسبوك، تويتر ويوتيوب، تعتمد لوائح الولايات المتحدة لتعزيز سياساتها. ونتيجة لذلك، فإن التركيز غالبًا ما يكون على الجماعات المتطرفة المُدرجة ضمن قائمة المنظمات الإرهابية الأجنبية التابعة لوزارة الخارجية الأمريكية.(6) على سبيل المثال، يوفر فيسبوك لمشرفيه قائمةً تتضمن صورًا لقادةٍ من مجموعات مدرجةٍ في تلك القائمة.(7)
 
-But although companies use this list as guidance, they are not legally obligated under U.S. law to remove content that comes from these groups. As far as is publicly known, the U.S. government has not taken the position that allowing a designated foreign terrorist organisation to use a free and freely available online platform is tantamount to “providing material support” for such an organisation, as is prohibited under the patchwork of U.S. anti-terrorism laws. Although the laws prohibit the offering of “services” to terrorist organisations, the U.S. Supreme Court has limited that to concerted “acts done for the benefit of or at the command of another.”(8) And U.S. courts have consistently rejected efforts to impose civil liability on online platforms when terrorist organisations use them for their communications.(9)
+على الرغم من أن الشركات تستخدم هذه القائمة كدليل، إلا أنها ليست ملزَمة بإزالة المحتوى الصادر عن هذه المجموعات بموجب القانون الأمريكي. وفقًا لما هو مُعلن، لم تتخذ حكومة الولايات المتحدة موقفًا مفاده أن السماح لمنظمة إرهابية أجنبية باستخدام منصة مجانية ومتاحة على الإنترنت هو بمثابة "توفير دعم مادي" لهذه المنظمة، الأمر الذي يُعتبر محظورًا بموجب مجموعة قوانين مكافحة الإرهاب الأمريكية. مع أن القوانين تحظر تقديم "خدمات" إلى المنظمات الإرهابية، فقد حددت المحكمة العليا في الولايات المتحدة ذلك بـ "الأفعال التي تم القيام بها لصالح أو تحت قيادة شخص آخر."(8) كما رفضت المحاكم الأمريكية باستمرار الجهود المبذولة لفرض المسؤولية المدنية على منصات الإنترنت عندما تستخدمها المنظمات الإرهابية في اتصالاتها.(9)
 
-## Content moderation and “extremist content”
+## إدارة المحتوى و"المحتوى المتطرف"
 
-Commercial content moderation is the process through which platforms make decisions about what content can and cannot be on their sites, based on their own Terms of Service, “community standards,” or other rules. This process typically relies upon a system of community policing, whereby users of a given service report or “flag” content that they believe violates the rules. The content then enters a moderation queue, and a human moderator determines whether or not it violates the rules. Repeat violations on most platforms result in “punishments,” in which a user is temporarily banned for increasing amounts of time.
+تُعرّف إدارة المحتوى التجاري بأنها العملية التي تتخذ المنصات من خلالها قراراتٍ بشأن المحتوى الذي يُسمح أو لا يُسمح بنشره على مواقعها، وذلك بناءً على شروط الخدمة الخاصة بها، كـ"معايير المجتمع"، أو قواعد أخرى. تعتمد هذه العملية عادةً على نظام خفارة مجتمعي، والذي يتيح لمستخدمي خدمة معينة التبليغ عن محتوىً يعتقدون أنه ينتهك القواعد. بعدها، يدخل المحتوى ضمن قائمة انتظار للإدارة، ليقوم مشرفٌ بشريّ بتحديد ما إذا كان ذلك المحتوى ينتهك القواعد بالفعل أم لا. تؤدي الانتهاكات المتكررة في معظم المنصات الأساسية إلى "عقوبات"، حيث يُحظر المستخدم مؤقتًا لفترة زمنية متزايدة.
 
-Today, an increasing amount of moderation of extremist content is conducted through “automated flagging,” a process in which platforms use their own proprietary tools to automatically detect potentially violating content that a human moderator then reviews. This often takes place before the content is ever seen by users.
+يتزايد اليوم الاعتماد على "التبليغ التلقائي" لإدارة المحتوى المتطرف، وهي عملية تستخدم فيها المنصات أدوات مملوكة لها للكشف التلقائي عن محتوى يحتمل أن يشمل انتهاكات ما، ليُراجع بعد ذلك من قبل مشرفٍ بشريّ. غالبًا ما يتم ذلك قبل أن يشاهد مستخدمو المنصّة هذا المحتوى.
 
-In recent years, companies have exponentially increased their use of machine learning algorithms. In the computing world, algorithms are a set of instructions for doing something. Machine learning algorithms are algorithms that are given an initial set of data and some rules, and then learn and change as they come into contact with more data. In order to train a machine learning algorithm for this purpose, a company must create a dataset that includes a significant amount of content in one category, which they then feed to the algorithm for training. For example, in order to accurately identify extremist content, a company like YouTube would create a set of data that it defines as extremist—such as a large number of ISIS videos—then feed that data to its algorithm.
+تزايد استخدام الشركات لخوارزميات التعلم الآلي بشكل كبير في السنوات الأخيرة. في عالم الحوسبة، الخوارزميات هي مجموعة من التعليمات لتنفيذ شيء ما. خوارزميات التعلم الآلي هي خوارزميات تُعطى مجموعة أولية من البيانات وبعض القواعد، ثم تتعلم وتتطور عندما تحتّك بمزيد من البيانات. من أجل تدريب خوارزمية التعلم الآلي، يجب على الشركة إنشاء مجموعة بيانات تتضمن كمية كبيرة من المحتوى تحت تصنيف واحد، لتغذّي بها الخوارزمية بغرض التدريب. على سبيل المثال، من أجل تحديد المحتوى المتطرف بدقة، ستنشئ شركة مثل يوتيوب مجموعة من البيانات التي تعرّفها على أنها متطرفة - مثل عدد كبير من مقاطع فيديو داعش - ثم تلقّم تلك البيانات للخوارزمية الخاصة بها.
 
-When an algorithm makes mistakes—as some of the cases below will illustrate—it can be difficult to understand why. Unless they are specifically designed to be “interpretable,” machine learning algorithms cannot be understood by humans. Since they learn and grow on their own without the need for human input, we cannot see these algorithms’ “thought processes.” Unfortunately, platforms use machine learning algorithms that are proprietary and shielded from any external review. In fact, civil society and governments have been denied access to the training data or basic assumptions driving the algorithms, and there has never been any sort of third-party audit of such technology.
+يصعب أحيانًا تحديد سبب ارتكاب الخوارزمية لبعض الأخطاء، كما ستوضّح بعض الحالات أدناه. إذ لا يمكن فهم خوارزميات التعلم الآلي من قبل البشر ما لم تُصمّم خصيصًا لتكون "قابلة للتفسير". حيث لا يمكننا أن نرى "عمليات التفكير" الخاصة بهذه الخوارزميات نظرًا لأنها تتعلم وتتطور من تلقاء ذاتها دون الحاجة إلى مشاركة بشرية. لسوء الحظ، تستخدم جميع المنصات خوارزميات تعلم آلي مغلقة المصدر ومحمية بموجب قوانين الملكية الفكرية من أيّة مراجعة خارجية. في واقع الأمر، مُنع المجتمع المدني والحكومات من الوصول إلى بيانات التدريب أو الافتراضات الأساسية التي تقود الخوارزميات، ولم يكن هناك أي نوع من التدقيق من قبل طرف ثالثٍ لهذه التقنية.
 
-This problem has become more acute with the introduction of hashing databases for tracking and removing extremist content. Hashes are digital "fingerprints" of content that companies use to identify and remove content from their platforms. They are essentially unique, and allow for easy identification of specific content. When an image is identified as “terrorist content,” it is tagged with a hash and entered into a database, allowing any future uploads of the same image to be easily identified.
+ازدادت حدّة هذه المشكلة أكثر مع إدخال قواعد بيانات التجزئة Hashes لتتبع المحتوى المتطرف وإزالته. يمكن اعتبار الـ Hashes بمثابة "بصمات أصابعٍ" رقميّة للمحتوى؛ تستخدمها الشركات لتحديد نوع المحتوى وإزالته من المنصّات الخاصة بها عند اللزوم. وحيث أنها فريدة من نوعها؛ فهي تتيح كشف هوية محتوى معيّن بسهولة. عندما يتم تحديد صورة على أنها "محتوى إرهابي"؛ تُوسَم بعلامة تجزئة Hash وتُدخَل في قاعدة بيانات، مما يسمح بالتعرّف على أية عمليات تحميل مستقبلية لنفس الصورة بسهولة.
 
-Although such databases have been historically used to successfully track and remove child exploitation imagery from social media platforms, those databases—run by the National Center for Missing and Exploited Children (NCMEC) and the International Center for Missing and Exploited Children (ICMEC)—operate with oversight from law enforcement, and neither companies nor individual law enforcement officers have direct access to the images in the database.
+و رغم استخدام قواعد بيانات مماثلة لتتبع وإزالة صور استغلال الأطفال من منصات التواصل الاجتماعي بنجاح في السابق، فإن قواعد البيانات هذه - التي يديرها المركز الوطني للأطفال المفقودين والمستغلين (NCMEC) والمركز الدولي للأطفال المفقودين والمستغلين (ICMEC) - تعمل بوجود رقابة على آليات إنفاذ القانون، وليس لدى أيّ من الشركات أو الموظفين المكلفين بإنفاذ القانون إمكانية الوصول المباشر إلى الصور الموجودة في قاعدة البيانات.
 
-The Global Internet Forum to Counter Terrorism (GIFCT), an industry initiative formed by Facebook, Microsoft, Twitter, and YouTube, used similar technology to introduce a database of “terrorist” images in 2016. The database is shared among GIFCT’s member companies, which include smaller companies that do not have the resources to build their own databases. The result, however, is that a single database is used broadly across the Internet, and errors thus multiplied.
+استخدم المنتدى العالمي للإنترنت لمكافحة الإرهاب (GIFCT)، وهي مبادرة صناعة أنشأها كلٌ من فيسبوك، مايكروسوفت، تويتر ويوتيوب، تقنيةً مماثلة لاستحداث قاعدة بيانات للصور "الإرهابية" عام 2016. تمت مشاركة قاعدة البيانات بين الشركات الأعضاء في منتدى GIFCT، والذي يضم شركاتٍ أصغر لا تملك الموارد اللازمة لبناء قواعد البيانات الخاصة بها. لكن المحصلة هي استخدام قاعدة بيانات واحدة على نطاق واسع عبر الإنترنت، وبالتالي توسع وتضاعف الأخطاء.
 
-Much like the training content for extremist content algorithms, the GIFCT database is not shared with any members of civil society focused on human rights, and the GIFCT website offers minimal information about how it functions. And unlike the databases operated by NCMEC and ICMEC, the GIFCT database operates without external oversight. Instead, the determination of what constitutes extremism is left up to the companies.
+لا تُشارك قاعدة بيانات GIFCT مع أيّ من أعضاء المجتمع المدني المهتمّين بحقوق الإنسان، شأنها في ذلك شأن محتوى تدريب خوارزميات المحتوى المتطرف. كما أن موقع GIFCT لا يُقدّم سوى معلومات قليلة حول كيفية عمله. خلافًا لقواعد البيانات التي تديرها NCMEC و ICMEC، تعمل قاعدة بيانات GIFCT دون رقابة خارجية. بدلاً من ذلك، فإن تحديد ما يُعتبر متطرفًا أمرٌ متروك للشركات.
 
-To understand the scale of the issue, it is important to look at the numbers. Google’s transparency report shows that YouTube removed 33 million videos in 2018,(10) amounting to roughly 90,000 per day. Of those flagged for potential violation of terms of service, 73% were removed through automated processes before the videos were available for viewing. Facebook removed roughly 15 million pieces of content deemed “terrorist propaganda” between October 2017 and October 2018. The company writes that in the third quarter of 2018, Facebook found “99.5% of the content [was] subsequently removed before users reported it; the other 0.5% was reported by users first.”(11) And Twitter, which famously took down 1.2 million terrorism-related accounts between 2015 and the final quarter of 2017,(12) removed an additional 166,153 accounts for terrorist content in the second half of 2018.(13)
+من المهم أن نعود إلى الأرقام لندرك حجم المشكلة. يوضح تقرير الشفافية من جوجل أن يوتيوب أزال 33 مليون مقطع فيديو عام 2018،(10) ما يعني حوالي 90000 مقطع يوميًا. 73٪ من المقاطع التي حُددت لاحتوائها انتهاكًا محتملًا لشروط الخدمة أُزيلت من خلال عمليات تلقائية قبل أن تُتاح للعرض. أزال فيسبوك ما يقارب 15 مليون وحدة محتوى اعتُبرت أنها تحمل "أجندة إرهابية" بين أكتوبر 2017 وأكتوبر 2018. نشرت الشركة أنه في الربع الثالث من عام 2018 وجد فيسبوك أن "99.5٪ من المحتوى [أُزيل] قبل أن يُبلغ المستخدمون عنه؛ في حين أبلغ المستخدمين عن الـ 0.5٪ المتبقية".(11) أما تويتر، الذي أزال 1.2 مليون حساب مرتبط بالإرهاب بين 2015 والربع الأخير من عام 2017،(12) فقد أزال 166،153 حسابًا إضافيًا لنشرها محتوى إرهابي في النصف الثاني من عام 2018.(13)
 
-## Blunt measures affect marginalised users
-Social media platforms wrongfully take down content across several different categories of speech, and no major social media company publishes its error rate. As a result, it can be difficult to understand where, when, and how often users suffer from inaccurate and mistaken takedowns. The examples below make clear, however, that it is difficult for human reviewers—and impossible for machines—to consistently differentiate activism, counter-speech, and satire about extremism from extremism itself. Blunt content moderation systems at scale inevitably make mistakes, and marginalised users are the ones who pay for those mistakes.
+## تأثير التدابير الصارمة على المستخدمين المهمّشين
 
-### Example 1: Independence for Chechnya
+تزيل منصات وسائل التواصل الاجتماعي المحتوى وفق تصنيفاتٍ مختلفة عن طريق الخطأ، لكنّ أيًا من تلك الشركات لا تنشر معدل الخطأ الخاص بها. نتيجة لذلك، قد يكون من الصعب فهم أين ومتى وكيف يعاني المستخدمون من عمليات الإزالة غير الدقيقة والخاطئة. على أية حال، توضح الأمثلة أدناه أنه من الصعب على المشرفين البشر - ومن المستحيل بالنسبة للآلات - التمييز باستمرار بين أنشطة المناصرة، الخطاب المضاد، السخرية من التطرف، وبين التطرف نفسه. لا شك في أن أنظمة إدارة المحتوى الصارمة ترتكب أخطاء على نحو واسع، والمستخدمون المهمشون هم من يدفع ثمن هذه الأخطاء.
 
-In 2017, a Facebook group advocating for the independence of the Chechen Republic of Iskeria, called “Independence for Chechnya!”, was mistakenly removed for violating the company’s community standards barring “organisations engaged in terrorist activity or organised criminal activity,” despite the fact that training manuals specifically identify the Chechen Republic of Iskeria as “not violating” the rules. A Facebook spokesperson said that the deletion was made in error and that the company “sometimes gets things wrong.”(14)
+### مثال 1: استقلال الشيشان
 
-### Example 2: Kurdish Activism
+في عام 2017، أزيلت من فيسبوك مجموعة تدعى "استقلال الشيشان!" تدافع عن استقلال جمهورية إيسكريا الشيشانية؛ وذلك بسبب انتهاكها لمعايير مجتمع الشركة التي تحظر "المنظمات المتورطة في نشاط إرهابي أو نشاط إجرامي منظّم"، على الرغم من أن الأدلّة التدريبية تحدّد جمهورية إيسكريا الشيشانية بأنها "لا تنتهك" القواعد. قال متحدث باسم فيسبوك أن الحذف تم خطأً وأن الشركة "تخطئ الأمور أحيانًا".(14)
 
-Groups advocating for an independent Kurdistan are often the target of overbroad content moderation, despite the fact that only one such group—the Kurdistan Workers’ Party (PKK)—is considered a terrorist organisation by governments. As such, criticism and condemnation of the group is allowed on Facebook, but praise is not.(15)
+### مثال 2: النشاط الكردي
 
-According to Human Rights Watch, Kurds have been frequent targets of human rights violations by the Turkish government.(16) The Turkish government is the world’s worst jailer of journalists,(17) and is also a leader in censorship demands, requiring companies to take down anything illegal in the country, including criticism of the country’s founder, Ataturk.
+غالبًا ما تكون الجماعات التي تدافع عن استقلال كردستان هدفًا للمعايير الفضفاضة لإدارة المحتوى، على الرغم من أن مجموعة واحدةً فقط - حزب العمال الكردستاني (PKK) - تُعتبر منظمة إرهابية من قبل الحكومات. ومن ثمّ، فإن انتقاد المجموعة وإدانتها مسموح على فيسبوك، لكن الأمر لا يسير على هذا النحو.(15)
 
-Kurdish activists have alleged that Facebook has repeatedly removed their posts that do not violate the platform’s standards.(18) A Kurdish politician whose page was shut down called it a “dirty coalition” between the Turkish government and Facebook, noting that Turkey’s ruling party, the AKP, has shared images of the leader of Hamas (which is also listed on the U.S. government’s list of foreign terrorist organisations) with impunity.(19) When legitimate dissent such as that of Kurdish activists is removed by a company, either in error or as the result of government pressure, the company is effectively taking sides in a political dispute.
+وفقًا لـ هيومن رايتس ووتش؛ يعتبر الأكراد أهدافًا متكررة لانتهاكات حقوق الإنسان من قبل الحكومة التركية.(16) الحكومة التركية هي الأسوأ في سجن الصحفيين عالميًا.(17) كما أنها رائدة في مطالب الرقابة، حيث تطالب الشركات بإزالة أي محتوى غير قانوني في البلاد، بما في ذلك انتقاد مؤسسها، أتاتورك.
 
-### Example 3: Satirical Commentary
+ادّعى ناشطون أكراد أن فيسبوك قد أزال مرارًا منشورات لهم لا تنتهك معايير المنصة. (18) كما وصف سياسي كردي أُغلقت صفحته ما يحدث بأنه "تحالف قذر" بين الحكومة التركية وفيسبوك، مشيرًا إلى أن الحزب الحاكم في تركيا، حزب العدالة والتنمية، شارك صور زعيم حماس (المدرج أيضًا ضمن قائمة الحكومة الأمريكية للمنظمات الإرهابية الأجنبية) ولم تُتّخذ أية إجراءات حيال ذلك. (19) عندما يُزال محتوى متعلّق بمعارضة مشروعة، مثل ما ينشره نشطاء أكراد، من قبل شركة، سواء عن طريق الخطأ أو نتيجة ضغط حكومي، فإن الشركة عمليًا منحازة في نزاع سياسي.
 
-In 2017, Facebook removed an image posted by a prominent Emirati journalist of Hezbollah leader Hassan Nasrallah with a rainbow Pride flag overlaid on it.(20) The post, a commentary on Hezbollah’s popularity amongst a certain segment of the political left despite a lack of support for LGBTQ rights, was too subtle for content moderators, who are directed to remove most images containing the faces of known terrorist leaders.(21)
+### مثال 3: التعليقات الساخرة
 
-## Social media as evidence and memory
+عام 2017، أزال فيسبوك صورة نشرها أحد الصحفيين الإماراتيين البارزين لزعيم حزب الله حسن نصر الله مغطاة بقوس قزح علم فخر المثليين.(20) كان المنشور تعليقًا على شعبية حزب الله بين شريحة معينة من اليسار السياسي على الرغم من عدم دعمه لحقوق مجتمع إل جي بي تي، لكن ذلك كان غامضًا للغاية بالنسبة لمشرفي المحتوى الموجَّهين لإزالة معظم الصور التي تحتوي على وجوه قادةٍ إرهابيين معروفين.(21)
 
-Social media documentation of human rights violations is critical for justice and accountability efforts, and in some cases it serves as collective memory. Videos and text posted online are living histories for some diaspora communities, and sometimes this documentation might offer the only evidence that a crime has been committed. Yet in too many cases, social media content moderation policies around extremism lead to the deletion of vital documentation. Restoring wrongfully deleted content is nearly impossible if the person who posted the content is not alive, is arrested, or does not have access to email, all common issues in conflict zones.
+## وسائل التواصل الاجتماعي كدليلٍ وذاكرة
 
-### YouTube censorship of conflict documentation in Syria, Yemen, and Ukraine
+يعد توثيق انتهاكات حقوق الإنسان عبر وسائل التواصل الاجتماعي أمرًا حاسمًا لجهود العدالة والمساءلة، وفي بعض الحالات يكون بمثابة ذاكرة جماعية. إن مقاطع الفيديو والنصوص المنشورة على الإنترنت تُعتبر تاريخًا حيًا لبعض مجتمعات الشتات، كما أن هذه الوثائق توفّر أحيانًا الدليل الوحيد على ارتكاب جريمة. ومع ذلك، تؤدي سياسات إدارة محتوى وسائل التواصل الاجتماعي المرتبطة بالتطرف إلى حذف وثائق هامّة في كثير من الحالات. من المستحيل تقريبًا استعادة المحتوى المحذوف بطريقة خاطئة إذا كان الشخص الذي نشره قد توفّي، اعتُقل، أو لم يكن لديه وصول إلى البريد الإلكتروني، وهي جميعها مشكلات شائعة في مناطق النزاع.
 
-In Syria, human rights defenders predominantly use social media platforms to publish and publicise conflict documentation, and are able to use the medium effectively and often. In an interview with groups at the beginning of the Syrian uprising, activists said:
+### رقابة يوتيوب على وثائق الصراع في سوريا، اليمن وأوكرانيا
 
->We achieved a point when we realised we should start organising ourselves, we should start something organised. Because all of the media channels refused to publish this kind of videos … There was actually no media coverage, only this one channel and social media, YouTube and Facebook .…Young people cooperated with channels, they made the channels actually, on YouTube .… These were the first local groups based on YouTube. They were organised, they had correspondents everywhere. They collected movies…. the first organised phenomenon in Syria was a media group.(22)
+غالبًا ما يستخدم المدافعون عن حقوق الإنسان في سوريا منصات وسائل التواصل الاجتماعي لنشر وثائق النزاع وتعميمها، إذ يمتلكون القدرة على استخدام هذه الوسائل بفعالية واستمرار. في مقابلة مع مجموعات في بداية الانتفاضة السورية، قال نُشطاء:
 
-There are now more hours of social media content about the Syrian conflict than there have been hours in the conflict itself. With more than 50 videos still being uploaded each day, Syria presents arguably the first time in history that a conflict can be witnessed by anyone in the world, practically in real time.(23)
+> كانت نقطة انعطاف عندما أدركنا أننا يجب أن نبدأ في تنظيم أنفسنا، يجب أن نبدأ بعملٍ منظّم. نظرًا لأن جميع القنوات الإعلامية رفضت نشر هذا النوع من مقاطع الفيديو... لم يكن هناك في الواقع أية تغطية إعلامية، لم يكن لدينا سوى قناة واحدة ووسائل التواصل الاجتماعي، يوتيوب وفيسبوك فقط... تعاون الشباب مع القنوات وأنشؤوا المزيد منها على يوتيوب... كانت هذه أوائل المجموعات المحلية المعتمدة على يوتيوب. كانوا منظّمين، وكان لديهم مراسلون في كل مكان، وجمعوا مقاطع الفيديو.... أول ظاهرة منظمة في سوريا كانت مجموعة إعلامية. (22)
 
-YouTube has used machine learning-powered automated flagging to terminate thousands of Syrian YouTube channels that were publishing videos documenting human rights violations. This includes channels from the Syrian Observatory for Human Rights, the Violation Documentation Center, Sham News Agency, and Aleppo Media Center. The terminated social media accounts ranged from documentation of protests in Syria to non-traditional media reporting on violent attacks, and did not incite violence or encourage dangerous activities.(24)
+يفوق عدد ساعات مقاطع الفيديو التي توثّق النزاع في سوريا عدد ساعات النزاع نفسه. ومع استمرار تحميل أكثر من 50 مقطع فيديو على يوتيوب يوميًا، فإنه يمكن القول إن الحالة السورية أتاحت لأيّ شخص أن يكون شاهدًا على النزاع وقت وقوعه، ربما للمرة الأولى في التاريخ.(23)
 
-At least 206,077 videos documenting rights violations were made unavailable on YouTube between 2011 and May 2019.(25) This includes 381 videos documenting airstrikes that targeted hospitals or medical facilities. One of those, titled “Tafas: Heavy artillery shelling of the national hospital 11/8/2012,” showed Syrian government forces shelling medical staff and patients inside the hospital.26
+استخدم يوتيوب تقنية تبليغ تلقائية عبر خوارزميات التعلم الآلي لإزالة آلاف من قنوات يوتيوب السورية التي تنشر مقاطع فيديو توثق انتهاكات حقوق الإنسان. بما فيها قنوات مثل المرصد السوري لحقوق الإنسان، مركز توثيق الانتهاكات، شبكة شام للأنباء، ومركز حلب الإعلامي. تتراوح نشاطات حسابات وسائل التواصل الاجتماعي المُزالة بين توثيق الاحتجاجات في سوريا إلى الإبلاغ غير التقليدي عن هجمات عنيفة، لكنّ أيًا منها لم يحرّض على العنف أو يشجّع على أنشطة خطرة. (24)
 
-Similar examples can be seen in Yemen, where since 2015, a war largely between the Saudi-led coalition and the Houthis has led to the direct killing of an estimated 70,000 people,(27) the displacement of over three million people,28 and the death of an estimated 85,000 children from starvation.(29) A video titled “The first moment of bombing the big hall in Sana’a 08/10/2016”(30) and another video titled “Saudi massacre targeting displaced camps in Mazraq”(31) have both been made unavailable as a result of content moderation policies.
+ما بين عام 2011 وحتى مايو/ أيار 2019، ما لا يقل عن 206،077 مقطع فيديو يوثق انتهاكات حقوق الإنسان لم يعد متاحًا على يوتيوب.(25) يشمل ذلك 381 مقطع فيديو يوثق غارات جويّة استهدفت مستشفيات أو منشآت طبية. أحد هذه الفيديوهات بعنوان "طفس: قصف مدفعي عنيف على المستشفى الوطني 11/8/2012" حيث يُظهر قوات الحكومة السورية تقصف الطاقم الطبي والمرضى داخل المستشفى .(26)
 
-In Ukraine, which has been immersed in a war since the 2014 annexation of Crimea by Russia, videos on YouTube documenting the arming of pro-Russia and anti-government forces have also been removed. One example is titled “Military equipment supplied by Russia to the Donbass.”(32)
+تُشاهَد أمثلة مشابهة في اليمن، حيث أدت الحرب بين التحالف الذي تقوده السعودية والحوثيين منذ عام 2015 إلى القتل المباشر لما يقدر بـ 70،000 شخص،(27) نزوح أكثر من ثلاثة ملايين شخص،(28) ووفاة نحو 85،000 طفل من الجوع.(29) نتيجة لسياسات إدارة المحتوى فإن مقاطع فيديو لم تعد متاحة على يوتيوب؛ من بينها فيديو بعنوان "اللحظة الأولى لقصف القاعة الكبرى في صنعاء 08/10/2016" (30) ومقطع فيديو آخر بعنوان "مجزرة سعودية تستهدف مخيمات النازحين في المزرق" (31).
 
-### Social media conflict evidence and case law
+في أوكرانيا التي عمّتها الحرب منذ أن ضمّت روسيا شبه جزيرة القرم عام 2014، أُزيلت مقاطع فيديو من يوتيوب توثق تسليح القوات الموالية لروسيا والقوات المناهضة للحكومة. أحد الأمثلة بعنوان "المعدات العسكرية التي قدمتها روسيا إلى دونباس." (32)
 
-Content moderation hinders human rights efforts for legal accountability. Social media can offer irreplaceable evidence from conflict zones, particularly in places where foreign journalists, NGOs, and international monitoring agencies face difficulties accessing the country to document rights violations.(33) While courts and traditional documentation groups often lag behind in harnessing this potential, there is an emerging body of case law where social media content features prominently.
+### الأدلّة التي توفرها وسائل التواصل الاجتماعيّ والسوابق القضائية
 
-In 2016, for example, a Swedish court case was concluded against a former Syrian rebel who had taken part in the killing of seven captured Syrian soldiers. The court relied on content published on Facebook and Twitter to identify the time when and place where the soldiers were captured, as well as the fact that only 41 hours had passed between their capture and execution. Facebook was contacted by prosecutors in order to verify the content’s metadata.(34)
+تعيق إدارة المحتوى جهود حقوق الإنسان للمساءلة القانونية. إذ يمكن أن تقدم وسائل التواصل الاجتماعي أدلة لا يمكن الاستغناء عنها من مناطق النزاع، لا سيما في الأماكن التي يواجه فيها الصحفيون الأجانب، المنظمات غير الحكومية ووكالات المراقبة الدولية صعوبات في الوصول إلى البلاد لتوثيق انتهاكات الحقوق.(33) في حين أن المحاكم ومجموعات التوثيق التقليدية تتوانى عن استغلال هذه الأدلة عادةً، إلا أن سوابق قضائية يحتلّ فيها محتوى وسائل التواصل الاجتماعيّ مكانة بارزة بدأت بالظهور.
 
-In 2017, and again in 2018, the International Criminal Court (ICC) issued an arrest warrant for Libyan national Mahmoud Mustafa Busayf Al-Werfalli. Al-Werfalli was accused of being directly responsible for the killing of 33 people, or for ordering the execution of those people. The arrest warrant states that evidence for seven of those incidents was based largely on video material and transcripts of video material posted to al-Werfalli’s social media profiles.(35)
+في عام 2016، على سبيل المثال، رُفعت دعوى قضائية ضد معارض سوريّ سابق شارك في قتل سبعة جنود سوريين عقب أسرهم. اعتمدت المحكمة على محتوى منشور على فيسبوك وتويتر لتحديد توقيت ومكان أسر الجنود، فضلاً عن التوصل لحقيقة أن 41 ساعة فقط فصلت بين أسرهم وإعدامهم. تواصل المدّعون العامّون مع فيسبوك للتحقق من البيانات الوصفية للمحتوى. (34)
 
-## Conclusion
+في عام 2017، ومرة ​​أخرى في 2018، أصدرت المحكمة الجنائية الدولية (ICC) مذكّرة توقيف بحق المواطن الليبي محمود مصطفى بوسيف الورفلي. حيث اتُهم بالمسؤولية المباشرة عن قتل 33 شخصًا أو عن إصدار أمر بإعدام هؤلاء الأشخاص. ينص أمر التوقيف على أن الأدلة المرتبطة بسبعة من هذه الحوادث استندت إلى حد كبير على مقاطع فيديو ونصوص مقاطع فيديو نُشرت على حسابات التواصل الاجتماعي الخاصة بالورفلي. (35)
 
-When tragedies like Christchurch happen, the impetus to respond is so great that it can lead to unintended outcomes. In fact, many of the same companies that have signed the Christchurch call have pushed back against legislative proposals for automated takedowns in front of policymakers in recent months. While these companies make big promises about automated content moderation in the news, they elsewhere admit that the technology is not foolproof. Facebook admits that even with human review, it has a high error rate.(36) Unfortunately, as the myriad examples above demonstrate, content moderation does not affect all groups evenly, and has the potential to further disenfranchise already marginalised communities.
+## خاتمة
 
-The temptation to look to simple solutions to the complex problem of extremism online is strong, but governments and companies alike must not be hasty in rushing to solutions that compromise freedom of expression, the right to assembly, and the right to access information.
+عند وقوع أحداث مأساوية مثل هجوم كرايستشيرش، يصبح الدافع للاستجابة ملحًا لدرجة أنه قد يؤدي إلى نتائج غير مقصودة. في الأشهر الأخيرة، تراجعت العديد من الشركات التي وقّعت على دعوة كرايستشيرش ضد المقترحات التشريعية لطلبات الإزالة الآلية أمام واضعي السياسات. في حين أن هذه الشركات تقدم وعودًا كبيرة حول إدارة المحتوى التلقائية، فإنها تقر بأنّ هذه التقنية ليست مضمونة. يعترف فيسبوك بوجود معدّل خطأ مرتفع حتى مع وجود المراجعة البشرية.(36) لسوء الحظ، لا تؤثر إدارة المحتوى على جميع الفئات بشكل متساوٍ، كما توضح العديد من الأمثلة أعلاه، لكن لديها الإمكانية على زيادة حرمان المجتمعات المهمّشة من حقوقها.
 
-## About the Authors
+إن الانسياق خلف حلول بسيطة لمعالجة مشكلة التطرف المعقّدة عبر الإنترنت جذّاب بالفعل، لكن لا يجب على الحكومات والشركات على حد سواء أن تتسرّع في الاندفاع نحو الحلول التي تمسّ بحرية التعبير، الحق في التجمع، وحق الوصول إلى المعلومات.
 
-### Electronic Frontier Foundation
+## حول المؤلفين
 
-The Electronic Frontier Foundation is the leading nonprofit defending digital privacy, free speech, and innovation. Founded in 1990, EFF champions user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. We work to ensure that rights and freedoms are enhanced and protected as our use of technology grows.
+### مؤسسة التخوم الإلكترونية EFF
 
-### Syrian Archive
-Syrian Archive is an organisation dedicated to preserving, memorialising and adding value to at-risk documentation related to human rights violations committed by all sides involved in the conflict in Syria. Syrian Archive uses this content to support justice and accountability efforts, and engages with social media platforms to assist documentation groups to recover or reinstate human rights content inadvertently removed due to content moderation policies.
+ مؤسسة التخوم الإلكترونية هي مؤسسة غير ربحية رائدة في مجال الدفاع عن الخصوصية الرقمية، وحرية التعبير والابتكار. تأسست شركة EFF عام 1990، لتدعم خصوصية المستخدم، حرية التعبير والابتكار من خلال التقاضي، تحليل السياسات، النشاط الشعبي وتطوير التقنية. كما تعمل على حماية وتعزيز كلٍّ من حقوق الإنسان والحقوق الدستورية فيما يزداد الاعتماد على التكنولوجيا.
 
-### WITNESS
+### الأرشيف السوري
 
-WITNESS is an international nonprofit organisation that uses education and advocacy to ensure human rights defenders and accidental witnesses use video ethically, safely, and effectively in their fight for human rights. WITNESS provides trainings and materials on video advocacy, video as evidence, archiving and more. WITNESS’ Tech + Advocacy program focuses on the need to ensure that tech companies tools and policies support, rather than harm, human rights defenders through policy advocacy and platform accountability efforts.
+الأرشيف السوري منظمة تكرس جهودها لصون، حفظ، وإضافة قيمة إلى الوثائق المعرضة للخطر المتعلقة بإنتهاكات حقوق الإنسان المُرتبكة من قبل جميع الأطراف خلال النزاع في سوريا. يستخدم الأرشيف السوري هذا المحتوى لدعم جهود العدالة والمساءلة، ويتواصل مع منصات وسائل التواصل الاجتماعي لمساعدة مجموعات التوثيق على استرداد محتوى حقوق الإنسان الذي تمت إزالته عن غير قصد بسبب سياسات إدارة المحتوى.
+
+### ويتنس
+
+منظمة ويتنس هي منظمة دولية غير ربحية تستخدم التعليم والمناصرة لضمان استخدام الفيديو بشكل أخلاقيّ، آمن وفعّال من قبل المدافعين عن حقوق الإنسان أثناء كفاحهم. تقدم ويتنس دورات تدريبية ومواد عن الدعوة عبر الفيديو والفيديو كدليل والأرشفة وغير ذلك. يركز برنامج WITNESS'Tech + Advocacy على الحاجة إلى ضمان دعم المدافعين عن حقوق الإنسان، بدلاً من إلحاق الأذى بهم، من قبل أدوات وسياسات شركات التكنولوجيا من خلال مناصرة السياسات وجهود المساءلة في المنصة.
+
 
 ---
 
-## Notes
+## حواشٍ
 
 1. Kelsey Harclerode, “Mandatory Reporting of User Content Chills Speech and Violates Privacy Rights,” Electronic Frontier Foundation, 5 August 2015, https://www.eff.org/deeplinks/2015/08/mandatory-reporting-user-content-chills-speech-and-violates-privacy-rights.
 
@@ -120,17 +123,17 @@ WITNESS is an international nonprofit organisation that uses education and advoc
 
 5. Colin Lecher, “Aggressive new terrorist content regulation passes EU vote,” the Verge, 17 April 2019, https://www.theverge.com/2019/4/17/18412278/eu-terrorist-content-law-parliament-takedown.
 
-6. U.S. Department of State, list of Foreign Terrorist Organizations, https://www.state.gov/foreign-terrorist-organizations/ (accessed 29 May 2019).
+6. قائمة المنظمات الإرهابية الأجنبية التابعة لوزارة الخارجية الأمريكية, https://www.state.gov/foreign-terrorist-organizations/ (accessed 29 May 2019).
 
 7. The Guardian, “How Facebook Guides Moderators on Terrorist Content,” 24 May 2017, https://www.theguardian.com/news/gallery/2017/may/24/how-facebook-guides-moderators-on-terrorist-content.
 
 8. Holder v. Humanitarian Law Project, 561 U.S. 1 (2010).
 
-9. See, for example, Fields v. Twitter, 881 F.3d 739 (9th Cir. 2018).
+9. انظر، على سبيل المثال, Fields v. Twitter, 881 F.3d 739 (9th Cir. 2018).
 
-10. Google Transparency Report, “YouTube Community Guidelines enforcement,” https://transparencyreport.google.com/youtube-policy/removals (accessed 12 May 2019).
+10. تقرير شفافية جوجل, “YouTube Community Guidelines enforcement,” https://transparencyreport.google.com/youtube-policy/removals (تم الوصول له في 12 مايو/أيار 2019).
 
-11. Facebook, “Community Standards Enforcement Report,” https://transparency.facebook.com/community-standards-enforcement#terrorist-propaganda (accessed 12 May 2019).
+11. فيسبوك, “Community Standards Enforcement Report,” https://transparency.facebook.com/community-standards-enforcement#terrorist-propaganda (accessed 12 May 2019).
 
 12. Don Reisinger, “Twitter Has Suspended 1.2 Million Terrorist Accounts Since 2015,” Fortune, 5 April 2018, http://fortune.com/2018/04/05/twitter-terrorist-account-suspensions/.
 
@@ -140,7 +143,7 @@ WITNESS is an international nonprofit organisation that uses education and advoc
 
 15. The Guardian, “How Facebook Guides Moderators on Terrorist Content.” https://www.theguardian.com/news/gallery/2017/may/24/how-facebook-guides-moderators-on-terrorist-content
 
-16. Human Rights Watch, “Turkey, Events of 2017,” https://www.hrw.org/world-report/2018/country-chapters/turkey (accessed 29 May 2019).
+16. هيومن رايتس ووتش, “تركيا، أحداث 2017" https://www.hrw.org/world-report/2018/country-chapters/turkey (تم الوصول لها في 29 مايو/أيار 2019).
 
 17. Elana Beiser, “Hundreds of journalists jailed globally becomes the new normal,” Committee to Protect Journalists, 13 December 2018, https://cpj.org/reports/2018/12/journalists-jailed-imprisoned-turkey-china-egypt-saudi-arabia.php.
 
@@ -156,11 +159,11 @@ WITNESS is an international nonprofit organisation that uses education and advoc
 
 23. Armin Rosen, “Erasing History: YouTube’s Deletion Of Syria War Videos Concerns Human Rights Groups,” Fast Company, 7 March 2018, https://www.fastcompany.com/40540411/erasing-history-youtubes-deletion-of-syria-war-videos-concerns-human-rights-groups.
 
-24. Syrian Archive, https://syrianarchive.org/en/tech-advocacy (accessed 29 May 2019).
+24. الأرشيف السوري, https://syrianarchive.org/ar/tech-advocacy/ (تم الوصول لها في 29 مايو/ أيار 2019).
 
 25. Ibid.
 
-26. “Tafas: Heavy artillery shelling of the national hospital 11/8/2012”, YouTube video no longer available, https://www.youtube.com/watch?v=ipaaQGqtfTk.
+26. “طفس: قصف مدفعي عنيف على المستشفى الوطني 11/8/2012”, مقطع فيديو لم يعد متاحًا على يوتيوب available, https://www.youtube.com/watch?v=ipaaQGqtfTk.
 
 27. Al Jazeera, “More than 70,000 killed in Yemen's civil war: ACLED,” 19 April 2019, https://www.aljazeera.com/news/2019/04/yemen-war-death-toll-reaches-70000-report-190419120508897.html.
 
@@ -168,9 +171,9 @@ WITNESS is an international nonprofit organisation that uses education and advoc
 
 29. Sam Magdy, “Save the Children says 85,000 kids may have died of hunger in Yemen,” USA Today, 21 November 2018, https://eu.usatoday.com/story/news/world/2018/11/21/yemen-children-hunger/2076683002/.
 
-30. “The first moment of bombing the big hall in Sana’a 08/10/2016”, YouTube video no longer available, https://www.youtube.com/watch?v=dNax-YKBLNE.
+30. “اللحظة الأولى لقصف القاعة الكبرى في صنعاء 08/10/2016” مقطع فيديو لم يعد متاحًا على يوتيوب, https://www.youtube.com/watch?v=dNax-YKBLNE.
 
-31. “Saudi massacre targeting displaced camps in Mazraq,” YouTube video no longer available, https://www.youtube.com/watch?v=_Z5peAj4kTo.
+31. “مجزرة سعودية تستهدف مخيمات النازحين في المرزق” مقطع فيديو لم يعد متاحًا على يوتيوب, https://www.youtube.com/watch?v=_Z5peAj4kTo.
 
 32. “Military equipment supplied by Russia to the Donbass,” YouTube video no longer available, https://www.youtube.com/watch?v=CJm5bjM3Z5c.
 
