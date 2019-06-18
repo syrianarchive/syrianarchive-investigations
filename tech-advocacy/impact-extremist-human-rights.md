@@ -6,7 +6,7 @@ desc: "A joint publication from the Electronic Frontier Foundation, Syrian Archi
 image: /assets/tech-advocacy/terror-3a-big.png
 ---
 ## Downloads
-[Caught in the Net: The Impact of “Extremist” Speech Regulations on Human Rights Content](assets/tech-advocacy/caught_in_the_net_whitepaper_2019.pdf)
+[Caught in the Net: The Impact of “Extremist” Speech Regulations on Human Rights Content](/assets/tech-advocacy/caught_in_the_net_whitepaper_2019.pdf)
 
 ## Introduction
 
