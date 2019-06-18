@@ -8,6 +8,9 @@ image: "/assets/about/press-1.png"
 نُشرت بعض المقالات الصحفية والتي سلطت الضوء على عمل الأرشيف السوري، من بينها:
 
 #### باللغة العربية:
+
+- ميدان (2019) [من سوريا إلى ليبيا.. لماذا تحذف الشركات الرقمية أرشيف جرائم الحرب؟]https://midan.aljazeera.net/intellect/sociology/2019/5/26/%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AD%D8%B0%D9%81-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A3%D8%B1%D8%B4%D9%8A%D9%81-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8)
+- المدن ( يونيو/حزيران 2019) [السوريون يواجهون "فايسبوك" دفاعاً عن الساروت](https://www.almodon.com/media/2019/6/12/%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D9%81%D8%A7%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%AF%D9%81%D8%A7%D8%B9%D8%A7-%D8%B9%D9%86-%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D9%88%D8%AA)
 - عنب بلدي ( 5 مايو/ أيّار 2019) [“الذكاء” الصناعي يهدد مستقبل العدالة في سوريا](https://www.enabbaladi.net/archives/298617)
 - زمان الوصل ( 30 أبريل/ نيسان 2019) [الأرشيف السوري يستعيد 150 ألف فيديو عن الثورة بعد حذفها من "يوتيوب"](https://www.zamanalwsl.net/news/article/104033/)
 - العربي الجديد (1 نوفمبر/ تشرين الثاني 2018).  [توثيق أكثر من 1400 استهداف لمدنيين وبنى تحتية بسورية](https://www.alaraby.co.uk/flashnews/2018/11/1/%D8%AA%D9%88%D8%AB%D9%8A%D9%82-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-1400-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%8A%D9%86-%D9%88%D8%A8%D9%86%D9%89-%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A9). 
@@ -19,6 +22,13 @@ image: "/assets/about/press-1.png"
 - إرم نيوز (2017). [إثر إلغاء يوتيوب آلاف الفيديوهات.. تاريخ الأزمة السورية في خطر](https://www.eremnews.com/news/arab-world/989826)
 
 #### بلغات أجنبيّة:
+
+- Amnesty (2019) [OP-ED: How Facebook’s sudden change hinders human rights investigations ](https://www.amnesty.org/en/latest/news/2019/06/how-facebooks-sudden-change-hinders-human-rights-investigations/)
+-  Los Angeles Times  (2019) [Keep politicians away from social media regulation, and let God tweet](https://www.latimes.com/opinion/op-ed/la-oe-welch-social-media-panic-20190614-story.html)
+- Huffpost (2019) [YouTube Says It’s Removing Thousands Of Extremist Videos. What Happens To Them?](https://www.huffpost.com/entry/youtube-extremism-ban-far-right_n_5cf97c2ce4b06af8b505a23b?guccounter=1)
+- The Brussels Times (2019). [Belgian company targetted in Syrian chemical weapons probe](https://www.brusselstimes.com/all-news/belgium-all-news/57719/belgian-company-targetted-in-syrian-chemical-weapons-probe/)
+- Justice Initiative (2019) [German and Belgian Prosecutors Urged to Investigate Chemical Shipments to Syria](https://www.justiceinitiative.org/newsroom/german-and-belgian-prosecutors-urged-to-investigate-chemical-shipments-to-syria)
+- Le Soir (2019) [Gaz toxiques en Syrie: trois ONG portent plainte contre BASF Antwerpen]https://www.lesoir.be/228447/article/2019-06-03/gaz-toxiques-en-syrie-trois-ong-portent-plainte-contre-basf-antwerpen)
 - The Atlantic (2019) [When Algorithms Make the Evidence Vanish](https://www.theatlantic.com/ideas/archive/2019/05/facebook-algorithms-are-making-it-harder/588931/)
 - Advox - Global Voices (May 2019) [‘Envision a new war': the Syrian Archive, corporate censorship and the struggle to preserve public history online ](https://advox.globalvoices.org/2019/05/02/envision-a-new-war-the-syrian-archive-corporate-censorship-and-the-struggle-to-preserve-public-history-online/)
 -  Enorm magazin (2019) [Wie KI Menschenrechte schützt](https://enorm-magazin.de/wie-ki-menschenrechte-schuetzt)
@@ -28,10 +38,7 @@ image: "/assets/about/press-1.png"
 - The Verge (2019) [Upload filters and one-hour takedowns: the EU’s latest fight against terrorism online, explained](https://www.theverge.com/2019/3/21/18274201/european-terrorist-content-regulation-extremist-terreg-upload-filter-one-hour-takedown-eu)
 - Monument Lab (2019) [THE NEW GATEKEEPERS: WILL GOOGLE DECIDE HOW WE REMEMBER SYRIA’S CIVIL WAR? ](http://monumentlab.com/news/2019/2/19/the-new-gatekeepers-syrian-war)
 - Just Security (2019) [Scramble to Erase New Zealand Attack Videos Exposes Pitfalls Too](https://www.justsecurity.org/63451/scramble-to-erase-new-zealand-attack-videos-exposes-pitfalls-too/)
-- Foreign Policy (December 2018) [‘We Can’t Save Syrians Anymore, But We Can Save the Truth’](https://foreignpolicy.com/2018/12/27/ugur-umit-ungor-syria-oral-history-project/)
-- ABC News (December 2018) [Syrian war crimes evidence strongest since Nuremberg trials, says prosecutor](https://mobile.abc.net.au/news/2018-12-03/syrian-war-crimes-evidence-strongest-since-nuremberg-trials/10577206?pfmredir=sm)
-- BuzzFeed News (December 2018). [The Histories Of Today’s Wars Are Being Written On Social Media, But Crucial Evidence Of War Crimes Is Vanishing](https://www.buzzfeednews.com/amphtml/meghara/facebook-youtube-icc-war-crimes?bftwnews=&utm_term=4ldqpgc&__twitter_impression=true)
-- Huridocs (December 2018) [Projects that inspired the HURIDOCS team in 2018](https://huridocs.org/2018/12/inspiring-projects-2018/)
+- Buzzfeed (2018). [The Histories Of Today's Wars Are Being Written On Facebook And YouTube. But What Happens When They Get Taken Down?](https://www.buzzfeednews.com/article/meghara/facebook-youtube-icc-war-crimes)
 - Independent (2018). [Syrian group documents ‘Russian attacks on civilians’](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
 - AP NEWS (2018) [Syrian group documents Russian attacks on civilians](https://www.apnews.com/d18183062a9e409a84d004779abe2f1e)
 - geographical imaginations (2018) [1418 strikes and you’re still in…](https://geographicalimaginations.com/2018/10/31/1418-strikes-and-youre-still-in/) 

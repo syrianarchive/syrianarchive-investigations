@@ -8,6 +8,12 @@ image: "/assets/about/press-1.png"
 
 Articles in which the work of the Syrian Archive was highlighted include the following:
 
+- Amnesty (2019) [OP-ED: How Facebook’s sudden change hinders human rights investigations ](https://www.amnesty.org/en/latest/news/2019/06/how-facebooks-sudden-change-hinders-human-rights-investigations/)
+-  Los Angeles Times  (2019) [Keep politicians away from social media regulation, and let God tweet](https://www.latimes.com/opinion/op-ed/la-oe-welch-social-media-panic-20190614-story.html)
+- Huffpost (2019) [YouTube Says It’s Removing Thousands Of Extremist Videos. What Happens To Them?](https://www.huffpost.com/entry/youtube-extremism-ban-far-right_n_5cf97c2ce4b06af8b505a23b?guccounter=1)
+- The Brussels Times (2019). [Belgian company targetted in Syrian chemical weapons probe](https://www.brusselstimes.com/all-news/belgium-all-news/57719/belgian-company-targetted-in-syrian-chemical-weapons-probe/)
+- Justice Initiative (2019) [German and Belgian Prosecutors Urged to Investigate Chemical Shipments to Syria](https://www.justiceinitiative.org/newsroom/german-and-belgian-prosecutors-urged-to-investigate-chemical-shipments-to-syria)
+- Le Soir (2019) [Gaz toxiques en Syrie: trois ONG portent plainte contre BASF Antwerpen]https://www.lesoir.be/228447/article/2019-06-03/gaz-toxiques-en-syrie-trois-ong-portent-plainte-contre-basf-antwerpen)
 - The Atlantic (2019) [When Algorithms Make the Evidence Vanish](https://www.theatlantic.com/ideas/archive/2019/05/facebook-algorithms-are-making-it-harder/588931/)
 - Advox - Global Voices (May 2019) [‘Envision a new war': the Syrian Archive, corporate censorship and the struggle to preserve public history online ](https://advox.globalvoices.org/2019/05/02/envision-a-new-war-the-syrian-archive-corporate-censorship-and-the-struggle-to-preserve-public-history-online/)
 -  Enorm magazin (2019) [Wie KI Menschenrechte schützt](https://enorm-magazin.de/wie-ki-menschenrechte-schuetzt)
@@ -17,6 +23,7 @@ Articles in which the work of the Syrian Archive was highlighted include the fol
 - The Verge (2019) [Upload filters and one-hour takedowns: the EU’s latest fight against terrorism online, explained](https://www.theverge.com/2019/3/21/18274201/european-terrorist-content-regulation-extremist-terreg-upload-filter-one-hour-takedown-eu)
 - Monument Lab (2019) [THE NEW GATEKEEPERS: WILL GOOGLE DECIDE HOW WE REMEMBER SYRIA’S CIVIL WAR? ](http://monumentlab.com/news/2019/2/19/the-new-gatekeepers-syrian-war)
 - Just Security (2019) [Scramble to Erase New Zealand Attack Videos Exposes Pitfalls Too](https://www.justsecurity.org/63451/scramble-to-erase-new-zealand-attack-videos-exposes-pitfalls-too/)
+- Buzzfeed (2018). [The Histories Of Today's Wars Are Being Written On Facebook And YouTube. But What Happens When They Get Taken Down?](https://www.buzzfeednews.com/article/meghara/facebook-youtube-icc-war-crimes)
 - Independent (2018). [Syrian group documents ‘Russian attacks on civilians’](https://www.independent.ie/world-news/syrian-group-documents-russian-attacks-on-civilians-37478707.html)
 - AP NEWS (2018) [Syrian group documents Russian attacks on civilians](https://www.apnews.com/d18183062a9e409a84d004779abe2f1e)
 - geographical imaginations (2018) [1418 strikes and you’re still in…](https://geographicalimaginations.com/2018/10/31/1418-strikes-and-youre-still-in/) 
