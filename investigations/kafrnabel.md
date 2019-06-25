@@ -18,57 +18,53 @@ image: /assets/investigations/kafrnabel/image26.png
 
 ### What Happened?
 
-A number of local news outlets and media activists published on May 5th 2019 news about 4 air raids, which took place around 5:30 PM Damascus Local Time, targeting the Kafr Nabel Surgical hospital, previously referred to as the Orient Hospital, that rendered it out of service. Hand in Hand for Aid and Development, a British organization supporting the hospital, published on Twitter about the targeting of the Kafranbel hospital. They later published a video showing the damage from inside the hospital after the airstrikes.
+A number of local news outlets and media activists published on May 5th 2019 news about 4 air raids, which took place around 5:30 PM Damascus Local Time, targeting the [Kafrnabel Surgical hospital](https://orienthr.ngo/ar/surgical-hospital-in-kafr-nabl-idlib-syria/), previously referred to as the Orient Hospital, that rendered it out of service. Hand in Hand for Aid and Development, a [British organization](https://hihfad.org/) supporting the hospital, published on [Twitter](https://twitter.com/hihfaduk/status/1125064412845551617) about the targeting of the Kafranbel hospital. They later published a [video](https://twitter.com/hihfaduk/status/1125079647799132161) showing the damage from inside the hospital after the airstrikes.
 
-![Kafrnabel01](/assets/investigations/kafranabel/image7.png)
+![Kafranbel01](/assets/investigations/kafranabel/image7.png)
 
-The video above shows the banner of Hand in Hand for Aid and Development which confirms that they support  the Kafr Nabel Surgical hospital.
+The video mentioned above shows the banner of Hand in Hand for Aid and Development which confirms that they support the Kafr Nabel Surgical hospital.
 
-![Kafrnabel02](/assets/investigations/kafranabel/image10.png)
+![Kafranbel02](/assets/investigations/kafranabel/image10.png)
 
-Halab Today and Edlib Media Center published videos on the day of the attack showing the direct targeting of the hospital by aircraft overhead as well as the evacuation of patients from the hospital. They also, as is shown below, depict the 4 separate airstrikes or raids on the hospital. In both videos, the sound of an aircraft lingers overhead before and after each airstrike.  
+[Halab Today](https://www.youtube.com/watch?v=DBZ9MMeCkqY) and [Edlib Media Center](https://www.youtube.com/watch?v=mcPEwb9SoeE) published videos on the day of the attack showing the direct targeting of the hospital by aircraft overhead as well as the evacuation of patients from the hospital. They also, as is shown below, depict the 4 separate airstrikes or raids on the hospital. In both videos, the sound of an aircraft lingers overhead before and after each airstrike.  
 
-![Kafrnabel03](/assets/investigations/kafranabel/image24.png)
+![Kafranbel03](/assets/investigations/kafranabel/gif1.gif)
 
-![Kafrnabel04](/assets/investigations/kafranabel/image43.png)
+![Kafranbel04](/assets/investigations/kafranabel/image43.png)
 
-![Kafrnabel05](/assets/investigations/kafranabel/image20.png)
+![Kafranbel05](/assets/investigations/kafranabel/image20.png)
 
 Below is one missile targeting the hospital
 
-![Kafrnabel06](/assets/investigations/kafranabel/image19.png)
+![Kafranbel06](/assets/investigations/kafranabel/image19.png)
 
 Below is a second missile targeting the hospital
 
-![Kafrnabel07](/assets/investigations/kafranabel/image8.png)
+![Kafranbel07](/assets/investigations/kafranabel/image8.png)
 
 Below is a third missile targeting the hospital
 
-![Kafrnabel08](/assets/investigations/kafranabel/image29.png)
+![Kafranbel08](/assets/investigations/kafranabel/image29.png)
 
 The videos published by both Halab Today and Edlib Media Center feature landscapes similar to what is shown for the location of the hospital by Google Earth further verifying the location of the hospital as well as the footage of the airstrikes. 
 
-![Kafrnabel09](/assets/investigations/kafranabel/image16.png)
+![Kafranbel09](/assets/investigations/kafranabel/image16.png)
 
-![Kafrnabel10](/assets/investigations/kafranabel/image27.png)
+![Kafranbel10](/assets/investigations/kafranabel/image27.png)
 
-![Kafrnabel11](/assets/investigations/kafranabel/image22.png)
+![Kafranbel11](/assets/investigations/kafranabel/image22.png)
 
-![Kafrnabel12](/assets/investigations/kafranabel/image12.png)
+Activist Mustafa al-Alloush Abu Sader, offers a different angle of the airstrikes, sharing a [video](https://www.facebook.com/100025494637033/videos/361798371346648/) on Facebook that shows the direct targeting of the hospital.
 
-Activist Mustafa al-Alloush Abu Sader, offers a different angle of the airstrikes, sharing a video on Facebook that shows the direct targeting of the hospital.
+![Kafranbel13](/assets/investigations/kafranabel/image2.jpg)
 
-![Kafrnabel13](/assets/investigations/kafranabel/image2.png)
+Media activist Hadi Al Abdallah, who conducted a [video report](https://www.facebook.com/HadiAlabdallah/videos/2176159982501797/UzpfSTEwMDAwNDU2NDc3Mzg4NjoxMjE4Mjc3ODM4MzM0MzY0/) highlighting the attack on Kafranbel hospital, claims like many others that the medical facility was targeted by a Russian aircraft. Media activist Mohamad Bela’as additionally concurs claiming in his [report](https://www.youtube.com/watch?v=RrSNxU9I4MA) that Russian fighter jets directly targeted the hospital with 4 airstrikes.
 
+Smart News Agency also published a [video](https://www.youtube.com/watch?v=dxhlKcnSbLk) showing the damage and evacuation of Kafranbel hospital with an interview of a White Helmet rescue worker who expressed that the targeting was done by a Russian fighter jet. He claimed the attack resulted in the death of the hospital guard. This matches other [reports](https://www.zamanalwsl.net/news/article/104215/) which claim there was one dead and a few injured as a result of the Kafarnabel airstrikes. A [press release](https://www.amnesty.org.uk/press-releases/syria-least-15-hospitals-targeted-idlib-and-hama-beginning-may) by Amnesty International confirms this reporting one patient killed and his brother injured in the attack.
 
-Media activist Hadi Al Abdallah, who conducted a video report highlighting the attack on Kafranbel hospital, claims, like many others, that the medical facility was targeted by a Russian aircraft. Media activist Mohamad Bela’as additionally concurs claiming in his report that Russian fighter jets directly targeted the hospital with 4 airstrikes.
+[Sham News](https://www.youtube.com/watch?v=hCHG9ifqvHc), alongside [Orient TV](https://www.youtube.com/watch?v=0HMsGS92LwI) and [MMC](https://www.youtube.com/watch?v=DK6VUUi7QKI), published various video reports on YouTube a day after the attack highlighting the extensive damage of the hospital as well as depicting the evacuation of patients.
 
-Smart News Agency also published a video showing the damage and evacuation of Kafranbel hospital with an interview of a White Helmet rescue worker who expressed that the targeting was done by a Russian fighter jet. He claimed the attack resulted in the death of the hospital guard. This matches other reports which claim there was one dead and a few injured as a result of the Kafarnabel airstrikes. A press release by Amnesty International confirms this reporting one patient killed and his brother injured in the attack.
-
-Sham news, alongside Orient TV and MMC, published various video reports on YouTube a day after the attack highlighting the extensive damage of the hospital as well as depicting the evacuation of patients.
-
-![Kafrnabel14](/assets/investigations/kafranabel/image4.png)
-
+![Kafranbel14](/assets/investigations/kafranabel/image4.png)
 
 As is shown below, the hospital was hit by 4 airstrikes at around 5:30 PM local Syrian time. As seen in the images and footage above, which is verified as showing the hospital on May 5th or 6th, the four air raids significantly debilitated the hospital internally and externally rendering it, as a multitude of news reports confirmed, out of service.
 
@@ -80,27 +76,27 @@ Given the repeated history of Kafranbel Hospital’s targeting, the location of 
 
 Videos published after the attack and their location can be seen below:
 
-![Kafrnabel15](/assets/investigations/kafranabel/image42.png)
+![Kafranbel15](/assets/investigations/kafranabel/image42.png)
 
-![Kafrnabel16](/assets/investigations/kafranabel/image39.png)
+![Kafranbel16](/assets/investigations/kafranabel/image39.png)
 
-![Kafrnabel17](/assets/investigations/kafranabel/image41.png)
+![Kafranbel17](/assets/investigations/kafranabel/image41.png)
 
 #### The Time
 
-Given a multitude of reports indicating the time of the attack as happening around 5:30-5:40 PM, such as the Union of Medical Care and Relief Organization’s press release, the time of this attack was confirmed by the shadows shown in the multitude of videos detailing the 4 airstrikes. Utilizing the online tool SunCalc to calculate the position of the sun based upon the location and supposed time of the airstrike, the shadows in the verified videos analyzed in this report match the location of the sun at around 5:30 PM in Kafranbel.
+Given a multitude of reports indicating the time of the attack as happening around 5:30-5:40 PM, such as the Union of Medical Care and Relief Organization’s [press release](https://www.uossm.org/breaking_3_hospitals_bombed_today_in_syria), the time of this attack was confirmed by the shadows shown in the multitude of videos detailing the 4 airstrikes. Utilizing the online tool [SunCalc](https://www.suncalc.org/#/35.6229,36.5506,15/2019.05.05/17:27/1/1) to calculate the position of the sun based upon the location and supposed time of the airstrike, the shadows in the verified videos analyzed in this report match the location of the sun at around 5:30 PM in Kafranbel.
 
-![Kafrnabel18](/assets/investigations/kafranabel/image40.png)
+![Kafranbel18](/assets/investigations/kafranabel/image40.png)
 
-![Kafrnabel19](/assets/investigations/kafranabel/image17.png)
+![Kafranbel19](/assets/investigations/kafranabel/image17.png)
 
-![Kafrnabel20](/assets/investigations/kafranabel/image30.png)
+![Kafranbel20](/assets/investigations/kafranabel/image30.png)
 
-Moreover, shadows featured in verified footage matched the shadow lengths and size of shadows at 5:30 PM (Damascus Time) as calculated on Shadow Calculator. Shadow Calculator predicts the length of a shadow depending upon points of reference as well as the time of day.
+Moreover, shadows featured in verified footage matched the shadow lengths and size of shadows at 5:30 PM (Damascus Time) as calculated on [Shadow Calculator](http://shadowcalculator.eu/#/lat/35.62304200689339/lng/36.551594894866184). Shadow Calculator predicts the length of a shadow depending upon points of reference as well as the time of day.
 
-![Kafrnabel21](/assets/investigations/kafranabel/image13.png)
+![Kafranbel21](/assets/investigations/kafranabel/image13.png)
 
-![Kafrnabel22](/assets/investigations/kafranabel/image5.png)
+![Kafranbel22](/assets/investigations/kafranabel/image5.png)
 
 
 #### The Airstrikes
@@ -109,67 +105,65 @@ Through the comparison and matching of the airstrike smoke plumes and also the s
 
 ##### Airstrike A
 
-![Kafrnabel23](/assets/investigations/kafranabel/image38.png)
+![Kafranbel23](/assets/investigations/kafranabel/image38.png)
 
-![Kafrnabel24](/assets/investigations/kafranabel/image37.png)
+![Kafranbel24](/assets/investigations/kafranabel/image37.png)
 
 ##### Airstrike B
 
-![Kafrnabel25](/assets/investigations/kafranabel/image21.png)
+![Kafranbel25](/assets/investigations/kafranabel/image21.png)
 
-![Kafrnabel26](/assets/investigations/kafranabel/image32.png)
+![Kafranbel26](/assets/investigations/kafranabel/image32.png)
 
-![Kafrnabel27](/assets/investigations/kafranabel/image15.png)
+![Kafranbel27](/assets/investigations/kafranabel/image15.png)
 
 ##### Airstrike C
 
-![Kafrnabel28](/assets/investigations/kafranabel/image28.png)
+![Kafranbel28](/assets/investigations/kafranabel/image28.png)
 
-![Kafrnabel29](/assets/investigations/kafranabel/image9.png)
+![Kafranbel29](/assets/investigations/kafranabel/image9.png)
 
 ##### Airstrike D
 
-![Kafrnabel30](/assets/investigations/kafranabel/image44.png)
+![Kafranbel30](/assets/investigations/kafranabel/image44.png)
 
-![Kafrnabel31](/assets/investigations/kafranabel/image33.png)
+![Kafranbel31](/assets/investigations/kafranabel/image33.png)
 
 #### The Damage
 
 As featured above, and emphasized in the various local and international reports, the damage on Kafranbel Surgical hospital was extensive. Externally and from outside the hospital, it’s surrounding gates, buildings, as well as one of its ambulances are shown as rubble and destroyed.
 
-![Kafrnabel32](/assets/investigations/kafranabel/image18.png)
+![Kafranbel32](/assets/investigations/kafranabel/image18.png)
 
-![Kafrnabel33](/assets/investigations/kafranabel/image14.png)
+![Kafranbel33](/assets/investigations/kafranabel/image14.png)
 
-![Kafrnabel34](/assets/investigations/kafranabel/image6.png)
+![Kafranbel34](/assets/investigations/kafranabel/image6.png)
 
 Moreover, the hospital building itself is shown, by a number of sources, as extensively damaged and visibly unusable.
 
-![Kafrnabel35](/assets/investigations/kafranabel/image25.png)
+![Kafranbel35](/assets/investigations/kafranabel/gif2.gif)
 
-![Kafrnabel36](/assets/investigations/kafranabel/image26.png)
+![Kafranbel36](/assets/investigations/kafranabel/image26.png)
 
-![Kafrnabel37](/assets/investigations/kafranabel/image3.png)
+![Kafranbel37](/assets/investigations/kafranabel/image3.png)
 
-![Kafrnabel38](/assets/investigations/kafranabel/image11.png)
+![Kafranbel38](/assets/investigations/kafranabel/image11.png)
 
-In showing the evacuation of patients from the hospital, a video posted by the White Helmets as well as Hand in Hand additionally shows the extensive internal damage of the four airstrikes on the hospital.
+In showing the evacuation of patients from the hospital, a video posted by the [White Helmets](https://youtu.be/wUufZe4XLqk?t=59) as well as [Hand in Hand](https://twitter.com/hihfaduk/status/1125079647799132161) additionally shows the extensive internal damage of the four airstrikes on the hospital.
 
-![Kafrnabel39](/assets/investigations/kafranabel/image36.png)
-
-![Kafrnabel40](/assets/investigations/kafranabel/image1.png)
+![Kafranbel39](/assets/investigations/kafranabel/gif3.gif)
 
 In comparison to the February 5, 2018 attack the hospital externally sustained similar damage. The hospital internally, however, experienced more severe damage in February of 2018 because its wards, as shown in videos from after the attack, remained mostly above ground and in the main larger building.  
 
-![Kafrnabel41](/assets/investigations/kafranabel/image34.png)
+![Kafranbel41](/assets/investigations/kafranabel/image34.png)
 
-![Kafrnabel42](/assets/investigations/kafranabel/image23.png)
+![Kafranbel42](/assets/investigations/kafranabel/image23.png)
 
 This differs from videos of the internal damage of the hospital from the May 5 attack as they, with videos showing the patient evacuation, reveal the vital wards of the hospital as underground. Compared to the 2017 September 9th and March 25th attacks, the Kafranbel hospital has sustained much more damage to its above ground external structure.
 
-![Kafrnabel43](/assets/investigations/kafranabel/image35.jpg)
+![Kafranbel43](/assets/investigations/kafranabel/Kafarnabelhospitaltimeline.jpeg)
 
-![Kafrnabel44](/assets/investigations/kafranabel/image31.jpg)
+![Kafranbel44](/assets/investigations/kafranabel/image31.jpg)
 
 Similar to the February 2018 attack, the footage provided by local news sources and activists confirms reports of the hospital as out of service and destroyed.
 
