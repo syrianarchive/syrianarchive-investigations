@@ -131,7 +131,7 @@ Through the comparison and matching of the airstrike smoke plumes and also the s
 
 #### The Damage
 
-As featured above, and emphasized in the various local and international reports, the damage on Kafranbel Surgical hospital was extensive. Externally and from outside the hospital, it’s surrounding gates, buildings, as well as one of its ambulances are shown as rubble and destroyed.
+As featured above, and emphasized in the various [local and international reports](https://twitter.com/AlarabyTV/status/1125928302030409729), the damage on Kafranbel Surgical hospital was extensive. Externally and from outside the hospital, it’s surrounding gates, buildings, as well as one of its ambulances are shown as rubble and destroyed.
 
 ![Kafranbel32](/assets/investigations/kafranabel/image18.png)
 
@@ -139,7 +139,7 @@ As featured above, and emphasized in the various local and international reports
 
 ![Kafranbel34](/assets/investigations/kafranabel/image6.png)
 
-Moreover, the hospital building itself is shown, by a number of sources, as extensively damaged and visibly unusable.
+Moreover, the hospital building itself is shown, by a [number of sources](https://youtu.be/7c4WHKHApPE?t=85), as extensively damaged and visibly unusable.
 
 ![Kafranbel35](/assets/investigations/kafranabel/gif2.gif)
 
@@ -153,13 +153,13 @@ In showing the evacuation of patients from the hospital, a video posted by the [
 
 ![Kafranbel39](/assets/investigations/kafranabel/gif3.gif)
 
-In comparison to the February 5, 2018 attack the hospital externally sustained similar damage. The hospital internally, however, experienced more severe damage in February of 2018 because its wards, as shown in videos from after the attack, remained mostly above ground and in the main larger building.  
+In comparison to the [February 5, 2018 attack](https://youtu.be/YwhGjgql7IU?t=48) the hospital externally sustained similar damage. The hospital internally, however, experienced more severe damage in February of 2018 because its wards, as shown in videos from after the attack, remained mostly above ground and in the main larger building.  
 
 ![Kafranbel41](/assets/investigations/kafranabel/image34.png)
 
 ![Kafranbel42](/assets/investigations/kafranabel/image23.png)
 
-This differs from videos of the internal damage of the hospital from the May 5 attack as they, with videos showing the patient evacuation, reveal the vital wards of the hospital as underground. Compared to the 2017 September 9th and March 25th attacks, the Kafranbel hospital has sustained much more damage to its above ground external structure.
+This differs from videos of the internal damage of the hospital from the May 5 attack as they, with videos showing the patient evacuation, reveal the vital wards of the hospital as underground. Compared to the 2017 [September 19th](https://youtu.be/2RJ-k5jXopQ?t=10) and [March 25th](https://youtu.be/srgCm-W_gqM?t=26) attacks, the Kafranbel hospital has sustained much more damage to its above ground external structure.
 
 ![Kafranbel43](/assets/investigations/kafranabel/Kafarnabelhospitaltimeline.jpeg)
 
