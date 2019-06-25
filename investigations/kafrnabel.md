@@ -1,8 +1,7 @@
 ---
 layout: investigation.html
-title: "German and Belgian prosecutors urged to shed light on exports of dual-use goods to Syria "
-date: 2019-06-03
-desc: "Joint press release: OSJI, Trial International and Syrian Archive"
+title: "The Attack on the Kafranbel Surgical Hospital"
+date: 2019-06-27
 image: /assets/investigations/3-logos.jpg
 ---
 
