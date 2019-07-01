@@ -3,6 +3,7 @@ layout: investigation.html
 title: "The Attack on the Kafranbel Surgical Hospital"
 date: 2019-06-27
 image: /assets/investigations/kafrnabel/image26.png
+drafts: true
 ---
 
 - Location: IDLIB : Kafranbel
