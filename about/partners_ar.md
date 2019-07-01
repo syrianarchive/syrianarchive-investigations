@@ -11,6 +11,7 @@ image: "/assets/about/partners.png"
 - [بلينغكات](https://www.bellingcat.com/)
 - [إنيجيو](https://www.enigio.com/)
 - [ميدان](https://meedan.com/en/)
+- [جامعة برمنجهام سيتي](https://www.bcu.ac.uk/)
 - [أمنيستي إنترناشونال | مجموعة التحقق الرقمي](https://www.theengineroom.org/digital-verification-corps/)
 - [مركز حقوق الإنسان في جامعة بيركلي للقانون](https://www.law.berkeley.edu/research/human-rights-center/)
 - [تاكتيكال](https://tacticaltech.org/)
