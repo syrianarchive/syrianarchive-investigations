@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "The Attack on the Kafranbel Surgical Hospital"
 date: 2019-06-27
-image: /assets/investigations/kafrnabel/image26.png
+image: /assets/investigations/kafranabel/image26.png
 drafts: true
 ---
 
@@ -172,7 +172,7 @@ Similar to the February 2018 attack, the footage provided by local news sources 
 
 To provide a further layer of verification, the Syrian Archive cross referenced findings from the media above with flight observation data from a spotter organisation. Data for flights around 17:30 in the Idlib province near Kafarnabel, the time and location of the investigated attack, was more closely analysed and observed.  
 
-<iframe height=“550” src=“https://public.tableau.com/views/observedflightdataidlib5may2019/Sheet1?:showVizHome=no&:embed=y” width=“780”></iframe>
+<iframe height="550" src=“https://public.tableau.com/views/observedflightdataidlib5may2019/Sheet1?:showVizHome=no&:embed=y” width="780""></iframe>
 
 Through an analysis of this data, the Syrian Archive was able to more confidently verify the time of the airstrikes as well alleged perpetrators of the attack. Several fixed wing aircraft, what are identified as either Russian aircraft, Su-22’s, or Su-24’s, are indicated as flying in the direction of Kafarnabel from neighbouring villages, circling the town, as well as circling the other neighbouring towns of Ma’aret al-Nu’man, Heish, and Jabal al-Zawye between 17:18 and 17:40. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.  This corroborates the data mentioned above of an attack around 17:30 in Kafarnabel.
 
