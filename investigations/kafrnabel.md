@@ -93,7 +93,7 @@ Given a multitude of reports indicating the time of the attack as happening arou
 
 ![Kafranbel20](/assets/investigations/kafranabel/image30.png)
 
-Moreover, shadows featured in verified footage matched the shadow lengths and size of shadows at 5:30 PM (Damascus Time) as calculated on [Shadow Calculator](http://shadowcalculator.eu/#/lat/35.62304200689339/lng/36.551594894866184). Shadow Calculator predicts the length of a shadow depending upon points of reference as well as the time of day.
+Moreover, shadows featured in verified footage matched the shadow lengths and size of shadows at 5:30 PM (Damascus Time) as calculated on [Shadow Calculator](http://shadowcalculator.eu/#/lat/35.62304200689339/lng/36.551594894866184). Shadow Calculator calculates the length of a shadow depending upon points of reference as well as the time of day.
 
 ![Kafranbel21](/assets/investigations/kafranabel/image13.png)
 
