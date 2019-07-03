@@ -175,7 +175,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 Through an analysis of this data, the Syrian Archive was able to more confidently verify the time of the airstrikes as well as the perpetrators of the attack. Several fixed wing, what are identified as either, Russian aircraft or Su-22’s and Su-24’s are indicated as flying in the direction of Kafarnabel from neighboring villages, circling the town, as well as circling the other neighboring towns of Ma’aret al-Nu’man, Heish, and Jabal al-Zawye between 17:18 and 17:40.  Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.  This corroborates the data mentioned above of an attack around 17:30 in Kafarnabel.
 
-However, given that there is no direct evidence available that one of the observed aircrafts was involved in the attack on Kafarnabel the presence of these aircrafts above the town as well as neighboring towns increases the likelihood that an air attack occurred at this location during the time stated by citizen reporters as well as humanitarian groups, and estimated also by using imagery from the attack.
+However, given that there is no direct evidence available that one of the observed aircrafts was involved in the attack on Kafarnabel, the presence of these aircrafts above the town as well as neighboring towns increases the likelihood that an air attack occurred at this location during the time stated by citizen reporters as well as humanitarian groups, and estimated also by using imagery from the attack.
 
 ### Conclusion
 
