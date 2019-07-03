@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "استهداف مشفى كفرنبل الجراحي"
 date: 2019-06-27
-image: /assets/investigations/kafranabel/image26.png
+image: /assets/investigations/kafranabel/image2.png
 drafts: true
 ---
 
@@ -105,28 +105,39 @@ drafts: true
 من خلال المقارنة والمطابقة بين أعمدة دخان الغارة الجوية وأصوات الطائرات المحلّقة التي يمكن سماعها في عدد من مقاطع الفيديو؛ أمكن تحديد أربع غارات جوية منفصلة. سندعوها الغارات أ، ب، ج، د، حيث لا يمكن التيقّن من ترتيبها.
 
 ##### الغارة الجوية أ
+
+نُشرت فيديوهات بواسطة [MMC](https://www.youtube.com/watch?v=DK6VUUi7QKI) و [الدفاع المدني في إدلب](https://www.youtube.com/watch?v=wUufZe4XLqk).
+
 ![Kafranbel23](/assets/investigations/kafranabel/image38.png)
 
 ![Kafranbel24](/assets/investigations/kafranabel/image37.png)
 
 ##### الغارة الجوية ب
+
+فيديوهات نُشرت من طرف [حلب اليوم](https://www.youtube.com/watch?v=DBZ9MMeCkqY&feature=youtu.be&t=17)، [مصطفى العلوش](https://www.facebook.com/100025494637033/videos/361798371346648/)، و [مركز إدلب الإعلامي](https://www.youtube.com/watch?v=mcPEwb9SoeE)
+
 ![Kafranbel25](/assets/investigations/kafranabel/image21.png)
 
 ![Kafranbel26](/assets/investigations/kafranabel/image32.png)
 
-![Kafranbel27](/assets/investigations/kafranabel/image15.png)
+![Kafranbel27](/assets/investigations/kafranabel/emc.png)
 
 ##### الغارة الجوية ج
 
-![Kafranbel28](/assets/investigations/kafranabel/image28.png)
+فيديوهات نُشرت بواسطة [إدلب بلس](https://twitter.com/IdlibPlus/status/1125057973162844160) و[علاء يوسف](https://www.youtube.com/watch?v=_LMW4e0hlwU)
+
+![Kafranbel28](/assets/investigations/kafranabel/Idlibplus.png)
 
 ![Kafranbel29](/assets/investigations/kafranabel/image9.png)
 
 ##### الغارة الجوية د
 
-![Kafranbel30](/assets/investigations/kafranabel/image44.png)
+فيديوهات نُشرت بواسطة [وكالة سمارت للأنباء](https://www.youtube.com/watch?v=dxhlKcnSbLk) و[حلب اليوم](https://www.youtube.com/watch?v=DBZ9MMeCkqY&t=30)
 
-![Kafranbel31](/assets/investigations/kafranabel/image33.png)
+![Kafranbel30](/assets/investigations/kafranabel/smart.png)
+
+![Kafranbel31](/assets/investigations/kafranabel/aleppotoday.png)
+
 
 #### الأضرار
 
