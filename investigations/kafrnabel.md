@@ -106,29 +106,37 @@ Through the comparison and matching of the airstrike smoke plumes and also the s
 
 ##### Airstrike A
 
+Videos published by [MMC](https://www.youtube.com/watch?v=DK6VUUi7QKI) and [Civil Defense in Idlib](https://www.youtube.com/watch?v=wUufZe4XLqk).
+
 ![Kafranbel23](/assets/investigations/kafranabel/image38.png)
 
 ![Kafranbel24](/assets/investigations/kafranabel/image37.png)
 
 ##### Airstrike B
 
+Videos posted by [Aleppo Today](https://www.youtube.com/watch?v=DBZ9MMeCkqY&feature=youtu.be&t=17), [Mustafa Aloush](https://www.facebook.com/100025494637033/videos/361798371346648/), and [EMC](https://www.youtube.com/watch?v=mcPEwb9SoeE)
+
 ![Kafranbel25](/assets/investigations/kafranabel/image21.png)
 
 ![Kafranbel26](/assets/investigations/kafranabel/image32.png)
 
-![Kafranbel27](/assets/investigations/kafranabel/image15.png)
+![Kafranbel27](/assets/investigations/kafranabel/emc.png)
 
 ##### Airstrike C
 
-![Kafranbel28](/assets/investigations/kafranabel/image28.png)
+Videos pulished by [Idlib Plus](https://twitter.com/IdlibPlus/status/1125057973162844160) and [Alaa Yousef](https://www.youtube.com/watch?v=_LMW4e0hlwU)
+
+![Kafranbel28](/assets/investigations/kafranabel/Idlibplus.png)
 
 ![Kafranbel29](/assets/investigations/kafranabel/image9.png)
 
 ##### Airstrike D
 
-![Kafranbel30](/assets/investigations/kafranabel/image44.png)
+Videos published by [Smart News Agency](https://www.youtube.com/watch?v=dxhlKcnSbLk) and [Aleppo Today](https://www.youtube.com/watch?v=DBZ9MMeCkqY&feature=youtu.be&t=30)
 
-![Kafranbel31](/assets/investigations/kafranabel/image33.png)
+![Kafranbel30](/assets/investigations/kafranabel/smart.png)
+
+![Kafranbel31](/assets/investigations/kafranabel/aleppotoday.png)
 
 #### The Damage
 
