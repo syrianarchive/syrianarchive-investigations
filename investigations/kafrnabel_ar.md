@@ -3,6 +3,7 @@ layout: investigation.html
 title: "استهداف مشفى كفرنبل الجراحي"
 date: 2019-06-27
 image: /assets/investigations/kafrnabel/image26.png
+drafts: true
 ---
 
 - الموقع الجغرافي: ادلب: كفرنبل

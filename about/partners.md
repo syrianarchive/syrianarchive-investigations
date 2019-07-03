@@ -10,6 +10,7 @@ The Syrian Archive has partnered or collaborated with various organisations and 
 - [Bellingcat](https://www.bellingcat.com/)
 - [Enigio](https://www.enigio.com/)
 - [Meedan](https://meedan.com/en/)
+- [Birmingham City University](https://www.bcu.ac.uk/)
 - [Amnesty International | Digital Verification Corps](https://www.theengineroom.org/digital-verification-corps/)
 - [Human Rights Center UC Berkeley School of Law](https://www.law.berkeley.edu/research/human-rights-center/)
 - [Tactical Technology Collective](https://tacticaltech.org/)
