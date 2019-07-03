@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "The Attack on the Kafranbel Surgical Hospital"
 date: 2019-06-27
-image: /assets/investigations/kafranabel/image26.png
+image: /assets/investigations/kafranabel/image2.png
 drafts: true
 ---
 
