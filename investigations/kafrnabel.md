@@ -47,7 +47,7 @@ Below is a third missile targeting the hospital
 
 ![Kafranbel08](/assets/investigations/kafranabel/image29.png)
 
-The videos published by both Halab Today and Edlib Media Center feature landscapes similar to what is shown for the location of the hospital by Google Earth further verifying the location of the hospital as well as the footage of the airstrikes. 
+The videos published by both Halab Today and Edlib Media Center feature landscapes similar to what is shown for the location of the hospital by Google Earth further verifying the location of the hospital as well as the footage of the airstrikes.
 
 ![Kafranbel09](/assets/investigations/kafranabel/image16.png)
 
@@ -170,13 +170,13 @@ Similar to the February 2018 attack, the footage provided by local news sources 
 
 #### Flight Data Analysis
 
-To provide a further layer of verification, the Syrian Archive cross referenced findings from the media above with flight observation data from a spotter organization. Data for flights around 17:30 in the Idlib province near Kafarnabel, the time and location of the investigated attack, was more closely analyzed and observed.  
+To provide a further layer of verification, the Syrian Archive cross referenced findings from the media above with flight observation data from a spotter organisation. Data for flights around 17:30 in the Idlib province near Kafarnabel, the time and location of the investigated attack, was more closely analysed and observed.  
 
 <iframe height=“550” src=“https://public.tableau.com/views/observedflightdataidlib5may2019/Sheet1?:showVizHome=no&:embed=y” width=“780”></iframe>
 
-Through an analysis of this data, the Syrian Archive was able to more confidently verify the time of the airstrikes as well as the perpetrators of the attack. Several fixed wing, what are identified as either, Russian aircraft or Su-22’s and Su-24’s are indicated as flying in the direction of Kafarnabel from neighboring villages, circling the town, as well as circling the other neighboring towns of Ma’aret al-Nu’man, Heish, and Jabal al-Zawye between 17:18 and 17:40.  Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.  This corroborates the data mentioned above of an attack around 17:30 in Kafarnabel.
+Through an analysis of this data, the Syrian Archive was able to more confidently verify the time of the airstrikes as well alleged perpetrators of the attack. Several fixed wing aircraft, what are identified as either Russian aircraft, Su-22’s, or Su-24’s, are indicated as flying in the direction of Kafarnabel from neighbouring villages, circling the town, as well as circling the other neighbouring towns of Ma’aret al-Nu’man, Heish, and Jabal al-Zawye between 17:18 and 17:40. Previous research has found that circling flights typically indicate target acquisition and/or preparation for an imminent attack.  This corroborates the data mentioned above of an attack around 17:30 in Kafarnabel.
 
-However, given that there is no direct evidence available that one of the observed aircrafts was involved in the attack on Kafarnabel the presence of these aircrafts above the town as well as neighboring towns increases the likelihood that an air attack occurred at this location during the time stated by citizen reporters as well as humanitarian groups, and estimated also by using imagery from the attack.
+Given that there is no direct evidence available that one of the observed aircrafts was involved in the attack on Kafarnabel, the presence of these aircrafts above the town as well as neighbouring towns increases the likelihood that an air attack occurred at this location during the time stated by citizen reporters as well as humanitarian groups, and estimated also by using imagery from the attack.
 
 ### Conclusion
 
