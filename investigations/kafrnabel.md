@@ -3,6 +3,7 @@ layout: investigation.html
 title: "Out of service: New attack on Kafranbel surgical hospital"
 date: 2019-07-04
 image: /assets/investigations/kafranabel/image8.png
+socialMediaImage: /assets/investigations/kafranabel/gif1.gif
 ---
 
 - Location: IDLIB : Kafranbel

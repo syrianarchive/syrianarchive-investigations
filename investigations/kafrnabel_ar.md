@@ -3,6 +3,7 @@ layout: investigation.html
 title: "خارج الخدمة: استهداف جديد لمشفى كفرنبل الجراحي"
 date: 2019-07-04
 image: /assets/investigations/kafranabel/image8.png
+socialMediaImage: /assets/investigations/kafranabel/gif1.gif
 ---
 
 - الموقع الجغرافي: ادلب: كفرنبل
