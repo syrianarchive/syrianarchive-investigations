@@ -67,24 +67,23 @@ On June 26, the Zulfiqar Brigade Facebook page posted [pictures of some of its f
 ## The first incident: The health care center in Busra al-Harir town
 
 -   Location: Daraa, Busra al-Harir town
--   Claimed targets: Health care center
--   Date: 24 June 2018 at 17:00
--   First airstrike:
--   Reported killed:
--   Reported injured:
--   Missing:
--   Munitions identified: Not available
+-   Claimed targets: Medical facility
+-   Date: 24 June 2018 at ~17:00 [according to UOSSM](https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000)
+-   Beneficiaries: 5,000 patients per month 
+-   Reported killed: N/A
+-   Reported injured: N/A
+-   Munitions identified: N/A
 -   Potentially responsible: Russian Air Force
 
 ### What happened?
 
-On June 25, 2018, UOSSM published on its Facebook page a post that On June 24 at 5 PM "[the health care center in Busra Al Harir, Daraa was hit by a direct airstrike](https://www.google.com/url?q=https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000) and suffered extensive damage … The center served 5,000 patients per month."
+On June 25, 2018, UOSSM published on its Facebook page a post that on June 24 at 5 PM "[the health care center in Busra Al Harir, Daraa was hit by a direct airstrike](https://www.google.com/url?q=https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000) and suffered extensive damage … The center served 5,000 patients per month."
 
 ![](/assets/investigations/Daraa2018/image24.png)
 
-[Union of Medical Care and Relief Organizations (UOSSM)](https://www.google.com/url?q=http://www.uossm.org/&sa=D&ust=1540401260483000) was founded in January 2012 in France; it aims to provide medical care to Syrians in Syria and the asylum countries, supply full medical support including medicines, medical consumables, and training of medical personnel.
+[Union of Medical Care and Relief Organizations (UOSSM)](https://www.google.com/url?q=http://www.uossm.org/&sa=D&ust=1540401260483000), the organization supporting the hospital, was founded in January 2012 in France; it aims to provide medical care to Syrians in Syria and the asylum countries as well as supply full medical support including medicines, medical consumables, and training of medical personnel.
 
-Nabaa news agency also published pictures from Daraa [showing the exposure of "UOSSM primary health care center](https://www.google.com/url?q=https://www.nabaa-sy.com/2018/06/25/%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B5%25D9%2588%25D8%25B1-%25D8%25AE%25D8%25B1%25D9%2588%25D8%25AC-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25A8%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D9%258A%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%258A%25D8%25AF%25D8%25A7%25D9%2586%25D9%258A-%25D8%25B9/&sa=D&ust=1540401260484000)" in Busra al-Harir town to intensive air raids. The following pictures are from Nabaa news agency:
+Nabaa news agency also published pictures from Daraa [showing the exposure of UOSSM primary health care center](https://www.google.com/url?q=https://www.nabaa-sy.com/2018/06/25/%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B5%25D9%2588%25D8%25B1-%25D8%25AE%25D8%25B1%25D9%2588%25D8%25AC-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25A8%25D8%25B5%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D9%258A%25D8%25B1-%25D8%25A7%25D9%2584%25D9%2585%25D9%258A%25D8%25AF%25D8%25A7%25D9%2586%25D9%258A-%25D8%25B9/&sa=D&ust=1540401260484000) in Busra al-Harir to intensive air raids. The following pictures are from Nabaa news agency:
 
 ![](/assets/investigations/Daraa2018/image39.jpg)
 
@@ -92,15 +91,7 @@ In the following picture; the logo of UOSSM medical organization can be seen, co
 
 ![](/assets/investigations/Daraa2018/image28.jpg)
 
-At 17:53, an activist published a post on Facebook stating that [air raids launched by Russian warplanes on Busra al-Harir field hospital took it out of service](https://www.google.com/url?q=https://www.facebook.com/galal.altellawi.9/posts/481411515648473&sa=D&ust=1540401260486000).
-
-At 19:42, the Houran News network published a [picture of the hospital and damages sustained by bombing](https://www.google.com/url?q=https://www.facebook.com/2187202808178227/photos/basw.Abr-fU4rGblz8LrJf9GVbFThACmbg0rtGdnZ8forn1xfcs_yi55GZz-PClAJcAnBX5WiJ-JbBDOJdEEj9jdAg2XJoSjJQ44tUtLsPazIsyixH_JvhY_cQONpQGX3Je9a-pmDH6UOaDNg9nnkdPrLcMf3n3SGm-kunPhQPnqX6uWmfRgp_C-1x32a8FMDPN5JjZD5UWXMwlrpLeeoJjVwGcqc_xtbk-LfIoIpta9i9bdNeLXco1puzmZxRJolIsLo85W8dtj1hA0HYLEJ0HeKKmFY.735360299815375.367163090110166.2187370148161493.582531632131153.619958388388477.619958341721815.619371565113826.619957195055263.662948727422776/2187370148161493/?type%3D1%26opaqueCursor%3DAbojCcXk7J2K-fK1j7PQE7l5z85HvJ0ER4X2R41yQptUimE56Ffcsp8nSEaGCSe9L-BiidDxjLZ2NT7rA062t2B1fMZcy-xvQERz3nhKPkmg2nPOtiabd8nguOGwjUay55CHYihKfynGyQaNWAeRzH5E_tMbLUFRYDN2i90oLmb4rIBuDdsrwis74915nHNGDUvHls0_1L1IwNGisA3uHYePkiJ6oRt6Mc7VLtmgQOoMyMEmQ7chSxBl0Dtx6i1jINpWD_SDPfl70b1HmgsG6D8QsKr2m6Ys3lDwuE8BY0bZMtlrFvhd3Ys9p8Ihq_xljpDf8LS8q3PmOSZZUMvRqG4bsgtC3AVCLzYMXxMxvp0UMPqlV01HaLPItDc63U-k2M58O2Gown9v2xoQsf9HCyWzwrvETz79JGoZGSTLcvjY-DTZqhOqICMrViC2qOIg8PhmD2b_nGEWl3waiawUlpgiH2pfLsyXv2kKi9-EOPD8-pB9EGhlHoNtSDRloNacb0FeoYrH0DZMt-1vuwWoiLjAiMpI7nAetKFDfrucrS734Wq_KD6oqc27dKtTXxwO57pPNTPQcXNFKK4uCv6mujDhu5D6yXjEV5Kl1YZPR16tI7sHmM5xNDeKwvc9RmdU2lwLREloVGJdCLBFeLrHSzT5Zxf5cQdmN-zo_Yrf1ENX1FLSBIRBYEScaupPaqnkn5I&sa=D&ust=1540401260488000). The photo shows what appears to be a crater caused by shelling.
-
-![](/assets/investigations/Daraa2018/image37.png)
-
-At 21:16, one of the news networks reported that [Russian warplanes targeted Busra al-Harir hospital with heavy shelling](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274610629752674&sa=D&ust=1540401260490000), and followed that with targeting Al-Harak Hospital, taking both of them out of service.
-
-It is worth mentioning that Busra al-Harir medical center [was established on 15 November 2009 as "Family Medical center](https://www.google.com/url?q=http://bosrharir.reefnet.sy/index.php?option%3Dcom_content%26view%3Darticle%26id%3D414:2009-11-15-15-19-13%26catid%3D2:2009-02-14-07-40-41&sa=D&ust=1540401260490000)" by the Syrian government.
+Although currently sponsored by UOSSM, Busra al-Harir medical center [was established on 15 November 2009 as "Family Medical center](https://www.google.com/url?q=http://bosrharir.reefnet.sy/index.php?option%3Dcom_content%26view%3Darticle%26id%3D414:2009-11-15-15-19-13%26catid%3D2:2009-02-14-07-40-41&sa=D&ust=1540401260490000)" by the Syrian government.
 
 ![](/assets/investigations/Daraa2018/image40.png)
 
@@ -114,13 +105,21 @@ When matching the photos, we can confirm that the center bombed in 2018 is the s
 
 ![](/assets/investigations/Daraa2018/image36.jpg)
 
-The matching in the two main entrances, the gate and its color can be noticed.
+The two main entrances, the gate, and its color are consistent features of the hospital shown in older and more recent photos.
+
+Given the hospital's history in the region, an activist published a post on Facebook, at 17:53, stating that [air raids launched by Russian warplanes on Busra al-Harir field hospital took it out of service](https://www.google.com/url?q=https://www.facebook.com/galal.altellawi.9/posts/481411515648473&sa=D&ust=1540401260486000). Alongside corroborating that an attack ooccurred on the hospital, this post additionally confirms the UOSSM report that the attack occurred around 17:00. 
+
+At 19:42, the Houran News network published a [picture of the hospital and damages sustained by bombing](https://www.google.com/url?q=https://www.facebook.com/2187202808178227/photos/basw.Abr-fU4rGblz8LrJf9GVbFThACmbg0rtGdnZ8forn1xfcs_yi55GZz-PClAJcAnBX5WiJ-JbBDOJdEEj9jdAg2XJoSjJQ44tUtLsPazIsyixH_JvhY_cQONpQGX3Je9a-pmDH6UOaDNg9nnkdPrLcMf3n3SGm-kunPhQPnqX6uWmfRgp_C-1x32a8FMDPN5JjZD5UWXMwlrpLeeoJjVwGcqc_xtbk-LfIoIpta9i9bdNeLXco1puzmZxRJolIsLo85W8dtj1hA0HYLEJ0HeKKmFY.735360299815375.367163090110166.2187370148161493.582531632131153.619958388388477.619958341721815.619371565113826.619957195055263.662948727422776/2187370148161493/?type%3D1%26opaqueCursor%3DAbojCcXk7J2K-fK1j7PQE7l5z85HvJ0ER4X2R41yQptUimE56Ffcsp8nSEaGCSe9L-BiidDxjLZ2NT7rA062t2B1fMZcy-xvQERz3nhKPkmg2nPOtiabd8nguOGwjUay55CHYihKfynGyQaNWAeRzH5E_tMbLUFRYDN2i90oLmb4rIBuDdsrwis74915nHNGDUvHls0_1L1IwNGisA3uHYePkiJ6oRt6Mc7VLtmgQOoMyMEmQ7chSxBl0Dtx6i1jINpWD_SDPfl70b1HmgsG6D8QsKr2m6Ys3lDwuE8BY0bZMtlrFvhd3Ys9p8Ihq_xljpDf8LS8q3PmOSZZUMvRqG4bsgtC3AVCLzYMXxMxvp0UMPqlV01HaLPItDc63U-k2M58O2Gown9v2xoQsf9HCyWzwrvETz79JGoZGSTLcvjY-DTZqhOqICMrViC2qOIg8PhmD2b_nGEWl3waiawUlpgiH2pfLsyXv2kKi9-EOPD8-pB9EGhlHoNtSDRloNacb0FeoYrH0DZMt-1vuwWoiLjAiMpI7nAetKFDfrucrS734Wq_KD6oqc27dKtTXxwO57pPNTPQcXNFKK4uCv6mujDhu5D6yXjEV5Kl1YZPR16tI7sHmM5xNDeKwvc9RmdU2lwLREloVGJdCLBFeLrHSzT5Zxf5cQdmN-zo_Yrf1ENX1FLSBIRBYEScaupPaqnkn5I&sa=D&ust=1540401260488000). The photo shows what appears to be a crater caused by shelling.
+
+![](/assets/investigations/Daraa2018/image37.png)
+
+At 21:16, one of the news networks reported that [Russian warplanes targeted Busra al-Harir hospital with heavy shelling](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274610629752674&sa=D&ust=1540401260490000), which preceded the targeting of Al-Harak Hospital. Both medical facilities were noted as put out of service.
 
 ### Geolocating the attacked site
 
 Al-Jazeera TV published a video on 1 August 2015 [showing a tour of Busra al-Harir town on the highway](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) near a complex of schools followed by the health center. Through this video, [the location of attacked medical center](https://www.google.com/url?q=https://goo.gl/maps/uMzSWTgFf112&sa=D&ust=1540401260493000) on 24/6/2018 was identified.
 
-The following images are from Al-Jazeera video:
+The following images are from the video report by Al-Jazeera:
 
 ![](/assets/investigations/Daraa2018/image6.png)
 
@@ -132,13 +131,11 @@ The medical center
 
 ![](/assets/investigations/Daraa2018/image12.png)
 
-A minaret next to the school and the medical center is shown later
+The minaret next to the school, which stands just before the medical facility 
 
 After matching images published on several pages with Al-Jazeera TV video; the research team in the Syrian Archive was able to geolocate the medical center, the school, and the mosque.
 
 ![](/assets/investigations/Daraa2018/image31.jpg)
-
-![](/assets/investigations/Daraa2018/image17.png)
 
 ![](/assets/investigations/Daraa2018/image29.png)
 
@@ -153,14 +150,12 @@ Satellite image showing the medical center and the school next to it
 -   Location: Daraa, Busra al-Harir town
 -   Claimed targets: Civil Defense Center
 -   Date: 24 June 2018
--   First airstrike:
--   Reported killed:
--   Reported injured:
--   Missing:
--   Munitions identified: Not available
+-   Reported killed: N/A
+-   Reported injured:N/A
+-   Munitions identified: N/A
 -   Potentially responsible: Russian Air Force
 
-On 24 June at 15:43, the page of the Syrian Civil Defense on Facebook [published pictures of targeting the Civil Defense Center in Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000), as well as photos showing the aftermath of shelling on a field hospital in the town. The page stated that the civil defense teams were targeted directly after an artillery bombardment of Busra al-Harir town, which took a fire engine out of service completely.
+On 24 June at 15:43, the page of the Syrian Civil Defense on Facebook [published pictures of targeting the Civil Defense Center in Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000), as well as photos showing the aftermath of shelling on a field hospital in the town. The post stated that the civil defense teams were targeted directly after an artillery bombardment on the Busra al-Harir town. They noted that the attack took a fire engine completely out of service.
 
 ![](/assets/investigations/Daraa2018/image9.png)
 
@@ -168,7 +163,7 @@ On 24 June at 15:43, the page of the Syrian Civil Defense on Facebook [published
 
 ![](/assets/investigations/Daraa2018/image22.png)
 
-On Sunday, June 24th, media sources from Busra Al-Harir town reported to Enab Baladi newspaper that [intensive rocket attack and airstrikes targeted residential areas and the Civil Defense center](https://www.google.com/url?q=https://www.enabbaladi.net/archives/237050&sa=D&ust=1540401260499000), taking it out of service and damaging its cars significantly.
+On Sunday June 24th, media sources from Busra Al-Harir town reported to Enab Baladi newspaper, corroborating claims by the Civil Defense, that [intensive rocket attack and airstrikes targeted residential areas and the Civil Defense center](https://www.google.com/url?q=https://www.enabbaladi.net/archives/237050&sa=D&ust=1540401260499000), taking the center out of service and damaging its cars significantly.
 
 ![](/assets/investigations/Daraa2018/image26.png)
 
@@ -182,11 +177,9 @@ The location of the Civil Defense Center and the center's garage north of Busra 
 -   Location: Daraa, Al-Musayfirah town
 -   Claimed targets: Civil Defense Center
 -   Date: 28 June 2018
--   First airstrike:
--   Reported killed:
--   Reported injured:
--   Missing:
--   Munitions identified: Not available
+-   Reported killed: N/A
+-   Reported injured: N/A
+-   Munitions identified: N/A
 -   Potentially responsible: Russian or Syrian Air Force
 
 
@@ -197,21 +190,21 @@ The location of the Civil Defense Center and the center's garage north of Busra 
 
 ![](/assets/investigations/Daraa2018/image13.jpg)
 
-On June 28, 2018, activists and news networks, [including Halab Today TV](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/posts/2279677372049688&sa=D&ust=1540401260502000), reported that early in the morning Russian aviation committed a massacre in Al-Musayfirah town south of Daraa, that killed some 25 people as a result of the targeting of a shelter.
+On June 28 2018, activists and news networks, [including Halab Today TV](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/posts/2279677372049688&sa=D&ust=1540401260502000), reported that early in the morning Russian aviation committed a massacre in Al-Musayfirah, a town south of Daraa, that targeted a shelter and killed 25 people.
 
-According to Enab Baladi newspaper, the Civil Defense Center in Daraa reported that [on June 28, the warplanes carried out more than 150 air raids](https://www.google.com/url?q=https://www.enabbaladi.net/archives/237965&sa=D&ust=1540401260503000) on the towns and villages of the province.
+According to Enab Baladi newspaper, the Civil Defense Center in Daraa reported that [warplanes, on June 28, carried out more than 150 air raids](https://www.google.com/url?q=https://www.enabbaladi.net/archives/237965&sa=D&ust=1540401260503000) on the towns and villages of the province.
 
-An activist reported that on the morning of June 27, 2018; [both of the Civil Defense Center in the Al-Musayfirah town and Sayda town hospital became out of service](https://www.google.com/url?q=https://www.facebook.com/mahmoud.alshara/posts/10155685241177934&sa=D&ust=1540401260503000) as a result of being targeted by Russian Air Force.
+An activist reported that on the morning of June 27, 2018; [both the Civil Defense Center in the Al-Musayfirah town and Sayda town hospital were pushed out of service](https://www.google.com/url?q=https://www.facebook.com/mahmoud.alshara/posts/10155685241177934&sa=D&ust=1540401260503000) as a result of targeting by the Russian Air Force.
 
-On 29 June at 14:56, the Syrian Human Rights Network published a report that [on June 26, 2018, Syrian or Russian warplanes fired missiles on the central hospital in al Al-Musayfirah](https://www.google.com/url?q=http://sn4hr.org/sites/news/2018/06/29/syrian-russian-regime-forces-bombed-hospital-al-msaifra-town-daraa-suburbs-june-26/&sa=D&ust=1540401260504000) town in Daraa governorate eastern suburbs, damaging it severely, rendering it inoperable.
+On 29 June at 14:56, the Syrian Human Rights Network published a report that [on June 26, 2018, Syrian or Russian warplanes fired missiles on the central hospital in Al-Musayfirah](https://www.google.com/url?q=http://sn4hr.org/sites/news/2018/06/29/syrian-russian-regime-forces-bombed-hospital-al-msaifra-town-daraa-suburbs-june-26/&sa=D&ust=1540401260504000) town in Daraa governorate eastern suburbs, damaging it severely, rendering it inoperable.
 
 ![](/assets/investigations/Daraa2018/image33.png)
 
-A news network also reported [that on 28 June 2018, Russian aviation targeted the central hospital of Al-Musayfirah town](https://www.google.com/url?q=http://www.faifaonline.net/portal/2018/06/29/429777.html&sa=D&ust=1540401260504000) with two air raids; killing one civilian, injuring 14 others, and taking the hospital out of service, according to a medical source.
+A news network also reported [that on 28 June 2018, Russian aviation targeted the central hospital of Al-Musayfirah town](https://www.google.com/url?q=http://www.faifaonline.net/portal/2018/06/29/429777.html&sa=D&ust=1540401260504000) with two air raids killing one civilian, injuring 14 others, and taking the hospital out of service according to a medical source.
 
 ![](/assets/investigations/Daraa2018/image14.png)
 
-Anadolu Agency published a video of the hospital [showing the trail of destruction after being targeted](https://www.google.com/url?q=https://twitter.com/aa_arabic/status/1012394327954411520&sa=D&ust=1540401260505000), the noise of aircraft while bombarding other targets can be heard in the background.
+Anadolu Agency published a video of the hospital [showing the trail of destruction after being targeted](https://www.google.com/url?q=https://twitter.com/aa_arabic/status/1012394327954411520&sa=D&ust=1540401260505000). The noise of aircraft while bombarding other targets can be heard in the background.
 
 ![](/assets/investigations/Daraa2018/image15.png)
 
@@ -221,13 +214,13 @@ Photos of the hospital
 
 ![](/assets/investigations/Daraa2018/image3.png)
 
-A banner for Syrian American Medical Society (SAMS) for the reproductive health clinic inside the hospital, from the video of Anadolu Agency
+A banner for the Syrian American Medical Society (SAMS) for the reproductive health clinic is shown inside the hospital in the video published by the Anadolu Agency
 
 [Doctor Muhammad Al-Saleh stated to Anadolu Agency](https://www.google.com/url?q=https://www.aa.com.tr/ar/%25D8%25A7%25D9%2584%25D8%25AF%25D9%2588%25D9%2584-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25B1%25D8%25A8%25D9%258A%25D8%25A9/%25D8%25A7%25D9%2584%25D8%25B7%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D8%25B1%25D9%2588%25D8%25B3%25D9%258A-%25D9%258A%25D8%25AF%25D9%2585%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D9%2585%25D8%25B1%25D9%2583%25D8%25B2%25D9%258A%25D8%25A7-%25D9%2581%25D9%258A-%25D8%25AF%25D8%25B1%25D8%25B9%25D8%25A7-%25D8%25A7%25D9%2584%25D8%25B3%25D9%2588%25D8%25B1%25D9%258A%25D8%25A9-/1190145&sa=D&ust=1540401260507000) "The hospital of the Syrian American Medical Society (SAMS) was hit with thermobaric rockets by Russian aviation while it was providing medical services for the residents of the towns and villages of Daraa countryside, killing a civilian and injuring 14 more, some in serious condition."
 
-Dr.Al-Saleh mentioned that "since the beginning of the campaign on Daraa about 10 days ago; Russian and Syrian planes bombed four medical centers in the eastern countryside, and two centers of the Free Police and the Syrian Civil Defense."
+Dr.Al-Saleh mentioned that "since the beginning of the campaign on Daraa about 10 days ago, Russian and Syrian planes bombed four medical centers in the eastern countryside and two centers of the Free Police and the Syrian Civil Defense."
 
-On July 2, 2018, Tishreen, pro-Syrian government newspaper, [published photos of the Syrian forces' control of what it called a field hospital in Al-Musayfirah](https://www.google.com/url?q=http://tishreen.news.sy/?p%3D174154&sa=D&ust=1540401260507000). A picture of the banner of Syrian American Medical Society (SAMS) was shown among the pictures.
+On July 2, 2018, Tishreen, pro-Syrian government newspaper, [published photos of the Syrian forces' control of what it called a field hospital in Al-Musayfirah](https://www.google.com/url?q=http://tishreen.news.sy/?p%3D174154&sa=D&ust=1540401260507000). A picture of the banner of Syrian American Medical Society (SAMS) was shown among other images.
 
 ![](/assets/investigations/Daraa2018/image35.png)
 
@@ -235,11 +228,11 @@ The Syrian Archive was able to geolocate the hospital and match it using the pre
 
 ![](/assets/investigations/Daraa2018/image30.jpg)
 
-![](/assets/investigations/Daraa2018/image16.jpg)
+![](/assets/investigations/Daraa2018/image50.png)
 
-[The location of Al-Musayfirah hospital](https://www.google.com/url?q=https://www.google.com.tr/maps/place/Al%2BMusayfrah,%2BSyria/@32.6286715,36.3302903,64m/data%3D!3m1!1e3!4m5!3m4!1s0x151bc3520a7a1ecb:0x34da3a3319e820ee!8m2!3d32.6323838!4d36.3335563&sa=D&ust=1540401260509000) west of the town
+[The location of Al-Musayfirah hospital](https://www.google.com/url?q=https://www.google.com.tr/maps/place/Al%2BMusayfrah,%2BSyria/@32.6286715,36.3302903,64m/data%3D!3m1!1e3!4m5!3m4!1s0x151bc3520a7a1ecb:0x34da3a3319e820ee!8m2!3d32.6323838!4d36.3335563&sa=D&ust=1540401260509000) west of the town. 
 
-On June 24, at 16:40 pm, a pro-Syrian government page [reported that Al-Harak hospital was also targeted and utterly destroyed](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D1470196566417855%26id%3D704645222972997&sa=D&ust=1540401260511000).
+On June 24, at 16:40 pm, a pro-Syrian government page [reported that Al-Harak hospital was also targeted and destroyed](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D1470196566417855%26id%3D704645222972997&sa=D&ust=1540401260511000).
 
 According to Rozana radio's correspondent in Daraa, [the intensive bombing on Tuesday night, June 26, 2018, took three hospitals out of service](https://www.google.com/url?q=http://rozana.fm/ar/%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3%25D9%258A%25D8%25A9/%25D8%25A3%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1/1/%25D9%2585%25D8%25AD%25D8%25AA%25D9%2588%25D9%2589/34518/%25D8%25AE%25D8%25B1%25D9%2588%25D8%25AC-6-%25D9%2585%25D8%25B3%25D8%25AA%25D8%25B4%25D9%2581%25D9%258A%25D8%25A7%25D8%25AA-%25D8%25B9%25D9%2586-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25AF%25D9%2585%25D8%25A9-%25D9%2588%25D8%25AA%25D9%2588%25D8%25A7%25D8%25B5%25D9%2584-%25D9%2586%25D8%25B2%25D9%2588%25D8%25AD-%25D8%25A7%25D9%2584%25D9%2585%25D8%25AF%25D9%2586%25D9%258A%25D9%258A%25D9%2586&sa=D&ust=1540401260512000) in the towns of Sayda, Al-Jiza and Eastern Al-Ghariyah near the Jordanian border, while Nawa town's hospital became out of service on Tuesday afternoon.
 
