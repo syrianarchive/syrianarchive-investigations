@@ -33,13 +33,13 @@ On June 24, 2018, at 14:16 pm, a pro-Syrian government network published a map o
 
 ![](/assets/investigations/Daraa2018/image23.png)
 
-Several news networks reported [shelling of Busra al-Harir town by warplanes](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692427715370&sa=D&ust=1540401260472000), as well as [dropping barrel bombs on the town by regime's helicopters](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692604382019&sa=D&ust=1540401260473000) on the morning of June 24.
+Several news networks reported [shelling of Busra al-Harir town by warplanes](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692427715370&sa=D&ust=1540401260472000), as well as [dropping barrel bombs on the town by regime helicopters](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692604382019&sa=D&ust=1540401260473000) on the morning of June 24.
 
 A video was circulated by activists [showing a MiG flying in a low altitude over Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401260473000), this video was published at 14:44 pm, on June 24.
 
 ![](/assets/investigations/Daraa2018/image2.png)
 
-After scrutiny, the Research Team in the Syrian Archive concluded that the aircraft shown in the video was a MiG-23
+After scrutiny, the Research Team in the Syrian Archive concluded that the aircraft shown in the video was a MiG-23.
 
 ![](/assets/investigations/Daraa2018/image25.png)
 
@@ -63,6 +63,8 @@ On the evening of June 24, the Syrian army and its accompanying militias began e
 On June 26, the Zulfiqar Brigade Facebook page posted [pictures of some of its fighters](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D2139514872985165%26id%3D1825406404396015&sa=D&ust=1540401260480000) who participated in military operations in Daraa province. [The brigade](https://www.google.com/url?q=https://www.terrorism-info.org.il/en/hezbollah-iran-handled-shiite-militias-integrated-syrian-army-campaign-take-control-south-syria/&sa=D&ust=1540401260481000) is an Iraqi military force run by Iran.
 
 ![](/assets/investigations/Daraa2018/image41.png)
+
+The Syrian Archive identified 3 salient incidents, which occurred during these attack in Daraa. These incidents, alongside being reported on by local news sources, were verified by the Syrian Archive as well as detailed in various reports including the [Syrian Human Rights Committee's annual report.](https://www.shrc.org/wp-content/uploads/2019/01/Arabic-report.pdf)   
 
 ## The first incident: The health care center in Busra al-Harir town
 
@@ -99,7 +101,7 @@ Although currently sponsored by UOSSM, Busra al-Harir medical center [was establ
 
 ![](/assets/investigations/Daraa2018/image1.png)
 
-When matching the photos, we can confirm that the center bombed in 2018 is the same one established in 2009
+When matching the photos, we can confirm that the center bombed in 2018 is the same one established in 2009.
 
 ![](/assets/investigations/Daraa2018/image21.jpg)
 
@@ -163,7 +165,7 @@ On 24 June at 15:43, the page of the Syrian Civil Defense on Facebook [published
 
 ![](/assets/investigations/Daraa2018/image22.png)
 
-On Sunday June 24th, media sources from Busra Al-Harir town reported to Enab Baladi newspaper, corroborating claims by the Civil Defense, that [intensive rocket attack and airstrikes targeted residential areas and the Civil Defense center](https://www.google.com/url?q=https://www.enabbaladi.net/archives/237050&sa=D&ust=1540401260499000), taking the center out of service and damaging its cars significantly.
+On Sunday June 24th, media sources from the Busra Al-Harir town reported to Enab Baladi newspaper, corroborating claims by the Civil Defense, that [intensive rocket attack and airstrikes targeted residential areas and the Civil Defense center](https://www.google.com/url?q=https://www.enabbaladi.net/archives/237050&sa=D&ust=1540401260499000), taking the center out of service and damaging its cars significantly. This was additionally corroborated and reported on by [Smart News.](https://smartnews-agency.com/ar/wires/302540/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%8A%D9%82%D8%B5%D9%81-%D9%81%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7) 
 
 ![](/assets/investigations/Daraa2018/image26.png)
 
@@ -175,10 +177,9 @@ The location of the Civil Defense Center and the center's garage north of Busra 
 ## The third incident: Al-Musayfirah town hospital
 
 -   Location: Daraa, Al-Musayfirah town
--   Claimed targets: Civil Defense Center
 -   Date: 28 June 2018
--   Reported killed: N/A
--   Reported injured: N/A
+-   Reported killed: ~1
+-   Reported injured: ~14
 -   Munitions identified: N/A
 -   Potentially responsible: Russian or Syrian Air Force
 
@@ -196,7 +197,7 @@ According to Enab Baladi newspaper, the Civil Defense Center in Daraa reported t
 
 An activist reported that on the morning of June 27, 2018; [both the Civil Defense Center in the Al-Musayfirah town and Sayda town hospital were pushed out of service](https://www.google.com/url?q=https://www.facebook.com/mahmoud.alshara/posts/10155685241177934&sa=D&ust=1540401260503000) as a result of targeting by the Russian Air Force.
 
-On 29 June at 14:56, the Syrian Human Rights Network published a report that [on June 26, 2018, Syrian or Russian warplanes fired missiles on the central hospital in Al-Musayfirah](https://www.google.com/url?q=http://sn4hr.org/sites/news/2018/06/29/syrian-russian-regime-forces-bombed-hospital-al-msaifra-town-daraa-suburbs-june-26/&sa=D&ust=1540401260504000) town in Daraa governorate eastern suburbs, damaging it severely, rendering it inoperable.
+On 29 June at 14:56, the Syrian Human Rights Network published a report that [on June 26, 2018, Syrian or Russian warplanes fired missiles on the central hospital in Al-Musayfirah](https://www.google.com/url?q=http://sn4hr.org/sites/news/2018/06/29/syrian-russian-regime-forces-bombed-hospital-al-msaifra-town-daraa-suburbs-june-26/&sa=D&ust=1540401260504000) town in Daraa governorate eastern suburbs, damaging it severely, rendering it inoperable. This is corroborated by an [article from the BBC](http://www.bbc.com/arabic/middleeast-44630902) which details the hospital as destroyed. 
 
 ![](/assets/investigations/Daraa2018/image33.png)
 
@@ -230,10 +231,8 @@ The Syrian Archive was able to geolocate the hospital and match it using the pre
 
 ![](/assets/investigations/Daraa2018/image50.png)
 
-[The location of Al-Musayfirah hospital](https://www.google.com/url?q=https://www.google.com.tr/maps/place/Al%2BMusayfrah,%2BSyria/@32.6286715,36.3302903,64m/data%3D!3m1!1e3!4m5!3m4!1s0x151bc3520a7a1ecb:0x34da3a3319e820ee!8m2!3d32.6323838!4d36.3335563&sa=D&ust=1540401260509000) west of the town. 
+[The location of Al-Musayfirah hospital](https://www.google.com/url?q=https://www.google.com.tr/maps/place/Al%2BMusayfrah,%2BSyria/@32.6286715,36.3302903,64m/data%3D!3m1!1e3!4m5!3m4!1s0x151bc3520a7a1ecb:0x34da3a3319e820ee!8m2!3d32.6323838!4d36.3335563&sa=D&ust=1540401260509000) is west of the town. 
 
-On June 24, at 16:40 pm, a pro-Syrian government page [reported that Al-Harak hospital was also targeted and destroyed](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D1470196566417855%26id%3D704645222972997&sa=D&ust=1540401260511000).
+On June 24, at 16:40 pm, a pro-Syrian government page [reported that Al-Harak hospital was also targeted and destroyed by airstrikes](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D1470196566417855%26id%3D704645222972997&sa=D&ust=1540401260511000).
 
-According to Rozana radio's correspondent in Daraa, [the intensive bombing on Tuesday night, June 26, 2018, took three hospitals out of service](https://www.google.com/url?q=http://rozana.fm/ar/%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3%25D9%258A%25D8%25A9/%25D8%25A3%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1/1/%25D9%2585%25D8%25AD%25D8%25AA%25D9%2588%25D9%2589/34518/%25D8%25AE%25D8%25B1%25D9%2588%25D8%25AC-6-%25D9%2585%25D8%25B3%25D8%25AA%25D8%25B4%25D9%2581%25D9%258A%25D8%25A7%25D8%25AA-%25D8%25B9%25D9%2586-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25AF%25D9%2585%25D8%25A9-%25D9%2588%25D8%25AA%25D9%2588%25D8%25A7%25D8%25B5%25D9%2584-%25D9%2586%25D8%25B2%25D9%2588%25D8%25AD-%25D8%25A7%25D9%2584%25D9%2585%25D8%25AF%25D9%2586%25D9%258A%25D9%258A%25D9%2586&sa=D&ust=1540401260512000) in the towns of Sayda, Al-Jiza and Eastern Al-Ghariyah near the Jordanian border, while Nawa town's hospital became out of service on Tuesday afternoon.
-
-On Sunday, June 24, 2018, Civil Defense Center and a hospital in Al-Harak town in addition to Busra Al-Harir Field Hospital became out of service as a result of aerial bombardment by Russian and Syrian warplanes.
+Additionally according to Rozana radio's correspondent in Daraa, [the intensive bombing on Tuesday night, June 26 2018, took three hospitals out of service](https://www.google.com/url?q=http://rozana.fm/ar/%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3%25D9%258A%25D8%25A9/%25D8%25A3%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1/1/%25D9%2585%25D8%25AD%25D8%25AA%25D9%2588%25D9%2589/34518/%25D8%25AE%25D8%25B1%25D9%2588%25D8%25AC-6-%25D9%2585%25D8%25B3%25D8%25AA%25D8%25B4%25D9%2581%25D9%258A%25D8%25A7%25D8%25AA-%25D8%25B9%25D9%2586-%25D8%25A7%25D9%2584%25D8%25AE%25D8%25AF%25D9%2585%25D8%25A9-%25D9%2588%25D8%25AA%25D9%2588%25D8%25A7%25D8%25B5%25D9%2584-%25D9%2586%25D8%25B2%25D9%2588%25D8%25AD-%25D8%25A7%25D9%2584%25D9%2585%25D8%25AF%25D9%2586%25D9%258A%25D9%258A%25D9%2586&sa=D&ust=1540401260512000) in the towns of Sayda, Al-Jiza, and Eastern Al-Ghariyah near the Jordanian border with a hospital in the town of Nawa pushed out of service on Tuesday afternoon.
