@@ -163,7 +163,7 @@ Moreover in the towns of Saraqib and Teftnaz, which neighbor Kafranabel to the n
 
 Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighbouring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
 
-# injured
+# Injuries as a result of the attack
 
 Dr Ahmad Al Aqraa mentioned in the interview that was done with the Syrian Archive team that three people working in the hospital got injured as a result of this attack. No Casualties were reported.
 
