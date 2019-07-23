@@ -61,7 +61,7 @@ The [Facebook page](https://www.facebook.com/daralhekmahAkdaa/) of Dar Al-Hikma 
 ![](/assets/investigations/daralhikma/image14.png)
 ![](/assets/investigations/daralhikma/image12.png)
 
-Images from the Hospital’s  [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+[Images from Dar Al Hikma Hospital facebook page](image3.png)
 
 # Where did this happen and when?
 
@@ -106,11 +106,9 @@ The local reports of extensive internal and external damage of the Dar al-Hikma 
 ![](/assets/investigations/daralhikma/image24.png)
 
 Destruction from outside: Fuel barrels, the Hospital’s Generator and two cars in front of the hospital took fire according to a video by [SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk).
-
 ![](/assets/investigations/daralhikma/image8.jpg)
 
 Overview of the destruction from outside according to a [post by](https://www.facebook.com/syr24ia/posts/2364927367115116) [Sy24](https://www.facebook.com/syr24ia/posts/2364927367115116).  The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
-
 ![](/assets/investigations/daralhikma/image27.jpg)
 
 Destruction of the hospital’s pharmacy according  [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
@@ -175,10 +173,6 @@ On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [
 ![](/assets/investigations/daralhikma/image6.jpg)
 
 A month of heavy shelling has ransacked the Idlib governorate, creating a "[humanitarian disaster](https://www.un.org/press/en/2019/sc13826.doc.htm)" in the officially demilitarized zone.
-
-![](/assets/investigations/daralhikma/image2.png)
-
-Red shows Assad forces; Green indicates rebel groups.
 
 Dar Al-Hikma was one of the last remaining hospitals in the area, after two hospitals were firebombed in Kafr Nabl in one month alone. This includes the Orient hospital, which has [sustained multiple attacks](https://syrianarchive.org/en/investigations/kafrnabel.html) since 2017. The attacks were so intense that the Idlib health directorate released a statement on the 6th of May, pushing operations to an emergency status.
 
