@@ -19,13 +19,13 @@ image: /assets/investigations/daralhikma/image8.jpg
 
 # What happened?
 
-Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nonetheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since the 30 April 2019](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(April_2019%E2%80%93present). This attack resulted in 3 people being injured as  [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency, internal and external damage to the building of the hospital, damage to two cars and two electric generator as well as medical equipment according to an interview that was done with the manager of the hospital Dr Ahmad Al Aqraa.
+Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nonetheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since the 30 April 2019](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(April_2019%E2%80%93present). This attack resulted in 3 people  injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency, internal and external damage to the building of the hospital, damage to two cars and two electric generator as well as medical equipment according to an interview done with the manager of the hospital Dr Ahmad Al Aqraa.
 
-Dr Ahmad Al Aqraa is a cardiologist who graduated from Tishreen military hospital. He is the manager and the owner of Dar Al Hikma Hospital that was built in Kafr Nabl in 1997 and started operating in 2000. The private hospital is officially licensed by the Syrian government.
+As a cardiologist who graduated from Tishreen Military Hospital in Damascus, Dr. Ahmad Al Aqraa is the manager and owner of Dar Al Hikma Hospital, which he confirmed was built in Kafr Nabl in 1997 and operating in 2000. The private hospital, according to Al Aqraa, is officially licensed by the Syrian government.
 
-> He mentioned that Dar Al Hikma hospital was targeted multiple times because we are doing our job in the hospital treating civilians.
+> The cardiologist emphasized that Dar Al Hikma hospital was targeted multiple times because "we are doing our job in the hospital treating civilians."
 
-The Idlib Health Directorate additionally published a [statement](http://ihd-sy.org/2019/05/28/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AF%D9%85%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83/) on the attack claiming the hospital was directly targeted by the regime as well as reporting the hospital as destroyed.
+The Idlib Health Directorate, additionally corroborating Dr. Al Aqraa, published a [statement](http://ihd-sy.org/2019/05/28/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AF%D9%85%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83/) on the attack claiming the hospital was directly targeted by the regime as well as reporting the hospital as destroyed.
 
 ![](/assets/investigations/daralhikma/image15.png)
 ![](/assets/investigations/daralhikma/image10.png)
@@ -42,7 +42,7 @@ Orient News video was published at 11:26am Damascus local time as seen by [Youtu
 
 ![](/assets/investigations/daralhikma/image16.png)
 
-Multiple sources confirm Dar al-Hikma as a well-known hospital in Kafr Nabl and Southern Idlib. Local [blog posts](https://syriastories.net/en/resources-overstretched-in-kfar-nabel-hospitals/) as well as activists from early 2015 mention the hospital, and the increasing direness of its operations since attacks on local hospitals intensified. An [article](https://syriastories.net/%25D9%2585%25D8%25B4%25D8%25A7%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D8%25AA%25D8%25B9%25D9%2585%25D9%2584-%25D8%25A8%25D8%25B7%25D8%25A7%25D9%2582%25D8%25AA%25D9%2587%25D8%25A7-%25D8%25A7%25D9%2584%25D9%2582%25D8%25B5%25D9%2588%25D9%2589/) by Syriastories.net from 2015 emphasized the role of the hospital in treating victims of the bombardments in Idlib’s countryside and references the facility as working at “maximum capacity.”
+Multiple sources confirm Dar al-Hikma as a well-known hospital in Kafr Nabl and Southern Idlib. Local [blog posts](https://syriastories.net/en/resources-overstretched-in-kfar-nabel-hospitals/) as well as activists from early 2015 mention the hospital, and the increasing direness of its operations since attacks on local hospitals have intensified. An [article](https://syriastories.net/%25D9%2585%25D8%25B4%25D8%25A7%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D8%25AA%25D8%25B9%25D9%2585%25D9%2584-%25D8%25A8%25D8%25B7%25D8%25A7%25D9%2582%25D8%25AA%25D9%2587%25D8%25A7-%25D8%25A7%25D9%2584%25D9%2582%25D8%25B5%25D9%2588%25D9%2589/) by Syriastories.net from 2015 emphasized the role of the hospital in treating victims of the bombardments in Idlib’s countryside and references the facility as working at “maximum capacity.”
 
 Officially, it is listed as a hospital that is part of the official Syrian Ministry of Health, pictured below.
 
@@ -106,9 +106,11 @@ The local reports of extensive internal and external damage of the Dar al-Hikma 
 ![](/assets/investigations/daralhikma/image24.png)
 
 Destruction from outside: Fuel barrels, the Hospital’s Generator and two cars in front of the hospital took fire according to a video by [SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk).
+
 ![](/assets/investigations/daralhikma/image8.jpg)
 
 Overview of the destruction from outside according to a [post by](https://www.facebook.com/syr24ia/posts/2364927367115116) [Sy24](https://www.facebook.com/syr24ia/posts/2364927367115116).  The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+
 ![](/assets/investigations/daralhikma/image27.jpg)
 
 Destruction of the hospital’s pharmacy according  [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
@@ -128,7 +130,7 @@ Destroyed entrance hall from the hospital according to the video of [SmartNewsAg
 
 ![](/assets/investigations/daralhikma/image28.png)
 
-Additional destruction of the hospital’s pharmacy according to [Al-Durar Al-Shamiya network](https://www.youtube.com/watch?v=HQWet3QLZHo). Pictured are the medications [Locacid](http://sante.lefigaro.fr/medicaments/3237292-locacid-0-05-cr-tub-30g) and [Clindacin](https://www.webmd.com/drugs/2/drug-155436/clindacin-pac-topical/details), used to treat strong acne.
+Additional destruction of the hospital’s pharmacy according to [Al-Durar Al-Shamiya network](https://www.youtube.com/watch?v=HQWet3QLZHo). Pictured are the medications [Locacid](http://sante.lefigaro.fr/medicaments/3237292-locacid-0-05-cr-tub-30g) and [Clindacin](https://www.webmd.com/drugs/2/drug-155436/clindacin-pac-topical/details).
 
 ![](/assets/investigations/daralhikma/image29.png)
 
@@ -164,7 +166,7 @@ Given that there is no direct evidence available that one of the observed aircra
 
 # Injuries as a result of the attack
 
-Dr Ahmad Al Aqraa mentioned in the interview that was done with the Syrian Archive team that three people working in the hospital got injured as a result of this attack. No Casualties were reported.
+Dr Ahmad Al Aqraa mentioned in an interview done with the Syrian Archive team that three people working in the hospital were injured as a result of this attack. However, no casualties were reported.
 
 # De-escalation zone
 
@@ -174,14 +176,14 @@ On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [
 
 A month of heavy shelling has ransacked the Idlib governorate, creating a "[humanitarian disaster](https://www.un.org/press/en/2019/sc13826.doc.htm)" in the officially demilitarized zone.
 
-Dar Al-Hikma was one of the last remaining hospitals in the area, after two hospitals were firebombed in Kafr Nabl in one month alone. This includes the Orient hospital, which has [sustained multiple attacks](https://syrianarchive.org/en/investigations/kafrnabel.html) since 2017. The attacks were so intense that the Idlib health directorate released a statement on the 6th of May, pushing operations to an emergency status.
+Dar Al-Hikma was one of the last remaining hospitals in the area, after two hospitals were firebombed in Kafr Nabl in one month alone. This includes the Orient hospital, which has [sustained multiple attacks](https://syrianarchive.org/en/investigations/kafrnabel.html) since 2017. The attacks were so intense that the Idlib health directorate released a statement on the 6th of May pushing operations to an emergency status.
 
 ![](/assets/investigations/daralhikma/image11.jpg)
 
 # Repeated Attacks targeting Dar Al Hikma Hospital
 
-Dr Ahmad Al Aqraa (Manager and owner of Dar Al Hikma Hospital) mentioned in an interview conducted with the Syrian Archive team that the hospital was attacked multiple times previously between 2012 and 2014 after Kafar Nabl [got out of the Syrian government control area](https://www.youtube.com/watch?v=6bxBkDEdK1w) in August 2012. The Syrian Archive investigation team didn't find visual documentation about those previous attacks.
+In an interview with the Syrian Archive, Dr Ahmad Al Aqraa (manager and owner of Dar Al Hikma Hospital) mentioned that the hospital was attacked multiple times previously between 2012 and 2014 after the Syrian government [withdrew control of Kafr Nabl](https://www.youtube.com/watch?v=6bxBkDEdK1w) in August 2012. The Syrian Archive investigation team did not find visual documentation to confirm these previous attacks.
 
 # Conclusion
 
-Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 at around 10:40. From this attack, the hospital, which had a history of providing services in the locality since 1996, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data , the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was the Russian or Syrian Air Force.
+Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 at around 10:40. From this attack, the hospital, which had a history of providing services in the locality since 1996, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was the Russian or Syrian Air Force.
