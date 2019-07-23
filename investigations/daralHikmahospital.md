@@ -3,12 +3,12 @@ layout: investigation.html
 title: "Medical Facilities Under Fire: Dar Al-Hikma Hospital in Kafr Nabl, Idlib"
 desc: "Open source investigation reveals another hospital targeted"
 date: 2019-07-15
-image: 
+image:
 ---
 
 - Location: [IDLIB : Kafr Nabl](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
-- Target: Dar Al-Hikma Hospital
-- Beneficiaries: figure unknown; one of the last remaining hospitals in the area. The hospital is running since 1996.
+- Target: Dar Al-Hikma private Hospital managed by Dr Ahmad Al Aqraa. The hospital is officially licensed by the Syrian government.  
+- Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital is running since 1996.
 - Date: 28 May 2019
 - Time: ~ 10:40 am [according to](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) Union of Medical Care and Relief Organizations UOSSM
 -Casualties: 3 injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134733) by SMART news agency
@@ -18,7 +18,11 @@ image:
 
 # What happened?
 
-Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nonetheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since the 30 April 2019](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(April_2019%E2%80%93present). This attack resulted in 3 people being injured as  [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency and internal and external damage to the building of the hospital as well as damage to a car and the electric generator.
+Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nonetheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since the 30 April 2019](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(April_2019%E2%80%93present). This attack resulted in 3 people being injured as  [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency, internal and external damage to the building of the hospital, damage to two cars and two electric generator as well as medical equipment according to an interview that was done with the manager of the hospital Dr Ahmad Al Aqraa.
+
+Dr Ahmad Al Aqraa is a cardiologist who graduated from Tishreen military hospital. He is the manager and the owner of Dar Al Hikma Hospital that was built in Kafr Nabl in 1997 and started operating in 2000. The private hospital is officially licensed by the Syrian government.
+
+> He mentioned that Dar Al Hikma hospital was targeted multiple times because we are doing our job in the hospital treating civilians.
 
 The Idlib Health Directorate additionally published a [statement](http://ihd-sy.org/2019/05/28/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AF%D9%85%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83/) on the attack claiming the hospital was directly targeted by the regime as well as reporting the hospital as destroyed.
 
@@ -159,6 +163,10 @@ Moreover in the towns of Saraqib and Teftnaz, which neighbor Kafranabel to the n
 
 Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighbouring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
 
+# injured
+
+Dr Ahmad Al Aqraa mentioned in the interview that was done with the Syrian Archive team that three people working in the hospital got injured as a result of this attack. No Casualties were reported.
+
 # De-escalation zone
 
 On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding](https://www.youtube.com/watch?v%3D5cF-gIL8yzk) for the establishment of de-escalation zones in Syria which took effect on May 6 2017. The Russian Ministry of Defence [published a map showing](https://syrianarchive.org/en/investigations/Atarib-Market-Bombing.html) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Kafr Nabl town is located within the de-escalation zone.
@@ -174,6 +182,11 @@ Red shows Assad forces; Green indicates rebel groups.
 Dar Al-Hikma was one of the last remaining hospitals in the area, after two hospitals were firebombed in Kafr Nabl in one month alone. This includes the Orient hospital, which has [sustained multiple attacks](https://syrianarchive.org/en/investigations/kafrnabel.html) since 2017. The attacks were so intense that the Idlib health directorate released a statement on the 6th of May, pushing operations to an emergency status.
 
 ![](/assets/investigations/daralhikma/image11.jpg)
+
+# Repeated Attacks targeting Dar Al Hikma Hospital
+
+Dr Ahmad Al Aqraa (Manager and owner of Dar Al Hikma Hospital) mentioned in an interview conducted with the Syrian Archive team that the hospital was attacked multiple times previously mainly in 2012 during and after clashes between the Syrian army and rebels to get control of the city. Kafar Nabl [got out of the Syrian government control](https://www.youtube.com/watch?v=6bxBkDEdK1w) in August 2012. Dr Ahmad mentioned that Dar Al Hikma hospital was one of the main hospitals serving people living in Kafar Nabl and the city around it. At that time, Dar Al Hikma medical staff were treating 50 - 60 injured civilians daily.
+
 
 # Conclusion
 
