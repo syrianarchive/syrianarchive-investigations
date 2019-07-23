@@ -1,10 +1,11 @@
-﻿﻿---
+---
 layout: investigation.html
 title: "Medical Facilities Under Fire: Dar Al-Hikma Hospital in Kafr Nabl, Idlib"
 desc: "Open source investigation reveals another hospital targeted"
 date: 2019-07-15
-image:
+image: /assets/investigations/daralhikma/image8.jpg
 ---
+
 
 - Location: [IDLIB : Kafr Nabl](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
 - Target: Dar Al-Hikma private Hospital managed by Dr Ahmad Al Aqraa. The hospital is officially licensed by the Syrian government.  
@@ -185,8 +186,7 @@ Dar Al-Hikma was one of the last remaining hospitals in the area, after two hosp
 
 # Repeated Attacks targeting Dar Al Hikma Hospital
 
-Dr Ahmad Al Aqraa (Manager and owner of Dar Al Hikma Hospital) mentioned in an interview conducted with the Syrian Archive team that the hospital was attacked multiple times previously mainly in 2012 during and after clashes between the Syrian army and rebels to get control of the city. Kafar Nabl [got out of the Syrian government control](https://www.youtube.com/watch?v=6bxBkDEdK1w) in August 2012. Dr Ahmad mentioned that Dar Al Hikma hospital was one of the main hospitals serving people living in Kafar Nabl and the city around it. At that time, Dar Al Hikma medical staff were treating 50 - 60 injured civilians daily.
-
+Dr Ahmad Al Aqraa (Manager and owner of Dar Al Hikma Hospital) mentioned in an interview conducted with the Syrian Archive team that the hospital was attacked multiple times previously between 2012 and 2014 after Kafar Nabl [got out of the Syrian government control area](https://www.youtube.com/watch?v=6bxBkDEdK1w) in August 2012. The Syrian Archive investigation team didn't find visual documentation about those previous attacks.
 
 # Conclusion
 

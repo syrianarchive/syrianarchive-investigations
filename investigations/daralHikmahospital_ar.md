@@ -1,9 +1,9 @@
-﻿---
+---
 layout: investigation.html
 title: "مرافق صحية تحت النار: مستشفى دار الحكمة في كفرنبل، ادلب "
 desc: "تحقيق مفتوح المصدر يتناول هجومًا جديدًا على مستشفى"
 date: 2019-07-15
-image: 
+image: /assets/investigations/daralhikma/image8.jpg
 ---
 
 - الموقع الجغرافي: [ادلب : كفرنبل](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
@@ -11,7 +11,7 @@ image:
 - عدد المستفيدون من المستشفى: غير معروف، لكن المستشفى ضمن الخدمة منذ عام 1996، وهو واحد من المستشفيات القليلة التي تبقّت في المنطقة.
 - التاريخ: 28 مايو/أيار 2019
 - التوقيت: حوالي 10:40 صباحًا [وفقًا لاتحاد المنظمات الطبية الإغاثية السورية](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) UOSSM
-- الضحايا: 3 جرحى وفقًا لما أُبلغ عنه من قبل [وكالة سمارت للأنباء](https://smartnews-agency.com/ar/album/383074/%D8%AF%D9%85%D8%A7%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%81%D9%8A-%D9%83%D9%81%D8%B1%D9%86%D8%A8%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85#134721) 
+- الضحايا: 3 جرحى وفقًا لما أُبلغ عنه من قبل [وكالة سمارت للأنباء](https://smartnews-agency.com/ar/album/383074/%D8%AF%D9%85%D8%A7%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%81%D9%8A-%D9%83%D9%81%D8%B1%D9%86%D8%A8%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85#134721)
 - الهجمات: غارة جوية
 - الذخائر المحدّدة: غير متوفرة
 - المسؤول المحتمل: القوات الجويّة الروسيّة أو السورية
@@ -68,7 +68,7 @@ image:
 
 ![](/assets/investigations/daralhikma/image19.png)
 
-صورة أقمار صناعية مقرّبة للمستشفى والشوارع المحيطة، 2017. 
+صورة أقمار صناعية مقرّبة للمستشفى والشوارع المحيطة، 2017.
 
 ![](/assets/investigations/daralhikma/image21.png)
 
