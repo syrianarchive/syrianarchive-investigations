@@ -10,8 +10,8 @@ To date, Syrian Archive has preserved and processed 1,515,226 videos from YouTub
 
 Yet 210,640 videos remain unavailable as of July 2019. Some of these videos include documentation of chemical attacks, attacks on hospitals and medical facilities, or destruction of civilian infrastructure. These 210,640 videos are securely preserved by Syrian Archive and available upon request.
 
-### Embed video:
-https://www.youtube.com/watch?v=FOGkSPT3sLE
+<iframe width="100%" height="500" src="https://www.youtube.com/embed//e64fSqKtE4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 This demonstrates that between June and July 2019, 818 videos that Syrian Archive has in its collection are once again publicly available.
 
