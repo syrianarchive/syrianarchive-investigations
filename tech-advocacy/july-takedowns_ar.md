@@ -10,8 +10,8 @@ image: /assets/takedowns.jpg
 
 رغم ذلك، لا يزال 210,640 مقطع فيديو غير متاح حتّى يوليو/تموز 2019، يتضمن بعضها توثيقًا لهجمات كيماوية، هجمات على مستشفيات ومرافق طبية، أو تدمير بنى تحتيّة مدنيّة. إنّ هذه المقاطع الـ 210,640 محفوظة بأمان من قبل الأرشيف السوري ومتاحة عند الطلب.
 
-### Embed video:
-https://www.youtube.com/watch?v=FOGkSPT3sLE
+<iframe width="100%" height="500" src="https://www.youtube.com/watch?v=e64fSqKtE4g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ما يعني أنه ما بين يونيو/حزيران ويوليو/ تموز 2019؛ فإنّ 818 مقطع فيديو محفوظ لدى الأرشيف السوريّ لم يعد متاحًا على منصة يوتيوب.
 
