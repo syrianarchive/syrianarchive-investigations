@@ -166,7 +166,7 @@ Given that there is no direct evidence available that one of the observed aircra
 
 # Injuries as a result of the attack
 
-Dr Ahmad Al Aqraa mentioned in an interview done with the Syrian Archive team that three people working in the hospital were injured as a result of this attack. However, no casualties were reported.
+Corroborating claims made in a [SMART News report,](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000#134721) Dr Ahmad Al Aqraa mentioned in an interview done with the Syrian Archive team that three people working in the hospital were injured as a result of this attack. However, no casualties were reported.
 
 # De-escalation zone
 
