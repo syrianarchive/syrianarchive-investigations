@@ -4,6 +4,7 @@ title: "مرافق صحية تحت النار: مستشفى دار الحكمة 
 desc: "تحقيق مفتوح المصدر يتناول هجومًا جديدًا على مستشفى"
 date: 2019-07-15
 image: /assets/investigations/daralhikma/image8.jpg
+drafts: true
 ---
 
 
