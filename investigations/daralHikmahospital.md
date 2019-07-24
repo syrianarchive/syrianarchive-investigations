@@ -10,7 +10,7 @@ drafts: true
 
 - Location: [IDLIB : Kafr Nabl](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
 - Target: Dar Al-Hikma private Hospital managed by Dr Ahmad Al Aqraa. The hospital is officially licensed by the Syrian government.  
-- Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital is running since 1996.
+- Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital is running since 1997.
 - Date: 28 May 2019
 - Time: ~ 10:40 am [according to](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) Union of Medical Care and Relief Organizations UOSSM
 -Casualties: 3 injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134733) by SMART news agency
@@ -187,4 +187,4 @@ In an interview with the Syrian Archive, Dr Ahmad Al Aqraa (manager and owner of
 
 # Conclusion
 
-Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 at around 10:40. From this attack, the hospital, which had a history of providing services in the locality since 1996, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was the Russian or Syrian Air Force.
+Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 at around 10:40. From this attack, the hospital, which had a history of providing services in the locality since 1997, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was the Russian or Syrian Air Force.
