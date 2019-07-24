@@ -2,14 +2,14 @@
 layout: investigation.html
 title: "Medical Facilities Under Fire: Dar Al-Hikma Hospital in Kafr Nabl, Idlib"
 desc: "Open source investigation reveals another hospital targeted"
-date: 2019-07-15
+date: 2019-07-24
 image: /assets/investigations/daralhikma/image8.jpg
+drafts: true
 ---
-
 
 - Location: [IDLIB : Kafr Nabl](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
 - Target: Dar Al-Hikma private Hospital managed by Dr Ahmad Al Aqraa. The hospital is officially licensed by the Syrian government.  
-- Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital is running since 1996.
+- Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital is running since 1997.
 - Date: 28 May 2019
 - Time: ~ 10:40 am [according to](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) Union of Medical Care and Relief Organizations UOSSM
 -Casualties: 3 injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134733) by SMART news agency
@@ -29,14 +29,12 @@ The Idlib Health Directorate, additionally corroborating Dr. Al Aqraa, published
 
 ![](/assets/investigations/daralhikma/image15.png)
 ![](/assets/investigations/daralhikma/image10.png)
-
-Images of the hospital after the attack included in the Idlib Health Directorate’s Press Statement
+*Images of the hospital after the attack included in the Idlib Health Directorate’s Press Statement*
 
 According to a local news report released the morning of the attack, Dar Al-Hikma was attacked as a part of several air raids on Kfar Nabl and greater Idlib. Photos and videos showing the damage to the building were uploaded by [citizens,](https://twitter.com/dr_hammady/status/1133309630187220992)  [reporters](https://www.youtube.com/watch?v=lZWZTfuG9pY) and [news agencies,](https://smartnews-agency.com/ar/album/383074/%D8%AF%D9%85%D8%A7%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%81%D9%8A-%D9%83%D9%81%D8%B1%D9%86%D8%A8%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85#134721) including [Orient News](https://www.youtube.com/watch?v=wYTImxFEg8E), who were on the ground soon after the attack.
 
 ![](/assets/investigations/daralhikma/image17.png)
-
-A Reporter from [Orient News](https://www.youtube.com/watch?v=wYTImxFEg8E) showing and detailing the attack.
+*A Reporter from [Orient News](https://www.youtube.com/watch?v=wYTImxFEg8E) showing and detailing the attack*
 
 Orient News video was published at 11:26am Damascus local time as seen by [Youtube data viewer tool](https://citizenevidence.amnestyusa.org/).
 
@@ -61,31 +59,11 @@ The [Facebook page](https://www.facebook.com/daralhekmahAkdaa/) of Dar Al-Hikma 
 ![](/assets/investigations/daralhikma/image14.png)
 ![](/assets/investigations/daralhikma/image12.png)
 
-[Images from Dar Al Hikma Hospital facebook page](image3.png)
-
 # Where did this happen and when?
 
 Dar al-Hikma Hospital is located in the village of Kafr Nabl south of Idlib. It’s location can be confirmed using open source satellite imagery and corroborating media as featured below.
 
-![](/assets/investigations/daralhikma/image20.png)
-
-Google Earth satellite imagery of hospital, dated 27 October 2017.
-
-![](/assets/investigations/daralhikma/image19.png)
-
-Close-up satellite imagery of hospital and surrounding streets, 2017.
-
 ![](/assets/investigations/daralhikma/image21.png)
-
-Dar Al-Hikma: matching the image from above to confirm geolocation.
-
-![](/assets/investigations/daralhikma/image23.png)
-
-The sign reads “Dar al-Hikma Hospital”. [Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY)footage.
-
-![](/assets/investigations/daralhikma/image22.png)
-
-A sign reading “clinic” contained among the rubble, according  [Baladi-News Network.](https://www.youtube.com/watch?v=lZWZTfuG9pY)
 
 ## The Time
 
@@ -94,8 +72,7 @@ The time of the attack can be estimated and confirmed using Shadow Calculator. B
 ![](/assets/investigations/daralhikma/image5.jpg)
 
 ![](/assets/investigations/daralhikma/image7.jpg)
-
-Corroborating shadows and a video of the destruction shortly after the attack to find the approximate time of the airstrikes.
+*Corroborating shadows and a video of the destruction shortly after the attack to find the approximate time of the airstrikes.*
 
 # Destruction in the Hospital
 
@@ -103,54 +80,55 @@ The local reports of extensive internal and external damage of the Dar al-Hikma 
 
 ## External Destruction
 
-![](/assets/investigations/daralhikma/image24.png)
-
 Destruction from outside: Fuel barrels, the Hospital’s Generator and two cars in front of the hospital took fire according to a video by [SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk).
 
-![](/assets/investigations/daralhikma/image8.jpg)
+![](/assets/investigations/daralhikma/image24.png)
 
-Overview of the destruction from outside according to a [post by](https://www.facebook.com/syr24ia/posts/2364927367115116) [Sy24](https://www.facebook.com/syr24ia/posts/2364927367115116).  The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+below is an overview of the destruction from outside according to a [post by](https://www.facebook.com/syr24ia/posts/2364927367115116) [Sy24](https://www.facebook.com/syr24ia/posts/2364927367115116). The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
 
-![](/assets/investigations/daralhikma/image27.jpg)
+![](/assets/investigations/daralhikma/image8-2.png)
 
-Destruction of the hospital’s pharmacy according  [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+Below is an image showing the destruction of the hospital’s pharmacy according [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+
+![](/assets/investigations/daralhikma/image-27-2.png)
+
+The external destruction of the hospital’s entrance hall according to the [article by Syria.tv](https://www.syria.tv/content/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%A8%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8) can be seen below:
 
 ![](/assets/investigations/daralhikma/image25.jpg)
 
-The external destruction of the hospital’s entrance hall according to the [article by Syria.tv](https://www.syria.tv/content/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%A8%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8).
-
 ## Internal Destruction
 
-![](/assets/investigations/daralhikma/image26.png)
-Destructions of the hospital’s pharmacy. Image from [Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY).
+[Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY) published a video showing destruction of the hospital’s pharmacy as shown below:
 
-![](/assets/investigations/daralhikma/image13.jpg)
+![](/assets/investigations/daralhikma/image26.png)
 
 Destroyed entrance hall from the hospital according to the video of [SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
 
-![](/assets/investigations/daralhikma/image28.png)
+![](/assets/investigations/daralhikma/image13-2.png)
 
 Additional destruction of the hospital’s pharmacy according to [Al-Durar Al-Shamiya network](https://www.youtube.com/watch?v=HQWet3QLZHo). Pictured are the medications [Locacid](http://sante.lefigaro.fr/medicaments/3237292-locacid-0-05-cr-tub-30g) and [Clindacin](https://www.webmd.com/drugs/2/drug-155436/clindacin-pac-topical/details).
 
-![](/assets/investigations/daralhikma/image29.png)
+![](/assets/investigations/daralhikma/image28.png)
 
 Destruction inside the building. [Baladi-News Network.](https://www.youtube.com/watch?v=lZWZTfuG9pY).
+
+![](/assets/investigations/daralhikma/image29.png)
+
+Destruction inside the building. [Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY).
 
 ![](/assets/investigations/daralhikma/image30.png)
 
-Destruction inside the building. [Baladi-News Network.](https://www.youtube.com/watch?v=lZWZTfuG9pY).
+Destruction from inside according the post of [Ayat Ali, SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk)
 
 ![](/assets/investigations/daralhikma/image31.png)
 
-Destruction from inside according the post of [Ayat Ali, SmartNewsAgency.](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk)
+destruction from inside the building according to a tweet from [Idlib+.](https://twitter.com/IdlibPlus/status/1133322052155445248)
 
 ![](/assets/investigations/daralhikma/image32.jpg)
 
-Destructions from inside the building according to a tweet from [Idlib+.](https://twitter.com/IdlibPlus/status/1133322052155445248)
+Internal destruction according to a video by [Al-Jisr Satellite Channel](https://www.youtube.com/watch?v%3DjkF8sn_h1rU). Paracetamol infusion solution in is cracked on the floor of the entrance hall.
 
 ![](/assets/investigations/daralhikma/image9.png)
-
-Internal destruction according to a video by [Al-Jisr Satellite Channel](https://www.youtube.com/watch?v%3DjkF8sn_h1rU). Paracetamol infusion solution in is cracked on the floor of the entrance hall.
 
 These images and videos confirm local reports of the hospital as pushed out of service because of this most recent attack.
 
@@ -164,7 +142,7 @@ Moreover in the towns of Saraqib and Teftnaz, which neighbor Kafranabel to the n
 
 [View full visualisation](https://public.tableau.com/views/Observations104028May2019Kafranbel/Sheet1)
 
-Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighbouring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
+Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighboring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
 
 # Injuries as a result of the attack
 
@@ -188,4 +166,4 @@ In an interview with the Syrian Archive, Dr Ahmad Al Aqraa (manager and owner of
 
 # Conclusion
 
-Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 at around 10:40. From this attack, the hospital, which had a history of providing services in the locality since 1996, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was the Russian or Syrian Air Force.
+Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 at around 10:40. From this attack, the hospital, which had a history of providing services in the locality since 1997, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was the Russian or Syrian Air Force.
