@@ -29,14 +29,12 @@ The Idlib Health Directorate, additionally corroborating Dr. Al Aqraa, published
 
 ![](/assets/investigations/daralhikma/image15.png)
 ![](/assets/investigations/daralhikma/image10.png)
-
-Images of the hospital after the attack included in the Idlib Health Directorate’s Press Statement
+*Images of the hospital after the attack included in the Idlib Health Directorate’s Press Statement*
 
 According to a local news report released the morning of the attack, Dar Al-Hikma was attacked as a part of several air raids on Kfar Nabl and greater Idlib. Photos and videos showing the damage to the building were uploaded by [citizens,](https://twitter.com/dr_hammady/status/1133309630187220992)  [reporters](https://www.youtube.com/watch?v=lZWZTfuG9pY) and [news agencies,](https://smartnews-agency.com/ar/album/383074/%D8%AF%D9%85%D8%A7%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%81%D9%8A-%D9%83%D9%81%D8%B1%D9%86%D8%A8%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85#134721) including [Orient News](https://www.youtube.com/watch?v=wYTImxFEg8E), who were on the ground soon after the attack.
 
 ![](/assets/investigations/daralhikma/image17.png)
-
-A Reporter from [Orient News](https://www.youtube.com/watch?v=wYTImxFEg8E) showing and detailing the attack.
+*A Reporter from [Orient News](https://www.youtube.com/watch?v=wYTImxFEg8E) showing and detailing the attack*
 
 Orient News video was published at 11:26am Damascus local time as seen by [Youtube data viewer tool](https://citizenevidence.amnestyusa.org/).
 
@@ -90,9 +88,9 @@ below is an overview of the destruction from outside according to a [post by](ht
 
 ![](/assets/investigations/daralhikma/image8-2.png)
 
-Below is an image showing the destruction of the hospital’s pharmacy according  [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+Below is an image showing the destruction of the hospital’s pharmacy according [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
 
-![](/assets/investigations/daralhikma/image27-2.png)
+![](/assets/investigations/daralhikma/image-27-2.png)
 
 The external destruction of the hospital’s entrance hall according to the [article by Syria.tv](https://www.syria.tv/content/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%A8%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8) can be seen below:
 
@@ -100,7 +98,7 @@ The external destruction of the hospital’s entrance hall according to the [art
 
 ## Internal Destruction
 
-Below are photos published by [Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY) destructions of the hospital’s pharmacy
+[Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY) published a video showing destruction of the hospital’s pharmacy as shown below:
 
 ![](/assets/investigations/daralhikma/image26.png)
 
@@ -116,15 +114,15 @@ Destruction inside the building. [Baladi-News Network.](https://www.youtube.com/
 
 ![](/assets/investigations/daralhikma/image29.png)
 
-Destruction inside the building. [Baladi-News Network.](https://www.youtube.com/watch?v=lZWZTfuG9pY).
+Destruction inside the building. [Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY).
 
 ![](/assets/investigations/daralhikma/image30.png)
 
-Destruction from inside according the post of [Ayat Ali, SmartNewsAgency.](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk)
+Destruction from inside according the post of [Ayat Ali, SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk)
 
 ![](/assets/investigations/daralhikma/image31.png)
 
-Destructions from inside the building according to a tweet from [Idlib+.](https://twitter.com/IdlibPlus/status/1133322052155445248)
+destruction from inside the building according to a tweet from [Idlib+.](https://twitter.com/IdlibPlus/status/1133322052155445248)
 
 ![](/assets/investigations/daralhikma/image32.jpg)
 
