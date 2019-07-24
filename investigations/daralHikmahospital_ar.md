@@ -1,19 +1,17 @@
 ---
 layout: investigation.html
 title: "مرافق صحية تحت النار: مستشفى دار الحكمة في كفرنبل، ادلب "
-desc: "تحقيق مفتوح المصدر يتناول هجومًا جديدًا على مستشفى"
+desc: "تحقيق بصري يتناول هجوما جديدا على مستشفى دار الحكمة"
 date: 2019-07-24
 image: /assets/investigations/daralhikma/image8.jpg
 drafts: true
 ---
 
-
 - الموقع الجغرافي: [ادلب : كفرنبل](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
 - الهدف: مستشفى دار الحكمة
 - عدد المستفيدين من المستشفى: غير معروف، لكن المستشفى ضمن الخدمة منذ عام 1997، وهو واحد من المستشفيات القليلة التي تبقّت في المنطقة.
 - التاريخ: 28 مايو/أيار 2019
-- التوقيت: حوالي 10:40 صباحًا [وفقًا لاتحاد المنظمات الطبية الإغاثية السورية](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) UOSSM
-- الضحايا: 3 جرحى وفقًا لما أُبلغ عنه من قبل [وكالة سمارت للأنباء](https://smartnews-agency.com/ar/album/383074/%D8%AF%D9%85%D8%A7%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%81%D9%8A-%D9%83%D9%81%D8%B1%D9%86%D8%A8%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85#134721)
+- التوقيت: حوالي 09:45 - 10:40 صباحًا [وفقًا لاتحاد المنظمات الطبية الإغاثية السورية](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) UOSSM- الضحايا: 3 جرحى وفقًا لما أُبلغ عنه من قبل [وكالة سمارت للأنباء](https://smartnews-agency.com/ar/album/383074/%D8%AF%D9%85%D8%A7%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%81%D9%8A-%D9%83%D9%81%D8%B1%D9%86%D8%A8%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85#134721)
 - الهجمات: غارة جوية
 - الذخائر المحدّدة: غير متوفرة
 - المسؤول المحتمل: القوات الجويّة الروسيّة أو السورية
@@ -30,14 +28,12 @@ drafts: true
 
 ![](/assets/investigations/daralhikma/image15.png)
 ![](/assets/investigations/daralhikma/image10.png)
-
-صور للمستشفى بعد الهُجوم أُرفقت بالبيان الصحفي الصادر عن مديريّة صحّة ادلب
+*صور للمستشفى بعد الهُجوم أُرفقت بالبيان الصحفي الصادر عن مديريّة صحّة ادلب*
 
 وفقًا لتقريرٍ إخباريّ محليّ صدر صباح الهجوم، تعرضت دار الحكمة للقصف كجزء من عدة غارات جوية على كفرنبل ومدينة ادلب. كما نُشرت صورٌ ومقاطع فيديو تظهر الأضرار التي لحقت بالمبنى، من قبل [مواطنين](https://twitter.com/dr_hammady/status/1133309630187220992)، [مراسلين](https://www.youtube.com/watch?v=lZWZTfuG9pY) و[وكالات أنباء](https://smartnews-agency.com/ar/album/383074/%D8%AF%D9%85%D8%A7%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%81%D9%8A-%D9%83%D9%81%D8%B1%D9%86%D8%A8%D9%84-%D9%86%D8%AA%D9%8A%D8%AC%D8%A9-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85#134721) منها [أورينت نيوز](https://www.youtube.com/watch?v=wYTImxFEg8E)، ممّن كانوا في موقع الضربة بعد وقوع الهجوم مباشرة.
 
 ![](/assets/investigations/daralhikma/image17.png)
-
-\ مراسل قناة [قناة أورينت نيوز](https://www.youtube.com/watch?v=wYTImxFEg8E)  يذكر تفاصيل الهجوم في مقطع الفيديو
+*مراسل قناة [قناة أورينت نيوز](https://www.youtube.com/watch?v=wYTImxFEg8E)  يذكر تفاصيل الهجوم في مقطع الفيديو*
 
 نٌشر تقرير قناة أورينت في الساعة 11:26 صباحًا بتوقيت دمشق المحلي، وفقًا لأداة [Youtube data viewer](https://citizenevidence.amnestyusa.org/).
 
@@ -48,8 +44,6 @@ drafts: true
 وأُدرج أيضًا اسم المستشفى كأحد المشافي الرسمية التابعة لوزارة الصحة السوريّة:
 
 ![](/assets/investigations/daralhikma/image18.png)
-
-موقع حكوميّ يُدرج المستشفى في دليله
 
 على الرغم من صعوبة التأكد من التاريخ الدقيق لافتتاح المستشفى، إلا أن اسمه مُدرجٌ منذ عام 2007 على الموقع العام لشبكة المعرفة الريفية التي أنشأتها وزارة الإدارة المحلية [كما يتضح](https://web.archive.org/web/20071201012750/http://www.reefnet.gov.sy/ImpInfo/Telephones/health.htm) باستخدام موقع WayBackMachine. إضافة إلى ذلك، نُشرت [مقالة](http://esyria.sy/sites/code/index.php?site=idleb&p=stories&category=face&filename=2008060511350431) عام 2008، ذكر فيها رئيس المستشفى الدكتور أحمد الأقرع أنه يعمل فيها منذ عام 1996.
 
@@ -62,8 +56,6 @@ drafts: true
 ![](/assets/investigations/daralhikma/image14.png)
 ![](/assets/investigations/daralhikma/image12.png)
 
- صور من صفحة [مستشفى دار الحكمة على فيسبوك](https://www.facebook.com/daralhekmahAkdaa/).
-
 # أين وقع الهجوم ومتى؟
 
 يقع مستشفى دار الحكمة في بلدة كفرنبل جنوبي ادلب. يمكن تحديد موقعها الجغرافي باستخدام صور أقمار صناعية مفتوحة المصدر وبالاستعانة بوثائق معزِّزة، كما يظهر أدناه:
@@ -72,13 +64,11 @@ drafts: true
 
 ## التوقيت
 
-يمكن تقدير وقت الهجوم والتأكّد منه باستخدام أداة Shadow Calculator. يُقدّر أنّ الهجوم نُفّذ على المستشفى حوالي الساعة 10:40 بالتوقيت المحلي لدمشق، وذلك بناءً على الظلال الظاهرة في صور التُقطت مباشرة بعد الغارات الجوية.
+يمكن تقدير وقت الهجوم والتأكّد منه باستخدام أداة [حساب الظل](http://shadowcalculator.eu/). يُقدّر أنّ الهجوم نُفّذ على المستشفى حوالي الساعة 10:40 بالتوقيت المحلي لدمشق، وذلك بناءً على الظلال الظاهرة في صور التُقطت مباشرة بعد الغارات الجوية.
 
 ![](/assets/investigations/daralhikma/image5.jpg)
 
 ![](/assets/investigations/daralhikma/image7.jpg)
-
-لتحديد التوقيت التقريبي للغارات الجوية، تم الاعتماد على صور تظهر الظلال ومقطع فيديو للدمار التُقط عقب الهجوم بوقت قصير.
 
 # الدمار في المستشفى
 
@@ -86,28 +76,30 @@ drafts: true
 
 ## الأضرار الخارجية
 
-![](/assets/investigations/daralhikma/image24.png)
-
 الدمار خارج مبنى المشفى: احتراق خزانات وقود، مولدة وسيارتين عائدتين للمستشفى وفقًا لمقطع فيديو نشرته [وكالة سمارت للأنباء](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk).
 
-![](/assets/investigations/daralhikma/image8.jpg)
+![](/assets/investigations/daralhikma/image24.png)
 
 لقطة عامّة للدمار خارج المستشفى [نشرتها Sy24](https://www.facebook.com/syr24ia/posts/2364927367115116) تظهر الصورة اليُمنى المستشفى عام 2013 وفقًا لصفحة [دار الحكمة على فيسبوك](https://www.facebook.com/daralhekmahAkdaa/).
 
-![](/assets/investigations/daralhikma/image27.jpg)
+![](/assets/investigations/daralhikma/image8-2.png)
 
 دمار صيدلية المستشفى وفقًا لـ  [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248). إلى اليمين صورة المستشفى المنشورة عام 2013 على صفحتها الرسمية [على فيسبوك](https://www.facebook.com/daralhekmahAkdaa/).
 
-![](/assets/investigations/daralhikma/image25.jpg)
+![](/assets/investigations/daralhikma/image-27-2.png)
 
 الدمار الخارجي الذي لحق بمدخل المستشفى وفقًا لمقالة [نُشرت على موقع تلفزيون سوريا](https://www.syria.tv/content/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%A8%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8).
 
+![](/assets/investigations/daralhikma/image25.jpg)
+
 ## الدمار الداخليّ
+
+ما يلي فيديو وصور توثق الدمار الداخلي للمشفى
 
 ![](/assets/investigations/daralhikma/image26.png)
 دمار صيدلية المستشفى. المصدر: [شبكة بلدي نيوز](https://www.youtube.com/watch?v=lZWZTfuG9pY).
 
-![](/assets/investigations/daralhikma/image13.jpg)
+![](/assets/investigations/daralhikma/image13-2.png)
 
 دمار بهو المستشفى وفقًا لمقطع فيديو [وكالة سمارت للأنباء](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk). إلى اليمين صورة المستشفى المنشورة عام 2013 على صفحتها الرسمية [على فيسبوك](https://www.facebook.com/daralhekmahAkdaa/).
 
@@ -117,7 +109,7 @@ drafts: true
 
 ![](/assets/investigations/daralhikma/image29.png)
 
-الدمار داخل المبنى. [شبكة بلدي نيوز.](https://www.youtube.com/watch?v=lZWZTfuG9pY).
+الدمار داخل المبنى. [شبكة بلدي نيوز](https://www.youtube.com/watch?v=lZWZTfuG9pY)
 
 ![](/assets/investigations/daralhikma/image30.png)
 

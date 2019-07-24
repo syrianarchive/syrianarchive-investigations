@@ -11,7 +11,7 @@ drafts: true
 - Target: Dar Al-Hikma private Hospital managed by Dr Ahmad Al Aqraa. The hospital is officially licensed by the Syrian government.  
 - Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital is running since 1997.
 - Date: 28 May 2019
-- Time: ~ 10:40 am [according to](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) Union of Medical Care and Relief Organizations UOSSM
+- Time: ~ 09:45 - 10:40 am Damascus local time [according to](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) Union of Medical Care and Relief Organizations UOSSM
 -Casualties: 3 injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134733) by SMART news agency
 - Attacks: Airstrike
 - Munitions Identified: None available
@@ -67,7 +67,7 @@ Dar al-Hikma Hospital is located in the village of Kafr Nabl south of Idlib. Itâ
 
 ## The Time
 
-The time of the attack can be estimated and confirmed using Shadow Calculator. Based upon the shadows from images directly after the airstrikes, it is estimated that the hospital was attacked around 10:40 Damascus local time.
+The time of the attack can be estimated and confirmed using [Shadow Calculator](http://shadowcalculator.eu/). Based upon the shadows from images directly after the airstrikes, it is estimated that the hospital was attacked around 10:40 Damascus local time.
 
 ![](/assets/investigations/daralhikma/image5.jpg)
 
