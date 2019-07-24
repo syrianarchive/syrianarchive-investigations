@@ -84,28 +84,30 @@ The local reports of extensive internal and external damage of the Dar al-Hikma 
 
 ## External Destruction
 
-![](/assets/investigations/daralhikma/image24.png)
-
 Destruction from outside: Fuel barrels, the Hospital’s Generator and two cars in front of the hospital took fire according to a video by [SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk).
 
-![](/assets/investigations/daralhikma/image8.jpg)
+![](/assets/investigations/daralhikma/image24.png)
 
-Overview of the destruction from outside according to a [post by](https://www.facebook.com/syr24ia/posts/2364927367115116) [Sy24](https://www.facebook.com/syr24ia/posts/2364927367115116).  The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+below is an overview of the destruction from outside according to a [post by](https://www.facebook.com/syr24ia/posts/2364927367115116) [Sy24](https://www.facebook.com/syr24ia/posts/2364927367115116). The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
 
-![](/assets/investigations/daralhikma/image27.jpg)
+![](/assets/investigations/daralhikma/image8-2.png)
 
-Destruction of the hospital’s pharmacy according  [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+Below is an image showing the destruction of the hospital’s pharmacy according  [Idlib+](https://twitter.com/IdlibPlus/status/1133322052155445248).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
+
+![](/assets/investigations/daralhikma/image27-2.png)
+
+The external destruction of the hospital’s entrance hall according to the [article by Syria.tv](https://www.syria.tv/content/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%A8%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8) can be seen below:
 
 ![](/assets/investigations/daralhikma/image25.jpg)
 
-The external destruction of the hospital’s entrance hall according to the [article by Syria.tv](https://www.syria.tv/content/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%A8%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B9%D9%84%D9%89-%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8).
-
 ## Internal Destruction
+
+Below are photos showing the internal destruction of the hospital:
 
 ![](/assets/investigations/daralhikma/image26.png)
 Destructions of the hospital’s pharmacy. Image from [Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY).
 
-![](/assets/investigations/daralhikma/image13.jpg)
+![](/assets/investigations/daralhikma/image13-2.png)
 
 Destroyed entrance hall from the hospital according to the video of [SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
 
