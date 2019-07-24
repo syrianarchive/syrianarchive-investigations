@@ -68,25 +68,7 @@ drafts: true
 
 يقع مستشفى دار الحكمة في بلدة كفرنبل جنوبي ادلب. يمكن تحديد موقعها الجغرافي باستخدام صور أقمار صناعية مفتوحة المصدر وبالاستعانة بوثائق معزِّزة، كما يظهر أدناه:
 
-![](/assets/investigations/daralhikma/image20.png)
-
-صورة أقمار صناعية للمستشفى من جوجل ايرث، بتاريخ 27 أكتوبر/ تشرين الأول 2017.
-
-![](/assets/investigations/daralhikma/image19.png)
-
-صورة أقمار صناعية مقرّبة للمستشفى والشوارع المحيطة، 2017.
-
 ![](/assets/investigations/daralhikma/image21.png)
-
-مستشفى بيت الحكمة: مطابقة الصور أعلاه للتحقق من الموقع الجغرافي
-
-![](/assets/investigations/daralhikma/image23.png)
-
-لافتة كُتب عليها “مشفى دار الحكمة” من مقطع فيديو [شبكة بلدي نيوز](https://www.youtube.com/watch?v=lZWZTfuG9pY).
-
-![](/assets/investigations/daralhikma/image22.png)
-
-لافتة بين الأنقاض كُتب عليها: "العيادة“، من مقطع فيديو [شبكة بلدي نيوز](https://www.youtube.com/watch?v=lZWZTfuG9pY)
 
 ## التوقيت
 
