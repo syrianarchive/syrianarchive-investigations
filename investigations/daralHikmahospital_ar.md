@@ -3,7 +3,8 @@ layout: investigation.html
 title: "مرافق صحية تحت النار: مستشفى دار الحكمة في كفرنبل، ادلب "
 desc: "تحقيق مفتوح المصدر يتناول هجومًا جديدًا على مستشفى"
 date: 2019-07-15
-image: 
+image: /assets/investigations/russian-attacks.png
+drafts: true
 ---
 
 - الموقع الجغرافي: [ادلب : كفرنبل](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
