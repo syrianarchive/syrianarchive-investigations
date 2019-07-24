@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "مرافق صحية تحت النار: مستشفى دار الحكمة في كفرنبل، ادلب "
 desc: "تحقيق مفتوح المصدر يتناول هجومًا جديدًا على مستشفى"
-date: 2019-07-15
+date: 2019-07-24
 image: /assets/investigations/daralhikma/image8.jpg
 drafts: true
 ---

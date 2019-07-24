@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Medical Facilities Under Fire: Dar Al-Hikma Hospital in Kafr Nabl, Idlib"
 desc: "Open source investigation reveals another hospital targeted"
-date: 2019-07-15
+date: 2019-07-24
 image: /assets/investigations/daralhikma/image8.jpg
 drafts: true
 ---
