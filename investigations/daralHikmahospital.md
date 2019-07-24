@@ -61,15 +61,12 @@ The [Facebook page](https://www.facebook.com/daralhekmahAkdaa/) of Dar Al-Hikma 
 ![](/assets/investigations/daralhikma/image14.png)
 ![](/assets/investigations/daralhikma/image12.png)
 
-[Images from Dar Al Hikma Hospital facebook page](image3.png)
-
 # Where did this happen and when?
 
 Dar al-Hikma Hospital is located in the village of Kafr Nabl south of Idlib. It’s location can be confirmed using open source satellite imagery and corroborating media as featured below.
 
 ![](/assets/investigations/daralhikma/image20.png)
-
-Google Earth satellite imagery of hospital, dated 27 October 2017.
+*Google Earth satellite imagery of hospital, dated 27 October 2017*
 
 ![](/assets/investigations/daralhikma/image19.png)
 
