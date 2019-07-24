@@ -7,7 +7,6 @@ image: /assets/investigations/daralhikma/image8.jpg
 drafts: true
 ---
 
-
 - Location: [IDLIB : Kafr Nabl](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
 - Target: Dar Al-Hikma private Hospital managed by Dr Ahmad Al Aqraa. The hospital is officially licensed by the Syrian government.  
 - Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital is running since 1997.
@@ -75,8 +74,7 @@ The time of the attack can be estimated and confirmed using Shadow Calculator. B
 ![](/assets/investigations/daralhikma/image5.jpg)
 
 ![](/assets/investigations/daralhikma/image7.jpg)
-
-Corroborating shadows and a video of the destruction shortly after the attack to find the approximate time of the airstrikes.
+*Corroborating shadows and a video of the destruction shortly after the attack to find the approximate time of the airstrikes.*
 
 # Destruction in the Hospital
 
@@ -102,18 +100,19 @@ The external destruction of the hospital’s entrance hall according to the [art
 
 ## Internal Destruction
 
-Below are photos showing the internal destruction of the hospital:
+Below are photos published by [Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY) destructions of the hospital’s pharmacy
 
 ![](/assets/investigations/daralhikma/image26.png)
-Destructions of the hospital’s pharmacy. Image from [Baladi-News Network](https://www.youtube.com/watch?v=lZWZTfuG9pY).
-
-![](/assets/investigations/daralhikma/image13-2.png)
 
 Destroyed entrance hall from the hospital according to the video of [SmartNewsAgency](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk).The image to the right is the hospital in 2013 as posted by its [Facebook page](https://www.facebook.com/daralhekmahAkdaa/).
 
-![](/assets/investigations/daralhikma/image28.png)
+![](/assets/investigations/daralhikma/image13-2.png)
 
 Additional destruction of the hospital’s pharmacy according to [Al-Durar Al-Shamiya network](https://www.youtube.com/watch?v=HQWet3QLZHo). Pictured are the medications [Locacid](http://sante.lefigaro.fr/medicaments/3237292-locacid-0-05-cr-tub-30g) and [Clindacin](https://www.webmd.com/drugs/2/drug-155436/clindacin-pac-topical/details).
+
+![](/assets/investigations/daralhikma/image28.png)
+
+Destruction inside the building. [Baladi-News Network.](https://www.youtube.com/watch?v=lZWZTfuG9pY).
 
 ![](/assets/investigations/daralhikma/image29.png)
 
@@ -121,19 +120,17 @@ Destruction inside the building. [Baladi-News Network.](https://www.youtube.com/
 
 ![](/assets/investigations/daralhikma/image30.png)
 
-Destruction inside the building. [Baladi-News Network.](https://www.youtube.com/watch?v=lZWZTfuG9pY).
+Destruction from inside according the post of [Ayat Ali, SmartNewsAgency.](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk)
 
 ![](/assets/investigations/daralhikma/image31.png)
 
-Destruction from inside according the post of [Ayat Ali, SmartNewsAgency.](https://www.youtube.com/watch?v=KiEZF0stlM0&fbclid=IwAR00qE9eS35lWesfK7J5NrL4V-hSR7D2_8LkZOTIS8GbgtR-QcSNLuiRgLk)
+Destructions from inside the building according to a tweet from [Idlib+.](https://twitter.com/IdlibPlus/status/1133322052155445248)
 
 ![](/assets/investigations/daralhikma/image32.jpg)
 
-Destructions from inside the building according to a tweet from [Idlib+.](https://twitter.com/IdlibPlus/status/1133322052155445248)
+Internal destruction according to a video by [Al-Jisr Satellite Channel](https://www.youtube.com/watch?v%3DjkF8sn_h1rU). Paracetamol infusion solution in is cracked on the floor of the entrance hall.
 
 ![](/assets/investigations/daralhikma/image9.png)
-
-Internal destruction according to a video by [Al-Jisr Satellite Channel](https://www.youtube.com/watch?v%3DjkF8sn_h1rU). Paracetamol infusion solution in is cracked on the floor of the entrance hall.
 
 These images and videos confirm local reports of the hospital as pushed out of service because of this most recent attack.
 
@@ -145,7 +142,7 @@ Moreover in the towns of Saraqib and Teftnaz, which neighbor Kafranabel to the n
 
 [https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Observations104028May2019Kafranbel/Sheet1](https://public.tableau.com/profile/syrianarchiveorg%23!/vizhome/Observations104028May2019Kafranbel/Sheet1)
 
-Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighbouring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
+Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighboring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
 
 # Injuries as a result of the attack
 
