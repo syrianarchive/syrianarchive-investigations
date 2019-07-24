@@ -143,7 +143,9 @@ drafts: true
 
 علاوة على ذلك، رُصدت طائرة SU-24 (Fencer) تحلّق جنوب سراقب وتفتناز، وهما بلدتان متاخمتان لكفرنبل من الناحية الشمالية، حوالي الساعة 10:31 و 10:40 صباحًا. كما تم التعرّف على  SU-24 (Fencer) تحلّق جنوب كفرنبل حوالي الساعة 10:40. يتطابق موقع هذه الرحلات مع تقارير حول طائرات Su-22 (Fitter) و SU-24 (Fencer) رُصدت تحلّق شمال غربي مطار الشعيرات وغرب قاعدة طيران T-4 في حمص وذلك حوالي الساعة 10:20 و 10:23 صباحًا. تعزّز أوقات واتجاهات هذه الرحلات ما ورد أعلاه في التحقيق حول هجوم على كفرنبل حوالي الساعة 10:40 صباحًا.
 
-[https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/Observations104028May2019Kafranbel/Sheet1](https://public.tableau.com/profile/syrianarchiveorg%23!/vizhome/Observations104028May2019Kafranbel/Sheet1)
+<iframe height="550" src="https://public.tableau.com/views/Observations104028May2019Kafranbel/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+
+[عرض الإظهار البصري كاملًا](https://public.tableau.com/views/Observations104028May2019Kafranbel/Sheet1)
 
 على الرغم من عدم توافر دليل مباشر على ضلوع إحدى الطائرات المرصودة في الهجوم على كفرنبل، فإن وجود هذه الطائرات فوق البلدة والبلدات المجاورة يزيد من احتمال وقوع هجوم جوي في ذلك الموقع في التوقيت المشار إليه من قبل الصحفيين المواطنين والمجموعات الحقوقية، والمقدّر باستخدام صور من موقع الهجوم.
 
