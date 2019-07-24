@@ -1,4 +1,4 @@
-﻿---
+---
 layout: investigation.html
 title: "Medical Facilities Under Fire: Dar Al-Hikma Hospital in Kafr Nabl, Idlib"
 desc: "Open source investigation reveals another hospital targeted"
