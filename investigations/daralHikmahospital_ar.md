@@ -5,6 +5,7 @@ desc: "تحقيق بصري يتناول هجوما جديدا على مستشف�
 date: 2019-07-29
 image: /assets/investigations/daralhikma/image21.png
 socialMediaImage: /assets/investigations/daralhikma/image21.png
+drafts: true
 ---
 
 - الموقع الجغرافي: [ادلب : كفرنبل](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
