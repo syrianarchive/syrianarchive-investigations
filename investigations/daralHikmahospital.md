@@ -1,10 +1,9 @@
 ---
 layout: investigation.html
 title: "Medical Facilities Under Fire: Dar Al-Hikma Hospital in Kafr Nabl, Idlib"
-desc: "Open source investigation reveals another hospital targeted"
+desc: "Investigation reveals Syrian government licensed hospital targeted with airstrikes"
 date: 2019-07-24
 image: /assets/investigations/daralhikma/image8.jpg
-drafts: true
 ---
 
 - Location: [IDLIB : Kafr Nabl](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
@@ -21,9 +20,9 @@ drafts: true
 
 Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nonetheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since the 30 April 2019](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(April_2019%E2%80%93present). This attack resulted in 3 people  injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency, internal and external damage to the building of the hospital, damage to two cars and two electric generator as well as medical equipment according to an interview done with the manager of the hospital Dr Ahmad Al Aqraa.
 
-As a cardiologist who graduated from Tishreen Military Hospital in Damascus, Dr. Ahmad Al Aqraa is the manager and owner of Dar Al Hikma Hospital, which he confirmed was built in Kafr Nabl in 1997 and operating in 2000. The private hospital, according to Al Aqraa, is officially licensed by the Syrian government.
+The cardiologist Dr. Ahmad Al Aqraa is the manager and owner of Dar Al Hikma Hospital, which he confirmed was built in Kafr Nabl in 1997 and operating in 2000. The private hospital, according to Al Aqraa, is officially licensed by the Syrian government.
 
-> The cardiologist emphasized that Dar Al Hikma hospital was targeted multiple times because "we are doing our job in the hospital treating civilians."
+> The cardiologist emphasized that Dar Al Hikma hospital was targeted multiple times previously because "we are doing our job in the hospital treating civilians."
 
 The Idlib Health Directorate, additionally corroborating Dr. Al Aqraa, published a [statement](http://ihd-sy.org/2019/05/28/%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AF%D9%85%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83/) on the attack claiming the hospital was directly targeted by the regime as well as reporting the hospital as destroyed.
 
