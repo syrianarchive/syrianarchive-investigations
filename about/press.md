@@ -8,6 +8,16 @@ image: "/assets/about/press-1.png"
 
 Articles in which the work of the Syrian Archive was highlighted include the following:
 
+- DW (2019) [German firms sent weapons-grade chemicals to Syria despite sanctions — report](https://www.dw.com/en/german-firms-sent-weapons-grade-chemicals-to-syria-despite-sanctions-report/a-49355063)
+- Asharq AL-Awsat (2019) [Germany Investigates Chemical Material Exports to Syria ](https://aawsat.com/english/home/article/1787316/germany-investigates-chemical-material-exports-syria)
+- BBC (2019)  [German chemical firm Brenntag defends its Syria deliveries](https://www.bbc.com/news/world-europe-48773571)
+- Tagesschau.de (2019) [Deutsche Chemikalien für Assads Giftgas?](https://www.tagesschau.de/investigativ/report-muenchen/syrien-giftgas-153.html)
+- The Canadian Progressive (2019) [Taking a stand against white supremacy, popular knitting site Ravelry bans content supporting Trump](https://www.canadianprogressive.com/2019/07/01/taking-a-stand-against-white-supremacy-popular-knitting-site-ravelry-bans-content-supporting-trump/)
+- Süddeutsche Zeitung (2019) [Deutsche Konzerne sollen waffenfähige Chemikalien nach Syrien geliefert haben ](https://www.sueddeutsche.de/politik/syrien-export-chemikalien-nervengift-1.4499072?utm_content=Corporations%2CGermany%2CSyria&utm_source=twitter&utm_campaign=social&utm_medium=TRIAL+International)
+- SyriaUK  (2019) [Sanction Putin’s officers. Ground Assad. It CAN be done. ](http://www.syriauk.org/2019/07/sanction-putins-officers-ground-assad.html)
+- The Conversation (2019) [ Archiver les traces numériques en Méditerranée, un défi aux multiples enjeux](https://theconversation.com/archiver-les-traces-numeriques-en-mediterranee-un-defi-aux-multiples-enjeux-119041)
+- The Syrian Observatory for Human Rights (2019) [German chemical firm Brenntag defends its Syria deliveries](http://www.syriahr.com/en/?p=133638)
+- Gizmodo (2019) [How American Corporations Are Policing Online Speech Worldwide](https://gizmodo.com/how-american-corporations-are-policing-online-speech-wo-1836010637)
 - Amnesty (2019) [OP-ED: How Facebook’s sudden change hinders human rights investigations ](https://www.amnesty.org/en/latest/news/2019/06/how-facebooks-sudden-change-hinders-human-rights-investigations/)
 -  Los Angeles Times  (2019) [Keep politicians away from social media regulation, and let God tweet](https://www.latimes.com/opinion/op-ed/la-oe-welch-social-media-panic-20190614-story.html)
 - Huffpost (2019) [YouTube Says It’s Removing Thousands Of Extremist Videos. What Happens To Them?](https://www.huffpost.com/entry/youtube-extremism-ban-far-right_n_5cf97c2ce4b06af8b505a23b?guccounter=1)

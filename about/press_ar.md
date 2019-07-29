@@ -8,7 +8,8 @@ image: "/assets/about/press-1.png"
 نُشرت بعض المقالات الصحفية والتي سلطت الضوء على عمل الأرشيف السوري، من بينها:
 
 #### باللغة العربية:
-
+- منظمة العفو الدولية (2019) [كيف يعيق التغير المفاجئ لدى "فيسبوك" التحقيقات بشأن حقوق الإنسان](https://www.amnesty.org/ar/latest/news/2019/06/how-facebooks-sudden-change-hinders-human-rights-investigations/)
+- DW (2019) [بسبب مبيعات كيماوية لسوريا ـ شركة ألمانية تحت مجهر النيابة ](https://www.dw.com/ar/%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D9%83%D9%8A%D9%85%D8%A7%D9%88%D9%8A%D8%A9-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%80-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D9%85%D8%AC%D9%87%D8%B1-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9/a-49366858)
 - ميدان (2019) [من سوريا إلى ليبيا.. لماذا تحذف الشركات الرقمية أرشيف جرائم الحرب؟](https://midan.aljazeera.net/intellect/sociology/2019/5/26/%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AD%D8%B0%D9%81-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A3%D8%B1%D8%B4%D9%8A%D9%81-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8)
 - المدن ( يونيو/حزيران 2019) [السوريون يواجهون "فايسبوك" دفاعاً عن الساروت](https://www.almodon.com/media/2019/6/12/%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%88%D9%86-%D9%8A%D9%88%D8%A7%D8%AC%D9%87%D9%88%D9%86-%D9%81%D8%A7%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%AF%D9%81%D8%A7%D8%B9%D8%A7-%D8%B9%D9%86-%D8%A7%D9%84%D8%B3%D8%A7%D8%B1%D9%88%D8%AA)
 - عنب بلدي ( 5 مايو/ أيّار 2019) [“الذكاء” الصناعي يهدد مستقبل العدالة في سوريا](https://www.enabbaladi.net/archives/298617)
@@ -23,6 +24,16 @@ image: "/assets/about/press-1.png"
 
 #### بلغات أجنبيّة:
 
+- DW (2019) [German firms sent weapons-grade chemicals to Syria despite sanctions — report](https://www.dw.com/en/german-firms-sent-weapons-grade-chemicals-to-syria-despite-sanctions-report/a-49355063)
+- Asharq AL-Awsat (2019) [Germany Investigates Chemical Material Exports to Syria ](https://aawsat.com/english/home/article/1787316/germany-investigates-chemical-material-exports-syria)
+- BBC (2019)  [German chemical firm Brenntag defends its Syria deliveries](https://www.bbc.com/news/world-europe-48773571)
+- Tagesschau.de (2019) [Deutsche Chemikalien für Assads Giftgas?](https://www.tagesschau.de/investigativ/report-muenchen/syrien-giftgas-153.html)
+- The Canadian Progressive (2019) [Taking a stand against white supremacy, popular knitting site Ravelry bans content supporting Trump](https://www.canadianprogressive.com/2019/07/01/taking-a-stand-against-white-supremacy-popular-knitting-site-ravelry-bans-content-supporting-trump/)
+- Süddeutsche Zeitung (2019) [Deutsche Konzerne sollen waffenfähige Chemikalien nach Syrien geliefert haben ](https://www.sueddeutsche.de/politik/syrien-export-chemikalien-nervengift-1.4499072?utm_content=Corporations%2CGermany%2CSyria&utm_source=twitter&utm_campaign=social&utm_medium=TRIAL+International)
+- SyriaUK  (2019) [Sanction Putin’s officers. Ground Assad. It CAN be done. ](http://www.syriauk.org/2019/07/sanction-putins-officers-ground-assad.html)
+- The Conversation (2019) [ Archiver les traces numériques en Méditerranée, un défi aux multiples enjeux](https://theconversation.com/archiver-les-traces-numeriques-en-mediterranee-un-defi-aux-multiples-enjeux-119041)
+- The Syrian Observatory for Human Rights (2019) [German chemical firm Brenntag defends its Syria deliveries](http://www.syriahr.com/en/?p=133638)
+- Gizmodo (2019) [How American Corporations Are Policing Online Speech Worldwide](https://gizmodo.com/how-american-corporations-are-policing-online-speech-wo-1836010637)
 - Amnesty (2019) [OP-ED: How Facebook’s sudden change hinders human rights investigations ](https://www.amnesty.org/en/latest/news/2019/06/how-facebooks-sudden-change-hinders-human-rights-investigations/)
 -  Los Angeles Times  (2019) [Keep politicians away from social media regulation, and let God tweet](https://www.latimes.com/opinion/op-ed/la-oe-welch-social-media-panic-20190614-story.html)
 - Huffpost (2019) [YouTube Says It’s Removing Thousands Of Extremist Videos. What Happens To Them?](https://www.huffpost.com/entry/youtube-extremism-ban-far-right_n_5cf97c2ce4b06af8b505a23b?guccounter=1)
