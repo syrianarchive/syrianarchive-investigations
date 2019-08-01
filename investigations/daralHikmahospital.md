@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Medical Facilities Under Fire: Dar Al-Hikma Hospital in Kafr Nabl, Idlib"
-desc: "Investigation reveals Syrian government licensed hospital targeted with airstrikes"
+desc: "Investigation reveals Syrian government licensed hospital targeted with shelling and airstrikes"
 date: 2019-07-29
 image: /assets/investigations/daralhikma/image21.png
 socialMediaImage: /assets/investigations/daralhikma/image21.png
@@ -12,15 +12,15 @@ drafts: true
 - Target: Dar Al-Hikma private Hospital managed by Dr Ahmad Al Aqraa. The hospital is officially licensed by the Syrian government.  
 - Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital is running since 1997.
 - Date: 28 May 2019
-- Time: ~ 09:45 - 10:40 am Damascus local time [according to](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) Union of Medical Care and Relief Organizations UOSSM
+- Time: ~ 09:45 - 10:40 am Damascus local time according to an interview that the Syrian Archive team done with the management of the hospital and an article [published on ](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) Union of Medical Care and Relief Organizations UOSSM
 -Casualties: 3 injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134733) by SMART news agency
-- Attacks: Airstrike
+- Attacks: Shelling and Airstrike
 - Munitions Identified: None available
-- Potentially responsible: Russian or Syrian Air Force
+- Potentially responsible: Syrian Armed Forces, Russian or Syrian Air Force
 
 # What happened?
 
-Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nonetheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since the 30 April 2019](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(April_2019%E2%80%93present). This attack resulted in 3 people  injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency, internal and external damage to the building of the hospital, damage to two cars and two electric generator as well as medical equipment according to an interview done with the manager of the hospital Dr Ahmad Al Aqraa.
+Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Shelling and airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nonetheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since the 30 April 2019](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(April_2019%E2%80%93present). This attack resulted in 3 people  injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency, internal and external damage to the building of the hospital, damage to two cars and two electric generator as well as medical equipment according to an interview done with the manager of the hospital Dr Ahmad Al Aqraa.
 
 The cardiologist Dr. Ahmad Al Aqraa is the manager and owner of Dar Al Hikma Hospital, which he confirmed was built in Kafr Nabl in 1997 and operating in 2000. The private hospital, according to Al Aqraa, is officially licensed by the Syrian government.
 
@@ -53,12 +53,41 @@ Although it is difficult to confirm the exact date the hospital opened, its name
 
 ![](/assets/investigations/daralhikma/image4.png)
 
-The [Facebook page](https://www.facebook.com/daralhekmahAkdaa/) of Dar Al-Hikma Hospital was created in 2013. Photos of the hospital were published on the facebook page as shown below.
+The [Facebook page](https://www.facebook.com/daralhekmahAkdaa/) of Dar Al-Hikma Hospital was created in 2013. Photos of the hospital were published on the facebook page such as the ones shown below.
 
 ![](/assets/investigations/daralhikma/image3.png)
-![](/assets/investigations/daralhikma/image1.png)
 ![](/assets/investigations/daralhikma/image14.png)
-![](/assets/investigations/daralhikma/image12.png)
+
+The Syrian Archive investigation team made an interview with Dr Majed Aqraa who was in the hospital when it was attacked on May 28 2019. He mentioned:
+At 09:30 an airstrike targeted a village called [Maar Tamater](https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%B1%D8%AA%D9%85%D8%A7%D8%AA%D8%B1) and [Jbala](https://en.wikipedia.org/wiki/Jbala,_Idlib). An injured came to our hospital from Jbala to be treated and it seems that he was being monitored by a drone. After 15 minutes as we are treating the injured person the hospital was targeted with an airstrike. Then at 09:45 the hospital was targeted with aircraft cannon and shelling from rocket launcher at the same time.  
+
+Several posts and videos were published online about an airstrike targeting the village of Maar Tamater on May 28 2019. Below are the some of those posts that can be used to corroborate the testimony of Dr Majed.
+
+Idlib PLUS news agency [published the following facebook post](https://www.facebook.com/IDLIBPLUS/posts/2237411389809444) mentioning that Maar Tamater is being targeted with airstrikes. The post was published at 09:33 am Damascus time. This corroborates what Dr Majed mentioned about someone being injured as a result of an airstrike on Maar Tamater and Jbala.
+
+The facebook page of Maar Tamater Now [published a video](https://www.facebook.com/watch/?v=368247123801706) at 10:37 am Damascus time mentioning that Maar Tamater was targeted with airstrikes from helicopter. This resulted of one family being under rubble.
+
+Fajer press facebook page [published a post on facebook](https://www.facebook.com/permalink.php?story_fbid=2151335805158513&id=1465923513699749) on May 29th mentioning that Kafr Nabel and its surrouding villages such as Maar Tamater were attacked with shelling and airstrikes which resulted in the killing of a women and its child. The facebook page of Maar Tamater Now [published a video](https://www.facebook.com/watch/?v=2484050414961530) mentioning the name of the women (Aisha Adeeb Othman) and child (Khaled Ahmad Yousef).
+
+Dr Majed also mentioned that the airstrike and shelling that targeted the hospital starting at 09:45 were almost at the same time with 3 to 6 minutes between them. He also said that the shelling came from the direction of [Braideej](https://goo.gl/maps/BB3G13qf3m357Jgx6) village which is under the Syrian government control area.
+
+![](/assets/investigations/daralhikma/liveumap-may-2019.png)
+
+Photos and videos were published online mentioning that the city of kafrnabel was targeted with airstrikes and shelling at the same time. The posts also mentioned that the shelling is coming from the direction of [Braideej](https://goo.gl/maps/BB3G13qf3m357Jgx6) village.
+
+Ahmad Al Hameed Al Bayoush [published on his facebook account](https://www.facebook.com/bayoushahmad/posts/1016177768585899) that KafrNabel was targeted with three airstrikes as well as shelling from Baideej at the same time. The sound of shelling can be heard on the following [video](https://www.facebook.com/bayoushahmad/videos/1016182358585440/) that was published at 10:01 am Damascus time.
+
+Another [video published](https://www.facebook.com/haseeb.deeb.7/videos/318319722401122/) on facebook by Haseeb Deeb shows smokes as a result of airstrikes as well as shelling that is coming from Braideej checkpoint.
+
+The Syrian Archive investigation team found and located tanks in Braideej as shown below:
+
+![](/assets/investigations/daralhikma/tanks-b.png)
+
+An artillery base was also found be located in Salba as shown below:
+
+![](/assets/investigations/daralhikma/salba.png)
+
+The Syrian Archive is unable to confirm the exact type of those vehicles because of the low resolution of the satellite imagery.
 
 # Where did this happen and when?
 
@@ -68,7 +97,7 @@ Dar al-Hikma Hospital is located in the village of Kafr Nabl south of Idlib. Itâ
 
 ## The Time
 
-The time of the attack can be estimated and confirmed using [Shadow Calculator](http://shadowcalculator.eu/). Based upon the shadows from images directly after the airstrikes, it is estimated that the hospital was attacked around 10:40 Damascus local time.
+The time of the attack can be estimated and confirmed using [Shadow Calculator](http://shadowcalculator.eu/). Based upon the shadows from images directly after the airstrikes, it is estimated that the hospital was attacked between 09:45 and 10:40 am Damascus local time.
 
 ![](/assets/investigations/daralhikma/image5.jpg)
 
@@ -167,4 +196,4 @@ In an interview with the Syrian Archive, Dr Ahmad Al Aqraa (manager and owner of
 
 # Conclusion
 
-Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 at around 10:40. From this attack, the hospital, which had a history of providing services in the locality since 1997, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was the Russian or Syrian Air Force.
+Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 between 09:45 and 10:40 am Damascus time. From this attack, the hospital, which is licensed by the Syrian government and had a history of providing services in the locality since 2000, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was attacked with shelling and airstrikes by the Russian or Syrian Air Force.
