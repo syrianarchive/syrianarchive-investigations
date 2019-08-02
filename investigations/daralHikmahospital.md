@@ -10,17 +10,19 @@ drafts: true
 
 - Location: [IDLIB : Kafr Nabl](https://www.google.com/maps/place/Dat%2BElhikma%2BHospital,%2BKafr%2BNabl,%2BSyrien/@35.6161599,36.5603986,241m/data%3D!3m1!1e3!4m5!3m4!1s0x152459add4dbef33:0xddee8b8cf3ee6a8e!8m2!3d35.6163144!4d36.5609998)
 - Target: Dar Al-Hikma private Hospital managed by Dr Ahmad Al Aqraa. The hospital is officially licensed by the Syrian government.  
-- Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital has been in service since 1997.
+- Beneficiaries: ~800 - 900 per month; 100-150 surgery per month; one of the last remaining hospitals in the area. The hospital has been in service since 2000.
 - Date: 28 May 2019
 - Time: ~ 09:45 - 10:40 am Damascus local time according to an interview that the Syrian Archive team conducted with the management of the hospital and an article [published by](https://reliefweb.int/report/syrian-arab-republic/breaking-3-children-and-mother-uossm-staff-killed-airstrike) the Union of Medical Care and Relief Organizations UOSSM
--Casualties: 3 injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134733) by SMART news agency
+- Casualties: 3 injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134733) by SMART news agency
 - Attacks: Shelling and Airstrike
 - Munitions Identified: None available
-- Potentially responsible: Syrian Armed Forces, Russian or Syrian Air Force
+- Potentially responsible: Syrian Armed Forces, Russian Armed Forces, Russian or Syrian Air Force
 
 # What happened?
 
-Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Shelling and airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nevertheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since April 30th 2019](https://en.wikipedia.org/wiki/Northwestern_Syria_offensive_(April_2019%E2%80%93present). This attack resulted in 3 people injured as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency, internal and external damage to the building of the hospital, damage to two cars and two electric generator as well as medical equipment according to an interview done with Dr Ahmad al Aqraa.
+Verified open source media affirms that Dar Al-Hikma Hospital was targeted on 28 May 2019. Shelling and airstrikes caused debilitating damage to the building, forcing the hospital out of service. The hospital is located in the [de-escalation](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) and ceasefire zone, as was recently [upheld publicly by Russian and Syrian forces](https://www.aljazeera.com/news/2019/05/russia-announces-unilateral-ceasefire-syrian-forces-idlib-190519182039997.html). Nevertheless, reports suggest that the private hospital was intentionally targeted as part of a larger Syria-Russia offensive that has been increasing in intensity [since April 30th 2019](https://www.theguardian.com/world/2019/jul/07/at-least-544-civilians-killed-in-russian-led-assault-in-syria-rights-groups-say).
+
+This attack resulted in 3 people injured, internal and external damage to the building of the hospital, damage to two cars and two electric generator as well as medical equipment as [reported](https://smartnews-agency.com/ar/album/383074/%25D8%25AF%25D9%2585%25D8%25A7%25D8%25B1-%25D9%2585%25D8%25B4%25D9%2581%25D9%2589-%25D8%25AF%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25AD%25D9%2583%25D9%2585%25D8%25A9-%25D9%2581%25D9%258A-%25D9%2583%25D9%2581%25D8%25B1%25D9%2586%25D8%25A8%25D9%2584-%25D9%2586%25D8%25AA%25D9%258A%25D8%25AC%25D8%25A9-%25D9%2582%25D8%25B5%25D9%2581-%25D8%25A7%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585%23134721&sa=D&ust=1563107522392000) by SMART news agency and according to an interview done with Dr Ahmad al Aqraa.
 
 Alongside working as a cardiologist, Dr. Ahmad Al Aqraa is the manager and owner of Dar Al Hikma Hospital, which he confirmed was built in Kafr Nabl in 1997 and began operating in 2000. The private hospital, according to Al Aqraa, is officially licensed by the Syrian government.
 
@@ -46,10 +48,9 @@ Multiple sources confirm Dar al-Hikma as a well-known hospital in Kafr Nabl and 
 Confirming its status as a medical facility, it is listed as a hospital by the official Syrian Ministry of Health as pictured below.
 
 ![](/assets/investigations/daralhikma/image18.png)
+*Government website lists hospital in directory*
 
-Government website lists hospital in directory.
-
-Although it is difficult to confirm the exact date the hospital opened, its name is listed on the public website of the countryside knowledge network that was set up by the Ministry of Local Administration as [early as 2007 as shown](https://web.archive.org/web/20071201012750/http://www.reefnet.gov.sy/ImpInfo/Telephones/health.htm) using the WayBackMachine website. Moreover, an [article](http://esyria.sy/sites/code/index.php?site=idleb&p=stories&category=face&filename=2008060511350431) was published in 2008 profiling the now head of the hospital, Dr. Ahmed al-Aqraa, mentioning that he started working there in 1996.
+Although it is difficult to confirm the exact date the hospital opened, its name is listed on the public website of the countryside knowledge network that was set up by the Ministry of Local Administration as [early as 2007 as shown](https://web.archive.org/web/20071201012750/http://www.reefnet.gov.sy/ImpInfo/Telephones/health.htm) using the [WayBackMachine website](https://archive.org/web/). Moreover, an [article](http://esyria.sy/sites/code/index.php?site=idleb&p=stories&category=face&filename=2008060511350431) was published in 2008 profiling the now head of the hospital, Dr. Ahmed al-Aqraa, mentioning that he started working there in 1996.
 
 ![](/assets/investigations/daralhikma/image4.png)
 
@@ -61,27 +62,30 @@ The [Facebook page](https://www.facebook.com/daralhekmahAkdaa/) of Dar Al-Hikma 
 The Syrian Archive investigation team conducted an interview with Dr Majed Aqraa who was in the hospital at the moment of the attack on May 28 2019. He mentioned:
 "At 09:30 an airstrike targeted a village called [Maar Tamater](https://ar.wikipedia.org/wiki/%D9%85%D8%B9%D8%B1%D8%AA%D9%85%D8%A7%D8%AA%D8%B1) and [Jbala](https://en.wikipedia.org/wiki/Jbala,_Idlib). An injured victim came to our hospital from Jbala to be treated and it seems that he was being monitored by a drone. After 15 minutes as we are treating the injured person the hospital was targeted with an airstrike. Then at 09:45 the hospital was targeted with aircraft cannon and shelling from a rocket launcher at the same time."  
 
-Several posts and videos were published online about an airstrike targeting the village of Maar Tamater on May 28 2019. Below are the some of those posts that can be used to corroborate the testimony of Dr Majed.
+Several posts and videos were published online about an airstrike targeting the village of Maar Tamater on May 28 2019. Below are some of those posts that can be used to corroborate the testimony of Dr Majed.
 
-Idlib PLUS news agency [published the following facebook post](https://www.facebook.com/IDLIBPLUS/posts/2237411389809444) mentioning that Maar Tamater was targeted with airstrikes. The post was published at 09:33 am Damascus time. This corroborates Dr Majed's statement of an injured patient arriving at the hospital on the 28th as a result of airstrikes on Maar Tamater and Jbala.
+Idlib PLUS news agency [published the following facebook post](https://www.facebook.com/IDLIBPLUS/posts/2237411389809444) mentioning that Maar Tamater was targeted with airstrikes. The post was published at 09:33 am Damascus time. This corroborates Dr Majed's statement of an injured patient arriving at the hospital on May 28th as a result of airstrikes on Maar Tamater and Jbala.
 
-The Facebook page Maar Tamater Now [published a video](https://www.facebook.com/watch/?v=368247123801706) at 10:37 am Damascus time mentioning that Maar Tamater was targeted with airstrikes from a helicopter. The video shows a family stuck under the rubble of a building destroyed by the airstrikes. 
+The Facebook page Maar Tamater Now [published a video](https://www.facebook.com/watch/?v=368247123801706) at 10:37 am Damascus time mentioning that Maar Tamater was targeted with airstrikes from a helicopter. The person who captured the video mentions that a family is stuck under the rubble of a building destroyed by the airstrikes.
 
 Moreover, Fajer Press [published a post on Facebook](https://www.facebook.com/permalink.php?story_fbid=2151335805158513&id=1465923513699749) on May 29th mentioning that Kafr Nabel and its surrouding villages, such as Maar Tamater, were attacked with shelling and airstrikes which killed a women and her child. The facebook page of Maar Tamater Now [published a video](https://www.facebook.com/watch/?v=2484050414961530) mentioning the name of the women (Aisha Adeeb Othman) and the child (Khaled Ahmad Yousef).
 
-In his interview, Dr Majed additionally mentioned that the airstrike and shelling which targeted the hospital starting at 09:45 were only 3 to 6 minutes apart. He also emphasizd that the shelling came from the direction of [Braideej](https://goo.gl/maps/BB3G13qf3m357Jgx6) village, which is currently under the control of the Syrian government.
+In his interview, Dr Majed additionally mentioned that the airstrike and shelling which targeted the hospital starting at 09:45 am Damascus time were only 3 to 6 minutes apart. He also emphasizd that the shelling came from the direction of [Braideej](https://goo.gl/maps/BB3G13qf3m357Jgx6) village, which is currently under the control of the Syrian government.
 
 ![](/assets/investigations/daralhikma/liveumap-may-2019.png)
+*[Braideej](https://goo.gl/maps/BB3G13qf3m357Jgx6) village in the red terretory controlled by the Syrian Government*
 
 Photos and videos were published online mentioning that the city of Kafrnabel was targeted with airstrikes and shelling around the same time as attacks on Maar Tamater and other villages. The posts also mentioned that the shelling came from the direction of [Braideej](https://goo.gl/maps/BB3G13qf3m357Jgx6) village.
 
-Ahmad Al Hameed Al Bayoush [posted on Facebook](https://www.facebook.com/bayoushahmad/posts/1016177768585899) confirming that KafrNabel was targeted with three airstrikes and Baideej was shelled at the same time. The sound of shelling can be heard in the following [video](https://www.facebook.com/bayoushahmad/videos/1016182358585440/) that was published at 10:01 am Damascus time.
+Ahmad Al Hameed Al Bayoush [posted on Facebook](https://www.facebook.com/bayoushahmad/posts/1016177768585899) confirming that KafrNabel was targeted with three airstrikes and was shelled at the same time. The sound of shelling can be heard in the following [video](https://www.facebook.com/bayoushahmad/videos/1016182358585440/) that was published at 10:01 am Damascus time.
 
-Another [video published](https://www.facebook.com/haseeb.deeb.7/videos/318319722401122/) on Facebook by Haseeb Deeb additionally shows rising smoke as a result of airstrikes and shelling from the Braideej checkpoint.
+Another [video published](https://www.facebook.com/haseeb.deeb.7/videos/318319722401122/) on Facebook by Haseeb Deeb additionally shows rising smoke as a result of airstrikes and shelling from the Braideej checkpoint as he is claiming.
 
 The Syrian Archive investigation team found and located tanks in Braideej near the time of the airstrikes as shown below:
 
 ![](/assets/investigations/daralhikma/tanks-b.png)
+
+Other posts published on social media mentions that the shelling on KafrNabel was xxxx
 
 An artillery base was also found be located in Salba as shown below:
 
@@ -180,7 +184,7 @@ Corroborating claims made in a [SMART News report,](https://smartnews-agency.com
 
 # De-escalation zone
 
-On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding](https://www.youtube.com/watch?v%3D5cF-gIL8yzk) for the establishment of de-escalation zones in Syria which took effect on May 6 2017. The Russian Ministry of Defence [published a map showing](https://syrianarchive.org/en/investigations/Atarib-Market-Bombing.html) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Kafr Nabl town is located within the de-escalation zone.
+On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding](https://www.youtube.com/watch?v%3D5cF-gIL8yzk) for the establishment of de-escalation zones in Syria which took effect on May 6 2017. The Russian Ministry of Defence [published a map showing](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Kafr Nabl town is located within the de-escalation zone.
 
 ![](/assets/investigations/daralhikma/image6.jpg)
 
