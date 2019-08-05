@@ -89,24 +89,34 @@ Matching claims regarding the airstrike campaign, another [video published](http
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhaseeb.deeb.7%2Fvideos%2F318319722401122%2F&show_text=1&width=560" width="560" height="483" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
+
 The Syrian Archive investigation team found and located tanks in [Braideej]((https://goo.gl/maps/BB3G13qf3m357Jgx6) near the time of the airstrikes as shown below:
 
 ![](/assets/investigations/daralhikma/tanks-b.png)
+
+*Digital Globe satellite image of Braideej published on 26/05/2019*
 
 Other posts published on social media mentions that the shelling on KafrNabel was coming from the village of [Tal Salba](https://goo.gl/maps/skkjooTkoUruUorL9).
 
 Al Masdar News Agency [published a facebook post](https://www.facebook.com/almsdar1/posts/396695724262496) mentioning that Kafr Nabel is targeted with shelling from the Russian military camp in Tal Salba.
 
-The Syrian Archive investigation team found and located an artillery base in Tal Salba as shown below in a sattelite imagery published two days before the attack on Dar Al Hikma hospital 26/05/2019. 
+The Syrian Archive investigation team found and located an artillery base in Tal Salba as shown below in a sattelite imagery published two days before the attack on Dar Al Hikma hospital 26/05/2019.
 
 ![](/assets/investigations/daralhikma/tal-salba-base.png)
-*Digital Glove satellite image of Tal Salba published on 26/05/2019*
+
+*Digital Globe satellite image of Tal Salba published on 26/05/2019*
+
+Eight pieces of artillery can be identified using a digital globe satellite image published on 12/05/2019.
+
+![](/assets/investigations/daralhikma/art-count.png)
+
+*Digital Globe satellite image of Tal Salba published on 12/05/2019*
 
 The Syrian Archive is unable to confirm the exact type of those vehicles because of the low resolution of the satellite imagery.
 
 # Where did this happen and when?
 
-Dar al-Hikma Hospital is located in the village of Kafr Nabl south of Idlib. It’s location can be confirmed using open source satellite imagery and corroborating media as featured below.
+Dar al-Hikma Hospital is located in the village of Kafr Nabl south of Idlib. It’s location can be confirmed using open source satellite imagery from Google Earth pro and corroborating media as featured below.
 
 ![](/assets/investigations/daralhikma/image21.png)
 
@@ -187,7 +197,6 @@ XXXXXX
 
 Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighboring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
 
-
 # De-escalation zone
 
 On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [signed a memorandum of understanding](https://www.youtube.com/watch?v%3D5cF-gIL8yzk) for the establishment of de-escalation zones in Syria which took effect on May 6 2017. The Russian Ministry of Defense [published a map showing](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews) the locations included in this memorandum as shown below (de-escalation zones in blue, ISIS in grey, Syrian army in orange). Kafr Nabl town is located within the de-escalation zone.
@@ -200,8 +209,8 @@ Although within the de-escalation zone, Dar Al-Hikma was one of the last remaini
 
 ![](/assets/investigations/daralhikma/image11.jpg)
 
-The attacks on medical facilities in the Idlib governorate illustrate a direct and blatant disregard for the agreed to restrictions of the de--escalation zone.
+The attacks on medical facilities in the Idlib governorate illustrate a direct and blatant disregard for the agreed to restrictions of the de-escalation zone.
 
 # Conclusion
 
-Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 between 09:45 and 10:40 am Damascus time. From this attack, the hospital, which is licensed by the Syrian government and had a history of providing services in the locality since 2000, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was attacked with shelling and airstrikes by the Russian or Syrian Air Force.
+Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 between 09:45 and 10:40 am Damascus time. From this attack, the hospital, which is licensed by the Syrian government and had a history of providing services in the locality since 2000, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was attacked with shelling and airstrikes by the Russian or Syrian Forces.
