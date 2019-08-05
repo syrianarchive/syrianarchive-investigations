@@ -90,15 +90,24 @@ Matching claims regarding the airstrike campaign, another [video published](http
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhaseeb.deeb.7%2Fvideos%2F318319722401122%2F&show_text=1&width=560" width="560" height="483" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
 
+
 The Syrian Archive investigation team found and located tanks in [Braideej]((https://goo.gl/maps/BB3G13qf3m357Jgx6) near the time of the airstrikes as shown below:
 
 ![](/assets/investigations/daralhikma/tanks-b.png)
 
 *Digital Globe satellite image of Braideej published on 26/05/2019*
 
+The length of the tanks appeared in the satellite image is 3.62m and the length is 6.1m.
+
+![](/assets/investigations/daralhikma/width-tank.png)
+
+![](/assets/investigations/daralhikma/length.png)
+
 Other posts published on social media mentions that the shelling on KafrNabel was coming from the village of [Tal Salba](https://goo.gl/maps/skkjooTkoUruUorL9).
 
-Al Masdar News Agency [published a facebook post](https://www.facebook.com/almsdar1/posts/396695724262496) mentioning that Kafr Nabel is targeted with shelling from the Russian military camp in Tal Salba.
+Al Masdar News Agency [published a facebook post](https://www.facebook.com/almsdar1/posts/396698320928903) mentioning that Kafr Nabel is targeted with shelling from the Russian military camp in Tal Salba.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Falmsdar1%2Fposts%2F396698320928903&width=500" width="500" height="464" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 The Syrian Archive investigation team found and located an artillery base in Tal Salba as shown below in a sattelite imagery published two days before the attack on Dar Al Hikma hospital 26/05/2019.
 
@@ -193,7 +202,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 From outside of Kafranabel, Su-22s (Fitter) were identified as flying northwest from Khan Sheikhoun, a neighboring village south of Kafranabel, at 9:24 and 9:42. Moreover in the towns of Saraqib and Teftnaz, which neighbor Kafranabel to the north, an SU-24 (Fencer) was spotted flying south from both towns at 10:31 and 10:40. From south of Kafranbel, a SU-24 (Fencer) was identified as flying north at around 10:40. These flight position additionally match reports of Su-22 (Fitter) and SU-24 (Fencer) flying north and north west from Shayrat and T-4 West Airbases in Homs at 10:20-23. The direction and times of these flights corroborates the above investigation of a possible attack around and between 9:45 to 10:40 in Kafranbel.
 
-XXXXXX
+<div class='tableauPlaceholder' id='viz1565015656589' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fl&#47;FlightObservationDatafromMay282019900-1100&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FlightObservationDatafromMay282019900-1100&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fl&#47;FlightObservationDatafromMay282019900-1100&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1565015656589');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighboring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
 
