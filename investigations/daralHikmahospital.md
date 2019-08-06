@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Medical Facilities Under Fire: Dar Al-Hikma Hospital in Kafr Nabl, Idlib"
 desc: "Investigation reveals Syrian government licensed hospital targeted with shelling and airstrikes"
-date: 2019-07-29
+date: 2019-08-06
 image: /assets/investigations/daralhikma/image21.png
 socialMediaImage: /assets/investigations/daralhikma/image21.png
 drafts: true
