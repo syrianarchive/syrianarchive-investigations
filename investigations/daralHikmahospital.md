@@ -115,7 +115,7 @@ The Syrian Archive investigation team found and located an artillery base in Tal
 
 *Digital Globe satellite image of Tal Salba published on 26/05/2019*
 
-AT least eight pieces of artillery can be identified using a digital globe satellite image published on 12/05/2019.
+At least eight pieces of artillery can be identified using a digital globe satellite image published on 12/05/2019.
 
 ![](/assets/investigations/daralhikma/art-count.png)
 
@@ -126,7 +126,6 @@ The distance between the artillery base and Dar Al Hikma hospital is 32.5 KM as 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sic7IyfW8rk?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The Syrian Archive is unable to confirm the exact type of those vehicles because of the low resolution of the satellite imagery.
-
 
 # Where did this happen and when?
 
