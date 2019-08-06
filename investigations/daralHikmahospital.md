@@ -97,7 +97,11 @@ The Syrian Archive investigation team found and located tanks in [Braideej]((htt
 
 *Digital Globe satellite image of Braideej published on 26/05/2019*
 
+<<<<<<< HEAD
 The length of the tanks appeared in the satellite image is 3.6m and the length is 6.1m.
+=======
+The width of the tanks appeared in the satellite image is 3.62m and the length is 6.1m.
+>>>>>>> d0d2cab55c1c33b1d3f6a9b123f3511686414321
 
 ![](/assets/investigations/daralhikma/width-tank.png)
 
