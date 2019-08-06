@@ -97,11 +97,13 @@ The Syrian Archive investigation team found and located tanks in [Braideej]((htt
 
 *Digital Globe satellite image of Braideej published on 26/05/2019*
 
-The length of the tanks appeared in the satellite image is 3.62m and the length is 6.1m.
+The length of the tanks appeared in the satellite image is 3.6m and the length is 6.1m.
 
 ![](/assets/investigations/daralhikma/width-tank.png)
 
 ![](/assets/investigations/daralhikma/length.png)
+
+## Hadi to Add distance between the tank and the hospital
 
 Other posts published on social media mentions that the shelling on KafrNabel was coming from the village of [Tal Salba](https://goo.gl/maps/skkjooTkoUruUorL9).
 
@@ -109,19 +111,23 @@ Al Masdar News Agency [published a facebook post](https://www.facebook.com/almsd
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Falmsdar1%2Fposts%2F396698320928903&width=500" width="500" height="464" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-The Syrian Archive investigation team found and located an artillery base in Tal Salba as shown below in a sattelite imagery published two days before the attack on Dar Al Hikma hospital 26/05/2019.
+The Syrian Archive investigation team found and located an artillery base in Tal Salba as shown below in a satellite imagery published two days before the attack on Dar Al Hikma hospital 26/05/2019.
 
 ![](/assets/investigations/daralhikma/tal-salba-base.png)
 
 *Digital Globe satellite image of Tal Salba published on 26/05/2019*
 
-Eight pieces of artillery can be identified using a digital globe satellite image published on 12/05/2019.
+AT least eight pieces of artillery can be identified using a digital globe satellite image published on 12/05/2019.
 
 ![](/assets/investigations/daralhikma/art-count.png)
 
 *Digital Globe satellite image of Tal Salba published on 12/05/2019*
 
+The distance between the artillery base and Dar Al Hikma hospital is 32.5 KM. 
+
 The Syrian Archive is unable to confirm the exact type of those vehicles because of the low resolution of the satellite imagery.
+
+
 
 # Where did this happen and when?
 
@@ -214,7 +220,7 @@ On May 4 2017, the sponsoring states of Astana Talks (Russia, Turkey and Iran) [
 
 Despite it being protected in this agreement, A month of heavy shelling has ransacked the Idlib governorate, creating a "[humanitarian disaster](https://www.un.org/press/en/2019/sc13826.doc.htm)" in the officially demilitarized zone.
 
-Although within the de-escalation zone, Dar Al-Hikma was one of the last remaining hospitals in the area, after two hospitals were firebombed in Kafr Nabl in one month alone. This includes the Orient hospital, which has [sustained multiple attacks](https://syrianarchive.org/en/investigations/kafrnabel.html) since 2017. The attacks were so intense that the Idlib health directorate released a statement on the 6th of May pushing operations to an emergency status.
+Although within the de-escalation zone, Dar Al-Hikma was one of the last remaining hospitals in the area, after two hospitals were attacked in Kafr Nabl in one month alone. This includes the Orient hospital, which has [sustained multiple attacks](https://syrianarchive.org/en/investigations/kafrnabel.html) since 2017. The attacks were so intense that the Idlib health directorate released a statement on the 6th of May pushing operations to an emergency status.
 
 ![](/assets/investigations/daralhikma/image11.jpg)
 
