@@ -91,23 +91,17 @@ Matching claims regarding the airstrike campaign, another [video published](http
 
 
 
-The Syrian Archive investigation team found and located tanks in [Braideej]((https://goo.gl/maps/BB3G13qf3m357Jgx6) near the time of the airstrikes as shown below:
+The Syrian Archive investigation team found and located tanks in [Braideej](https://goo.gl/maps/BB3G13qf3m357Jgx6) near the time of the airstrikes as shown below:
 
 ![](/assets/investigations/daralhikma/tanks-b.png)
 
 *Digital Globe satellite image of Braideej published on 26/05/2019*
 
-<<<<<<< HEAD
-The length of the tanks appeared in the satellite image is 3.6m and the length is 6.1m.
-=======
-The width of the tanks appeared in the satellite image is 3.62m and the length is 6.1m.
->>>>>>> d0d2cab55c1c33b1d3f6a9b123f3511686414321
+The width of the tanks appeared in the satellite image is 3.6m and the length is 6.1m.
 
 ![](/assets/investigations/daralhikma/width-tank.png)
 
 ![](/assets/investigations/daralhikma/length.png)
-
-## Hadi to Add distance between the tank and the hospital
 
 Other posts published on social media mentions that the shelling on KafrNabel was coming from the village of [Tal Salba](https://goo.gl/maps/skkjooTkoUruUorL9).
 
@@ -233,4 +227,4 @@ The attacks on medical facilities in the Idlib governorate illustrate a direct a
 
 # Conclusion
 
-Based on both the open source documentation and flight data featured above, it is confirmed that Dar al-Hikma Hospital was attacked on 28 May 2019 between 09:45 and 10:40 am Damascus time. From this attack, the hospital, which is licensed by the Syrian government and had a history of providing services in the locality since 2000, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was attacked with shelling and airstrikes by the Russian or Syrian Forces.
+Based on both the open source documentation and flight data featured above, it is confirmed that Dar Al-Hikma Hospital was attacked on 28 May 2019 between 09:45 and 10:40 am Damascus time. From this attack, the hospital, which is licensed by the Syrian government and had a history of providing services in the locality since 2000, was destroyed externally and internally rendering it out of service. However, given the limitations of open source data, the Syrian Archive is unable to confirm the perpetrators of the attack although local sources claim it was attacked with shelling and airstrikes by the Russian or Syrian Forces.
