@@ -206,7 +206,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 From outside of Kafranabel, Su-22s (Fitter) were identified as flying northwest from Khan Sheikhoun, a neighboring village south of Kafranabel, at 9:24 and 9:42. Moreover in the towns of Saraqib and Teftnaz, which neighbor Kafranabel to the north, an SU-24 (Fencer) was spotted flying south from both towns at 10:31 and 10:40. From south of Kafranbel, a SU-24 (Fencer) was identified as flying north at around 10:40. These flight position additionally match reports of Su-22 (Fitter) and SU-24 (Fencer) flying north and north west from Shayrat and T-4 West Airbases in Homs at 10:20-23. The direction and times of these flights corroborates the above investigation of a possible attack around and between 9:45 to 10:40 in Kafranbel.
 
-<iframe height="550" src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/FlightObservationDatafromMay282019900-1100/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+<iframe height="550" src="https://public.tableau.com/views/FlightObservationDatafromMay282019900-1100/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 Given that there is no direct evidence available that one of the observed aircraft was involved in the attack on Kafranbel the presence of these aircrafts above the town as well as neighboring towns increases the likelihood that an air attack occurred at this location during the times shown and reported on by citizen reporters as well as humanitarian groups, and as estimated using imagery from the attack.
 
