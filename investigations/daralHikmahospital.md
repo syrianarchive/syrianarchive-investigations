@@ -34,7 +34,7 @@ According to a local news report released the morning of the attack, Dar Al-Hikm
 
 The reporter mentioned that Kafr Nabl was attacked by airstrikes and shelling which resulted in destruction and fire as can be seen in the video.
 
-<iframe src="https://giphy.com/embed/U4Y8ud7FLf2u1QKE3S" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hospital-idlib-humanrightsviolations-U4Y8ud7FLf2u1QKE3S">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/U4Y8ud7FLf2u1QKE3S" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![](/assets/investigations/daralhikma/image17.png)
 *A Reporter from [Orient News](https://www.youtube.com/watch?v=wYTImxFEg8E) showing and detailing the attack*
