@@ -2,7 +2,7 @@
 layout: contentwithsiblings.html
 title: "Syrian Archive Joins Christchurch Call Advisory Network"
 date: 2019-10-02
-desc: ""
+desc: "Syrian Archive Joins Christchurch Call Advisory Network"
 image: /assets/takedowns.jpg
 ---
 
