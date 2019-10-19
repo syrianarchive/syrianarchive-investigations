@@ -6,7 +6,7 @@ desc: "Amount of content preserved, made unavailable and restored"
 image: /assets/takedowns.jpg
 ---
 
-To date, Syrian Archive has preserved and processed 1,548,903 videos from YouTube, an increase of 33,676 videos since June 2019. Unfortunately, despite many documenting human rights violations, many of these videos have been [made unavailable](https://syrianarchive.org/en/tech-advocacy) for a variety of reasons. After Syrian Archive raised this issue with YouTube, over 200,000 videos were restored and made publicly viewable since July 2017.
+To date, Syrian Archive has preserved and processed 1,548,903 videos from YouTube, an increase of 33,676 videos since July 2019. Unfortunately, despite many documenting human rights violations, many of these videos have been [made unavailable](https://syrianarchive.org/en/tech-advocacy) for a variety of reasons. After Syrian Archive raised this issue with YouTube, over 200,000 videos were restored and made publicly viewable since July 2017.
 
 Yet 179,878 videos remain unavailable as of September 2019. Some of these videos include documentation of chemical attacks, attacks on hospitals and medical facilities, or destruction of civilian infrastructure. These 179,878 videos are securely preserved by Syrian Archive and available upon request.
 
