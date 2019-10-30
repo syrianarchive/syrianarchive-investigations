@@ -7,7 +7,12 @@ image: "/assets/about/press-1.png"
 ---
 
 Articles in which the work of the Syrian Archive was highlighted include the following:
-
+- The New York Times (2019) [YouTube Is Erasing History](https://www.nytimes.com/2019/10/23/opinion/syria-youtube-content-moderation.html?smtyp=cur&smid=tw-nytopinion)
+- Columbia Journalism Review (2019) [YouTube takedowns are making it hard to document war crimes](https://www.cjr.org/hero/youtube-takedowns-war-crimes.php)
+- CNET (2019) [These watchdogs track secret online censorship across the globe](https://www.cnet.com/features/the-watchdogs-tracking-secret-online-censorship-across-the-globe-ooni/?ftag=COS-05-10aaa0b)
+- Newsy (2019) [YouTube Videos Show Evidence Of War Atrocities — Until They're Deleted](https://www.newsy.com/stories/youtube-removed-video-evidence-of-atrocities-in-syria/)
+- WJCT (2019) [The Importance Of Preserving Videos Of War Crimes](https://news.wjct.org/post/importance-preserving-videos-war-crimes)
+- MIT Technology Review (2019)[Technology exposed Syrian war crimes over and over. Was it for nothing?](https://www.technologyreview.com/s/614496/technology-exposed-syrian-war-crimes-over-and-over-was-it-for-nothing/)
 - DW (2019) [German firms sent weapons-grade chemicals to Syria despite sanctions — report](https://www.dw.com/en/german-firms-sent-weapons-grade-chemicals-to-syria-despite-sanctions-report/a-49355063)
 - Asharq AL-Awsat (2019) [Germany Investigates Chemical Material Exports to Syria ](https://aawsat.com/english/home/article/1787316/germany-investigates-chemical-material-exports-syria)
 - BBC (2019)  [German chemical firm Brenntag defends its Syria deliveries](https://www.bbc.com/news/world-europe-48773571)

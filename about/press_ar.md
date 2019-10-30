@@ -8,6 +8,7 @@ image: "/assets/about/press-1.png"
 نُشرت بعض المقالات الصحفية والتي سلطت الضوء على عمل الأرشيف السوري، من بينها:
 
 #### باللغة العربية:
+- الجمهورية.نت (2019) [أرشيف للعدالة والتاريخ](https://www.aljumhuriya.net/ar/content/%D8%A3%D8%B1%D8%B4%D9%8A%D9%81-%D9%84%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE?fbclid=IwAR01UMvahOaaTBpClcPZ6NMhemBH-v8ZA6UUM1dFrvxuPMkuH_Yy96mCHQc/)
 - منظمة العفو الدولية (2019) [كيف يعيق التغير المفاجئ لدى "فيسبوك" التحقيقات بشأن حقوق الإنسان](https://www.amnesty.org/ar/latest/news/2019/06/how-facebooks-sudden-change-hinders-human-rights-investigations/)
 - DW (2019) [بسبب مبيعات كيماوية لسوريا ـ شركة ألمانية تحت مجهر النيابة ](https://www.dw.com/ar/%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D9%83%D9%8A%D9%85%D8%A7%D9%88%D9%8A%D8%A9-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%80-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D9%85%D8%AC%D9%87%D8%B1-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9/a-49366858)
 - ميدان (2019) [من سوريا إلى ليبيا.. لماذا تحذف الشركات الرقمية أرشيف جرائم الحرب؟](https://midan.aljazeera.net/intellect/sociology/2019/5/26/%D9%85%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%AD%D8%B0%D9%81-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A3%D8%B1%D8%B4%D9%8A%D9%81-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8)
@@ -24,6 +25,12 @@ image: "/assets/about/press-1.png"
 
 #### بلغات أجنبيّة:
 
+- The New York Times (2019) [YouTube Is Erasing History](https://www.nytimes.com/2019/10/23/opinion/syria-youtube-content-moderation.html?smtyp=cur&smid=tw-nytopinion)
+- Columbia Journalism Review (2019) [YouTube takedowns are making it hard to document war crimes](https://www.cjr.org/hero/youtube-takedowns-war-crimes.php)
+- CNET (2019) [These watchdogs track secret online censorship across the globe](https://www.cnet.com/features/the-watchdogs-tracking-secret-online-censorship-across-the-globe-ooni/?ftag=COS-05-10aaa0b)
+- Newsy (2019) [YouTube Videos Show Evidence Of War Atrocities — Until They're Deleted](https://www.newsy.com/stories/youtube-removed-video-evidence-of-atrocities-in-syria/)
+- WJCT (2019) [The Importance Of Preserving Videos Of War Crimes](https://news.wjct.org/post/importance-preserving-videos-war-crimes)
+- MIT Technology Review (2019)[Technology exposed Syrian war crimes over and over. Was it for nothing?](https://www.technologyreview.com/s/614496/technology-exposed-syrian-war-crimes-over-and-over-was-it-for-nothing/)
 - DW (2019) [German firms sent weapons-grade chemicals to Syria despite sanctions — report](https://www.dw.com/en/german-firms-sent-weapons-grade-chemicals-to-syria-despite-sanctions-report/a-49355063)
 - Asharq AL-Awsat (2019) [Germany Investigates Chemical Material Exports to Syria ](https://aawsat.com/english/home/article/1787316/germany-investigates-chemical-material-exports-syria)
 - BBC (2019)  [German chemical firm Brenntag defends its Syria deliveries](https://www.bbc.com/news/world-europe-48773571)
