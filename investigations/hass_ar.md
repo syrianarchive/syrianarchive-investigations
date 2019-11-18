@@ -36,7 +36,6 @@ socialMediaImage: /assets/investigations/hass/image2.png
 
 > "استهداف مشفى نبض الحياة في بلدة حاس من قبل الطيران الحربي الروسي".
 
-<iframe src="https://giphy.com/embed/MCFOyRtoIiPPFZvSJs" width="680" height="470" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![hass01](/assets/investigations/hass/image2.png)
 

@@ -27,11 +27,9 @@ Many of the civilians injured as a result of the chemical attack had been transf
 
 The initial moment of airstrikes against the Khan Shaykhoun medical point and the Civil Defense center were captured by[ reporter Muaz Al Shami published a video][5]. See below:
 
-https://giphy.com/gifs/Pn2hAFSoLSaYg?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fsyrianarchive.org%2Fp%2Fpage%2Fmedical-facilities-under-fire-syria-incident-2%2F
 
 Muaz Al Shami then walks outside of medical point to document the smoke resulting from the airstrike. See below:
 
-https://giphy.com/gifs/WuCcIdthSxnI4?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fsyrianarchive.org%2Fp%2Fpage%2Fmedical-facilities-under-fire-syria-incident-2%2F
 
 Another reporter who was at the targeted site, Hadi Alabdallah, also [published a video][6] showing destruction inside and outside the medical point. See below:
 

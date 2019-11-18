@@ -56,7 +56,7 @@ Video documentation of the attack on 19 September confirms that the attack has t
 
 Orient news video captured during the attack on 19-09-2017 compared to satellite images taken in 21-02-2017 and 02-06-2017
 
-Hamah health directorate published a statement about the attack on [their facebook channel][5] saying that the hospital was attacked at 11:00am on 19-09-2017 with two airstrikes which resulted in hospital building damage as well as its equipment and three ambulances.  
+Hamah health directorate published a statement about the attack on [their facebook channel][15] saying that the hospital was attacked at 11:00am on 19-09-2017 with two airstrikes which resulted in hospital building damage as well as its equipment and three ambulances.  
 ![19-09-kh-statement.png][15]  
 Additional videos related to this attack are provided below
 
@@ -86,7 +86,6 @@ On 19 September 2017 at around 12:00, the Rahman hospital in Altah was attacked 
 
 [Step News Agency has published a video][20] showing the first moment of an airstrike that targeted Al Rahman hospital.
 
-<iframe allowfullscreen="" class="giphy-embed" frameborder="0" height="470" src="https://giphy.com/embed/13yUel7H9OCU0g" width="680"></iframe><p><a href="https://www.youtube.com/watch?v=2rVKRbo52so">
 
 [Qasioun News Agency also published a video][21] which features an interview with a member of the Syrian Civil Defence rescue team, who said: "Al Rahman hospital was attacked by a Russian airstrike.After the first airstrike we emptied the hospital of women, children and infants.  Generators were on fire as a result of this attack."
 

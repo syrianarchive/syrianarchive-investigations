@@ -1,4 +1,3 @@
----
 layout: investigation.html
 title: "مرافق صحية تحت النار: مستشفى دار الحكمة في كفرنبل، إدلب "
 desc: " تحقيق يتناول استهداف مستشفى مرخص لدى الحكومة السورية بالقصف والغارات الجويّة"
@@ -33,7 +32,6 @@ socialMediaImage: /assets/investigations/daralhikma/image21.png
 
 وذكر المراسل أن مدينة كفرنبل تعرضت للهجوم بالغارات الجوية والقصف المدفعي، ما أسفر عن دمار ونشوب حرائق كما يتضح في مقطع الفيديو.
 
-<iframe src="https://giphy.com/embed/U4Y8ud7FLf2u1QKE3S" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ![](/assets/investigations/daralhikma/image17.png)
 *مراسل قناة [قناة أورينت نيوز](https://www.youtube.com/watch?v=wYTImxFEg8E)  يذكر تفاصيل الهجوم في مقطع الفيديو*

@@ -107,7 +107,6 @@ Two dashcam camera videos were published, on the Facebook page of “The Syrian 
 
 [The first video](https://www.facebook.com/alatareb0/videos/1621197111266483/), published on Facebook by “The Syrian Revolution Coordination in Atarib City and its Villages”, claims to show the first airstrike attacking the Free Police building in Atarib. The moment of impact is visible The video is timestamped 2017/11/13 at 15:07, which is consistent with the timing of the other attacks.
 
-<iframe src="https://giphy.com/embed/3o6nV3XhqDAtU2w6mQ" width="520" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3o6nV3XhqDAtU2w6mQ"></a></p>
 
 Using openly available satellite imagery, it is possible to confirm the location the car is driving southward towards [a junction](http://wikimapia.org/#lang=de&lat=36.140117&lon=36.825512&z=19&m=b&show=/37462730/Building-bottom-floors-destroyed-) in central Atarib. At 8 seconds into the video, the impact of an apparent airstrike on this building at 8 seconds, which is said to be the [Free Police building](http://wikimapia.org/#lang=de&lat=36.139608&lon=36.825335&z=19&m=b&show=/37462730/Building-bottom-floors-destroyed-).
 
@@ -115,7 +114,6 @@ Using openly available satellite imagery, it is possible to confirm the location
 
 [The second dashcam video](https://www.facebook.com/mohammad.saber.311/videos/822800251223338/), uploaded to Facebook by “Mouhammed Saber”, also shows a timestamp: 2017/11/13 at 15:12, suggesting that if the time is correct it shows the moment of impact three minutes after the first airstrike on the Free Police building. This is also the time reported of the second airstrike in Atarib that day.
 
-<iframe src="https://giphy.com/embed/3o751QWigWq0Z0w3aE" width="520" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3o751QWigWq0Z0w3aE"></a></p>
 
 Using openly available satellite imagery, the Syrian Archive has determined that it is highly probable the car was standing in the road in front of the damaged building at the time of filming. At 24 seconds into the video, we can see the fire as a result of the airstrike that targeted the building behind the car. See below:
 
