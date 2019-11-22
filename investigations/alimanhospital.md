@@ -70,7 +70,7 @@ Al Iman Hospital experienced another attack on June 28th 2019. Human Appeal [rep
 
 Confirmed by interviews conducted by the investigations team as well as online open source media, Al Iman hospital was directly targeted by six high explosive rockets that hit the hospital’s main courtyard and generators cutting it off from its necessary infrastructures like oxygen and electricity. Because of this attack, the hospital was forced out of service. Hospital doctors and staff, the Syrian Civil Defense, and local news sources, confirmed the targeting of hospital, which is located within the [de-escalation zones](https://www.youtube.com/watch?v=5cF-gIL8yzk) and lands under the [ceasefire agreement said to be implemented at 6 AM Saturday, August 31st 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). Al Iman hospital was directly and deliberately targeted by fixed-wing aircrafts just five hours before this agreement took effect.
 
-[Include Gif from this showing right after attack](https://www.facebook.com/watch/?t=41&v=691183148017035)
+![](/assets/investigations/alimanhospital/image7.gif)
 
 ![](/assets/investigations/alimanhospital/image13.png)
 
@@ -136,7 +136,7 @@ On the sides of the hospital, generators for electricity and oxygen were irrepar
 
 Images taken by the investigations team of the hospital’s oxygen and electricity generators after the attack.
 
-[gif of this vid](https://drive.google.com/file/d/12vjEk5nvDXMaumto2bYNhOyL1TyaX3rP/view)
+![](/assets/investigations/alimanhospital/image5.gif)
 
 Additional footage posted on YouTube by the [Syrian Press Center](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) features the roof of the hospital covered in rubble as well as the damage to the hospital’s ambulance. This video as well as images provided by the investigations team features the craters from the airstrikes, which surround the hospital.
 
@@ -144,7 +144,7 @@ Additional footage posted on YouTube by the [Syrian Press Center](https://www.yo
 
 An image taken by the investigations team of craters from the airstrike near the hospital’s generators.
 
-[Make initial portion of this a gif](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g)
+![](/assets/investigations/alimanhospital/image6.gif)
 
 The facility is left standing only because the airstrike hit the soil which absorbed some of the shock of the explosions. Nevertheless, the windows, doors, and rooms of the hospitals were left smashed and shattered after the attack.
 

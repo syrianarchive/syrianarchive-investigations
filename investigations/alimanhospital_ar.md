@@ -73,7 +73,7 @@
 
 أكدت كل من المقابلات التي أجراها فريق التحقيقات  والوسائط مفتوحة المصدر على الإنترنت أن مستشفى الإيمان استُهدف مباشره بستة صواريخ عالية الانفجار أصابت فناءه الرئيسي والمولّدات، ما أدى لحرمانه من بنى تحتية هامّة كالأكسجين والكهرباء، وخروجه عن الخدمة. أكد كلّ من أطباء وموظفي المستشفى، الدفاع المدني السوري، ومصادر إعلامية محلية استهداف المرفق الصحي، الذي يقع داخل [مناطق خفض التصعيد](https://www.youtube.com/watch?v=5cF-gIL8yzk) والأراضي الخاضعة  [لاتفاق وقف إطلاق النار الذي قيل أنه سيدخل حيّز التنفيذ في الساعة السادسة من صباح يوم السبت ، 31 أب/أغسطس 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). استُهدف مشفى الايمان بشكل مباشر ومتعمد من قبل طائرات ذات أجنحة ثابتة قبل خمس ساعات فحسب من بدء سريان هذا الاتفاق.
 
-[Include Gif from this showing right after attack](https://www.facebook.com/watch/?t=41&v=691183148017035)
+![](/assets/investigations/alimanhospital/image7.gif)
 
 ![](/assets/investigations/alimanhospital/image13.png)
 
@@ -137,7 +137,7 @@
 
 صور التقطها فريق التحقيقات لمولدات الأكسجين والكهرباء في المستشفى بعد الهجوم.
 
-[gif of this vid](https://drive.google.com/file/d/12vjEk5nvDXMaumto2bYNhOyL1TyaX3rP/view)
+![](/assets/investigations/alimanhospital/image5.gif)
 
 إضافة إلى ذلك؛ نشر [المركز الصحفي السوري مقطع فيديو](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) على يوتيوب يظهر سطح المشفى مغطى بالأنقاض بالإضافة إلى الأضرار التي لحقت بسيارة الإسعاف. يظهر هذا المقطع والصور التي التقطها فريق التحقيقات حفرًا ناجمة عن الغارات الجوية محيطة بالمشفى.
 
@@ -145,7 +145,7 @@
 
 صورة التقطها فريق التحقيقات تظهر الحفر الناجمة عن الضربة الجوية بالقرب من مولدات المستشفى.
 
-[Make initial portion of this a gif](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g)
+![](/assets/investigations/alimanhospital/image6.gif)-g)
 
 بقي بناء المنشأة قائمًا بسبب إصابة الصواريخ للتربة المحيطة بالمشفى، والتي امتصت جزءًا من ضغط الانفجار. رغم ذلك، أدى الهجوم إلى دمار غرف المشفى وتهشّم نوافذها وأبوابها.
 
