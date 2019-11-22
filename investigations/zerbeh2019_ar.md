@@ -107,7 +107,7 @@
 
 أكّدت المقابلات الإضافية التي أجراها فريق التحقيقات توقيت ومدى الضرر الناجم عن الهجوم. كما ذُكر سابقًا، أبلغ فواز جويد مدير المركز الإعلامي في ناحية الزربة، فريق التحقيقات أنه رصد طائرة حربية من طراز سوخوي 24 في الساعة 5:35، استهدفت بدايةً مناطق مدنية، كما هو موضح في مقطع فيديو سابق للدفاع المدني، ثم قصفت مركز الرعاية الصحية. وأوضح جويد أنه وصل بسرعة إلى مكان الحادث والتقط عددًا من الصور ومقاطع الفيديو بعد دقائق من الهجوم على المنشأة الطبية.
 
-https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be (use gif from this video showing damage to the town)
+![](/assets/investigations/zerbeh2019/image1.gif)
 
 بشكلٍ يتوافق مع إفادة جويد؛ قال الممرض خالد عدوي أنه كان يقف على مقربة من نقطة التأثير، حيث شاهد الغارة التي نُفذت على مركز البلدة، تلتها غارة جوية ثانية أصابت مباشرة مركز الرعاية الصحية.
 
@@ -129,7 +129,7 @@ https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be (use gif from this 
 
 ## تحليل الأضرار:
 
-Use this video for a gif ([https://drive.google.com/file/d/1bdYs4TYhqed98mihd\_IxnCIG8x\_OfGNs/view?usp=sharing](https://drive.google.com/file/d/1bdYs4TYhqed98mihd_IxnCIG8x_OfGNs/view?usp%3Dsharing&sa=D&ust=1573673328521000))
+![](/assets/investigations/zerbeh2019/image2.gif)
 
 لحقت بالمركز الطبي أضرار داخلية وخارجية شديدة نتيجة لاستهدافه بشكلٍ مباشر من الجو، الأمر الذي جعله غير قابل للصيانة وأخرجه عن الخدمة. وثّق فريق التحقيقات الأضرار من خلال الصور، مقاطع الفيديو والمقابلات، وذلك للتأكّد من التطابق بين الوثائق الخاصة بالفريق، المواد مفتوحة المصدر حول الهجوم، وصور قديمة للمنشأة.
 
@@ -176,7 +176,7 @@ Use this video for a gif ([https://drive.google.com/file/d/1bdYs4TYhqed98mihd\_I
 
 تُظهر الصور ومقاطع الفيديو مقاعد خشبية محطّمة في غرف الانتظار، كرسي عيادة أسنان متضرر، إضافة إلى دمار الصيدلية ومخزونها من الأدوية بشكل كامل. كما تتطابق الجدران السوداء في بهو المركز مع ما أشير إليه من علامات حريق خارج مبنى المنشأة
 
-[Show gif of video of medicines inventory](https://drive.google.com/file/d/1gwQVobRGvSGlqKymhkNh4p0cUJr3G2Wv/view?usp=sharing)
+![](/assets/investigations/zerbeh2019/image3.gif)
 
 ![](/assets/investigations/zerbeh2019/image2.png)
 

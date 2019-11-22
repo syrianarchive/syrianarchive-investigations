@@ -94,7 +94,7 @@ In a video interview with the investigations team, Dr. Abdullah Hamidi confirmed
 
 Supplementary interviews conducted by the investigations team confirm the time and extent of damage of the attack. As mentioned earlier, Fawaz Juwaid, director of the Al Zerbeh Media Center, reported to the investigations team that he spotted a Sukhoi 24 warplane at 5:35 first targeting civilian areas, as shown in a previously mentioned Civil Defense [video](https://youtu.be/brbi_1clAPI&sa=D&ust=1573673328517000), then hitting the healthcare center. Juwaid detailed that he quickly arrived at the scene and took a number of [photos](https://www.facebook.com/zerba.media.office/posts/964905790524041?__tn__%3D-R&sa=D&ust=1573673328517000) and [videos](https://www.facebook.com/watch/?v%3D362441478012814&sa=D&ust=1573673328517000) minutes after the attack on the medical facility.
 
-https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be (use gif from this video showing damage to the town)
+![](/assets/investigations/zerbeh2019/image1.gif)
 
 In congruence with Juwaid’s statement, Nurse Khalid Adiwi, who said was standing close to the point of impact, said he saw a strike first hit the center of the town with a later second airstrike directly hitting the healthcare center.
 
@@ -112,7 +112,7 @@ The Free Aleppo Health Directorate additionally [posted](https://www.facebook.co
 
 ## Analysis of the Damage:
 
-Use this video for a gif ([https://drive.google.com/file/d/1bdYs4TYhqed98mihd\_IxnCIG8x\_OfGNs/view?usp=sharing](https://drive.google.com/file/d/1bdYs4TYhqed98mihd_IxnCIG8x_OfGNs/view?usp%3Dsharing&sa=D&ust=1573673328521000))
+![](/assets/investigations/zerbeh2019/image2.gif)
 
 Because the medical facility was directly targeted by air, the hospital suffered severe external and internal damage rendering it beyond repair and out of service. The investigations team documented the damage to the healthcare center through pictures, videos, and interviews ensuring congruence between their own documentation, open source media of the attack, and old photos of the facility.
 
@@ -158,7 +158,7 @@ An image taken by the investigations team of the hospital’s lobby after the at
 
 Additionally, images and videos show broken wooden benches in the waiting rooms, a damaged patient and dental treatment chair as well as the complete destruction of the pharmacy and its inventory of medicines. Moreover, blacks walls in the lobby of the hospital match the previously mentioned burn marks outside the facility.
 
-[Show gif of video of medicines inventory](https://drive.google.com/file/d/1gwQVobRGvSGlqKymhkNh4p0cUJr3G2Wv/view?usp=sharing)
+![](/assets/investigations/zerbeh2019/image3.gif)
 
 ![](/assets/investigations/zerbeh2019/image2.png)
 
