@@ -176,7 +176,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
   
 Beginning outside of Aleppo and Idlib in the province of Homs, a Su-22 (or Sukhoi 22) was spotted taking off north from Shayrat Airbase at 5:18 PM. A Su-22 was then spotted flying north at 5:26 PM over Taman’a, a town in the Idlib province around 70 kilometers south of Al Zerbeh. At 5:04 PM and then later at 5:34 PM, a Su-22 was spotted above the International Agricultural Research Center in the Dry Areas (ICARDA), which lies just 6 kilometers southwest of Al Zerbeh. Lastly at 5:35 PM, a Su-22 was spotted circling over Al Zerbeh. With the common practice of circling by warzone aircrafts indicating a target acquisition and/or preparation for an imminent attack, the circling by a Su-22 over Al Zerbeh corroborates the estimated time of the attack as reported in interviews conducted by the investigations team.
 
-Put link of tableau data here
+https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link 
 
 This data however does not fully match reports, such as Fawaz Juwaid’s from the Al Zerbeh Media Center, of a Sukhoi 24 warplane targeting the hospital and town. Although possibly a simple misidentification, there is no direct evidence available that one of the observed aircraft was involved in the attack on Al Zerbeh. However, the presence of aircrafts above Al Zerbeh and neighboring towns increases the likelihood that an air attack occurred on the town and hospital during the times shown and corroborated in open source media and reported on by the Syrian Archive’s investigations team.
 
