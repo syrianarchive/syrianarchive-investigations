@@ -1,3 +1,12 @@
+---
+layout: investigation.html
+title: "investigation"
+date: 2018-02-09
+desc: ""
+image: /assets/investigations/hrc_cover.png
+drafts: true
+---
+
 ## حول الحادثة
 
 - الموقع: حلب: أورم الكبرى
