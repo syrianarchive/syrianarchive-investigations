@@ -23,6 +23,8 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 
 - Type of Attack: One airstrike targeting the facility and the town center with two missiles according to interviewed witnesses.
 
+- Munitions Identified: N/A
+
 - Potentially Responsible: A Sukhoi 22 aircraft according to flight observation data.
 
 ## Background on the Hospital:
