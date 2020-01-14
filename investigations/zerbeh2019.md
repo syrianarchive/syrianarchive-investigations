@@ -1,11 +1,12 @@
-﻿---
-layout: investigation.html
-title: "investigation"
-date: 2018-02-09
-desc: ""
-image: /assets/investigations/hrc_cover.png
-drafts: true
 ---
+layout: investigation.html
+title: "Medical Facilities Under Fire: Al Zerbeh Primary Healthcare Center"
+desc: "Investigation reveals hospital targeted with airstrikes"
+date: 2020-01-14
+image: /assets/investigations/
+socialMediaImage: /assets/investigations/
+---
+
 ## Initial Summary:
 
 - Location: Aleppo: Al Zerbeh
@@ -28,29 +29,29 @@ drafts: true
 
 ![](/assets/investigations/zerbeh2019/image9.jpg)
 
-An image from before the attack provided by the investigations team.
+*An image from before the attack provided by the investigations team.*
 
 The Al Zerbeh Primary Healthcare Center is a free healthcare provider operating since 2009 and reopened at the start of 2018 under the support of the [Syrian American Medical Association](https://www.sams-usa.net). Activist Ahmad Al Hamoud claims that the center has existed since 1982 in the same building that was destroyed in the attack.
 
 ![](/assets/investigations/zerbeh2019/image16.png)
 
-A map published in a [2010 study](https://www.academia.edu/12167122/Zone_of_Samaan_Jabal_-_Regional_Study) of health centers in the Jabal Saan region. The map includes Al Zerbeh Primary Healthcare Center further corroborating its existence before the conflict.
+A map published in a [2010 study](https://www.academia.edu/12167122/Zone_of_Samaan_Jabal_-_Regional_Study) of health centers in the Jabal Samaan region. The map includes Al Zerbeh Primary Healthcare Center further corroborating its existence before the conflict.
 
 Like other medical facilities in the countryside of Aleppo, the medical facility provides basic healthcare to those in Al Zerbeh and its neighboring villages/rural areas. The hospital houses an internal medicine clinic, a pediatric clinic, a women’s clinic, a dental treatment clinic, a vaccination center, a pharmacy, and a laboratory for medical analysis. The facility also has an ambulance service both 24/7 for emergencies as well as to transport patients to other hospitals. It was not the first time that the center was targeted.
 
 ### A Previous Attack
 
-On May 6, the center was first [targeted](https://www.facebook.com/Katoub.Mohamad/posts/1195292320631352) with its main building, gate, and outer wall damaged. The Civil Defense were the first to reach the facility and assess the damage for both attacks. As shown in the images below, the hospital suffered greater damage from the August 30th attack. The hospitals sheet metal cover for the courtyard and wall bordering the water tower, for example, were completely destroyed from the August 30th attack and were not damaged from the May 6th attack.
+On May 6 2019, the center was first [targeted](https://www.facebook.com/Katoub.Mohamad/posts/1195292320631352) with its main building, gate, and outer wall damaged. The Civil Defense were the first to reach the facility and assess the damage for both attacks. As shown in the images below, the hospital suffered greater damage from the August 30th attack. The hospitals sheet metal cover for the courtyard and wall bordering the water tower, for example, were completely destroyed from the August 30th attack and were not damaged from the May 6th attack.
 
-![](/assets/investigations/zerbeh2019/image22.jpg)
+![](/assets/investigations/zerbeh2019/image-22-new.jpg)
 
-Both these images are stills from videos taken by the White Helmets of the [May 6th](https://www.youtube.com/watch?v=UrgnvikpVk0) (on the left) and [August 30th](https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be) (on the right) attacks. The sheet metal covering the hospital’s courtyard and the wall bordering the water tower were preserved in the May 6th attack but destroyed in the August 30th airstrike.
+Both these images are stills from videos taken by the White Helmets of the [May 6th](https://www.youtube.com/watch?v=UrgnvikpVk0) (on the left) and [August 30th](https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be) (on the right) attacks. The sheet metal covering the hospital’s courtyard and the wall bordering the water tower were preserved in the May 6th 2019 attack but destroyed in the August 30th 2019 airstrike.
 
 Alongside destruction, the pictures and videos from both attacks show an attempted reconstruction of the hospital after its first May 6th attack. For example, the outer wall parallel to the street, previously destroyed in the May 6th attack, was under reconstruction and was again damaged with the August 30th attack.
 
-![](/assets/investigations/zerbeh2019/image18.jpg)
+![](/assets/investigations/zerbeh2019/image-18-new.png)
 
-Videos from the [May 6th](https://www.youtube.com/watch?v%3DUrgnvikpVk0&sa=D&ust=1573673328509000) (on the left) and [August 30th](https://www.youtube.com/watch?v%3Dbrbi_1clAPI%26feature%3Dyoutu.be&sa=D&ust=1573673328510000) (on the right) attacks show an attempt to rebuild the outer wall, standing parallel to the street, destroyed in the May 6th attack.
+*Videos from the [May 6th 2019](https://www.youtube.com/watch?v%3DUrgnvikpVk0&sa=D&ust=1573673328509000) (on the left) and [August 30th 2019](https://www.youtube.com/watch?v%3Dbrbi_1clAPI%26feature%3Dyoutu.be&sa=D&ust=1573673328510000) (on the right) attacks show an attempt to rebuild the outer wall, standing parallel to the street, destroyed in the May 6th attack.*
 
 Repeated attacks on the facility, like the May 6th and August 30th attacks, indicate the direct and deliberate targeting of the medical facility. Although threatened by these direct attacks, the hospital, because of its location, is vital for those living in the southwestern countryside of Aleppo.
 
@@ -58,7 +59,7 @@ Repeated attacks on the facility, like the May 6th and August 30th attacks, indi
 
 ![](/assets/investigations/zerbeh2019/image19.jpg)
 
-The location of Al Zerbeh, Al Eis, and Al Atareb on Google Earth.
+*The location of Al Zerbeh, Al Eis, and Al Atareb on Google Earth.*
 
 The hospital is located in the small village of Al Zerbeh, which lies in the southwestern rebel controlled countryside of Aleppo. When the hospital is attacked and subsequently out of service, the nearest medical facilities for those in and around Al Zerbeh are 15 km away in Al Eis and 30 km away in Al Atareb. As shown below, the hospital's location, was corroborated utilizing open source online information as well as satellite imagery from Google Earth Pro.
 
@@ -70,28 +71,29 @@ The buildings shown in Google Earth satellite imagery match what is shown in ima
 
 ![](/assets/investigations/zerbeh2019/image15.jpg)
 
-An image taken by the investigations team of the destroyed outer wall and entrance gate to the center.
+*An image taken by the investigations team of the destroyed outer wall and entrance gate to the center.*
 
 Open source media in corroboration with flight observation data and videos, images, and interviews taken by the Syrian Archive’s investigations team on the ground 36 hours after the attack confirm that the Zerbeh Primary Healthcare Center was targeted, attacked, and destroyed by an airstrike missile on August 30 2019 at around 5:30 to 6:10 PM. Two missiles were allegedly shot from one plane with the first hitting the town’s center near the hospital and the second directly hitting the medical facility itself. The attack destroyed the hospital’s main square and building causing fires that spread throughout the facility destroying the majority of the hospital’s rooms.
 
-![](/assets/investigations/zerbeh2019/image20.png)
-![](/assets/investigations/zerbeh2019/image10.png)
+<iframe frameborder="0" class="juxtapose" width="100%" height="529" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=717a2b14-36c6-11ea-b9b8-0edaf8f81e27"></iframe>
 
-Satellite imagery from Digital Globe of the healthcare center on August 23rd (on the left) 7 days before the attack and on September 20th (on the right) 21 days after the attack. The damage shown on the satellite imagery corroborates both the direct targeting of the hospital and the date of the attack.
+*Satellite imagery from Digital Globe of the healthcare center on August 23rd 2019 (on the left) 7 days before the attack and on September 20th 2019 (on the right) 21 days after the attack. The damage shown on the satellite imagery corroborates both the direct targeting of the hospital and the date of the attack.*
 
 The airstrike forced the hospital out of service. The extensive damage caused by the attack and the impact points of the missiles, as recorded by our investigations team, further confirms that the healthcare center was deliberately and directly targeted.
 
-The airstrike resulted in the death of a child and the injury of three other civilians. This is in addition to the internal and external destruction of the facility and the town’s public square. As described later, the hospital’s patient reception corridor and solar panels were destroyed alongside its medical equipment (including respiration machines, ultrasound devices, dental clinic chairs, laboratory equipments and medicines from the pharmacy). This is featured in reports done by local news organizations like  [SMART](https://www.facebook.com/201197066996710/posts/727711057678639/), [Step](https://stepagency-sy.net/2019/08/30/%D8%BA%D8%A7%D8%B1%D8%A9-%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%8A%D9%84%D9%8B%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%88/), and [Sham](http://www.shaam.org/news/syria-news/%25D8%25B7%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D9%258A%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25B1%25D9%2583%25D8%25B2-%25D8%25A7%25D9%2584%25D8%25B2%25D8%25B1%25D8%25A8%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B5%25D8%25AD%25D9%258A-%25D8%25A8%25D8%25B1%25D9%258A%25D9%2581-%25D8%25AD%25D9%2584%25D8%25A8-%25D9%2588%25D9%258A%25D9%2588%25D9%2582%25D8%25B9-%25D8%25B4%25D9%2587%25D9%258A%25D8%25AF-%25D8%25B7%25D9%2581%25D9%2584.html)  as well as an interview done with the healthcare center’s director Dr. Abdullah Hamidi.
+The airstrike resulted in the death of a child and the injury of three other civilians. This is in addition to the internal and external destruction of the facility and the town’s public square. As described later, the hospital’s patient reception corridor and solar panels were destroyed alongside its medical equipment (including respiration machines, ultrasound devices, dental clinic chairs, laboratory equipments and medicines from the pharmacy). This is featured in reports done by local news organizations like [Step](https://stepagency-sy.net/2019/08/30/%D8%BA%D8%A7%D8%B1%D8%A9-%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%8A%D9%84%D9%8B%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%88/), as well as an interview done with the healthcare center’s director Dr. Abdullah Hamidi.
 
 ![](/assets/investigations/zerbeh2019/image13.png)
 
-An image showing the fire in the healthcare facility after the attack posted by [SAMS](https://www.facebook.com/sams.arabic/photos/pcb.1696915823774966/1696915100441705/?type=3&theater).
+*An image showing the fire in the healthcare facility after the attack posted by [SAMS](https://www.facebook.com/sams.arabic/photos/pcb.1696915823774966/1696915100441705/?type=3&theater).*
 
 The Syrian American Medical Association (SAMS), which supports the healthcare facility, published [a statement and 25 photos](https://www.facebook.com/1174443599355527/posts/1696915823774966) of the damage in congruence with Dr. Hamidi’s statement confirming the targeting of facility.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsams.arabic%2Fposts%2F1696915823774966&width=500" width="500" height="757" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 The Syrian Civil Defense and the Al Zerbeh Media Center posted a [video](https://youtu.be/brbi_1clAPI) at 11:24 PM and a [video](https://www.youtube.com/watch?v=m4CcHmVrF8I&feature=youtu.be&fbclid=IwAR0F2t7gi1LgKza3K0QZ_1oMkQ13N0hZSE3q4gQCx2QxbKByTdUQ-lJd14s) at 10:19 PM, respectively, showing the targeting of town of Al Zerbeh. Both videos, from an analysis of the shadows, were most likely recorded in the late afternoon further confirming the time the hospital was attacked. In an interview with the investigations team, Fawaz Jowaid, the director of the Al Zerbeh Media Center confirmed the time of the strike at 5:35 PM.
 
-![](/assets/investigations/zerbeh2019/image23.jpg)
+![](/assets/investigations/zerbeh2019/image-23-new.jpg)
 
 Shadows shown in the Syrian Civil Defense’s [video](https://youtu.be/brbi_1clAPI) on YouTube match the position of the sun at around 6:30 PM the day of the attack. This was found using the [SunCalc](https://www.suncalc.org/#/36.0681,36.9799,3/2019.11.08/10:57/1/1) tool.
 
@@ -113,9 +115,13 @@ At 1:55 AM that night, Al Zerbeh Media Center posted a [video](https://www.faceb
 
 ![](/assets/investigations/zerbeh2019/image5.png)![](/assets/investigations/zerbeh2019/image6.png)
 
-Stills from Al Zerbeh Media Center’s video of citizen journalists and first responders approaching the town’s center and the Al Zerbeh Primary Healthcare Center.
+*Stills from Al Zerbeh Media Center’s video of citizen journalists and first responders approaching the town’s center and the Al Zerbeh Primary Healthcare Center.*
 
-The Free Aleppo Health Directorate additionally [posted](https://www.facebook.com/healthaleppo/posts/2516657138397934?__xts__[0]=68.ARAnsUiNNprYNXWBeBbx46oP_3KXxwgIEyRW7fhiWJA16BIvc5e9ewvMNXsGJPvfYLWDyW0IoZ3HRlqUdAHNAf3yuMbZQCmulYrJ6o3IjhwAvqNGKfBI_wwMUk4iKudIIkHtWbRq1LZX0CuXtqwZjpFOPY3vF0ZIlpmGT_JHja6-IqIDm6QEFstKc6iELt_kN9NSyPMUVGCXTrYt_RAv8E4aiy_Y6gU5y_PX2aSksTAF3cJ-KnLphejo02dVjm2Hydlw6nPDlYxpEzhtTTIHquFOElKraXK2e7FORJB-6OxznSP9VNuV8Iw91WdiUkS-xf0_wRTh3FqxS_ZAB8rqtjcNkw&__tn__=-R) on Facebook confirming the attack. As mentioned above, [Step](https://stepagency-sy.net/2019/08/30/%D8%BA%D8%A7%D8%B1%D8%A9-%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%8A%D9%84%D9%8B%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%88/), [Sham](http://www.shaam.org/news/syria-news/%25D8%25B7%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D9%258A%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25B1%25D9%2583%25D8%25B2-%25D8%25A7%25D9%2584%25D8%25B2%25D8%25B1%25D8%25A8%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B5%25D8%25AD%25D9%258A-%25D8%25A8%25D8%25B1%25D9%258A%25D9%2581-%25D8%25AD%25D9%2584%25D8%25A8-%25D9%2588%25D9%258A%25D9%2588%25D9%2582%25D8%25B9-%25D8%25B4%25D9%2587%25D9%258A%25D8%25AF-%25D8%25B7%25D9%2581%25D9%2584.html), and [SMART](https://smartnews-agency.com/ar/wires/397364/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AE%D8%B1%D9%88%D8%AC-%D9%85%D8%B1%D9%83%D8%B2-%D8%B5%D8%AD%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC%D9%86%D9%88%D8%A8-%D8%AD%D9%84%D8%A8?fbclid=IwAR0gLXi_8L8ekr0NFKZlMDp_gUmHQYkWOHrk5gh2u216ysvqmlYnS5Rn4_A) news all confirmed the attack and its casualties in separate reports.
+The Free Aleppo Health Directorate additionally [posted](https://www.facebook.com/healthaleppo/posts/2516657138397934?__xts__[0]=68.ARAnsUiNNprYNXWBeBbx46oP_3KXxwgIEyRW7fhiWJA16BIvc5e9ewvMNXsGJPvfYLWDyW0IoZ3HRlqUdAHNAf3yuMbZQCmulYrJ6o3IjhwAvqNGKfBI_wwMUk4iKudIIkHtWbRq1LZX0CuXtqwZjpFOPY3vF0ZIlpmGT_JHja6-IqIDm6QEFstKc6iELt_kN9NSyPMUVGCXTrYt_RAv8E4aiy_Y6gU5y_PX2aSksTAF3cJ-KnLphejo02dVjm2Hydlw6nPDlYxpEzhtTTIHquFOElKraXK2e7FORJB-6OxznSP9VNuV8Iw91WdiUkS-xf0_wRTh3FqxS_ZAB8rqtjcNkw&__tn__=-R) on Facebook confirming the attack.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhealthaleppo%2Fposts%2F2516657138397934&width=500" width="500" height="707" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+As mentioned above, [Step](https://stepagency-sy.net/2019/08/30/%D8%BA%D8%A7%D8%B1%D8%A9-%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%8A%D9%84%D9%8B%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%88/), [Sham](http://www.shaam.org/news/syria-news/%25D8%25B7%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D9%258A%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25B1%25D9%2583%25D8%25B2-%25D8%25A7%25D9%2584%25D8%25B2%25D8%25B1%25D8%25A8%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B5%25D8%25AD%25D9%258A-%25D8%25A8%25D8%25B1%25D9%258A%25D9%2581-%25D8%25AD%25D9%2584%25D8%25A8-%25D9%2588%25D9%258A%25D9%2588%25D9%2582%25D8%25B9-%25D8%25B4%25D9%2587%25D9%258A%25D8%25AF-%25D8%25B7%25D9%2581%25D9%2584.html), and [SMART](https://smartnews-agency.com/ar/wires/397364/%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D9%88%D8%AE%D8%B1%D9%88%D8%AC-%D9%85%D8%B1%D9%83%D8%B2-%D8%B5%D8%AD%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A8%D9%82%D8%B5%D9%81-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AC%D9%86%D9%88%D8%A8-%D8%AD%D9%84%D8%A8?fbclid=IwAR0gLXi_8L8ekr0NFKZlMDp_gUmHQYkWOHrk5gh2u216ysvqmlYnS5Rn4_A) news all confirmed the attack and its casualties in separate reports.
 
 ## Analysis of the Damage:
 
@@ -127,41 +133,41 @@ Because the medical facility was directly targeted by air, the hospital suffered
 
 ![](/assets/investigations/zerbeh2019/image12.png)
 
-This photo, posted by [SAMS](https://www.facebook.com/sams.arabic/photos/pcb.1696915823774966/1696915013775047/?type=3&theater) the afternoon after the attack, shows the extensive damage to the outside of the hospital.
+*This photo, posted by [SAMS](https://www.facebook.com/sams.arabic/photos/pcb.1696915823774966/1696915013775047/?type=3&theater) the afternoon after the attack, shows the extensive damage to the outside of the hospital.*
 
 From the attack, the hospital suffered significant damage to its outer courtyard with the parts of the fence surrounding the center either damaged or completely destroyed. The sheer power of the airstrikes destroyed the main gate and paved floors of the facility. Parts of the healthcare center’s courtyard cover and roof, made from sheet metal, were destroyed from the attack with remnants found on an elevated piece of transformer equipment as well as in a tree, which again indicates the strength of the attack and explosion.
 
 ![](/assets/investigations/zerbeh2019/image3.jpg)
 
-An image of the hospital courtyard cover before the attack provided by the investigations team.
+*An image of the hospital courtyard cover before the attack provided by the investigations team.*
 
 ![](/assets/investigations/zerbeh2019/image7.jpg)
 
-Images taken by the investigations team show the previous cover of the hospital courtyard now destroyed.
+*Images taken by the investigations team show the previous cover of the hospital courtyard now destroyed.*
 
 Moreover, infrastructures necessary for the function of the hospital were destroyed. The facility’s solar panels, which supply a significant amount of electricity to the center, were damaged and ruined by shrapnel along with the hospital’s water tanks which were punctured and displaced from the attack.
 
 ![](/assets/investigations/zerbeh2019/image4.png)
 
-The hospital’s solar panels were severely damaged by shrapnel as shown in this image provided by [SAMS](https://www.facebook.com/sams.arabic/photos/pcb.1696915823774966/1696914957108386/?type=3&theater).
+*The hospital’s solar panels were severely damaged by shrapnel as shown in this image provided by [SAMS](https://www.facebook.com/sams.arabic/photos/pcb.1696915823774966/1696914957108386/?type=3&theater).*
 
 Photos and videos show the extensive damage to the fundamental structure of the hospital as well. The collapse of the concrete columns in the front of the building and on its outer wall as well as the uprooting of the outer cement and paint layers from the inner building indicate the high pressure of the attack and its subsequent damage.
 
 ![](/assets/investigations/zerbeh2019/image8.png)
 
-An image taken by the investigations team showing the outer destruction of the center.
+*An image taken by the investigations team showing the outer destruction of the center.*
 
 The intensity of the attack is also seen in the iron “sheets” or “grilles” originally placed over the windows which are now only pieces strewn along the external and internal grounds of the hospital. Additionally, in congruence with interviews and reports, the outside of the facility features combustion burns, a black residue on the concrete, which confirms images and reports of a fire in the facility after the attack. The indications of fire and extensive external damage further confirms the facility’s status as out of service.
 
 ### Internal Damage:
 
-![](/assets/investigations/zerbeh2019/image21.jpg)![](/assets/investigations/zerbeh2019/image11.jpg)
+<iframe frameborder="0" class="juxtapose" width="100%" height="529" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=717a2b14-36c6-11ea-b9b8-0edaf8f81e27"></iframe>
 
 With the hospital pushed out of service as a result of the attack, the entirety of the healthcare center’s interior walls, including the lobby, show large cracks and openings with fallen parts of the ceiling and walls covering the floor of the lobby and pharmacy.
 
 ![](/assets/investigations/zerbeh2019/image14.jpg)
 
-An image taken by the investigations team of the hospital’s lobby after the attack.
+*An image taken by the investigations team of the hospital’s lobby after the attack.*
 
 Additionally, images and videos show broken wooden benches in the waiting rooms, a damaged patient and dental treatment chair as well as the complete destruction of the pharmacy and its inventory of medicines. Moreover, blacks walls in the lobby of the hospital match the previously mentioned burn marks outside the facility.
 
@@ -173,17 +179,17 @@ An image posted by [SAMS](https://www.facebook.com/sams.arabic/photos/pcb.169691
 
 ![](/assets/investigations/zerbeh2019/image1.png)
 
-Additional internal damage to the facility documented by the investigations team.
+*Additional internal damage to the facility documented by the investigations team.*
 
 Noting the extent of the fire’s reach and the holes in the ceiling, Civil Engineer Ahmed Ali Al Khalaf reviewed the videos and photos from the center and reported the facility as more than 80% damaged and impossible to repair without building anew.
 
 ## Flight Data Analysis:
 
 To provide a further layer of verification, the Syrian Archive cross referenced findings from the open source media above and the media from the investigations team with flight observation data from a spotter organization. Data for flights occurring before and after 5:35 PM around Aleppo, Idlib, and, more specifically, Al Zerbeh was closely analyzed.  
-  
+
 Beginning outside of Aleppo and Idlib in the province of Homs, a Su-22 (or Sukhoi 22) was spotted taking off north from Shayrat Airbase at 5:18 PM. A Su-22 was then spotted flying north at 5:26 PM over Taman’a, a town in the Idlib province around 70 kilometers south of Al Zerbeh. At 5:04 PM and then later at 5:34 PM, a Su-22 was spotted above the International Agricultural Research Center in the Dry Areas (ICARDA), which lies just 6 kilometers southwest of Al Zerbeh. Lastly at 5:35 PM, a Su-22 was spotted circling over Al Zerbeh. With the common practice of circling by warzone aircrafts indicating a target acquisition and/or preparation for an imminent attack, the circling by a Su-22 over Al Zerbeh corroborates the estimated time of the attack as reported in interviews conducted by the investigations team.
 
-https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link 
+https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link
 
 This data however does not fully match reports, such as Fawaz Juwaid’s from the Al Zerbeh Media Center, of a Sukhoi 24 warplane targeting the hospital and town. Although possibly a simple misidentification, there is no direct evidence available that one of the observed aircraft was involved in the attack on Al Zerbeh. However, the presence of aircrafts above Al Zerbeh and neighboring towns increases the likelihood that an air attack occurred on the town and hospital during the times shown and corroborated in open source media and reported on by the Syrian Archive’s investigations team.
 
