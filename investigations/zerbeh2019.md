@@ -3,8 +3,8 @@ layout: investigation.html
 title: "Medical Facilities Under Fire: Al Zerbeh Primary Healthcare Center"
 desc: "Investigation reveals hospital targeted with airstrikes"
 date: 2020-01-14
-image: /assets/investigations/
-socialMediaImage: /assets/investigations/
+image: /assets/investigations/zerbeh2019/image-18-new.png
+socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 ---
 
 ## Initial Summary:
@@ -17,7 +17,7 @@ socialMediaImage: /assets/investigations/
 
 - Date: Friday, August 30 2019
 
-- Time: ~5:30 - 6:10 PM, according to interviews conducted by the Syrian Archive investigations team with the director of the facility and one of its nurses as well as the director of the Free Aleppo Health Directorate’s primary health care department. Statements and articles published by the [Syrian American Medical Association](https://www.facebook.com/1174443599355527/posts/1696915823774966)  and local news organizations like [SMART](https://www.facebook.com/201197066996710/posts/727711057678639/), [Step](https://stepagency-sy.net/2019/08/30/%D8%BA%D8%A7%D8%B1%D8%A9-%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%8A%D9%84%D9%8B%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%88/), and [Sham](http://www.shaam.org/news/syria-news/%25D8%25B7%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D9%258A%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25B1%25D9%2583%25D8%25B2-%25D8%25A7%25D9%2584%25D8%25B2%25D8%25B1%25D8%25A8%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B5%25D8%25AD%25D9%258A-%25D8%25A8%25D8%25B1%25D9%258A%25D9%2581-%25D8%25AD%25D9%2584%25D8%25A8-%25D9%2588%25D9%258A%25D9%2588%25D9%2582%25D8%25B9-%25D8%25B4%25D9%2587%25D9%258A%25D8%25AF-%25D8%25B7%25D9%2581%25D9%2584.html) all reported times in congruence with witness testimonies.
+- Time: ~5:30 - 6:10 PM, according to interviews conducted by the Syrian Archive investigations team with the director of the facility and one of its nurses as well as the director of the Free Aleppo Health Directorate’s primary health care department. Statements and articles published by the [Syrian American Medical Association](https://www.facebook.com/1174443599355527/posts/1696915823774966)  and local news organizations like [Step](https://stepagency-sy.net/2019/08/30/%D8%BA%D8%A7%D8%B1%D8%A9-%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AA%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%8A%D9%84%D9%8B%D8%A7-%D9%88%D8%AC%D8%B1%D8%AD%D9%89-%D9%88/), and [Sham](http://www.shaam.org/news/syria-news/%25D8%25B7%25D9%258A%25D8%25B1%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25B3%25D8%25AF-%25D9%258A%25D8%25B3%25D8%25AA%25D9%2587%25D8%25AF%25D9%2581-%25D9%2585%25D8%25B1%25D9%2583%25D8%25B2-%25D8%25A7%25D9%2584%25D8%25B2%25D8%25B1%25D8%25A8%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B5%25D8%25AD%25D9%258A-%25D8%25A8%25D8%25B1%25D9%258A%25D9%2581-%25D8%25AD%25D9%2584%25D8%25A8-%25D9%2588%25D9%258A%25D9%2588%25D9%2582%25D8%25B9-%25D8%25B4%25D9%2587%25D9%258A%25D8%25AF-%25D8%25B7%25D9%2581%25D9%2584.html) all reported times in congruence with witness testimonies.
 
 - Victims: The attack on the facility killed a 12 year old child, [Nasrallah Mahmoud al Hadi](https://www.facebook.com/zerba.media.office/photos/a.272132326468061/965031590511461/?type=3&theater) who was displaced from his home village of Tel Alloush to Zerbeh. The airstrikes also wounded three civilians: Lina al-Rajab with her child Almaza and another 13 year old child named Jamil Mohammed Ali. This is according to interviews conducted by the investigative team including with Abdul Karim Al Yassin, director of the Free Aleppo Health Directorate’s primary health care department.
 
@@ -93,7 +93,7 @@ The Syrian American Medical Association (SAMS), which supports the healthcare fa
 
 The Syrian Civil Defense and the Al Zerbeh Media Center posted a [video](https://youtu.be/brbi_1clAPI) at 11:24 PM and a [video](https://www.youtube.com/watch?v=m4CcHmVrF8I&feature=youtu.be&fbclid=IwAR0F2t7gi1LgKza3K0QZ_1oMkQ13N0hZSE3q4gQCx2QxbKByTdUQ-lJd14s) at 10:19 PM, respectively, showing the targeting of town of Al Zerbeh. Both videos, from an analysis of the shadows, were most likely recorded in the late afternoon further confirming the time the hospital was attacked. In an interview with the investigations team, Fawaz Jowaid, the director of the Al Zerbeh Media Center confirmed the time of the strike at 5:35 PM.
 
-![](/assets/investigations/zerbeh2019/image-23-new.jpg)
+![](/assets/investigations/zerbeh2019/image-23-new.png)
 
 Shadows shown in the Syrian Civil Defense’s [video](https://youtu.be/brbi_1clAPI) on YouTube match the position of the sun at around 6:30 PM the day of the attack. This was found using the [SunCalc](https://www.suncalc.org/#/36.0681,36.9799,3/2019.11.08/10:57/1/1) tool.
 
