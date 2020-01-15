@@ -29,6 +29,7 @@ Joint investigation: Syrian Archive and [Focus Aleppo](https://focusaleppo.com/)
 The Al Zerbeh Primary Healthcare Center is a free healthcare provider operating since 2009 and reopened at the start of 2018 under the support of the [Syrian American Medical Association](https://www.sams-usa.net). Activist Ahmad Al Hamoud claims that the center has existed since 1982 in the same building that was destroyed in the attack.
 
 ![](/assets/investigations/zerbeh2019/image16.png)
+
 *A map published in a [2010 study](https://www.academia.edu/12167122/Zone_of_Samaan_Jabal_-_Regional_Study) of health centers in the Jabal Samaan region. The map includes Al Zerbeh Primary Healthcare Center further corroborating its existence before the conflict.*
 
 Like other medical facilities in the countryside of Aleppo, the medical facility provides basic healthcare to those in Al Zerbeh and its neighboring villages/rural areas. The hospital houses an internal medicine clinic, a pediatric clinic, a women’s clinic, a dental treatment clinic, a vaccination center, a pharmacy, and a laboratory for medical analysis. The facility also has an ambulance service both 24/7 for emergencies as well as to transport patients to other hospitals. It was not the first time that the center was targeted.
@@ -38,8 +39,7 @@ Like other medical facilities in the countryside of Aleppo, the medical facility
 On May 6 2019, the center was first [targeted](https://www.facebook.com/Katoub.Mohamad/posts/1195292320631352) with its main building, gate, and outer wall damaged. The Civil Defense were the first to reach the facility and assess the damage for both attacks. As shown in the images below, the hospital suffered greater damage from the August 30th attack. The hospitals sheet metal cover for the courtyard and wall bordering the water tower, for example, were completely destroyed from the August 30th attack and were not damaged from the May 6th attack.
 
 ![](/assets/investigations/zerbeh2019/image-22-new.png)
-
-Both these images are stills from videos taken by the White Helmets of the [May 6th](https://www.youtube.com/watch?v=UrgnvikpVk0) (on the left) and [August 30th](https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be) (on the right) attacks. The sheet metal covering the hospital’s courtyard and the wall bordering the water tower were preserved in the May 6th 2019 attack but destroyed in the August 30th 2019 airstrike.
+*Both these images are stills from videos taken by the White Helmets of the [May 6th](https://www.youtube.com/watch?v=UrgnvikpVk0) (on the left) and [August 30th](https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be) (on the right) attacks. The sheet metal covering the hospital’s courtyard and the wall bordering the water tower were preserved in the May 6th 2019 attack but destroyed in the August 30th 2019 airstrike.*
 
 Alongside destruction, the pictures and videos from both attacks show an attempted reconstruction of the hospital after its first May 6th attack. For example, the outer wall parallel to the street, previously destroyed in the May 6th attack, was under reconstruction and was again damaged with the August 30th attack.
 
