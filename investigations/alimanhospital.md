@@ -54,7 +54,7 @@ Serving the large population in its surrounding areas, the hospital holds 29 bed
 
 ![](/assets/investigations/alimanhospital/image18.png)
 
-An image from [Human Appeal](https://www.humanappeal.org.uk/news/press-releases/2019/human-appeal-strongly-condemns-second-aleppo-hospital-attack/) of Al Iman Hospital after the attack.
+*An image from [Human Appeal](https://www.humanappeal.org.uk/news/press-releases/2019/human-appeal-strongly-condemns-second-aleppo-hospital-attack/) of Al Iman Hospital after the attack.*
 
 ### Hospital Location:
 
@@ -124,7 +124,7 @@ In regards to local media, at 01:30 AM the Urem Al Kubra Media Center [published
 
 ![](/assets/investigations/alimanhospital/image3.png)
 
-An image [posted](https://www.facebook.com/firasmawlla2/photos/pcb.3224108987606837/3224108934273509/?type=3&theater) on Facebook by media activist Feras Mola from shortly after the attack.
+*An image [posted](https://www.facebook.com/firasmawlla2/photos/pcb.3224108987606837/3224108934273509/?type=3&theater) on Facebook by media activist Feras Mola from shortly after the attack.*
 
 Beginning in the afternoon of the day of the attack and the days following the incident, organizations both in and outside of Syria reported on the hospital attack with some claiming it was committed by Russian forces. Macro Media Center published a [video](https://www.youtube.com/watch?v=O3mQyYRpdl4) of the damage from the airstrikes on August 31st 2019. This was followed by a video from the [Syrian Press Center](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) showing the damage from the attack as well as interviews with hospital personnel.
 
