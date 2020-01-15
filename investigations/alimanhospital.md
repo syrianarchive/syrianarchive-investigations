@@ -3,8 +3,8 @@ layout: investigation.html
 title: "Medical Facilities Under Fire: Al Iman hospital"
 desc: "Investigation reveals hospital targeted with airstrikes"
 date: 2020-01-15
-image: /assets/investigations/
-socialMediaImage: /assets/investigations/
+image: /assets/investigations/alimanhospital/image17.png
+socialMediaImage: /assets/investigations/alimanhospital/image17.png
 drafts: true
 ---
 
