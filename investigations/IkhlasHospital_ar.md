@@ -1,3 +1,11 @@
+---
+layout: investigation.html
+drafts: true
+title: test
+date: 2019-02-01
+image: /assets/investigations/hass/image2.png
+---
+
 ## حول الحادثة
 
 - الموقع: ادلب: شنان
