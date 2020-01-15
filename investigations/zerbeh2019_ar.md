@@ -118,10 +118,6 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 
 في الساعة 1:55 صباحًا من تلك الليلة، نشر المركز الإعلامي في ناحية الزربة [مقطع فيديو](https://www.facebook.com/zerba.media.office/videos/362441478012814/) يُظهر أوائل المستجيبين والمواطنين الصحفيين بعد أن شهدوا غارة جوية على البلدة يصلون إلى موقع التأثير (يُظهر المقطع تصاعُد الدخان). يؤكد هذا الفيديو تعرّض مركز البلدة للهجوم بالإضافة إلى استهداف المنشأة الطبية، حيث يظهر المقطع تفقّد أوائل المستجيبين للأضرار التي لحقت بمركز البلدة بدايةً؛ ثم مسارعتهم إلى المنشأة الطبية القريبة.
 
-![](/assets/investigations/zerbeh2019/image5.png)![](/assets/investigations/zerbeh2019/image6.png)
-
-*لقطات من مقطع الفيديو المنشور من قبل المركز الإعلامي في ناحية الزربة، ويُظهر المواطنين الصحفيين والمستجيبين الأوائل يتفقّدون مركز البلدة ومركز الزربة للرعاية الصحية الأولية.*
-
 أكّدت مديرية صحة حلب الحرة الهجوم بمنشورٍ لها على [فيسبوك](https://www.facebook.com/healthaleppo/posts/2516657138397934?__xts__[0]=68.ARAnsUiNNprYNXWBeBbx46oP_3KXxwgIEyRW7fhiWJA16BIvc5e9ewvMNXsGJPvfYLWDyW0IoZ3HRlqUdAHNAf3yuMbZQCmulYrJ6o3IjhwAvqNGKfBI_wwMUk4iKudIIkHtWbRq1LZX0CuXtqwZjpFOPY3vF0ZIlpmGT_JHja6-IqIDm6QEFstKc6iELt_kN9NSyPMUVGCXTrYt_RAv8E4aiy_Y6gU5y_PX2aSksTAF3cJ-KnLphejo02dVjm2Hydlw6nPDlYxpEzhtTTIHquFOElKraXK2e7FORJB-6OxznSP9VNuV8Iw91WdiUkS-xf0_wRTh3FqxS_ZAB8rqtjcNkw&__tn__=-R).
 
  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhealthaleppo%2Fposts%2F2516657138397934&width=500" width="500" height="707" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
