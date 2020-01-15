@@ -146,7 +146,7 @@ The intensity of the attack is also seen in the iron “sheets” or “grilles�
 
 ### Internal Damage:
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="960" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4e03e046-379b-11ea-b9b8-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="660" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4e03e046-379b-11ea-b9b8-0edaf8f81e27"></iframe>
 
 With the hospital pushed out of service as a result of the attack, the entirety of the healthcare center’s interior walls, including the lobby, show large cracks and openings with fallen parts of the ceiling and walls covering the floor of the lobby and pharmacy.
 

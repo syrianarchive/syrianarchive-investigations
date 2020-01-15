@@ -167,7 +167,7 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 
 ### الأضرار الداخلية:
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="960" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4e03e046-379b-11ea-b9b8-0edaf8f81e27"></iframe> 
+<iframe frameborder="0" class="juxtapose" width="100%" height="660" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4e03e046-379b-11ea-b9b8-0edaf8f81e27"></iframe> 
  
 علاوة على خروج مركز الرعاية الصحية عن الخدمة؛ تظهر على جدرانه الداخلية تصدّعات وفجوات كبيرة، إضافة إلى انهيار أجزاء من السقف والجدران غطّت أرضية البهو والصيدلية.
 
