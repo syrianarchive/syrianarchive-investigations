@@ -105,7 +105,9 @@ In a video interview with the investigations team, Dr. Abdullah Hamidi confirmed
 
 Supplementary interviews conducted by the investigations team confirm the time and extent of damage of the attack. As mentioned earlier, Fawaz Juwaid, director of the Al Zerbeh Media Center, reported to the investigations team that he spotted a Sukhoi 24 warplane at 5:35 first targeting civilian areas, as shown in a previously mentioned Civil Defense [video](https://youtu.be/brbi_1clAPI&sa=D&ust=1573673328517000), then hitting the healthcare center. Juwaid detailed that he quickly arrived at the scene and took a number of [photos](https://www.facebook.com/zerba.media.office/posts/964905790524041?__tn__%3D-R&sa=D&ust=1573673328517000) and [videos](https://www.facebook.com/watch/?v%3D362441478012814&sa=D&ust=1573673328517000) minutes after the attack on the medical facility.
 
-![](/assets/investigations/zerbeh2019/image1.gif)
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/zerbeh2019/image01.webm" type="video/webm">
+</video>
 
 In congruence with Juwaid’s statement, Nurse Khalid Adiwi, who said was standing close to the point of impact, said he saw a strike first hit the center of the town with a later second airstrike directly hitting the healthcare center.
 
@@ -127,7 +129,9 @@ As mentioned above, [Step](https://stepagency-sy.net/2019/08/30/%D8%BA%D8%A7%D8%
 
 ## Analysis of the Damage:
 
-![](/assets/investigations/zerbeh2019/image2.gif)
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/zerbeh2019/image02.webm" type="video/webm">
+</video>
 
 Because the medical facility was directly targeted by air, the hospital suffered severe external and internal damage rendering it beyond repair and out of service. The investigations team documented the damage to the healthcare center through pictures, videos, and interviews ensuring congruence between their own documentation, open source media of the attack, and old photos of the facility.
 
@@ -173,7 +177,9 @@ With the hospital pushed out of service as a result of the attack, the entirety 
 
 Additionally, images and videos show broken wooden benches in the waiting rooms, a damaged patient and dental treatment chair as well as the complete destruction of the pharmacy and its inventory of medicines. Moreover, blacks walls in the lobby of the hospital match the previously mentioned burn marks outside the facility.
 
-![](/assets/investigations/zerbeh2019/image3.gif)
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/zerbeh2019/image03.webm" type="video/webm">
+</video>
 
 ![](/assets/investigations/zerbeh2019/image2.png)
 
