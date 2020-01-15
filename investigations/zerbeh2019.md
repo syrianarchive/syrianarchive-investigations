@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Medical Facilities Under Fire: Al Zerbeh Primary Healthcare Center"
-desc: "Investigation reveals hospital targeted with airstrikes"
+desc: "Joint investigation:  Syrian Archive and [Focus Aleppo](https://focusaleppo.com/)"
 date: 2020-01-14
 image: /assets/investigations/zerbeh2019/image-18-new.png
 socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
@@ -55,7 +55,7 @@ Alongside destruction, the pictures and videos from both attacks show an attempt
 
 *Videos from the [May 6th 2019](https://www.youtube.com/watch?v%3DUrgnvikpVk0&sa=D&ust=1573673328509000) (on the left) and [August 30th 2019](https://www.youtube.com/watch?v%3Dbrbi_1clAPI%26feature%3Dyoutu.be&sa=D&ust=1573673328510000) (on the right) attacks show an attempt to rebuild the outer wall, standing parallel to the street, destroyed in the May 6th attack.*
 
-Repeated attacks on the facility, like the May 6th and August 30th attacks, indicate the direct and deliberate targeting of the medical facility. Although threatened by these direct attacks, the hospital, because of its location, is vital for those living in the southwestern countryside of Aleppo.
+Repeated attacks on the facility, like the May 6th and August 30th attacks, indicate the direct and deliberate targeting of the medical facility. Although threatened by these direct attacks, the hospital, because of its location, was vital for those living in the southwestern countryside of Aleppo.
 
 ### Hospital Location
 
@@ -106,7 +106,7 @@ In a video interview with the investigations team, Dr. Abdullah Hamidi confirmed
 Supplementary interviews conducted by the investigations team confirm the time and extent of damage of the attack. As mentioned earlier, Fawaz Juwaid, director of the Al Zerbeh Media Center, reported to the investigations team that he spotted a Sukhoi 24 warplane at 5:35 first targeting civilian areas, as shown in a previously mentioned Civil Defense [video](https://youtu.be/brbi_1clAPI&sa=D&ust=1573673328517000), then hitting the healthcare center. Juwaid detailed that he quickly arrived at the scene and took a number of [photos](https://www.facebook.com/zerba.media.office/posts/964905790524041?__tn__%3D-R&sa=D&ust=1573673328517000) and [videos](https://www.facebook.com/watch/?v%3D362441478012814&sa=D&ust=1573673328517000) minutes after the attack on the medical facility.
 
 <video autoplay loop muted playsinline style="width: 100%">
-<source src="/assets/investigations/zerbeh2019/image01.webm" type="video/webm">
+<source src="/assets/investigations/zerbeh2019/image04.webm" type="video/webm">
 </video>
 
 In congruence with Juwaid’s statement, Nurse Khalid Adiwi, who said was standing close to the point of impact, said he saw a strike first hit the center of the town with a later second airstrike directly hitting the healthcare center.
