@@ -2,7 +2,7 @@
 layout: investigation.html
 title: " مرافق صحية تحت النار: مركز الزربة للرعاية الصحية الأولية"
 desc: "تحقيق مشترك: الأرشيف السوري وفوكس حلب"
-date: 2020-01-14
+date: 2020-01-15
 image: /assets/investigations/zerbeh2019/image-18-new.png
 socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 ---
@@ -24,7 +24,6 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 - الضحايا: أدى الهجوم على المنشأة إلى مقتل الطفل [نصر الله محمود الهادي](https://www.facebook.com/zerba.media.office/photos/a.272132326468061/965031590511461/?type=3&theater)، البالغ من العمر 12 عامًا، والنازح من قريته تل علوش إلى الزربة. كما أسفرت الغارات الجوية عن إصابة ثلاثة مدنيين: لينا الرجب مع طفلتها ألمازة، وطفل آخر عمره 13 عامًا يدعى جميل محمد علي. وذلك وفقًا للمقابلات التي أجراها فريق التحقيقات، بما فيها المقابلة مع عبد الكريم الياسين، مدير قسم الرعاية الصحية الأولية في مديرية الصحة الحرة في حلب.
 
 - نوع الهجوم: غارة جوية واحدة استهدفت المرفق الصحيّ ومركز البلدة بصاروخين وفقًا للشهود.
-
 
 - المسؤول المحتمل: طائرة سوخوي 22 وفقًا لبيانات رصد الطيران.
 
@@ -48,7 +47,7 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 
  ![](/assets/investigations/zerbeh2019/image-22-new.png)
  
-لقطات شاشة من مقاطع فيديو صوّرها فريق الدفاع المدني السوري في  [هجوم 6 مايو](https://www.youtube.com/watch?v=UrgnvikpVk0) (يسار)  [وهجوم 30 أغسطس](https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be) (يمين). في هجوم 6 مايو، لم تتضرر الصفائح المعدنية التي تغطي فناء المستشفى والجدار المجاور لبرج المياه، في حين تبدو مدمّرة في غارة 30 أغسطس.
+*لقطات شاشة من مقاطع فيديو صوّرها فريق الدفاع المدني السوري في  [هجوم 6 مايو](https://www.youtube.com/watch?v=UrgnvikpVk0) (يسار)  [وهجوم 30 أغسطس](https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be) (يمين). في هجوم 6 مايو، لم تتضرر الصفائح المعدنية التي تغطي فناء المستشفى والجدار المجاور لبرج المياه، في حين تبدو مدمّرة في غارة 30 أغسطس.*
 
 إضافة إلى الدمار، تُظهر الصور ومقاطع الفيديو محاولة ترميم المركز الصحي بعد الهجوم الأول في 6 مايو. على سبيل المثال، كان الجدار الخارجي الموازي للشارع، والذي دُمّر سابقًأ في هجوم 6 مايو، قيد إعادة البناء عندما تضرر ثانيةً نتيجة هجوم 30 أغسطس 2019.
 
@@ -168,7 +167,7 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 
 ### الأضرار الداخلية:
 
- <iframe frameborder="0" class="juxtapose" width="100%" height="529" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=717a2b14-36c6-11ea-b9b8-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="960" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=4e03e046-379b-11ea-b9b8-0edaf8f81e27"></iframe> 
  
 علاوة على خروج مركز الرعاية الصحية عن الخدمة؛ تظهر على جدرانه الداخلية تصدّعات وفجوات كبيرة، إضافة إلى انهيار أجزاء من السقف والجدران غطّت أرضية البهو والصيدلية.
 
