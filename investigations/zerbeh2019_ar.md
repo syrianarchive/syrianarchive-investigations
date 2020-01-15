@@ -103,7 +103,10 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 
 أكّدت المقابلات الإضافية التي أجراها فريق التحقيقات توقيت ومدى الضرر الناجم عن الهجوم. كما ذُكر سابقًا، أبلغ فواز جويد مدير المركز الإعلامي في ناحية الزربة، فريق التحقيقات أنه رصد طائرة حربية من طراز سوخوي 24 في الساعة 5:35، استهدفت بدايةً مناطق مدنية، كما هو موضح في مقطع فيديو سابق للدفاع المدني، ثم قصفت مركز الرعاية الصحية. وأوضح جويد أنه وصل بسرعة إلى مكان الحادث والتقط عددًا من الصور ومقاطع الفيديو بعد دقائق من الهجوم على المنشأة الطبية.
 
-![](/assets/investigations/zerbeh2019/image1.gif)
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/zerbeh2019/image01.webm" type="video/webm">
+</video>
+
 
 بشكلٍ يتوافق مع إفادة جويد؛ قال الممرض خالد عدوي أنه كان يقف على مقربة من نقطة التأثير، حيث شاهد الغارة التي نُفذت على مركز البلدة، تلتها غارة جوية ثانية أصابت مباشرة مركز الرعاية الصحية.
 
@@ -125,7 +128,9 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 
 ## تحليل الأضرار:
 
-![](/assets/investigations/zerbeh2019/image2.gif)
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/zerbeh2019/image02.webm" type="video/webm">
+</video>
 
 لحقت بالمركز الطبي أضرار داخلية وخارجية شديدة نتيجة لاستهدافه بشكلٍ مباشر من الجو، الأمر الذي جعله غير قابل للصيانة وأخرجه عن الخدمة. وثّق فريق التحقيقات الأضرار من خلال الصور، مقاطع الفيديو والمقابلات، وذلك للتأكّد من التطابق بين الوثائق الخاصة بالفريق، المواد مفتوحة المصدر حول الهجوم، وصور قديمة للمنشأة.
 
@@ -171,7 +176,9 @@ socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 
 تُظهر الصور ومقاطع الفيديو مقاعد خشبية محطّمة في غرف الانتظار، كرسي عيادة أسنان متضرر، إضافة إلى دمار الصيدلية ومخزونها من الأدوية بشكل كامل. كما تتطابق الجدران السوداء في بهو المركز مع ما أشير إليه من علامات حريق خارج مبنى المنشأة
 
-![](/assets/investigations/zerbeh2019/image3.gif)
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/zerbeh2019/image03.webm" type="video/webm">
+</video>
 
 ![](/assets/investigations/zerbeh2019/image2.png)
 

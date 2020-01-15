@@ -1,10 +1,11 @@
 ---
 layout: investigation.html
-title: "Medical Facilities Under Fire: Al Zerbeh Primary Healthcare Center"
+title: "Medical Facilities Under Fire: Al Iman hospital"
 desc: "Investigation reveals hospital targeted with airstrikes"
-date: 2020-01-14
-image: /assets/investigations/zerbeh2019/image-18-new.png
-socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
+date: 2020-01-15
+image: /assets/investigations/alimanhospital/image17.png
+socialMediaImage: /assets/investigations/alimanhospital/image17.png
+drafts: true
 ---
 
 ## Initial Summary:
@@ -54,7 +55,7 @@ Serving the large population in its surrounding areas, the hospital holds 29 bed
 
 ![](/assets/investigations/alimanhospital/image18.png)
 
-An image from [Human Appeal](https://www.humanappeal.org.uk/news/press-releases/2019/human-appeal-strongly-condemns-second-aleppo-hospital-attack/) of Al Iman Hospital after the attack.
+*An image from [Human Appeal](https://www.humanappeal.org.uk/news/press-releases/2019/human-appeal-strongly-condemns-second-aleppo-hospital-attack/) of Al Iman Hospital after the attack.*
 
 ### Hospital Location:
 
@@ -82,13 +83,15 @@ Al Iman Hospital experienced another attack on June 28th 2019. Human Appeal [rep
 
 ## What Happened and When?
 
-Confirmed by interviews conducted by the investigations team as well as online open source media, Al Iman hospital was directly targeted by six high explosive rockets that hit the hospital’s main courtyard and generators cutting it off from its necessary infrastructures like oxygen and electricity. Because of this attack, the hospital was forced out of service. Hospital doctors and staff, the Syrian Civil Defense, and local news sources, confirmed the targeting of hospital, which is located within the [de-escalation zones](https://www.youtube.com/watch?v=5cF-gIL8yzk) and lands under the [ceasefire agreement said to be implemented at 6 AM Saturday, August 31st 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). Al Iman hospital was directly and deliberately targeted by fixed-wing aircrafts just five hours before this agreement took effect.
+Confirmed by interviews conducted by the investigations team as well as online open source media, Al Iman hospital was directly targeted by six high explosive rockets that hit the hospital’s main courtyard and generators cutting it off from its necessary infrastructures like oxygen and electricity. Because of this attack, the hospital was forced out of service.
 
 ![](/assets/investigations/alimanhospital/image7.gif)
 
+Hospital doctors and staff, the Syrian Civil Defense, and local news sources, confirmed the targeting of hospital, which is located within the [de-escalation zones](https://www.youtube.com/watch?v=5cF-gIL8yzk) and lands under the [ceasefire agreement said to be implemented at 6 AM Saturday, August 31st 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). Al Iman hospital was directly and deliberately targeted by fixed-wing aircrafts just five hours before this agreement took effect.
+
 ![](/assets/investigations/alimanhospital/image13.png)
 
-A map of the [Deescalation Zones](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) agreed to by Russia, Turkey, and Iran in May 2017.
+*A map of the [Deescalation Zones](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) agreed to by Russia, Turkey, and Iran in May 2017.*
 
 Occurring at around 1 - 1:30 AM, the attack resulted in six injured including three children in incubators, two medical staff, and a woman accompanying her child. The hospital staff and others who were injured were immediately transferred to nearby hospitals by the Syrian Civil Defense. Fearing other airstrikes, those in the hospital fled into the agricultural land surrounding the hospital. The hospital, as discussed in the next section of this investigation, was severely damaged internally and externally with two cars for medical staff and the hospital generator destroyed from the attack.
 
@@ -124,7 +127,7 @@ In regards to local media, at 01:30 AM the Urem Al Kubra Media Center [published
 
 ![](/assets/investigations/alimanhospital/image3.png)
 
-An image [posted](https://www.facebook.com/firasmawlla2/photos/pcb.3224108987606837/3224108934273509/?type=3&theater) on Facebook by media activist Feras Mola from shortly after the attack.
+*An image [posted](https://www.facebook.com/firasmawlla2/photos/pcb.3224108987606837/3224108934273509/?type=3&theater) on Facebook by media activist Feras Mola from shortly after the attack.*
 
 Beginning in the afternoon of the day of the attack and the days following the incident, organizations both in and outside of Syria reported on the hospital attack with some claiming it was committed by Russian forces. Macro Media Center published a [video](https://www.youtube.com/watch?v=O3mQyYRpdl4) of the damage from the airstrikes on August 31st 2019. This was followed by a video from the [Syrian Press Center](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) showing the damage from the attack as well as interviews with hospital personnel.
 
@@ -134,7 +137,7 @@ Lastly, Human appeal released a [statement](https://www.humanappeal.org.uk/news/
 
 ![](/assets/investigations/alimanhospital/image17.png)
 
-A still of Al Iman hospital from above after the attack shown in a [video report](https://www.youtube.com/watch?v=JKY15ae3HeE) uploaded onto YouTube by the Syrian Civil Defense.
+*A still of Al Iman hospital from above after the attack shown in a [video report](https://www.youtube.com/watch?v=JKY15ae3HeE) uploaded onto YouTube by the Syrian Civil Defense.*
 
 The internal and external damage suffered by the hospital from the attack rendered the facility’s rooms and infrastructure unusable pushing it fully out of service.
 
@@ -142,13 +145,13 @@ The internal and external damage suffered by the hospital from the attack render
 
 The airstrike most dramatically affected the outside of the hospital crippling its necessary infrastructures as shown in the photos taken by the investigations team below. With the airstrike landing 3 meters away from the hospital’s primary building, the hospital’s main paved courtyard, which stood towards the front of the hospital, was completely destroyed with its distinctive roundabout now nonexistent. Alongside the front courtyard and entrance itself, two cars belonging to the hospital were flipped and destroyed.
 
-![](/assets/investigations/alimanhospital/image5.png)![](/assets/investigations/alimanhospital/image6.jpg)
+<iframe frameborder="0" class="juxtapose" width="100%" height="395" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f859ecbe-3770-11ea-b9b8-0edaf8f81e27"></iframe>
 
 On the sides of the hospital, generators for electricity and oxygen were irreparable after the attack.
 
 ![](/assets/investigations/alimanhospital/image23.jpg)![](/assets/investigations/alimanhospital/image8.jpg)
 
-Images taken by the investigations team of the hospital’s oxygen and electricity generators after the attack.
+*Images taken by the investigations team of the hospital’s oxygen and electricity generators after the attack.*
 
 ![](/assets/investigations/alimanhospital/image5.gif)
 
@@ -156,7 +159,7 @@ Additional footage posted on YouTube by the [Syrian Press Center](https://www.yo
 
 ![](/assets/investigations/alimanhospital/image16.png)
 
-An image taken by the investigations team of craters from the airstrike near the hospital’s generators.
+*An image taken by the investigations team of craters from the airstrike near the hospital’s generators.*
 
 ![](/assets/investigations/alimanhospital/image6.gif)
 
@@ -168,17 +171,17 @@ Internally, as shown in the images from the investigations team, a large number 
 
 ![](/assets/investigations/alimanhospital/image24.png)![](/assets/investigations/alimanhospital/image1.jpg)![](/assets/investigations/alimanhospital/image21.jpg)
 
-Images taken by the investigations team of the hospital’s child incubator ward.
+*Images taken by the investigations team of the hospital’s child incubator ward.*
 
 Footage captured by the investigations team also shows other rooms of the hospital as damaged and unsuitable for treating patients.
 
 ![](/assets/investigations/alimanhospital/image12.png)![](/assets/investigations/alimanhospital/image11.png)
 
-Stills from footage taken by the investigations team of patient rooms in the hospital.
+*Stills from footage taken by the investigations team of patient rooms in the hospital.*
 
 ![](/assets/investigations/alimanhospital/image22.jpg)
 
-An image taken by the investigations team of the operating room in the hospital.
+*An image taken by the investigations team of the operating room in the hospital.*
 
 ## Flight Data and Analysis:
 
