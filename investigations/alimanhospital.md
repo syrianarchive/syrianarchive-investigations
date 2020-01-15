@@ -83,9 +83,11 @@ Al Iman Hospital experienced another attack on June 28th 2019. Human Appeal [rep
 
 ## What Happened and When?
 
-Confirmed by interviews conducted by the investigations team as well as online open source media, Al Iman hospital was directly targeted by six high explosive rockets that hit the hospital’s main courtyard and generators cutting it off from its necessary infrastructures like oxygen and electricity. Because of this attack, the hospital was forced out of service. Hospital doctors and staff, the Syrian Civil Defense, and local news sources, confirmed the targeting of hospital, which is located within the [de-escalation zones](https://www.youtube.com/watch?v=5cF-gIL8yzk) and lands under the [ceasefire agreement said to be implemented at 6 AM Saturday, August 31st 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). Al Iman hospital was directly and deliberately targeted by fixed-wing aircrafts just five hours before this agreement took effect.
+Confirmed by interviews conducted by the investigations team as well as online open source media, Al Iman hospital was directly targeted by six high explosive rockets that hit the hospital’s main courtyard and generators cutting it off from its necessary infrastructures like oxygen and electricity. Because of this attack, the hospital was forced out of service.
 
 ![](/assets/investigations/alimanhospital/image7.gif)
+
+Hospital doctors and staff, the Syrian Civil Defense, and local news sources, confirmed the targeting of hospital, which is located within the [de-escalation zones](https://www.youtube.com/watch?v=5cF-gIL8yzk) and lands under the [ceasefire agreement said to be implemented at 6 AM Saturday, August 31st 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). Al Iman hospital was directly and deliberately targeted by fixed-wing aircrafts just five hours before this agreement took effect.
 
 ![](/assets/investigations/alimanhospital/image13.png)
 
