@@ -143,13 +143,13 @@ The internal and external damage suffered by the hospital from the attack render
 
 The airstrike most dramatically affected the outside of the hospital crippling its necessary infrastructures as shown in the photos taken by the investigations team below. With the airstrike landing 3 meters away from the hospital’s primary building, the hospital’s main paved courtyard, which stood towards the front of the hospital, was completely destroyed with its distinctive roundabout now nonexistent. Alongside the front courtyard and entrance itself, two cars belonging to the hospital were flipped and destroyed.
 
-![](/assets/investigations/alimanhospital/image5.png)![](/assets/investigations/alimanhospital/image6.jpg)
+<iframe frameborder="0" class="juxtapose" width="100%" height="395" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f859ecbe-3770-11ea-b9b8-0edaf8f81e27"></iframe>
 
 On the sides of the hospital, generators for electricity and oxygen were irreparable after the attack.
 
 ![](/assets/investigations/alimanhospital/image23.jpg)![](/assets/investigations/alimanhospital/image8.jpg)
 
-Images taken by the investigations team of the hospital’s oxygen and electricity generators after the attack.
+*Images taken by the investigations team of the hospital’s oxygen and electricity generators after the attack.*
 
 ![](/assets/investigations/alimanhospital/image5.gif)
 
@@ -157,7 +157,7 @@ Additional footage posted on YouTube by the [Syrian Press Center](https://www.yo
 
 ![](/assets/investigations/alimanhospital/image16.png)
 
-An image taken by the investigations team of craters from the airstrike near the hospital’s generators.
+*An image taken by the investigations team of craters from the airstrike near the hospital’s generators.*
 
 ![](/assets/investigations/alimanhospital/image6.gif)
 
@@ -169,17 +169,17 @@ Internally, as shown in the images from the investigations team, a large number 
 
 ![](/assets/investigations/alimanhospital/image24.png)![](/assets/investigations/alimanhospital/image1.jpg)![](/assets/investigations/alimanhospital/image21.jpg)
 
-Images taken by the investigations team of the hospital’s child incubator ward.
+*Images taken by the investigations team of the hospital’s child incubator ward.*
 
 Footage captured by the investigations team also shows other rooms of the hospital as damaged and unsuitable for treating patients.
 
 ![](/assets/investigations/alimanhospital/image12.png)![](/assets/investigations/alimanhospital/image11.png)
 
-Stills from footage taken by the investigations team of patient rooms in the hospital.
+*Stills from footage taken by the investigations team of patient rooms in the hospital.*
 
 ![](/assets/investigations/alimanhospital/image22.jpg)
 
-An image taken by the investigations team of the operating room in the hospital.
+*An image taken by the investigations team of the operating room in the hospital.*
 
 ## Flight Data and Analysis:
 
