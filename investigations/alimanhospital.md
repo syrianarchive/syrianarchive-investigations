@@ -1,10 +1,11 @@
 ---
 layout: investigation.html
-title: "Medical Facilities Under Fire: Al Zerbeh Primary Healthcare Center"
+title: "Medical Facilities Under Fire: Al Iman hospital"
 desc: "Investigation reveals hospital targeted with airstrikes"
-date: 2020-01-14
-image: /assets/investigations/zerbeh2019/image-18-new.png
-socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
+date: 2020-01-15
+image: /assets/investigations/
+socialMediaImage: /assets/investigations/
+drafts: true
 ---
 
 ## Initial Summary:
