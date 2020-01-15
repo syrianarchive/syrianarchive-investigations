@@ -67,6 +67,7 @@ The buildings shown in Google Earth satellite imagery match what is shown in ima
 Open source media in corroboration with flight observation data and videos, images, and interviews taken by the Syrian Archive’s investigations team on the ground 36 hours after the attack confirm that the Zerbeh Primary Healthcare Center was targeted, attacked, and destroyed by an airstrike missile on August 30 2019 at around 5:30 to 6:10 PM. Two missiles were allegedly shot from one plane with the first hitting the town’s center near the hospital and the second directly hitting the medical facility itself. The attack destroyed the hospital’s main square and building causing fires that spread throughout the facility destroying the majority of the hospital’s rooms.
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="529" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=717a2b14-36c6-11ea-b9b8-0edaf8f81e27"></iframe>
+
 *Satellite imagery from Digital Globe of the healthcare center on August 23rd 2019 (on the left) 7 days before the attack and on September 20th 2019 (on the right) 21 days after the attack. The damage shown on the satellite imagery corroborates both the direct targeting of the hospital and the date of the attack.*
 
 The airstrike forced the hospital out of service. The extensive damage caused by the attack and the impact points of the missiles, as recorded by our investigations team, further confirms that the healthcare center was deliberately and directly targeted.
