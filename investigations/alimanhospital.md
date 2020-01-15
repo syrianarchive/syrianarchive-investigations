@@ -91,7 +91,7 @@ Hospital doctors and staff, the Syrian Civil Defense, and local news sources, co
 
 ![](/assets/investigations/alimanhospital/image13.png)
 
-A map of the [Deescalation Zones](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) agreed to by Russia, Turkey, and Iran in May 2017.
+*A map of the [Deescalation Zones](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) agreed to by Russia, Turkey, and Iran in May 2017.*
 
 Occurring at around 1 - 1:30 AM, the attack resulted in six injured including three children in incubators, two medical staff, and a woman accompanying her child. The hospital staff and others who were injured were immediately transferred to nearby hospitals by the Syrian Civil Defense. Fearing other airstrikes, those in the hospital fled into the agricultural land surrounding the hospital. The hospital, as discussed in the next section of this investigation, was severely damaged internally and externally with two cars for medical staff and the hospital generator destroyed from the attack.
 
@@ -137,7 +137,7 @@ Lastly, Human appeal released a [statement](https://www.humanappeal.org.uk/news/
 
 ![](/assets/investigations/alimanhospital/image17.png)
 
-A still of Al Iman hospital from above after the attack shown in a [video report](https://www.youtube.com/watch?v=JKY15ae3HeE) uploaded onto YouTube by the Syrian Civil Defense.
+*A still of Al Iman hospital from above after the attack shown in a [video report](https://www.youtube.com/watch?v=JKY15ae3HeE) uploaded onto YouTube by the Syrian Civil Defense.*
 
 The internal and external damage suffered by the hospital from the attack rendered the facility’s rooms and infrastructure unusable pushing it fully out of service.
 
