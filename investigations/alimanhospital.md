@@ -15,7 +15,7 @@ drafts: true
 - Target: [Al Iman Hospital](https://www.facebook.com/%D9%85%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%88%D8%B1%D9%85-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-766909866710438/) for women and children which first opened in 2015 and closed in 2016. It was then, under the support of the Aleppo Health Directorate and the UK organization Human Appeal, reopened in 2017 and later forced to close after this attack.
 
 
-- Beneficiaries: The hospital serves more than 350,000 women and children in the surrounding areas.
+- Beneficiaries: The hospital serves more than 350,000 women and [children](https://www.facebook.com/aliemanhospital/videos/249066108766322/) in the surrounding areas.
 
 - Date: 31 August 2019
 
