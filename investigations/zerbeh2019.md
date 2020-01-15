@@ -1,11 +1,13 @@
 ---
 layout: investigation.html
 title: "Medical Facilities Under Fire: Al Zerbeh Primary Healthcare Center"
-desc: "Joint investigation:  Syrian Archive and [Focus Aleppo](https://focusaleppo.com/)"
+desc: "Joint investigation: Syrian Archive and Focus Aleppo"
 date: 2020-01-14
 image: /assets/investigations/zerbeh2019/image-18-new.png
 socialMediaImage: /assets/investigations/zerbeh2019/image17.jpg
 ---
+
+Joint investigation: Syrian Archive and [Focus Aleppo](https://focusaleppo.com/)
 
 ## Initial Summary:
 
@@ -45,7 +47,7 @@ Like other medical facilities in the countryside of Aleppo, the medical facility
 
 On May 6 2019, the center was first [targeted](https://www.facebook.com/Katoub.Mohamad/posts/1195292320631352) with its main building, gate, and outer wall damaged. The Civil Defense were the first to reach the facility and assess the damage for both attacks. As shown in the images below, the hospital suffered greater damage from the August 30th attack. The hospitals sheet metal cover for the courtyard and wall bordering the water tower, for example, were completely destroyed from the August 30th attack and were not damaged from the May 6th attack.
 
-![](/assets/investigations/zerbeh2019/image-22-new.jpg)
+![](/assets/investigations/zerbeh2019/image-22-new.png)
 
 Both these images are stills from videos taken by the White Helmets of the [May 6th](https://www.youtube.com/watch?v=UrgnvikpVk0) (on the left) and [August 30th](https://www.youtube.com/watch?v=brbi_1clAPI&feature=youtu.be) (on the right) attacks. The sheet metal covering the hospital’s courtyard and the wall bordering the water tower were preserved in the May 6th 2019 attack but destroyed in the August 30th 2019 airstrike.
 
@@ -197,7 +199,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 Beginning outside of Aleppo and Idlib in the province of Homs, a Su-22 (or Sukhoi 22) was spotted taking off north from Shayrat Airbase at 5:18 PM. A Su-22 was then spotted flying north at 5:26 PM over Taman’a, a town in the Idlib province around 70 kilometers south of Al Zerbeh. At 5:04 PM and then later at 5:34 PM, a Su-22 was spotted above the International Agricultural Research Center in the Dry Areas (ICARDA), which lies just 6 kilometers southwest of Al Zerbeh. Lastly at 5:35 PM, a Su-22 was spotted circling over Al Zerbeh. With the common practice of circling by warzone aircrafts indicating a target acquisition and/or preparation for an imminent attack, the circling by a Su-22 over Al Zerbeh corroborates the estimated time of the attack as reported in interviews conducted by the investigations team.
 
-https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link
+<iframe height="550" src="https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 This data however does not fully match reports, such as Fawaz Juwaid’s from the Al Zerbeh Media Center, of a Sukhoi 24 warplane targeting the hospital and town. Although possibly a simple misidentification, there is no direct evidence available that one of the observed aircraft was involved in the attack on Al Zerbeh. However, the presence of aircrafts above Al Zerbeh and neighboring towns increases the likelihood that an air attack occurred on the town and hospital during the times shown and corroborated in open source media and reported on by the Syrian Archive’s investigations team.
 
