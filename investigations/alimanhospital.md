@@ -90,6 +90,7 @@ Confirmed by interviews conducted by the investigations team as well as online o
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/alimanhospital/1.webm" type="video/webm">
 </video>
+
 Hospital doctors and staff, the Syrian Civil Defense, and local news sources, confirmed the targeting of hospital, which is located within the [de-escalation zones](https://www.youtube.com/watch?v=5cF-gIL8yzk) and lands under the [ceasefire agreement said to be implemented at 6 AM Saturday, August 31st 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). Al Iman hospital was directly and deliberately targeted by fixed-wing aircrafts just five hours before this agreement took effect.
 
 ![](/assets/investigations/alimanhospital/image13.png)
@@ -159,6 +160,7 @@ On the sides of the hospital, generators for electricity and oxygen were irrepar
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/alimanhospital/2.webm" type="video/webm">
 </video>
+
 Additional footage posted on YouTube by the [Syrian Press Center](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) features the roof of the hospital covered in rubble as well as the damage to the hospital’s ambulance. This video as well as images provided by the investigations team features the craters from the airstrikes, which surround the hospital.
 
 ![](/assets/investigations/alimanhospital/image16.png)
@@ -195,7 +197,6 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 
 <iframe height="550" src="https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
-
 
 
 At 12:31 AM a Russian Fixed Wing Aircraft was observed taking off from Hmemim Airbase in Lattakia around 122 Kilometers southwest of Urem Al Kubra. At 12:55 AM, a Russian Fixed Wing Aircraft is then observed circling over the neighboring towns of Al Zerbeh and Khantuman, which both lie around 10 Kilometers south of Urem Al Kubra. At 12:56 AM, a Russian fixed wing aircraft is observed circling over Urem Al Kubra shortly before reports of the airstrike hitting the hospital after 1 AM. With the common practice of circling by warzone aircrafts indicating a target acquisition and/or preparation for an imminent attack, the circling by a Fixed Wing Russian Aircraft over Urem Al Kubra corroborates the estimated time of the attack as reported by local news organizations and in interviews conducted by the Syrian Archive’s investigations team

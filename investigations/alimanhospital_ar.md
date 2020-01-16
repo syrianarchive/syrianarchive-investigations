@@ -90,6 +90,7 @@ drafts: true
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/alimanhospital/1.webm" type="video/webm">
 </video>
+
 أكد كلّ من أطباء وموظفي المستشفى، الدفاع المدني السوري، ومصادر إعلامية محلية استهداف المرفق الصحي، الذي يقع داخل [مناطق خفض التصعيد](https://www.youtube.com/watch?v=5cF-gIL8yzk) والأراضي الخاضعة  [لاتفاق وقف إطلاق النار الذي قيل أنه سيدخل حيّز التنفيذ في الساعة السادسة من صباح يوم السبت ، 31 أب/أغسطس 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). استُهدف مشفى الايمان بشكل مباشر ومتعمد من قبل طائرات ذات أجنحة ثابتة قبل خمس ساعات فحسب من بدء سريان هذا الاتفاق.
 
 ![](/assets/investigations/alimanhospital/image13.png)
@@ -162,6 +163,7 @@ drafts: true
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/alimanhospital/2.webm" type="video/webm">
 </video>
+
 إضافة إلى ذلك؛ نشر [المركز الصحفي السوري مقطع فيديو](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) على يوتيوب يظهر سطح المشفى مغطى بالأنقاض، بالإضافة إلى الأضرار التي لحقت بسيارة الإسعاف. يظهر هذا المقطع والصور التي التقطها فريق التحقيقات حفرًا ناجمة عن الغارات الجوية محيطة بالمشفى.
 
 ![](/assets/investigations/alimanhospital/image16.png)
@@ -171,6 +173,7 @@ drafts: true
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/alimanhospital/3.webm" type="video/webm">
 </video>
+
 بقي بناء المنشأة قائمًا بسبب إصابة الصواريخ للتربة المحيطة بالمشفى، والتي امتصت جزءًا من ضغط الانفجار. رغم ذلك، أدى الهجوم إلى دمار غرف المشفى وتهشّم نوافذها وأبوابها.
 
 ### الأضرار الداخلية:
