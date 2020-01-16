@@ -1,16 +1,19 @@
 ﻿---
-title: "مرافق صحيّة تحت النار: مشفى الإيمان للنساء والأطفال"
+title: "مرافق صحيّة تحت النار: مشفى الإيمان التخصصي للنساء والأطفال"
 desc: "تحقيق يتناول استهداف المشفى بالغارات الجوية"
 date: 2020-01-17
 image: /assets/investigations/alimanhospital/image17.png
 socialMediaImage: /assets/investigations/alimanhospital/image17.png
 drafts: true
 ---
+
+تحقيق مشترك: الأرشيف السوري و[فوكس حلب](https://focusaleppo.com/)
+
 ## حول الحادثة
 
 - الموقع: حلب: أورم الكبرى
 
-- الهدف: [مشفى الإيمان للنساء والأطفال،](https://www.facebook.com/%D9%85%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%88%D8%B1%D9%85-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-766909866710438/) والذي افتُتح عام 2015 وأغلق في 2016. ثمّ أُعيد افتتاحه مجددًا عام 2017 بدعم من مديريه صحة حلب ومنظمة Human Appeal البريطانية. أُجبر المشفى على الإغلاق من جديد عقب هذا الهجوم.
+- الهدف: [مشفى الإيمان التخصصي للنساء والأطفال،](https://www.facebook.com/%D9%85%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%88%D8%B1%D9%85-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-766909866710438/) والذي افتُتح عام 2015 وأغلق في 2016. ثمّ أُعيد افتتاحه مجددًا عام 2017 بدعم من مديريه صحة حلب ومنظمة Human Appeal البريطانية. أُجبر المشفى على الإغلاق من جديد عقب هذا الهجوم.
 
 - المستفيدون: يقدم المشفى خدماته لأكثر من 350,000 امرأة [ وطفل](https://www.facebook.com/aliemanhospital/videos/249066108766322/) من المناطق المحيطة. 
 
@@ -40,7 +43,7 @@ drafts: true
 
 ### المستفيدون من المستشفى وقدرته الاستيعابية:
 
-وفقًا لـ Human Appeal، قدّم المستشفى خدماته الطبية لـ 115،389 سوريًا، من بينها استقبال 1752 حالة ولادة، تأمين اللقاحات لـ 9988 طفلاً دون سن الخامسة، إجراء معاينات لحوالي 2342 امرأة وطفل، إضافة إلى تزويد 21419 طفلًا بخدمات التغذية الوقائية، وذلك خلال الأشهر الثمانية الماضية.
+وفقًا لـ Human Appeal، قدّم المستشفى خدماته الطبية لـ 115،389 سوريًا، من بينها استقبال 1752 حالة ولادة، تأمين اللقاحات لـ 9988 طفلاً دون سن الخامسة، إجراء معاينات لحوالي 2342 امرأة وطفل، إضافة إلى تزويد 21419 طفلًا بخدمات التغذية الوقائية، وذلك ما بين يناير وحتى نهاية آب 2019.
 
 ![](/assets/investigations/alimanhospital/image5.png)
 
@@ -72,7 +75,8 @@ drafts: true
 
 قبل الهجوم موضع التحقيق في آب/أغسطس 2019؛ استُهدف المرفق بهجمات في آب/أغسطس 2016 وحزيران/يونيو 2019. ففي 14 أغسطس 2016، هوجم المستشفى للمرّة الأولى ولحقت به أضرار جسيمة. تظهر [الصور](https://www.facebook.com/aliemanhospital/posts/320582551614677?__xts__[0]=68.ARCb_e7klHUMybRhZ7VDbMixfvQa4M3Jsdz2tt1K5njP548AxNtK1edc36pV_RZarmJP_eEnWlYjAnKbyk1SNY6Uy2DWjMzWA2dlyRza3Zd1efbhTbJKkfFxjxpBifs2ChvqxZ6faq5TkndMSWw3wwuDbt5NLdMy3yC3iPeB7y_uZPaiLj0XpAOlIt76YDXAbM9XQSFehAsnp4jskqfrEc0xAU0Q5mqNcZfiMkx4i859_WUG-pPjvOg2Q_CWhL8FWkbaLCnwaVoUdcIj1rIhR_SmnD7ke_t1Iy6tyTnxMW0rnhOzcRVYu7OeQ0pFAouZX4edVPmFP2F38oPXgjQt1f0&__tn__=H-R) المنشورة [على صفحة المشفى على فيسبوك](https://www.facebook.com/aliemanhospital/) آثار هجوم مباشرٍ على المنشأة بحفرة عميقة في الفناء أمام بناء المشفى. كما نشرت الصفحة، إضافة إلى الصور، [مقطع فيديو](https://www.facebook.com/watch/?v=321747398164859) يوثّق الأضرار الناجمة، مع ادّعاءات وردت فيه حول مسؤولية روسيا عن الحادثة. أُغلق المستشفى عقب هذا الهجوم وأعيد افتتاحه في 2017.
 
- <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Faliemanhospital%2Fposts%2F320582551614677&width=500" width="500" height="669" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Faliemanhospital%2Fposts%2F320582551614677&width=500" width="500" height="669" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
  
 *صور للأضرار الناجمة عن هجوم 2016 آب/أغسطس نُشرت على صفحة المستشفى على فيسبوك.*
 
@@ -83,8 +87,9 @@ drafts: true
 
 أكدت كل من المقابلات التي أجراها فريق التحقيقات  والوسائط مفتوحة المصدر على الإنترنت أن مستشفى الإيمان استُهدف مباشره بستة صواريخ عالية الانفجار أصابت فناءه الرئيسي والمولّدات، ما أدى لحرمانه من بنى تحتية هامّة كالأكسجين والكهرباء، وخروجه عن الخدمة. 
 
-![](/assets/investigations/alimanhospital/image7.gif)
-
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/alimanhospital/1.webm" type="video/webm">
+</video>
 أكد كلّ من أطباء وموظفي المستشفى، الدفاع المدني السوري، ومصادر إعلامية محلية استهداف المرفق الصحي، الذي يقع داخل [مناطق خفض التصعيد](https://www.youtube.com/watch?v=5cF-gIL8yzk) والأراضي الخاضعة  [لاتفاق وقف إطلاق النار الذي قيل أنه سيدخل حيّز التنفيذ في الساعة السادسة من صباح يوم السبت ، 31 أب/أغسطس 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). استُهدف مشفى الايمان بشكل مباشر ومتعمد من قبل طائرات ذات أجنحة ثابتة قبل خمس ساعات فحسب من بدء سريان هذا الاتفاق.
 
 ![](/assets/investigations/alimanhospital/image13.png)
@@ -154,16 +159,18 @@ drafts: true
 
 *صور التقطها فريق التحقيقات لمولدات الأكسجين والكهرباء في المستشفى بعد الهجوم.*
 
-![](/assets/investigations/alimanhospital/image5.gif)
-
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/alimanhospital/2.webm" type="video/webm">
+</video>
 إضافة إلى ذلك؛ نشر [المركز الصحفي السوري مقطع فيديو](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) على يوتيوب يظهر سطح المشفى مغطى بالأنقاض، بالإضافة إلى الأضرار التي لحقت بسيارة الإسعاف. يظهر هذا المقطع والصور التي التقطها فريق التحقيقات حفرًا ناجمة عن الغارات الجوية محيطة بالمشفى.
 
 ![](/assets/investigations/alimanhospital/image16.png)
 
 *صورة التقطها فريق التحقيقات تظهر الحفر الناجمة عن الضربة الجوية بالقرب من مولدات المستشفى.*
 
-![](/assets/investigations/alimanhospital/image6.gif)
-
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/alimanhospital/3.webm" type="video/webm">
+</video>
 بقي بناء المنشأة قائمًا بسبب إصابة الصواريخ للتربة المحيطة بالمشفى، والتي امتصت جزءًا من ضغط الانفجار. رغم ذلك، أدى الهجوم إلى دمار غرف المشفى وتهشّم نوافذها وأبوابها.
 
 ### الأضرار الداخلية:
@@ -191,7 +198,8 @@ drafts: true
   
 في الساعة 12:31 صباحًا؛ شوهدت طائرة روسية ثابتة الجناحين تقلع من قاعدة حميميم الجوية في اللاذقية على بعد ما يقارب 122 كم جنوب غرب أورم الكبرى. في الساعة 12:55 صباحًا؛ شوهدت طائرة روسية ثابتة الجناحين تحلق فوق بلدتي الزربة وخان طومان المجاورتين، واللتان تقعان على مسافة 10 كم جنوب أورم الكبرى. في الساعة 12:56  صباحًا، شوهدت طائرة روسية ثابتة الجناحين تحلق فوق أورم الكبرى، وذلك قبل دقائق قليلة من الإبلاغ عن قصف المشفى بعد الساعة الواحدة صباحًا. وقد خلصت تحقيقات سابقة إلى أن الطيران الدائري في سماء مناطق الحرب عادةً ما يُشير إلى محاولة الاستحواذ على الهدف و/أو التحضير لهجوم وشيك. إن الدوران الذي قامت به طائرة طائرة روسية ثابتة الجناحين فوق أورم الكبرى يؤكد التوقيت المقدر للهجوم كما ورد في المقابلات التي أجراها فريق التحقيقات.
 
-[https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:display\_count=y&publish=yes&:origin=viz\_share_link](https://www.google.com/url?q=https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:display_count%3Dy%26publish%3Dyes%26:origin%3Dviz_share_link&sa=D&ust=1574093566390000)
+<iframe height="550" src="https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+
 
 رغم أن هذه البيانات تتطابق مع تقارير منظمات حقوق الإنسان بأن منفذ الهجوم هو القوات الجوية الروسية؛ إلا أنه لا يوجد دليل مباشر على ضلوع إحدى الطائرات المرصودة في الهجوم على أورم الكبرى. مع ذلك، فإن تحليق الطائرات فوق البلدة والمناطق المجاورة يزيد من احتمال وقوع هجوم جوي على المستشفى في التوقيت المحدد، والذي تم تأكيده عبر الوسائط مفتوحة المصدر والمُبلغ عنه من قبل فريق تحقيقات الأرشيف السوري.
 

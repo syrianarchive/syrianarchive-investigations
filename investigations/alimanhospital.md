@@ -8,6 +8,8 @@ socialMediaImage: /assets/investigations/alimanhospital/image17.png
 drafts: true
 ---
 
+Joint investigation: Syrian Archive and [Focus Aleppo](https://focusaleppo.com/)
+
 ## Initial Summary:
 
 - Location: Aleppo: Urem Al Kubra
@@ -43,7 +45,7 @@ The hospital, specializing in caring for women and children, serves the 350,000 
 
 ### Hospital Capacity and Beneficiaries:
 
-According to Human Appeal, the hospital in the past eight months has served 115,389 Syrians while facilitating an additional 1,752 child births. Additionally during this eight month period, the hospital has provided vaccines to 9,988 children under five years old, examined around 2342 women and children, and provided preventative feeding services to 21,419 children.
+According to Human Appeal, the hospital in the past eight months has served 115,389 Syrians while facilitating an additional 1,752 child births. Additionally, between January and the end of August 2019, the hospital has provided vaccines to 9,988 children under five years old, examined around 2342 women and children, and provided preventative feeding services to 21,419 children.
 
 ![](/assets/investigations/alimanhospital/image5.png)
 
@@ -85,8 +87,9 @@ Al Iman Hospital experienced another attack on June 28th 2019. Human Appeal [rep
 
 Confirmed by interviews conducted by the investigations team as well as online open source media, Al Iman hospital was directly targeted by six high explosive rockets that hit the hospital’s main courtyard and generators cutting it off from its necessary infrastructures like oxygen and electricity. Because of this attack, the hospital was forced out of service.
 
-![](/assets/investigations/alimanhospital/image7.gif)
-
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/alimanhospital/1.webm" type="video/webm">
+</video>
 Hospital doctors and staff, the Syrian Civil Defense, and local news sources, confirmed the targeting of hospital, which is located within the [de-escalation zones](https://www.youtube.com/watch?v=5cF-gIL8yzk) and lands under the [ceasefire agreement said to be implemented at 6 AM Saturday, August 31st 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). Al Iman hospital was directly and deliberately targeted by fixed-wing aircrafts just five hours before this agreement took effect.
 
 ![](/assets/investigations/alimanhospital/image13.png)
@@ -153,15 +156,18 @@ On the sides of the hospital, generators for electricity and oxygen were irrepar
 
 *Images taken by the investigations team of the hospital’s oxygen and electricity generators after the attack.*
 
-![](/assets/investigations/alimanhospital/image5.gif)
-
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/alimanhospital/2.webm" type="video/webm">
+</video>
 Additional footage posted on YouTube by the [Syrian Press Center](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) features the roof of the hospital covered in rubble as well as the damage to the hospital’s ambulance. This video as well as images provided by the investigations team features the craters from the airstrikes, which surround the hospital.
 
 ![](/assets/investigations/alimanhospital/image16.png)
 
 *An image taken by the investigations team of craters from the airstrike near the hospital’s generators.*
 
-![](/assets/investigations/alimanhospital/image6.gif)
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/alimanhospital/3.webm" type="video/webm">
+</video>
 
 The facility is left standing only because the airstrike hit the soil which absorbed some of the shock of the explosions. Nevertheless, the windows, doors, and rooms of the hospitals were left smashed and shattered after the attack.
 
@@ -187,7 +193,10 @@ Footage captured by the investigations team also shows other rooms of the hospit
 
 To provide a further layer of verification, the Syrian Archive cross referenced findings from the open source media above and the media from the investigations team with flight observation data from a spotter organization. Data for flights occurring before and after 1:00 - 1:30 AM around Idlib, Aleppo, Lattakia, and, more specifically, Urem Al Kubra was closely analyzed.
 
-[https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:display\_count=y&publish=yes&:origin=viz\_share_link](https://www.google.com/url?q=https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:display_count%3Dy%26publish%3Dyes%26:origin%3Dviz_share_link&sa=D&ust=1574093566390000)
+
+<iframe height="550" src="https://public.tableau.com/views/ObservationsofFlightDatafromAugust30-312019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+
+
 
 At 12:31 AM a Russian Fixed Wing Aircraft was observed taking off from Hmemim Airbase in Lattakia around 122 Kilometers southwest of Urem Al Kubra. At 12:55 AM, a Russian Fixed Wing Aircraft is then observed circling over the neighboring towns of Al Zerbeh and Khantuman, which both lie around 10 Kilometers south of Urem Al Kubra. At 12:56 AM, a Russian fixed wing aircraft is observed circling over Urem Al Kubra shortly before reports of the airstrike hitting the hospital after 1 AM. With the common practice of circling by warzone aircrafts indicating a target acquisition and/or preparation for an imminent attack, the circling by a Fixed Wing Russian Aircraft over Urem Al Kubra corroborates the estimated time of the attack as reported by local news organizations and in interviews conducted by the Syrian Archive’s investigations team
 
