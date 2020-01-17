@@ -13,22 +13,13 @@ Joint investigation: Syrian Archive and [Focus Aleppo](https://focusaleppo.com/)
 ## Initial Summary:
 
 - Location: Aleppo: Urem Al Kubra
-
 - Target: [Al Iman Hospital](https://www.facebook.com/%D9%85%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%A7%D9%8A%D9%85%D8%A7%D9%86-%D9%84%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%88%D8%B1%D9%85-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-766909866710438/) for women and children which first opened in 2015 and closed in 2016. It was then, under the support of the Aleppo Health Directorate and the UK organization Human Appeal, reopened in 2017 and later forced to close after this attack.
-
-
 - Beneficiaries: The hospital serves more than 350,000 women and [children](https://www.facebook.com/aliemanhospital/videos/249066108766322/) in the surrounding areas.
-
 - Date: 31 August 2019
-
 - Time: The attack occurred at around 1:00 - 1:30 AM according to local media, the Health Directorate of Aleppo, the Civil Defense Center (The White Helmets) , the Urem Grand Media Center, and the interviews conducted by the investigation team with hospital staff and civilians.
-
 - Victims: Six people, including three children, two hospital staff, and an accompanying woman were injured according to interviews, local media sources, the Civil Defense, Human Appeal, and the Health Directorate of Aleppo.
-
 - Type of Attack: Six strikes by a fixed wing aircraft  
-
 - Munitions Identified: N/A
-
 - Potentially Responsible: Witnesses claim a Fixed Wing Russian aircraft conducted the attack. This matches flight observation data.
 
 ## Background of the Hospital:
@@ -48,7 +39,6 @@ The hospital, specializing in caring for women and children, serves the 350,000 
 According to Human Appeal, the hospital in the past eight months has served 115,389 Syrians while facilitating an additional 1,752 child births. Additionally, between January and the end of August 2019, the hospital has provided vaccines to 9,988 children under five years old, examined around 2342 women and children, and provided preventative feeding services to 21,419 children.
 
 ![](/assets/investigations/alimanhospital/image5.png)
-
 *An image of the hospital before the attack from [Baladi News](https://www.baladi-news.com/ar/news/details/50375/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA_%D8%B1%D9%88%D8%B3%D9%8A%D8%A9_%D8%AA%D8%AF%D9%85%D8%B1_%D9%85%D8%B4%D9%81%D9%89_%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%BA%D8%B1%D8%A8%D9%8A_%D8%AD%D9%84%D8%A8)*
 
 According to Dr. Hussein Al Ahmad, director of Al Iman hospital, the hospital services 200 births per month with an average of 30 children placed in incubators per month. Interviewed by the investigations team, Al Ahmad reported the hospital receives an estimated 20 medical cases with women and 40 with children. The hospital reportedly administers 100 vaccinations per day.  
@@ -56,7 +46,6 @@ According to Dr. Hussein Al Ahmad, director of Al Iman hospital, the hospital se
 Serving the large population in its surrounding areas, the hospital holds 29 beds and has 115 staff members. The facility houses a number of departments including a pediatric clinic, an incubator ward, a laboratory department, a pharmacy, a malnutrition treatment center, a women’s clinic, ambulances, and ward, an obstetrics and caesarean section department, a gynecological surgery ward, and a department of radiology for children.
 
 ![](/assets/investigations/alimanhospital/image18.png)
-
 *An image from [Human Appeal](https://www.humanappeal.org.uk/news/press-releases/2019/human-appeal-strongly-condemns-second-aleppo-hospital-attack/) of Al Iman Hospital after the attack.*
 
 ### Hospital Location:
@@ -64,7 +53,6 @@ Serving the large population in its surrounding areas, the hospital holds 29 bed
 Serving a diverse but remote population, Al Iman in the western countryside of Aleppo in the village of Urem Al Kubra. Surrounded mostly by agricultural land, the hospital is far from any military targets with its surroundings quite empty for over 2 kilometers. This indicates its deliberate targeting.
 
 ![](/assets/investigations/alimanhospital/image10.png)
-
 *Google Earth Satellite imagery showing Aleppo on the right and the Urem Al Kubra village on the left.*
 
 With the assistance of the investigations team, the hospitals location was corroborated using satellite imagery.
@@ -94,7 +82,6 @@ Confirmed by interviews conducted by the investigations team as well as online o
 Hospital doctors and staff, the Syrian Civil Defense, and local news sources, confirmed the targeting of hospital, which is located within the [de-escalation zones](https://www.youtube.com/watch?v=5cF-gIL8yzk) and lands under the [ceasefire agreement said to be implemented at 6 AM Saturday, August 31st 2019](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html). Al Iman hospital was directly and deliberately targeted by fixed-wing aircrafts just five hours before this agreement took effect.
 
 ![](/assets/investigations/alimanhospital/image13.png)
-
 *A map of the [Deescalation Zones](https://www.aljazeera.com/news/2017/05/syria-de-escalation-zones-explained-170506050208636.html) agreed to by Russia, Turkey, and Iran in May 2017.*
 
 Occurring at around 1 - 1:30 AM, the attack resulted in six injured including three children in incubators, two medical staff, and a woman accompanying her child. The hospital staff and others who were injured were immediately transferred to nearby hospitals by the Syrian Civil Defense. Fearing other airstrikes, those in the hospital fled into the agricultural land surrounding the hospital. The hospital, as discussed in the next section of this investigation, was severely damaged internally and externally with two cars for medical staff and the hospital generator destroyed from the attack.
@@ -108,7 +95,6 @@ Satellite imagery provided by Digital Globe showing the medical facility from be
 In an interview with the investigations team, Dr. Mustafa Barakat, medical director for Human Appeal, confirmed that an attack on Al Iman hospital occurred at 1 AM which caused serious damage to the hospital completely pushing it out of commission. Dr. Barakat, in congruence with images and videos taken after the attack, described the hospitals infrastructure (of generators and ambulances) as completely destroyed with windows and incubators broken and the operating room out of service. According to the director, the strikes on the hospital lasted for around half an hour. Shortly after the first missile hit the hospital, patients and medical personnel evacuated to the basement.
 
 ![](/assets/investigations/alimanhospital/image19.png)
-
 *Dr. Mustafa Barakat, medical director for Human Appeal, during an interview with the Syrian Archive’s investigations team.*
 
 Ismail Barakat, one of the staff in the hospital during the attack, reported to the investigations team that around 100 patients and visitors were in the hospital at 1:00 AM. They were evacuated to the basement quickly after the first strike which, according to Ismail Barakat, occurred between 1:00 - 1:15 AM. Omar Al Sharif, another hospital staff member who witnessed the attack, confirmed that the facility was attacked beginning at 1 AM with six missiles.
@@ -128,9 +114,7 @@ These photos were followed by a [video](https://www.facebook.com/watch/?t=41&v=6
 In an interview with the investigations team, Omar Jamal Ibrahim, a Civil Defense Center volunteer dispatched to the hospital, confirmed that the Civil Defense Teams were attacked two times while evacuating patients and sending those injured to nearby hospitals. The double tap attacks occurred during the first evacuation of the injured and medical personnel to neighboring hospitals and second when evacuating others.
 
 In regards to local media, at 01:30 AM the Urem Al Kubra Media Center [published](https://www.facebook.com/357524471390415/photos/a.665771027232423/665770520565807/?type=3&theater) an alert on its Facebook page of an attack on the village further confirming the early morning time of the attack. Nine hours after the attack at 10:25 AM, activist Feras Mwalla posted [photos](https://www.facebook.com/firasmawlla2/photos/pcb.3224108987606837/3224108647606871/?type=3&theater) showing the damage to the hospital from the airstrike. The local news source Halab Today posted a [video](https://www.youtube.com/watch?v=8TdBwWwXT7o&feature=youtu.be&fbclid=IwAR2jhEZu7JOmceRjfj89HgSfI1jN6TpknCWNv8c1SqZE4NILmlTnyyn6MKU) on youtube at 10:25 AM reporting on the attack.
-
 ![](/assets/investigations/alimanhospital/image3.png)
-
 *An image [posted](https://www.facebook.com/firasmawlla2/photos/pcb.3224108987606837/3224108934273509/?type=3&theater) on Facebook by media activist Feras Mola from shortly after the attack.*
 
 Beginning in the afternoon of the day of the attack and the days following the incident, organizations both in and outside of Syria reported on the hospital attack with some claiming it was committed by Russian forces. Macro Media Center published a [video](https://www.youtube.com/watch?v=O3mQyYRpdl4) of the damage from the airstrikes on August 31st 2019. This was followed by a video from the [Syrian Press Center](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) showing the damage from the attack as well as interviews with hospital personnel.
@@ -140,7 +124,6 @@ Lastly, Human appeal released a [statement](https://www.humanappeal.org.uk/news/
 ## Analysis of the Damage:
 
 ![](/assets/investigations/alimanhospital/image17.png)
-
 *A still of Al Iman hospital from above after the attack shown in a [video report](https://www.youtube.com/watch?v=JKY15ae3HeE) uploaded onto YouTube by the Syrian Civil Defense.*
 
 The internal and external damage suffered by the hospital from the attack rendered the facility’s rooms and infrastructure unusable pushing it fully out of service.
@@ -153,8 +136,7 @@ The airstrike most dramatically affected the outside of the hospital crippling i
 
 On the sides of the hospital, generators for electricity and oxygen were irreparable after the attack.
 
-![](/assets/investigations/alimanhospital/image23.jpg)![](/assets/investigations/alimanhospital/image8.jpg)
-
+![](/assets/investigations/alimanhospital/image8.jpg)
 *Images taken by the investigations team of the hospital’s oxygen and electricity generators after the attack.*
 
 <video autoplay loop muted playsinline style="width: 100%">
@@ -164,7 +146,6 @@ On the sides of the hospital, generators for electricity and oxygen were irrepar
 Additional footage posted on YouTube by the [Syrian Press Center](https://www.youtube.com/watch?v=2AxR4ZCiwng&fbclid=IwAR2GK9VmayB4rmOl6s-7kLiHTWv87M3TKGMX2gkQmSE5u49nwsZHvGtl1-g) features the roof of the hospital covered in rubble as well as the damage to the hospital’s ambulance. This video as well as images provided by the investigations team features the craters from the airstrikes, which surround the hospital.
 
 ![](/assets/investigations/alimanhospital/image16.png)
-
 *An image taken by the investigations team of craters from the airstrike near the hospital’s generators.*
 
 <video autoplay loop muted playsinline style="width: 100%">
@@ -177,18 +158,15 @@ The facility is left standing only because the airstrike hit the soil which abso
 
 Internally, as shown in the images from the investigations team, a large number of machinery and departments were damaged as a result of the attack. As described in interviews, images show a damaged incubator room confirming reports of two of the ten incubators as out of service with others significantly damaged.
 
-![](/assets/investigations/alimanhospital/image24.png)![](/assets/investigations/alimanhospital/image1.jpg)![](/assets/investigations/alimanhospital/image21.jpg)
-
+![](/assets/investigations/alimanhospital/image1.jpg)![](/assets/investigations/alimanhospital/image21.jpg)
 *Images taken by the investigations team of the hospital’s child incubator ward.*
 
 Footage captured by the investigations team also shows other rooms of the hospital as damaged and unsuitable for treating patients.
 
 ![](/assets/investigations/alimanhospital/image12.png)![](/assets/investigations/alimanhospital/image11.png)
-
 *Stills from footage taken by the investigations team of patient rooms in the hospital.*
 
 ![](/assets/investigations/alimanhospital/image22.jpg)
-
 *An image taken by the investigations team of the operating room in the hospital.*
 
 ## Flight Data and Analysis:
