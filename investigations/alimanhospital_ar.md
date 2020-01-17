@@ -58,7 +58,7 @@ socialMediaImage: /assets/investigations/alimanhospital/image17.png
 
 تم التحقق من موقع المشفى بمساعدة فريق التحقيقات وباستخدام صور الأقمار الصناعية.
 
-![](/assets/investigations/alimanhospital/image7.jpg)
+![](/assets/investigations/alimanhospital/image25.jpeg)
 
 تتطابق المباني الظاهرة في صور الأقمار الصناعية من Google Earth مع ما ظهر في  [تقرير سمارت نيوز المصوّر](https://www.youtube.com/watch?v=JiAuDLBSRnw)
 
