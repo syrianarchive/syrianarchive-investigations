@@ -5,7 +5,6 @@ desc: "تحقيق يتناول استهداف مشفى الإيمان بالغا
 date: 2020-01-17
 image: /assets/investigations/alimanhospital/image17.png
 socialMediaImage: /assets/investigations/alimanhospital/image17.png
-drafts: true
 ---
 
 تحقيق مشترك: الأرشيف السوري و[فوكس حلب](https://focusaleppo.com/)

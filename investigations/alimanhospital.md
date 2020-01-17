@@ -5,7 +5,6 @@ desc: "Investigation reveals hospital targeted with airstrikes"
 date: 2020-01-17
 image: /assets/investigations/alimanhospital/image17.png
 socialMediaImage: /assets/investigations/alimanhospital/image17.png
-drafts: true
 ---
 
 Joint investigation: Syrian Archive and [Focus Aleppo](https://focusaleppo.com/)
