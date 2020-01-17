@@ -39,6 +39,7 @@ The hospital, specializing in caring for women and children, serves the 350,000 
 According to Human Appeal, the hospital in the past eight months has served 115,389 Syrians while facilitating an additional 1,752 child births. Additionally, between January and the end of August 2019, the hospital has provided vaccines to 9,988 children under five years old, examined around 2342 women and children, and provided preventative feeding services to 21,419 children.
 
 ![](/assets/investigations/alimanhospital/image5.png)
+
 *An image of the hospital before the attack from [Baladi News](https://www.baladi-news.com/ar/news/details/50375/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA_%D8%B1%D9%88%D8%B3%D9%8A%D8%A9_%D8%AA%D8%AF%D9%85%D8%B1_%D9%85%D8%B4%D9%81%D9%89_%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%BA%D8%B1%D8%A8%D9%8A_%D8%AD%D9%84%D8%A8)*
 
 According to Dr. Hussein Al Ahmad, director of Al Iman hospital, the hospital services 200 births per month with an average of 30 children placed in incubators per month. Interviewed by the investigations team, Al Ahmad reported the hospital receives an estimated 20 medical cases with women and 40 with children. The hospital reportedly administers 100 vaccinations per day.  
@@ -46,6 +47,7 @@ According to Dr. Hussein Al Ahmad, director of Al Iman hospital, the hospital se
 Serving the large population in its surrounding areas, the hospital holds 29 beds and has 115 staff members. The facility houses a number of departments including a pediatric clinic, an incubator ward, a laboratory department, a pharmacy, a malnutrition treatment center, a women’s clinic, ambulances, and ward, an obstetrics and caesarean section department, a gynecological surgery ward, and a department of radiology for children.
 
 ![](/assets/investigations/alimanhospital/image18.png)
+
 *An image from [Human Appeal](https://www.humanappeal.org.uk/news/press-releases/2019/human-appeal-strongly-condemns-second-aleppo-hospital-attack/) of Al Iman Hospital after the attack.*
 
 ### Hospital Location:
