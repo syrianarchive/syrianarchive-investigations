@@ -58,7 +58,7 @@ Serving a diverse but remote population, Al Iman in the western countryside of A
 
 With the assistance of the investigations team, the hospitals location was corroborated using satellite imagery.
 
-![](/assets/investigations/alimanhospital/image7.jpg)
+![](/assets/investigations/alimanhospital/image25.jpg)
 
 The buildings shown in Google Earth satellite imagery match what is shown, in this case, in a [SMART News video report](https://www.youtube.com/watch?v=JiAuDLBSRnw) on the attack.
 
