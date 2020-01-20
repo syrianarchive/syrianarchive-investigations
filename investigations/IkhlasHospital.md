@@ -95,7 +95,7 @@ According to interviews, photos, and videos taken by the Syrian Archive’s inve
 
 *An image of the southern side of the hospital posted by the [Idlib Health Directorate](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998452270166/?type=3&theater).*
 
-Shortly after the first two missiles fell at 1:00 AM, the Syrian Civil Defense evacuated the medical staff and patients from the facility, according to Dr. Zuhair Karat the director of the hospital. An interview with two other hospital staff confirm that the hospital was operating normally before the first missiles. They said the initial attack caused panic among patients and staff and prompted the evacuation of the site before another attack. A second attack occurred after ten to twenty minutes at around 1:20 AM, according to the interviewed staff. Dr. Karat claimed that it was two Russian planes that targeted the facility on November 6 2019.
+Shortly after the first two missiles fell at 1:00 AM, the Syrian Civil Defense evacuated the medical staff and patients from the facility, according to Dr. Zuhair Karat the director of the hospital. An interview with two other hospital staff confirms that the hospital was operating normally before the first missiles, and that it had 16 people, including 12 hospital staff and two children with their mothers. They said the initial attack caused panic among patients and staff and prompted the evacuation of the site before another attack. A second attack occurred after ten to twenty minutes at around 1:20 AM, according to the interviewed staff. Dr. Karat claimed that it was two Russian planes that targeted the facility on November 6 2019.
 
 ![](/assets/investigations/IkhlasHospital/image8.png)
 
