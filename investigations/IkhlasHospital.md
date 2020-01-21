@@ -1,46 +1,39 @@
-﻿---
+---
 layout: investigation.html
-drafts: true
-title: test
-date: 2019-02-01
-image: /assets/investigations/hass/image2.png
+title: "Medical Facilities Under Fire: Al Ikhlas hospital"
+desc: "Investigation reveals hospital targeted with airstrikes"
+date: 2020-01-20
+image: /assets/investigations/IkhlasHospital/image3.png
+socialMediaImage: /assets/investigations/IkhlasHospital/image3.png
 ---
 
 ## Initial Summary:
 
 - Location: Idlib: Shanan
-
-- Target: Al Ikhlas Hospital for Women and Children, which was first supported by [Syria Relief](https://www.syriarelief.org.uk/) and [World Vision](https://www.worldvision.org/) until November 2018 and is now supported by the [Union of Medical Care and Relief Organizations](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0)  (UOSSM).
-
+- Target: Al Ikhlas Hospital for Women and Children, which was first supported by [Syria Relief](https://www.syriarelief.org.uk/) and [World Vision](https://www.worldvision.org/) until November 2018 and is now supported by the [Union of Medical Care and Relief Organizations](https://www.uossm.us/) (UOSSM).
 - Beneficiaries: The hospital serves around 4500 to 5000 patients per month according to an interview with the hospital’s director Dr. Zuhair Karat. As the only specialized hospital for over 15 villages, it services about 100,000 women and children in the surrounding areas.
-
 - Date: 6 November 2019
-
-- Time: The attack occurred around 1:00 - 1:30 AM, according to interviews conducted by the Syrian Archive’s investigations team with hospital staff and civilian witnesses nine hours after the attack. Reports and open source media uploaded online by local media, the [Syrian Civil Defense](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater), the [Health Directorate of Idlib](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R), [SAMS](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/), the [UOSSM](https://www.uossm.org/breaking_children_s_hospitals_and_kafr_nabl_hospital_hit_by_airstrikes_syria) as well as flight observation data corroborates this estimated time.
-
+- Time: The attack occurred around 1:00 - 1:30 AM, according to interviews conducted by the Syrian Archive’s investigations team with hospital staff and civilian witnesses nine hours after the attack. Reports and open source media uploaded online by the [local media](https://www.youtube.com/watch?v=24w5oGs3Xpo), the [Health Directorate of Idlib](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R), [SAMS](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/), the [UOSSM](https://www.uossm.org/breaking_children_s_hospitals_and_kafr_nabl_hospital_hit_by_airstrikes_syria) as well as flight observation data corroborates this estimated time.
 - Victims: Three members of the hospital staff sustained minor injuries from the attack including lab technician Ahmad Al Saeed according to interviews conducted by the investigations team with the director of the hospital. The number injured is also corroborated and documented by press reports from the [Syrian Civil Defense Directorate](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater), [Health Directorate of Idlib](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R), and [Halab Today](https://www.youtube.com/watch?v=24w5oGs3Xpo&feature=youtu.be&fbclid=IwAR2UDlCAbUSfkda_vDTvc4GUUxB1kF1P_Om6gKVG3dz4ucjGjoLenPsyxJ8).
-
 - Type of Attack: Four missiles shot between two airstrikes.
-
 - Munitions Used: Unknown
-
 - Potentially Responsible: The Russian Air Force. The Idlib Health Directorate [reports](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R) that the shelling came from a Russian aircraft that fired Missiles at the hospital. This matches analyzed flight observation data.
 
 ## Background of the Hospital:
 
 ![](/assets/investigations/IkhlasHospital/image15.png)
 
-Image of Al Ikhlas hospital from before the attack published by [Baladi News](https://www.baladi-news.com/ar/news/details/39116/).
+*Image of Al Ikhlas hospital from before the attack published by [Baladi News](https://www.baladi-news.com/ar/news/details/39116/).*
 
 Founded in 2017, Al Ikhlas Hospital for Women and Children is a two story hospital with both a children’s and women’s department. The children’s department houses six incubators and six patient beds. The women’s department has an operating room as well as a women’s clinic where normal and Caesarean deliveries are performed.
 
 ![](/assets/investigations/IkhlasHospital/image22.jpg)
 
-An [image](https://www.alaraby.co.uk/society/2019/11/6/%D9%82%D8%B5%D9%81-%D9%8A%D8%AF%D9%85%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9) published by Al Arabi of the hospital’s incubator room after the attack.
+*An [image](https://www.alaraby.co.uk/society/2019/11/6/%D9%82%D8%B5%D9%81-%D9%8A%D8%AF%D9%85%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%AC%D8%A8%D9%84-%D8%A7%D9%84%D8%B2%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9) published by Al Arabi of the hospital’s incubator room after the attack.*
 
 ![](/assets/investigations/IkhlasHospital/image27.jpg)
 
-An image taken by the investigation’s team of a patient’s room after the attack.
+*An image taken by the investigation’s team of a patient’s room after the attack.*
 
 In addition to the women’s and children’s department, the hospital hosts an internal medicine clinic 2 days a week, a vaccine center for kids one day to five years old, a laboratory for all major medical tests, and a pharmacy that provides medicines and supplies for the facility. The hospital has 50 staff total composed of doctors, nurses, technicians and administrators. All services at the hospital are free.
 
@@ -52,54 +45,49 @@ Given its remote location, as described below, the medical facility serves a lar
 
 ![](/assets/investigations/IkhlasHospital/image24.png)
 
-Image from Google Earth Pro of Shanan and it surrounding cities and villages.
+*Image from Google Earth Pro of Shanan and it surrounding cities and villages.*
 
 The Al Ikhlas hospital is located in the village of Shanan, which lies in a rugged mountainous region around 22 km south of the city of Idlib and 11 km north of Ma’arat Al Nu’man. As shown in videos taken by the investigations team, houses are more than 2 km away from the facility and no military bases are nearby. This further corroborates the direct and deliberate targeting of the hospital by warplanes.
 
 ![](/assets/investigations/IkhlasHospital/image19.png)
 
-A still from a video taken by the investigations team of the hospital’s surrounding areas.
+*A still from a video taken by the investigations team of the hospital’s surrounding areas.*
 
 The location of the hospital was corroborated by the Syrian Archive (as well as independently by [the Syrian Network for Human Rights](https://www.google.com/url?q=https://www.facebook.com/snhr/photos/a.256329064515163/1427974280683963/?type%3D3&sa=D&ust=1577711952904000)) using media taken by the investigations team and satellite imagery.
 
 ![](/assets/investigations/IkhlasHospital/image17.jpg)
 
-A geolocation of the facility with satellite imagery taken from Google Earth Pro compared with images taken by the investigations team.
+*A geolocation of the facility with satellite imagery taken from Google Earth Pro compared with images taken by the investigations team.*
 
 ### Previous attacks on the Facility:
 
-![](/assets/investigations/IkhlasHospital/image20.png)
-![](/assets/investigations/IkhlasHospital/image5.jpg)
+<iframe frameborder="0" class="juxtapose" width="100%" height="276" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2199232e-3c5d-11ea-b9b8-0edaf8f81e27"></iframe>
 
-An image released by the [UOSSM](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) of the hospital after its April 17 2017 attack on the left and an image of the hospital after its November 6 2019 attack on the right. The hospital suffered much more extensive damage externally and internally after the latest November 6 attack.
+An image released by the Syrian Civil Defense of the hospital after its April 17 2017 attack on the left and an image of the hospital after its November 6 2019 attack on the right. The hospital suffered much more extensive damage externally and internally after the latest November 6 attack.
 
-Alongside its deliberate targeting on November 6 2019, the hospital was bombed with three missiles on April 17 2017. The air raid on the hospital occurred 3 months after its establishment. This attack, according to a [report](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) by the UOSSM, injured at least 5 hospital staff as well as a member of the Civil Defense. Posts from the Civil Defense’s Facebook page show the [injured Civil Defense team member](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R) as well as the [external damage to the medical facility](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R). Additional [sources](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R) show the damage to the inside of the facility. The hospital was repaired quickly after the attack and served its communities until November 6 2019 when it was forced out of service.
+Alongside its deliberate targeting on November 6 2019, the hospital was bombed with three missiles on April 17 2017. The air raid on the hospital occurred 3 months after its establishment. The Syrian Archive investigation team [published a detailed investigation](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-4.html) about it in 2017.  
 
-## What Happened and When? 
+This attack, according to a [report](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) by the UOSSM, injured at least 5 hospital staff as well as a member of the Civil Defense. Posts from the Civil Defense’s Facebook page show the [injured Civil Defense team member](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R) as well as the [external damage to the medical facility](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R). Additional [sources](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R) show the damage to the inside of the facility. The hospital was repaired quickly after the attack and served its communities until November 6 2019 when it was forced out of service.
+
+## What Happened and When?
 
 ![](/assets/investigations/IkhlasHospital/image1.jpg)
 
-An image of the hospital taken 9 hours after the attack by the Syrian Archive’s investigations team.
+*An image of the hospital taken 9 hours after the attack by the Syrian Archive’s investigations team.*
 
 According to interviews, photos, and videos taken by the Syrian Archive’s investigations team nine hours after the attack as well as open source media from the attack, Al Ikhlas Hospital for Women and Children was directly targeted on November 6 2019 by 4 high explosive missiles. Two of the rockets fell about 20 meters southeast of the hospital at around 1:00 AM. The other two fell about one meter away from the women’s operating room at 1:20 AM.
 
-![](/assets/investigations/IkhlasHospital/image7.png)![](/assets/investigations/IkhlasHospital/image11.png)
 
-The image on the left shows the crater from two rockets falling 20 meters southeast of the hospital at 1:00 AM. The image on the right shows the crater from two rockets falling about one meter away from the hospital’s women’s operating room at 1:20 AM. Both images were taken by the investigations team.
+*The image on the left shows the crater from two rockets falling 20 meters southeast of the hospital at 1:00 AM. The image on the right shows the crater from two rockets falling about one meter away from the hospital’s women’s operating room at 1:20 AM. Both images were taken by the investigations team.*
 
 ![](/assets/investigations/IkhlasHospital/image9.jpg)
-
-Locations of the craters on the hospital’s southern side.
-
-![](/assets/investigations/IkhlasHospital/image3.png)
-
-An image of the southern side of the hospital posted by the [Idlib Health Directorate](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998452270166/?type=3&theater).
+*Image showing the locations of the craters on the hospital’s southern side.*
 
 Shortly after the first two missiles fell at 1:00 AM, the Syrian Civil Defense evacuated the medical staff and patients from the facility, according to Dr. Zuhair Karat the director of the hospital. An interview with two other hospital staff confirm that the hospital was operating normally before the first missiles. They said the initial attack caused panic among patients and staff and prompted the evacuation of the site before another attack. A second attack occurred after ten to twenty minutes at around 1:20 AM, according to the interviewed staff. Dr. Karat claimed that it was two Russian planes that targeted the facility on November 6 2019.
 
 ![](/assets/investigations/IkhlasHospital/image8.png)
 
-A still from a [video report](https://www.youtube.com/watch?v=8QY6fB9czLU&feature=youtu.be&fbclid=IwAR0xrqvqrfJOcmhP41VofmFTb3OnH_aMtRfYhb1TX3e3ot2GRkB6neJye2M) uploaded by the Syrian Civil Defense of the hospital directly after the attack. This still shows a fire in the facility shortly after the missiles hit.
+*A still from a [video report](https://www.youtube.com/watch?v=8QY6fB9czLU&feature=youtu.be&fbclid=IwAR0xrqvqrfJOcmhP41VofmFTb3OnH_aMtRfYhb1TX3e3ot2GRkB6neJye2M) uploaded by the Syrian Civil Defense of the hospital directly after the attack. This still shows a fire in the facility shortly after the missiles hit.*
 
 The attack on the hospital, which sits inside the [de-escalation zone](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews), injured three medical personnel and comes after a [ceasefire agreement](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html) made in August by the Russians that halted air attacks in the region for two months. Nevertheless as a result of the attack, according to Dr Karat, about 80% of the equipment and infrastructure of the hospital were completely destroyed with incubators and the women’s operating room under rubble. Additionally, pharmaceuticals and laboratory equipment were severely damaged from the attack. Al Karat stressed that the hospital was damaged beyond repair and, further, out of service.
 
@@ -111,7 +99,7 @@ A [video](https://www.youtube.com/watch?v=fbDzBivVTf0&feature=youtu.be&fbclid=Iw
 
 ![](/assets/investigations/IkhlasHospital/image6.png)
 
-A hospital staff member, [interviewed by the Idlib Health Directorate](https://www.youtube.com/watch?v=fbDzBivVTf0&feature=youtu.be&fbclid=IwAR0_Tx6E0L1zUnAPAL3FthbPHaxSyEb1KjEZTtIqZ7yn0aPKAL2pdb_652o), holding a piece of metal he asserts is a remnant of a missile that hit the facility.
+*A hospital staff member, [interviewed by the Idlib Health Directorate](https://www.youtube.com/watch?v=fbDzBivVTf0&feature=youtu.be&fbclid=IwAR0_Tx6E0L1zUnAPAL3FthbPHaxSyEb1KjEZTtIqZ7yn0aPKAL2pdb_652o), holding a piece of metal he asserts is a remnant of a missile that hit the facility.*
 
 Alongside the videos mentioned above, the [UOSSM](https://www.uossm.org/breaking_children_s_hospitals_and_kafr_nabl_hospital_hit_by_airstrikes_syria) published a statement on the attack saying it occurred at 1:30 AM, injuring three members of the medical staff. The report detailed the hospital as severely damaged with its infrastructure destroyed. The statement called the direct and deliberate targeting of the facility a war crime.
 
@@ -119,23 +107,22 @@ Additional media reporting on the attack was first posted by media activist Moha
 
 ![](/assets/investigations/IkhlasHospital/image14.png)
 
-An image [posted](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998502270161/?type=3&theater) by the Idlib Health Directorate showing the damage to the hospital after the attack.
+*An image [posted](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998502270161/?type=3&theater) by the Idlib Health Directorate showing the damage to the hospital after the attack.*
 
 These posts from the night of the attack were followed by [posts](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R) that morning from the Idlib Health Directorate at 8:49 AM with images showing the magnitude of the damage as well as a statement corroborating the time of the strike. Aleppo Media Center, alongside media activist [Radwan Al Atrash](https://www.facebook.com/permalink.php?story_fbid=724443218067790&id=100015063548401), posted an [alert](https://www.facebook.com/AleppoAMC/posts/927280287649674) on Facebook at 9:11 AM reporting the direct targeting of Shanan Hospital.
-  
+
 The media outlets [Halab Today](https://www.youtube.com/watch?v=24w5oGs3Xpo&feature=youtu.be&fbclid=IwAR2UDlCAbUSfkda_vDTvc4GUUxB1kF1P_Om6gKVG3dz4ucjGjoLenPsyxJ8) and [Orient TV](https://www.facebook.com/Orient.Tv.Net/videos/3400682129949606/) published video reports about the attack at 10:44 AM and 12:08 PM respectively. Their correspondents in the videos detail, while reviewing the damage to the facility, confirmed the attack on the hospital. Director of the hospital, Dr. Zuhair Karat, again confirmed the attack and its time in an [interview with Radio All](https://www.radioalkul.com/p279492/) broadcasted and uploaded online at around 12:00 PM.
 
 ![](/assets/investigations/IkhlasHospital/image25.png)
 
-A [video](https://www.facebook.com/Orient.Tv.Net/videos/3400682129949606/) posted on Facebook by Orient TV of its correspondent at the hospital the day after the attack.
+*A [video](https://www.facebook.com/Orient.Tv.Net/videos/3400682129949606/) posted on Facebook by Orient TV of its correspondent at the hospital the day after the attack.*
 
 Later that night on November 6th, video reports and posts by [TRT Arabic](https://www.facebook.com/watch/?ref=search&v=428674307842578&external_log_id=91e4bdf1f40da97f552d1091ee68bd9d&q=%25D9%2585%25D8%25B4%25D9%2581%25D9%2589%2520%25D8%25A7%25D9%2584%25D8%25A5%25D8%25AE%25D9%2584%25D8%25A7%25D8%25B5) and [Zaytoon Agency](https://www.facebook.com/ZaitunAgency/posts/1520613481413448) showed the attack and the subsequent damage to the medical facility further confirming the time of the attack and the extent of the destruction to the hospital. Lastly The [Syrian Civil Defense](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater) and [SAMS](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/) published statements, pictures, and reports on the attack further confirming its time of occurence and number of injuries.
 
 ## Analysis of the Damage:
 
 ![](/assets/investigations/IkhlasHospital/image12.png)
-
-A still from a video taken by the investigations team of the hospital’s internal damage.
+*A still from a video taken by the investigations team of the hospital’s internal damage.*
 
 As documented by the Syrian Archive’s investigations team and corroborated using open source media, Al Ikhlas hospital suffered extensive damage both internally and externally as a result of 4 total missiles directly targeting the facility. Because of the severe damage to the hospital and its infrastructure, the facility was pushed out of service.
 
@@ -193,4 +180,3 @@ Although this data matches claims by human rights organizations that the attack 
 ## Conclusion:
 
 As documented and reported by the Syrian Archive’s investigations team through videos, images, and interviews as well as shown in open source media and flight observation data, it is confirmed that Al Ikhlas hospital in Shanan, Idlib was attacked between 1:00 - 1:30 AM on November 6 2019. 4 missiles, in 2 airstrikes, hit 1 meter and 30 meters away from the facility. The attack destroyed the hospital and pushed it out of service as well as injured 3 members of the hospital staff. Given the natural limitations of the investigation, the Syrian Archive was unable to confirm the perpetrators of the attack although statements by local organizations and interviewed witnesses attribute the attack to the Russian Air Force.
-
