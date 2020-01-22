@@ -65,7 +65,11 @@ The location of the hospital was corroborated by the Syrian Archive (as well as 
 
 An image released by the Syrian Civil Defense of the hospital after its April 17 2017 attack on the left and an image of the hospital after its November 6 2019 attack on the right. The hospital suffered much more extensive damage externally and internally after the latest November 6 attack.
 
+<<<<<<< HEAD
 Alongside its deliberate targeting on November 6 2019, the hospital was bombed with three missiles on April 17 2017. The air raid on the hospital occurred 3 months after its establishment. The Syrian Archive investigation team [published a detailed investigation](https://syrianarchive.org/en/investigations/Medical-Facilities-Under-Fire/Incident-4.html) about it in 2017.  
+=======
+*An image released by the [UOSSM](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) of the hospital after its April 17 2017 attack on the left and an image of the hospital after its November 6 2019 attack on the right. The hospital suffered much more extensive damage externally and internally after the latest November 6 attack.*
+>>>>>>> eaa007370d3d97a648fe30c0a32aa9d02276297c
 
 This attack, according to a [report](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) by the UOSSM, injured at least 5 hospital staff as well as a member of the Civil Defense. Posts from the Civil Defense’s Facebook page show the [injured Civil Defense team member](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R) as well as the [external damage to the medical facility](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R). Additional [sources](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R) show the damage to the inside of the facility. The hospital was repaired quickly after the attack and served its communities until November 6 2019 when it was forced out of service.
 
@@ -81,9 +85,18 @@ According to interviews, photos, and videos taken by the Syrian Archive’s inve
 *The image on the left shows the crater from two rockets falling 20 meters southeast of the hospital at 1:00 AM. The image on the right shows the crater from two rockets falling about one meter away from the hospital’s women’s operating room at 1:20 AM. Both images were taken by the investigations team.*
 
 ![](/assets/investigations/IkhlasHospital/image9.jpg)
+<<<<<<< HEAD
 *Image showing the locations of the craters on the hospital’s southern side.*
+=======
 
-Shortly after the first two missiles fell at 1:00 AM, the Syrian Civil Defense evacuated the medical staff and patients from the facility, according to Dr. Zuhair Karat the director of the hospital. An interview with two other hospital staff confirm that the hospital was operating normally before the first missiles. They said the initial attack caused panic among patients and staff and prompted the evacuation of the site before another attack. A second attack occurred after ten to twenty minutes at around 1:20 AM, according to the interviewed staff. Dr. Karat claimed that it was two Russian planes that targeted the facility on November 6 2019.
+*Locations of the craters on the hospital’s southern side.*
+
+![](/assets/investigations/IkhlasHospital/image3.png)
+
+*An image of the southern side of the hospital posted by the [Idlib Health Directorate](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998452270166/?type=3&theater).*
+>>>>>>> eaa007370d3d97a648fe30c0a32aa9d02276297c
+
+Shortly after the first two missiles fell at 1:00 AM, the Syrian Civil Defense evacuated the medical staff and patients from the facility, according to Dr. Zuhair Karat the director of the hospital. An interview with two other hospital staff confirms that the hospital was operating normally before the first missiles, and that it had 16 people, including 12 hospital staff and two children with their mothers. They said the initial attack caused panic among patients and staff and prompted the evacuation of the site before another attack. A second attack occurred after ten to twenty minutes at around 1:20 AM, according to the interviewed staff. Dr. Karat claimed that it was two Russian planes that targeted the facility on November 6 2019.
 
 ![](/assets/investigations/IkhlasHospital/image8.png)
 
@@ -122,6 +135,10 @@ Later that night on November 6th, video reports and posts by [TRT Arabic](https:
 ## Analysis of the Damage:
 
 ![](/assets/investigations/IkhlasHospital/image12.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> eaa007370d3d97a648fe30c0a32aa9d02276297c
 *A still from a video taken by the investigations team of the hospital’s internal damage.*
 
 As documented by the Syrian Archive’s investigations team and corroborated using open source media, Al Ikhlas hospital suffered extensive damage both internally and externally as a result of 4 total missiles directly targeting the facility. Because of the severe damage to the hospital and its infrastructure, the facility was pushed out of service.
@@ -132,19 +149,19 @@ As documented by the investigations team nine hours after the attack, Al Ikhlas 
 
 ![](/assets/investigations/IkhlasHospital/image2.png)
 
-A still from a video taken by the investigations team of the crater from the second airstrike at around 1:00 AM. This crater was 1 meter away from the hospital.
+*A still from a video taken by the investigations team of the crater from the second airstrike at around 1:00 AM. This crater was 1 meter away from the hospital.*
 
 ![](/assets/investigations/IkhlasHospital/image16.png)
 
-A still from a video taken by the investigations team of a destroyed car parked on the northern side of the hospital.
+*A still from a video taken by the investigations team of a destroyed car parked on the northern side of the hospital.*
 
 ![](/assets/investigations/IkhlasHospital/image21.png)
 
-An [image](https://www.facebook.com/ZaitunAgency/photos/pcb.1520613481413448/1520613291413467/?type=3&theater) posted by Zaitun Agency showing the southern side of the hospital after the attack.
+*An [image](https://www.facebook.com/ZaitunAgency/photos/pcb.1520613481413448/1520613291413467/?type=3&theater) posted by Zaitun Agency showing the southern side of the hospital after the attack.*
 
 ![](/assets/investigations/IkhlasHospital/image23.jpg)
 
-An image taken by the investigations team of the southwestern side of the hospital.
+*An image taken by the investigations team of the southwestern side of the hospital.*
 
 On the opposite, the northern side of the hospital, a parked car is destroyed with massive holes in the walls between the sides of the facility. The eastern portion of the hospital is best preserved yet still with crumbling walls and machinery falling out from the wall openings. Matching the internal destruction of the facility, the irreparable damage to the exterior of the hospital eliminated any potential for future hospital operations.
 
@@ -154,24 +171,25 @@ Inside the hospital, the majority of the rooms on the first and second floor wer
 
 ![](/assets/investigations/IkhlasHospital/image13.jpg)![](/assets/investigations/IkhlasHospital/image26.jpg)
 
-Images taken by the investigations team of a portion of the hospital’s pharmacy. The attack ruined the hospital’s supply of medicine and broke one of its walls.
+*Images taken by the investigations team of a portion of the hospital’s pharmacy. The attack ruined the hospital’s supply of medicine and broke one of its walls.*
 
 ![](/assets/investigations/IkhlasHospital/image18.jpg)
 
-An image of a staircase in the hospital taken by the investigations team.
+*An image of a staircase in the hospital taken by the investigations team.*
 
 ![](/assets/investigations/IkhlasHospital/image10.png)
 
-A still from a video taken by the investigations team of a destroyed hospital room on the first floor.
+*A still from a video taken by the investigations team of a destroyed hospital room on the first floor.*
 
 ![](/assets/investigations/IkhlasHospital/image4.png)
-A still from a video taken by the investigations team of room destroyed first by the impact of the airstrikes and then burned by subsequent fires.
+
+*A still from a video taken by the investigations team of room destroyed first by the impact of the airstrikes and then burned by subsequent fires.*
 
 ## Flight Data Analysis
 
 To provide a further layer of verification, the Syrian Archive cross referenced findings from open source media and images/videos taken by the investigations team with flight observation data from a spotter organization. Data for flights occurring before and after 1:00 - 1:30 AM on November 6, 2019 around Idlib and Aleppo was closely analyzed.
 
-[https://public.tableau.com/views/ObservationsofFlightDatafromNovember62019/Sheet1?:display\_count=y&publish=yes&:origin=viz\_share_link](https://www.google.com/url?q=https://public.tableau.com/views/ObservationsofFlightDatafromNovember62019/Sheet1?:display_count%3Dy%26publish%3Dyes%26:origin%3Dviz_share_link&sa=D&ust=1577711952923000)
+<iframe height="550" src="https://public.tableau.com/views//ObservationsofFlightDatafromNovember62019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 Beginning at around 1:00 AM and 1:11 AM, a Russian fixed-wing aircraft was seen flying west from the village of Jarjnaz, which is around 20 km south of Shanan. A Russian fixed-wing aircraft was then seen flying over Kafranbel, around 14 km southwest at 1:13 AM. Shortly thereafter from 1:17 to 1:28 AM, a Russian fixed-wing aircraft was seen circling over the neighboring town of Ma’arat Al Nu’man. After the missile attacks from 1:00-1:30 AM, a drone was observed circling at 1:44 AM over Jabal Al Zawye, a village around 9 km west of Shanan. With the common practice of circling by warzone aircrafts indicating a target acquisition and/or preparation for an imminent attack, the circling by a Fixed Wing Russian Aircraft over Shanan’s neighboring villages corroborates the estimated time of the attack as reported by local news organizations and in interviews conducted by the Syrian Archive’s investigations team.
 
