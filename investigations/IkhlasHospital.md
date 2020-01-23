@@ -99,7 +99,7 @@ The attack on the hospital, which sits inside the [de-escalation zone](https://f
 
 ### Organizations and Local News Reports:
 
-Videos uploaded by [STEP TV](https://www.flickr.com/photos/184798443@N07/49022352483/in/dateposted/) and the [Syrian Civil Defense in Idlib](https://www.youtube.com/watch?v=8QY6fB9czLU&feature=youtu.be&fbclid=IwAR0xrqvqrfJOcmhP41VofmFTb3OnH_aMtRfYhb1TX3e3ot2GRkB6neJye2M), posted the morning after the attack, show the moment of the raid in the middle of the night. The video uploaded by the Civil Defense additionally shows first responders approaching the burning hospital and assessing the damage of the hospital’s interior. The Syrian Archive’s investigations team verified the location of the hospital (as featured above) and matched the photos and videos from the scene with satellite imagery of the location. Both these videos have also been corroborated by other media such as a [video](https://www.facebook.com/kafe2522/videos/1179573789097213/?t=60) by SY+ which shows the same building on fire at night shortly after the attack. In SY+ and the Civil Defense’s video reports, SAMS and Civil Defense volunteers confirm that the hospital was targeted by a Russian raid at 1:30 AM on November 6 2019.
+Videos uploaded by [STEP TV](https://www.flickr.com/photos/184798443@N07/49022352483/in/dateposted/) and the [Syrian Civil Defense in Idlib](https://www.youtube.com/watch?v=8QY6fB9czLU&feature=youtu.be&fbclid=IwAR0xrqvqrfJOcmhP41VofmFTb3OnH_aMtRfYhb1TX3e3ot2GRkB6neJye2M), posted the morning after the attack, show the moment of the raid in the middle of the night. The video uploaded by the Civil Defense additionally shows first responders approaching the burning hospital and assessing the damage of the hospital’s interior. The Syrian Archive’s investigations team verified the location of the hospital (as featured above) and matched the photos and videos from the scene with satellite imagery of the location. In the Civil Defense’s video, SAMS and Idlib Health Directorate reports confirm that the hospital was targeted by a Russian raid at 1:30 AM on November 6 2019.
 
 A [video](https://www.youtube.com/watch?v=fbDzBivVTf0&feature=youtu.be&fbclid=IwAR0_Tx6E0L1zUnAPAL3FthbPHaxSyEb1KjEZTtIqZ7yn0aPKAL2pdb_652o) uploaded onto YouTube by the Idlib Health Directorate shows the damage to the hospital hours after the attack. Staff from the hospital confirm that airstrikes occurred between 1:00 - 1:30 AM. According to a staff member in the video, the hospital was targeted by four missiles. Additionally, an interview with the director of the hospital in this video confirms both the time of the attack as well as the number of staff injured.
 
@@ -115,7 +115,7 @@ Additional media reporting on the attack was first posted by media activist Moha
 
 *An image [posted](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998502270161/?type=3&theater) by the Idlib Health Directorate showing the damage to the hospital after the attack.*
 
-These posts from the night of the attack were followed by [posts](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R) that morning from the Idlib Health Directorate at 8:49 AM with images showing the magnitude of the damage as well as a statement corroborating the time of the strike. Aleppo Media Center, alongside media activist [Radwan Al Atrash](https://www.facebook.com/permalink.php?story_fbid=724443218067790&id=100015063548401), posted an [alert](https://www.facebook.com/AleppoAMC/posts/927280287649674) on Facebook at 9:11 AM reporting the direct targeting of Shanan Hospital.
+These posts from the night of the attack were followed by [posts](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R) that morning from the Idlib Health Directorate at 8:49 AM with images showing the magnitude of the damage as well as a statement corroborating the time of the strike.
 
 The media outlets [Halab Today](https://www.youtube.com/watch?v=24w5oGs3Xpo&feature=youtu.be&fbclid=IwAR2UDlCAbUSfkda_vDTvc4GUUxB1kF1P_Om6gKVG3dz4ucjGjoLenPsyxJ8) and [Orient TV](https://www.facebook.com/Orient.Tv.Net/videos/3400682129949606/) published video reports about the attack at 10:44 AM and 12:08 PM respectively. Their correspondents in the videos detail, while reviewing the damage to the facility, confirmed the attack on the hospital. Director of the hospital, Dr. Zuhair Karat, again confirmed the attack and its time in an [interview with Radio All](https://www.radioalkul.com/p279492/) broadcasted and uploaded online at around 12:00 PM.
 
@@ -123,15 +123,12 @@ The media outlets [Halab Today](https://www.youtube.com/watch?v=24w5oGs3Xpo&feat
 
 *A [video](https://www.facebook.com/Orient.Tv.Net/videos/3400682129949606/) posted on Facebook by Orient TV of its correspondent at the hospital the day after the attack.*
 
-Later that night on November 6th, video reports and posts by [TRT Arabic](https://www.facebook.com/watch/?ref=search&v=428674307842578&external_log_id=91e4bdf1f40da97f552d1091ee68bd9d&q=%25D9%2585%25D8%25B4%25D9%2581%25D9%2589%2520%25D8%25A7%25D9%2584%25D8%25A5%25D8%25AE%25D9%2584%25D8%25A7%25D8%25B5) and [Zaytoon Agency](https://www.facebook.com/ZaitunAgency/posts/1520613481413448) showed the attack and the subsequent damage to the medical facility further confirming the time of the attack and the extent of the destruction to the hospital. Lastly The [Syrian Civil Defense](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater) and [SAMS](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/) published statements, pictures, and reports on the attack further confirming its time of occurence and number of injuries.
+Lastly The [Syrian Civil Defense](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater) and [SAMS](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/) published statements, pictures, and reports on the attack further confirming its time of occurrence and number of injuries.
 
 ## Analysis of the Damage:
 
 ![](/assets/investigations/IkhlasHospital/image12.png)
-<<<<<<< HEAD
-=======
 
->>>>>>> eaa007370d3d97a648fe30c0a32aa9d02276297c
 *A still from a video taken by the investigations team of the hospital’s internal damage.*
 
 As documented by the Syrian Archive’s investigations team and corroborated using open source media, Al Ikhlas hospital suffered extensive damage both internally and externally as a result of 4 total missiles directly targeting the facility. Because of the severe damage to the hospital and its infrastructure, the facility was pushed out of service.
@@ -144,25 +141,24 @@ As documented by the investigations team nine hours after the attack, Al Ikhlas 
 
 *A still from a video taken by the investigations team of the crater from the second airstrike at around 1:00 AM. This crater was 1 meter away from the hospital.*
 
-![](/assets/investigations/IkhlasHospital/image16.png)
-
-*A still from a video taken by the investigations team of a destroyed car parked on the northern side of the hospital.*
-
 ![](/assets/investigations/IkhlasHospital/image21.png)
 
 *An [image](https://www.facebook.com/ZaitunAgency/photos/pcb.1520613481413448/1520613291413467/?type=3&theater) posted by Zaitun Agency showing the southern side of the hospital after the attack.*
 
-![](/assets/investigations/IkhlasHospital/image23.jpg)
+On the opposite, the northern side of the hospital, a parked car is destroyed with massive holes in the walls between the sides of the facility.
 
-*An image taken by the investigations team of the southwestern side of the hospital.*
+![](/assets/investigations/IkhlasHospital/image16.png)
 
-On the opposite, the northern side of the hospital, a parked car is destroyed with massive holes in the walls between the sides of the facility. The eastern portion of the hospital is best preserved yet still with crumbling walls and machinery falling out from the wall openings. Matching the internal destruction of the facility, the irreparable damage to the exterior of the hospital eliminated any potential for future hospital operations.
+*A still from a video taken by the investigations team of a destroyed car parked on the northern side of the hospital.*
+
+The eastern portion of the hospital is best preserved yet still with crumbling walls and machinery falling out from the wall openings. Matching the internal destruction of the facility, the irreparable damage to the exterior of the hospital eliminated any potential for future hospital operations.
 
 ### Internal Damage:
 
 Inside the hospital, the majority of the rooms on the first and second floor were destroyed or severely damaged. This includes the pharmacy. Images and videos taken by the investigations team show the majority of the pharmacy’s medicine and equipment ruined and under rubble with one of the office’s walls collapsed. In addition to the pharmacy, patient rooms were incinerated as a result of fires. Videos and images feature wide cracks in the walls, burnt tools, and walls black from smoke and flames in hospital rooms affected by the fires. As in the first floor, the second floor of the hospital was filled with rubble from the attack with gapes in the wall and collapsed walls in multiple rooms. Destroyed medicine and equipment as well as collapsed walls leaves the hospital out of service for it surrounding communities.
 
-![](/assets/investigations/IkhlasHospital/image13.jpg)![](/assets/investigations/IkhlasHospital/image26.jpg)
+:-------------------------:|:-------------------------:
+![](/assets/investigations/IkhlasHospital/image13.jpg) | ![](/assets/investigations/IkhlasHospital/image26.jpg)
 
 *Images taken by the investigations team of a portion of the hospital’s pharmacy. The attack ruined the hospital’s supply of medicine and broke one of its walls.*
 
