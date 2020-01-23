@@ -3,8 +3,8 @@ layout: investigation.html
 title: "Medical Facilities Under Fire: Al Ikhlas hospital"
 desc: "Investigation reveals hospital targeted with airstrikes"
 date: 2020-01-20
-image: /assets/investigations/IkhlasHospital/image3.png
-socialMediaImage: /assets/investigations/IkhlasHospital/image3.png
+image: /assets/investigations/IkhlasHospital/image21.png
+socialMediaImage: /assets/investigations/IkhlasHospital/image21.png
 ---
 
 ## Initial Summary:
@@ -79,20 +79,14 @@ This attack, according to a [report](https://www.uossm.us/child_and_maternity_ho
 
 According to interviews, photos, and videos taken by the Syrian Archive’s investigations team nine hours after the attack as well as open source media from the attack, Al Ikhlas Hospital for Women and Children was directly targeted on November 6 2019 by 4 high explosive missiles. Two of the rockets fell about 20 meters southeast of the hospital at around 1:00 AM. The other two fell about one meter away from the women’s operating room at 1:20 AM.
 
+Crater southeast of the hospital             |  Crater one meter away from the hospital
+:-------------------------:|:-------------------------:
+![](/assets/investigations/IkhlasHospital/image7.png)  |  ![](/assets/investigations/IkhlasHospital/image2.png)
 
 *The image on the left shows the crater from two rockets falling 20 meters southeast of the hospital at 1:00 AM. The image on the right shows the crater from two rockets falling about one meter away from the hospital’s women’s operating room at 1:20 AM. Both images were taken by the investigations team.*
 
 ![](/assets/investigations/IkhlasHospital/image9.jpg)
-<<<<<<< HEAD
 *Image showing the locations of the craters on the hospital’s southern side.*
-=======
-
-*Locations of the craters on the hospital’s southern side.*
-
-![](/assets/investigations/IkhlasHospital/image3.png)
-
-*An image of the southern side of the hospital posted by the [Idlib Health Directorate](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998452270166/?type=3&theater).*
->>>>>>> eaa007370d3d97a648fe30c0a32aa9d02276297c
 
 Shortly after the first two missiles fell at 1:00 AM, the Syrian Civil Defense evacuated the medical staff and patients from the facility, according to Dr. Zuhair Karat the director of the hospital. An interview with two other hospital staff confirms that the hospital was operating normally before the first missiles, and that it had 16 people, including 12 hospital staff and two children with their mothers. They said the initial attack caused panic among patients and staff and prompted the evacuation of the site before another attack. A second attack occurred after ten to twenty minutes at around 1:20 AM, according to the interviewed staff. Dr. Karat claimed that it was two Russian planes that targeted the facility on November 6 2019.
 
