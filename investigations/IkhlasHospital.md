@@ -157,8 +157,9 @@ The eastern portion of the hospital is best preserved yet still with crumbling w
 
 Inside the hospital, the majority of the rooms on the first and second floor were destroyed or severely damaged. This includes the pharmacy. Images and videos taken by the investigations team show the majority of the pharmacy’s medicine and equipment ruined and under rubble with one of the office’s walls collapsed. In addition to the pharmacy, patient rooms were incinerated as a result of fires. Videos and images feature wide cracks in the walls, burnt tools, and walls black from smoke and flames in hospital rooms affected by the fires. As in the first floor, the second floor of the hospital was filled with rubble from the attack with gapes in the wall and collapsed walls in multiple rooms. Destroyed medicine and equipment as well as collapsed walls leaves the hospital out of service for it surrounding communities.
 
+      |  
 :-------------------------:|:-------------------------:
-![](/assets/investigations/IkhlasHospital/image13.jpg) | ![](/assets/investigations/IkhlasHospital/image26.jpg)
+![](/assets/investigations/IkhlasHospital/image13.jpg)  |  ![](/assets/investigations/IkhlasHospital/image26.jpg)
 
 *Images taken by the investigations team of a portion of the hospital’s pharmacy. The attack ruined the hospital’s supply of medicine and broke one of its walls.*
 
