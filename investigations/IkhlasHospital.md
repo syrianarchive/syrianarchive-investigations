@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
 title: "Medical Facilities Under Fire: Al Ikhlas hospital"
-desc: "Investigation reveals hospital targeted with airstrikes"
-date: 2020-01-23
+desc: "Investigation reveals Al Ikhlas hospital targeted with airstrikes"
+date: 2020-01-24
 image: /assets/investigations/IkhlasHospital/image21.png
 socialMediaImage: /assets/investigations/IkhlasHospital/image21.png
 ---
