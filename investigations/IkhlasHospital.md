@@ -85,7 +85,7 @@ Crater southeast of the hospital             |  Crater one meter away from the h
 
 *The image on the left shows the crater from two rockets falling 20 meters southeast of the hospital at 1:00 AM. The image on the right shows the crater from two rockets falling about one meter away from the hospital’s women’s operating room at 1:20 AM. Both images were taken by the investigations team.*
 
-![](/assets/investigations/IkhlasHospital/image9.jpg)
+![](/assets/investigations/IkhlasHospital/craters-locations.png)
 
 *Image showing the locations of the craters on the hospital’s southern side.*
 
