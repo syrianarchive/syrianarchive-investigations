@@ -86,6 +86,7 @@ Crater southeast of the hospital             |  Crater one meter away from the h
 *The image on the left shows the crater from two rockets falling 20 meters southeast of the hospital at 1:00 AM. The image on the right shows the crater from two rockets falling about one meter away from the hospital’s women’s operating room at 1:20 AM. Both images were taken by the investigations team.*
 
 ![](/assets/investigations/IkhlasHospital/image9.jpg)
+
 *Image showing the locations of the craters on the hospital’s southern side.*
 
 Shortly after the first two missiles fell at 1:00 AM, the Syrian Civil Defense evacuated the medical staff and patients from the facility, according to Dr. Zuhair Karat the director of the hospital. An interview with two other hospital staff confirms that the hospital was operating normally before the first missiles, and that it had 16 people, including 12 hospital staff and two children with their mothers. They said the initial attack caused panic among patients and staff and prompted the evacuation of the site before another attack. A second attack occurred after ten to twenty minutes at around 1:20 AM, according to the interviewed staff. Dr. Karat claimed that it was two Russian planes that targeted the facility on November 6 2019.
@@ -94,7 +95,7 @@ Shortly after the first two missiles fell at 1:00 AM, the Syrian Civil Defense e
 
 *A still from a [video report](https://www.youtube.com/watch?v=8QY6fB9czLU&feature=youtu.be&fbclid=IwAR0xrqvqrfJOcmhP41VofmFTb3OnH_aMtRfYhb1TX3e3ot2GRkB6neJye2M) uploaded by the Syrian Civil Defense of the hospital directly after the attack. This still shows a fire in the facility shortly after the missiles hit.*
 
-The attack on the hospital, which sits inside the [de-escalation zone](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews), injured three medical personnel and comes after a [ceasefire agreement](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html) made in August by the Russians that halted air attacks in the region for two months. Nevertheless as a result of the attack, according to Dr Karat, about 80% of the equipment and infrastructure of the hospital were completely destroyed with incubators and the women’s operating room under rubble. Additionally, pharmaceuticals and laboratory equipment were severely damaged from the attack. Al Karat stressed that the hospital was damaged beyond repair and, further, out of service.
+The attack on the hospital, which sits inside the [de-escalation zone](https://function.mil.ru/news_page/intrel/more.htm?id=12121964%40egNews), injured three medical personnel and comes after a [ceasefire agreement](https://www.aljazeera.com/news/2019/08/russia-announces-ceasefire-syria-idlib-saturday-190830090649837.html) made in August 2019 by the Russians that halted air attacks in the region for two months. Nevertheless as a result of the attack, according to Dr Karat, about 80% of the equipment and infrastructure of the hospital were completely destroyed with incubators and the women’s operating room under rubble. Additionally, pharmaceuticals and laboratory equipment were severely damaged from the attack. Al Karat stressed that the hospital was damaged beyond repair and, further, out of service.
 
 ### Organizations and Local News Reports:
 
