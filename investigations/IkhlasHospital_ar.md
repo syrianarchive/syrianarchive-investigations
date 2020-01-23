@@ -66,7 +66,7 @@ socialMediaImage: /assets/investigations/IkhlasHospital/image21.png
 
 ### هجمات سابقة على المنشأة
 
- <iframe frameborder="0" class="juxtapose" width="100%" height="276" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2199232e-3c5d-11ea-b9b8-0edaf8f81e27"></iframe>
+ <iframe frameborder="0" class="juxtapose" width="100%" height="476" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2199232e-3c5d-11ea-b9b8-0edaf8f81e27"></iframe>
  
 صورة نشرتها منظمة [UOSSM](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) للمستشفى بعد استهدافه في 17 أبريل 2017 (يسارًا)، وصورة للمستشفى بعد هجوم 6 نوفمبر 2019 (يمينًا). لحقت بالمرفق أضرار داخلية وخارجية على نطاقٍ أوسع نتيجة لهجوم 6 نوفمبر.
 
@@ -190,7 +190,7 @@ socialMediaImage: /assets/investigations/IkhlasHospital/image21.png
 
 بغرض إضافة طبقة أخرى من التحقق؛ قارن الأرشيف السوريّ النتائج المستخلصة من الوسائط مفتوحة المصدر أعلاه مع الوسائط المقدمة من فريق التحقيقات وبيانات رصد الطيران من قبل منظمة مراقبة. استلزمت هذه العملية رصد وتحليل بيانات الطيران في محيط حلب وادلب في السادس من نوفمبر 2019، قبل الساعة 1:00 - 1:30 وبعدها.
 
-<iframe height="550" src="https://public.tableau.com/views//ObservationsofFlightDatafromNovember62019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+<iframe height="550" src="https://public.tableau.com/views/ObservationsofFlightDatafromNovember62019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 ابتداءً من  حوالي الساعة 1:00 و 1:11 صباحًا، شوهدت طائرة روسية ثابتة الجناحين تحلق غرب قرية جرجناز، والواقعة جنوب شنان بحوالي 20 كم. ثم شوهدت طائرة روسية ثابتة الجناحين تحلق فوق كفرنبل، جنوب غرب شنان بحوالي 14 كم، وذلك في الساعة 1:13 صباحًا. بعد ذلك بقليل، ما بين الساعة 1:17 وحتى 1:28 صباحًا، شوهدت طائرة روسية ثابتة الجناحين تحلّق فوق البلدات المجاورة لمعرّة النعمان. بعد الغارات الجوية التي شُنّت بين 1:00 وحتى 1:30 صباحًا؛ رُصدت طائرة من دون طيّار تحلّق فوق جبل الزاوية، بلدة تقع على بعد 9 كم غرب شنان، في الساعة 1:44 صباحًا. بالنظر إلى ما خلصت إليه تحقيقات سابقة إلى أن الطيران الدائري في سماء مناطق الحرب عادةً ما يُشير إلى محاولة الاستحواذ على الهدف و/أو التحضير لهجوم وشيك، فإن الدوران الذي قامت به طائرة روسية ثابتة الجناحين فوق القرى المجاورة لشنان يؤكد التوقيت المقدر للهجوم كما ورد في المقابلات التي أجراها فريق التحقيقات.
 

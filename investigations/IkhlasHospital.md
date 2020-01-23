@@ -63,7 +63,7 @@ The location of the hospital was corroborated by the Syrian Archive (as well as 
 
 ### Previous attacks on the Facility:
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="276" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2199232e-3c5d-11ea-b9b8-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="476" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2199232e-3c5d-11ea-b9b8-0edaf8f81e27"></iframe>
 
 An image released by the Syrian Civil Defense of the hospital after its April 17 2017 attack on the left and an image of the hospital after its November 6 2019 attack on the right. The hospital suffered much more extensive damage externally and internally after the latest November 6 attack.
 
@@ -181,7 +181,7 @@ Inside the hospital, the majority of the rooms on the first and second floor wer
 
 To provide a further layer of verification, the Syrian Archive cross referenced findings from open source media and images/videos taken by the investigations team with flight observation data from a spotter organization. Data for flights occurring before and after 1:00 - 1:30 AM on November 6, 2019 around Idlib and Aleppo was closely analyzed.
 
-<iframe height="550" src="https://public.tableau.com/views//ObservationsofFlightDatafromNovember62019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+<iframe height="550" src="https://public.tableau.com/views/ObservationsofFlightDatafromNovember62019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 Beginning at around 1:00 AM and 1:11 AM, a Russian fixed-wing aircraft was seen flying west from the village of Jarjnaz, which is around 20 km south of Shanan. A Russian fixed-wing aircraft was then seen flying over Kafranbel, around 14 km southwest at 1:13 AM. Shortly thereafter from 1:17 to 1:28 AM, a Russian fixed-wing aircraft was seen circling over the neighboring town of Ma’arat Al Nu’man. After the missile attacks from 1:00-1:30 AM, a drone was observed circling at 1:44 AM over Jabal Al Zawye, a village around 9 km west of Shanan. With the common practice of circling by warzone aircrafts indicating a target acquisition and/or preparation for an imminent attack, the circling by a Fixed Wing Russian Aircraft over Shanan’s neighboring villages corroborates the estimated time of the attack as reported by local news organizations and in interviews conducted by the Syrian Archive’s investigations team.
 
