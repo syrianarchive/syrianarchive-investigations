@@ -1,29 +1,24 @@
 ---
 layout: investigation.html
-drafts: true
-title: test
-date: 2020-01-22
-image: /assets/investigations/hass/image2.png
+title: "مرافق صحية تحت النار: مشفى الإخلاص"
+desc: "تحقيق يتناول استهداف مشفى بالغارات الجوية"
+date: 2020-01-23
+image: /assets/investigations/IkhlasHospital/image21.png
+socialMediaImage: /assets/investigations/IkhlasHospital/image21.png
 ---
+
+تحقيق مشترك: الأرشيف السوري و[فوكس حلب](https://focusaleppo.com/)
 
 ## حول الحادثة
 
 - الموقع: ادلب: شنان
-
-- الهدف: مستشفى الإخلاص للنساء والأطفال، والذي كان حتى نوفمبر 2018 مدعومًا من قبل كلّ من منظمة [Syria Relief](https://www.syriarelief.org.uk/) و [World Vision](https://www.worldvision.org/)، ويدعمه الآن  [اتحاد منظمات الرعاية الطبية والإغاثة](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) (UOSSM).
-
+- الهدف: مستشفى الإخلاص للنساء والأطفال، والذي كان حتى نوفمبر 2018 مدعومًا من قبل كلّ من منظمة [Syria Relief](https://www.syriarelief.org.uk/) و [World Vision](https://www.worldvision.org/)، ويدعمه الآن  [اتحاد منظمات الرعاية الطبية والإغاثة](https://www.uossm.us/) (UOSSM).
 - المستفيدون: يستقبل المستشفى ما يقارب 4500 إلى 5000 مريض شهريًا وفقًا لما ذكره مديره الدكتور زهير القراط في مقابلة معه. كما يقدم الخدمات الطبية لنحو مئة ألف امرأة وطفل؛ نظرًا لكونه المشفى التخصصيّ الوحيد ﻷكثر من 15 قرية محيطة. 
-
 - التاريخ: 6 نوفمبر/تشرين الثاني 2019
-
-- التوقيت: وقع الهجوم بين الساعة 1:00 وحتى 1:30 صباحًا، وذلك وفقًا للمقابلات التي أجراها فريق تحقيقات الأرشيف السوري مع موظفي المستشفى والشهود المدنيين بعد تسع ساعات من الهجوم. تم التأكد من التوقيت المحدد من خلال التقارير والوسائط مفتوحة المصدر المنشورة على الإنترنت من قبل كلّ من  [الدفاع المدني السوري](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater)، [مديرية الصحة في إدلب](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R)، [سامز](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/)، و[UOSSM](https://www.uossm.org/breaking_children_s_hospitals_and_kafr_nabl_hospital_hit_by_airstrikes_syria) ، بالإضافة إلى بيانات رصد الطيران.
-
+- التوقيت: وقع الهجوم بين الساعة 1:00 وحتى 1:30 صباحًا، وذلك وفقًا للمقابلات التي أجراها فريق تحقيقات الأرشيف السوري مع موظفي المستشفى والشهود المدنيين بعد تسع ساعات من الهجوم. تم التأكد من التوقيت المحدد من خلال التقارير والوسائط مفتوحة المصدر المنشورة على الإنترنت من قبل [وسائل إعلام محليّة](https://www.youtube.com/watch?v=24w5oGs3Xpo)، [مديرية الصحة في إدلب](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R)، [سامز](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/)، و[UOSSM](https://www.uossm.org/breaking_children_s_hospitals_and_kafr_nabl_hospital_hit_by_airstrikes_syria)، بالإضافة إلى بيانات رصد الطيران.
 - الضحايا: أصيب ثلاثة أفراد من كادر المشفى الطبي بشكل طفيف نتيجة للهجوم، من بينهم المخبريّ أحمد السعيد، وذلك وفقًا لمقابلات أجراها فريق التحقيقات مع مدير المستشفى. كما أُكد عدد الضحايا في تقارير صحفية نشرتها [إدارة الدفاع المدني السوري](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater)، [مديرية الصحة في إدلب](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R)، [وحلب اليوم](https://www.youtube.com/watch?v=24w5oGs3Xpo&feature=youtu.be&fbclid=IwAR2UDlCAbUSfkda_vDTvc4GUUxB1kF1P_Om6gKVG3dz4ucjGjoLenPsyxJ8).
-
 - نوع الهجوم: غارتان جويّتان أُطلق فيهما أربعة صواريخ.
-
 - الذخائر المحدّدة: غير معروف.
-
 - المسؤول المحتمل: القوات الجوية الروسية. أفادت [مديرية الصحة في إدلب](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R) أن طائرة روسية أطلقت صواريخ على المستشفى، وهو ما يطابق تحليل بيانات رصد الطيران.
 
 ## حول المستشفى
@@ -71,13 +66,16 @@ image: /assets/investigations/hass/image2.png
 
 ### هجمات سابقة على المنشأة
 
+ <iframe frameborder="0" class="juxtapose" width="100%" height="276" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=2199232e-3c5d-11ea-b9b8-0edaf8f81e27"></iframe>
+ 
+صورة نشرتها منظمة [UOSSM](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) للمستشفى بعد استهدافه في 17 أبريل 2017 (يسارًا)، وصورة للمستشفى بعد هجوم 6 نوفمبر 2019 (يمينًا). لحقت بالمرفق أضرار داخلية وخارجية على نطاقٍ أوسع نتيجة لهجوم 6 نوفمبر.
 
-![](/assets/investigations/IkhlasHospital/image20.png)
-![](/assets/investigations/IkhlasHospital/image5.jpg)
+إضافة إلى استهدافه المتعمد في 6 نوفمبر 2019، قُصف المشفى بثلاثة صواريخ في 17 أبريل 2017، حيث شُنّت الغارة الجوية عليه بعد ثلاثة أشهر من إنشائه.  وكان فريق تحقيقات الأرشيف السوريّ قد نشر [تحقيقًا مفصًلا](https://syrianarchive.org/ar/investigations/Medical-Facilities-Under-Fire/Incident-4.html) عنه عام 2017، وفيه تمّ التثبّت من مقاطع فيديو وصور حول الهجوم، إضافة إلى موقع المشفى وتحليل بيانات رصد الطيران المتعلّقة بالحادثة.
 
-*صورة نشرتها  [UOSSM](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0) للمستشفى بعد استهدافه في 17 أبريل 2017 (يسارًا)، وصورة للمستشفى بعد هجوم 6 نوفمبر 2019 (يمينًا). لحقت بالمرفق أضرار داخلية وخارجية على نطاقٍ أوسع نتيجة لهجوم 6 نوفمبر.*
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FIdleb.Health.Directorate%2Fposts%2F976718972431458&width=500" width="500" height="840" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-إضافة إلى استهدافه المتعمد في 6 نوفمبر 2019، قُصف المشفى بثلاثة صواريخ في 17 أبريل 2017، حيث شُنّت الغارة الجوية عليه بعد ثلاثة أشهر من إنشائه. أدى ذلك الهجوم إلى إصابة ما لا يقل عن خمسة من موظفي المستشفى فضلاً عن أحد أفراد الدفاع المدني، وذلك وفقًا لتقرير صادر عن [UOSSM](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0). تظهر المنشورات على صفحة الدفاع المدني على فيسبوك صورة  [عضو فريق الدفاع المدني المصاب](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R) إضافة إلى [الأضرار الخارجية التي لحقت بالمنشأة الطبية](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R). كما أظهرت مصادر أخرى أضرارًا داخلية لحقت بالمرفق. رُمّم المستشفى بعد الهجوم الأول بسرعة واستأنف استقبال المرضى حتى هجوم 6 نوفمبر 2019، والذي أخرجه عن الخدمة.
+
+أدى ذلك الهجوم إلى إصابة ما لا يقل عن خمسة من موظفي المستشفى فضلاً عن أحد أفراد الدفاع المدني، وذلك وفقًا لتقرير صادر عن [UOSSM](https://www.uossm.us/child_and_maternity_hospital_hit_by_airstrikes_three_times?fbclid=IwAR1Z554WJMQjz7KFS-TeAlCTwBJ0nBWVPGENk91UZ1quBnhcA49cN6osJA0). تظهر المنشورات على صفحة الدفاع المدني على فيسبوك صورة  [عضو فريق الدفاع المدني المصاب](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R) إضافة إلى [الأضرار الخارجية التي لحقت بالمنشأة الطبية](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/1274424549323265?__tn__=-R). كما أظهرت مصادر أخرى أضرارًا داخلية لحقت بالمرفق. رُمّم المستشفى بعد الهجوم الأول بسرعة واستأنف استقبال المرضى حتى هجوم 6 نوفمبر 2019، والذي أخرجه عن الخدمة.
 
 ## ماذا حدث ومتى؟
 
@@ -87,17 +85,15 @@ image: /assets/investigations/hass/image2.png
 
 وفقًا للمقابلات، الصور ومقاطع الفيديو المُلتقطة من قبل فريق تحقيقات الأرشيف السوري عقب تسع ساعات من الهجوم، وبناءً على الوسائط مفتوحة المصدر حول الحادثة؛ فإنّ مشفى الإخلاص للنساء والأطفال قد استُهدف مباشرةً في 6 نوفمبر 2019 بأربعة صواريخ شديدة الانفجار. سقط اثنان منها على مسافة 20 متراً جنوب شرق المشفى قرابة الساعة 1:00 صباحًا، فيما سقط الآخران على بعد نحو متر واحد عن غرفة العمليات النسائية في الساعة 1:20 صباحًا. 
 
-![](/assets/investigations/IkhlasHospital/image7.png)![](/assets/investigations/IkhlasHospital/image11.png)
+الحفرة جنوب شرق المشفى             |  حفرة على بعد متر واحد عن المشفى
+:-------------------------:|:-------------------------:
+![](/assets/investigations/IkhlasHospital/image7.png)  |  ![](/assets/investigations/IkhlasHospital/image2.png)
 
 *يسارًا، تظهر الصورة الحفرة التي أحدثها صاروخان سقطا على بعد 20 مترًا جنوب شرق المستشفى في  الساعة 1:00 صباحًا. يمينًا، تظهر الصورة الحفرة الناجمة عن سقوط صاروخين على بعد متر واحد عن غرفة العمليات النسائية بالمستشفى في الساعة 1:20 صباحًا. التُقطت الصورتان من قبل فريق التحقيقات*
 
-![](/assets/investigations/IkhlasHospital/image9.jpg)
+![](/assets/investigations/IkhlasHospital/craters-locations.png)
 
-*موقع الحفر في الجهة الجنوبية للمستشفى*
-
-![](/assets/investigations/IkhlasHospital/image3.png)
-
-*صورة تظهر الجانب الجنوبي للمستشفى نُشرت من قبل  [مديرية صحة ادلب](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998452270166/?type=3&theater).*
+*صورة تظهر مواقع الحفر في جانب المشفى الجنوبي*
 
 وفقاً لمدير المستشفى د.زهير القراط؛ أخلى الدفاع المدني السوري المستشفى من كوادره الطبية والمرضى بعد دقائق من سقوط أوّل صاروخين. أكد اثنين من طاقم الطبي في المشفى، في مقابلة أجريت معهما، أن المشفى كان يعمل بصورة طبيعية قبل سقوط الصواريخ الأولى، وكان يضمّ 16 شخصًا بينهم 12 من كادر المشفى الطبّي وطفلان مع أمهاتهم.  كما أشارا إلى شيوع حالة ذعر بين المرضى والكادر نتيجة للهجوم الأول، ما دفع إلى إخلاء الموقع تحسبًا لهجوم لاحق، والذي وقع بعد حوالي (10-20) دقيقة في الساعة 1:20 صباحًا. ادّعى د.زهير قراط مدير المستشفى أن استهداف المنشأة في 6 نوفمبر 2019 نُفّذ من قبل طائرتين روسيتين.
 
@@ -110,8 +106,7 @@ image: /assets/investigations/hass/image2.png
 ### تقارير وكالات الأخبار المحلية:
 
 
-في الصباح التالي للهجوم، نشرت كل من  [وكالة ستيب](https://www.flickr.com/photos/184798443@N07/49022352483/in/dateposted/) و [فريق الدفاع المدني في ادلب](https://www.youtube.com/watch?v=8QY6fB9czLU&feature=youtu.be&fbclid=IwAR0xrqvqrfJOcmhP41VofmFTb3OnH_aMtRfYhb1TX3e3ot2GRkB6neJye2M) مقاطع فيديو تصورّ وقوع الغارة الجوية في منتصف الليل. كما يُظهر مقطع الفيديو المنشور من قبل الدفاع المدني وصول أوائل المستجيبين إلى المشفى ونشوب الحرائق فيه، وتقييمهم للأضرار الداخلية التي لحقت به.  توثّقَ فريق تحقيقات الأرشيف السوري من موقع المستشفى (كما هو موضح أعلاه) وطابق الصور ومقاطع الفيديو الملتقطة للمكان مع صور الأقمار الصناعية للموقع الجغرافي ذاته. عزّزت وسائط أخرى ما ورد في مقاطع الفيديو هذه، من بينها [مقطع فيديو](https://www.facebook.com/kafe2522/videos/1179573789097213/?t=60) نشرته قناة SY+، والذي يظهر احتراق المبنى نفسه ليلًا بعد الهجوم بوقتٍ قصير.  في كل من تقريري SY+ والدفاع المدني، أكّد متطوعو "سامز" و "الدفاع المدني"  أن المستشفى استُهدف بغارة  جوية روسية في الساعة 1:30 صباح  6 نوفمبر 2019.
-
+في الصباح التالي للهجوم، نشرت كل من  [وكالة ستيب](https://www.flickr.com/photos/184798443@N07/49022352483/in/dateposted/) و [فريق الدفاع المدني في ادلب](https://www.youtube.com/watch?v=8QY6fB9czLU&feature=youtu.be&fbclid=IwAR0xrqvqrfJOcmhP41VofmFTb3OnH_aMtRfYhb1TX3e3ot2GRkB6neJye2M) مقاطع فيديو تصورّ وقوع الغارة الجوية في منتصف الليل. كما يُظهر مقطع الفيديو المنشور من قبل الدفاع المدني وصول أوائل المستجيبين إلى المشفى ونشوب الحرائق فيه، وتقييمهم للأضرار الداخلية التي لحقت به.  توثّقَ فريق تحقيقات الأرشيف السوري من موقع المستشفى (كما هو موضح أعلاه) وطابق الصور ومقاطع الفيديو الملتقطة للمكان مع صور الأقمار الصناعية للموقع الجغرافي ذاته. أكّد كل من مقطع الفيديو المنشور من قبل الدفاع المدني السوري، تقارير سامز ومديرية صحة ادلب استهداف المستشفى بغارة  جوية روسية في الساعة 1:30 صباح  6 نوفمبر 2019.
 
 بعد ساعات من الهجوم؛ نشرت مديرية صحة ادلب  [مقطع فيديو](https://www.youtube.com/watch?v=fbDzBivVTf0&feature=youtu.be&fbclid=IwAR0_Tx6E0L1zUnAPAL3FthbPHaxSyEb1KjEZTtIqZ7yn0aPKAL2pdb_652o) على يوتيوب يظهر الدمار اللاحق بالمشفى. وأكد أحد العاملين في المنشأة أن غارات جويّة شُنّت بين الساعة 1:00 وحتى 1:30 صباحًا، واستهدفت المشفى بأربعة صواريخ. كما ضمّ الفيديو مقابلة أُجريت مع مدير المشفى، أكّد فيها توقيت الهجوم وأعداد المصابين من أفراد الطاقم الطبي.
 
@@ -127,7 +122,7 @@ image: /assets/investigations/hass/image2.png
 
 *صورة [نشرتها](https://www.facebook.com/Idleb.Health.Directorate/photos/pcb.2044998622270149/2044998502270161/?type=3&theater) مديرية صحة ادلب تظهر الأضرار اللاحقة بالمشفى بعد الهجوم*
 
-تلت منشورات ليلة الهجوم [منشوراتٍ](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R) أخرى بواسطة مديرية صحّة ادلب وذلك في الساعة 8:49 صباحًا، مرفقةً بصور توضح حجم الأضرار بالإضافة إلى بيان يؤكّد توقيت الغارة. كذلك نشر كل من [الناشط الإعلامي رضوان الأطرش](https://www.facebook.com/permalink.php?story_fbid=724443218067790&id=100015063548401) [ومركز حلب الإعلامي](https://www.facebook.com/AleppoAMC/posts/927280287649674) على فيسبوك في الساعة 9:11 صباحًا للإبلاغ عن استهداف مباشر لمشفى شنان.
+تلت منشورات ليلة الهجوم [منشوراتٍ](https://www.facebook.com/Idleb.Health.Directorate/posts/2044998622270149?__tn__=-R) أخرى بواسطة مديرية صحّة ادلب وذلك في الساعة 8:49 صباحًا، مرفقةً بصور توضح حجم الأضرار بالإضافة إلى بيان يؤكّد توقيت الغارة. 
 
 كما نشرت وسائل الإعلام [حلب اليوم](https://www.youtube.com/watch?v=24w5oGs3Xpo&feature=youtu.be&fbclid=IwAR2UDlCAbUSfkda_vDTvc4GUUxB1kF1P_Om6gKVG3dz4ucjGjoLenPsyxJ8) و [قناة أورينت](https://www.facebook.com/Orient.Tv.Net/videos/3400682129949606/) تقارير مصورة عن الهجوم في الساعة 10:44 صباحًا و 12:08 مساءً على التوالي. حيث أكّد مراسلوهم الهجوم على المنشأة أثناء استعراض الأضرار التي لحقت فيها. مجددًا، أكّد الدكتور زهير القراط مدير المستشفى وقوع الهجوم وتوقيته في مقابلة مع  [راديو الكل](https://www.radioalkul.com/p279492/) رُفعت على الإنترنت في حوالي الساعة 12:00 ظهراً.
 
@@ -135,8 +130,7 @@ image: /assets/investigations/hass/image2.png
 
 *مقطع [فيديو](https://www.facebook.com/Orient.Tv.Net/videos/3400682129949606/ ) نشرته قناة تلفزيون أورينت على فيسبوك لمراسلها في موقع المستشفى عقب يوم من الحادثة*
 
-
-في وقتٍ لاحق من ليلة 6 نوفمبر، نُشرت تقارير إخبارية ومصوّرة من قبل كل من  [عربي TRT](https://www.facebook.com/watch/?ref=search&v=428674307842578&external_log_id=91e4bdf1f40da97f552d1091ee68bd9d&q=%25D9%2585%25D8%25B4%25D9%2581%25D9%2589%2520%25D8%25A7%25D9%2584%25D8%25A5%25D8%25AE%25D9%2584%25D8%25A7%25D8%25B5) [ووكالة زيتون](https://www.facebook.com/ZaitunAgency/posts/1520613481413448) تظهر الهجوم والدمار الناجم عنه في المنشأة الطبية، ما يعزّز توقيت حدوث الهجوم والدمار اللاحق بالمستشفى. أخيرًا، نشر  [الدفاع المدني السوري](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater) و [سامز](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/) إفاداتٍ، صورًا وتقارير حول الاستهداف تعزّز توقيت الحادثة وعدد الإصابات.
+أخيرًا، نشر  [الدفاع المدني السوري](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2500432740055767/?type=3&theater) و [سامز](https://www.sams-usa.net/press_release/five-attacks-on-hospitals-ambulances-in-northwest-syria-sams-appalled-by-continued-attacks-on-healthcare/) إفاداتٍ، صورًا وتقارير حول الاستهداف تعزّز توقيت الحادثة وعدد الإصابات.
 
 ## تحليل الدمار:
 
@@ -156,26 +150,27 @@ image: /assets/investigations/hass/image2.png
 
 *صورة من مقطع فيديو مُلتقط من قبل فريق التحقيقات تُظهر الحفرة الناجمة عن الغارة الجوية الثانية حوالي الساعة 1:00 صباحًا، والتي تبعد حوالي متر واحد عن المشفى.*
 
-![](/assets/investigations/IkhlasHospital/image16.png)
-
-*صورة من مقطع فيديو مُلتقط من قبل فريق التحقيقات تُظهر سيارة مدمّرة مركونة في الجهة الشمالية للمشفى.*
 
 ![](/assets/investigations/IkhlasHospital/image21.png)
 
 *[صورة](https://www.facebook.com/ZaitunAgency/photos/pcb.1520613481413448/1520613291413467/?type=3&theater) نشرتها وكالة زيتون تظهر الجانب الجنوبي للمشفى بعد الاستهداف*
 
-![](/assets/investigations/IkhlasHospital/image23.jpg)
+في الجهة المعاكسة، دُمرت سيارة مركونة شمال المبنى، إضافة إلى فجوات واسعة في الجدران الفاصلة بين جوانب المشفى. 
 
-*صورة مُلتقطة من قبل فريق التحقيقات للجهة الجنوبية الغربية من المشفى*
+![](/assets/investigations/IkhlasHospital/image16.png)
 
-في الجهة المعاكسة، دُمرت سيارة مركونة شمال المبنى، إضافة إلى فجوات واسعة في الجدران الفاصلة بين جوانب المشفى. رغم أن الجانب الشرقي من المشفى يُعتبر الأقلّ تعرضًا للدمار، إلا أن جدرانه تبدو متهالكةً مع تساقط المعدات من فجواتها. إن الأضرار الخارجية غير القابلة للترميم، إضافة للدمار الداخليّ، تبدّد أي احتمال لمعاودة المستشفى نشاطه مستقبلًا.
+*صورة من مقطع فيديو مُلتقط من قبل فريق التحقيقات تُظهر سيارة مدمّرة مركونة في الجهة الشمالية للمشفى.*
+
+رغم أن الجانب الشرقي من المشفى يُعتبر الأقلّ تعرضًا للدمار، إلا أن جدرانه تبدو متهالكةً مع تساقط المعدات من فجواتها. إن الأضرار الخارجية غير القابلة للترميم، إضافة للدمار الداخليّ، تبدّد أي احتمال لمعاودة المستشفى نشاطه مستقبلًا.
  
 ## الأضرار الداخلية
 
 داخليًا، دُمرت غالبية غرف الطابقين الأول والثاني أو تعرضّت لدمار جسيم، بما في ذلك الصيدلية. تُظهر الصور ومقاطع الفيديو المُلتقطة من قبل فريق التحقيقات أن غالبية الأدوية والمعدات الصيدلية تلفت وأضحت تحت الأنقاض، كما انهار أحد جدران المكتب. إضافة إلى الصيدلية، احترقت غرف المشفى بسبب النيران. تُظهر مقاطع الفيديو والصور تشققات واسعة في الجدران، أدوات محترقة، وجدران سوداء بسبب الدخان واللهب في غرف المستشفى المتأثرة بالحرائق. كما هو الحال في الطابق الأول، يبدو الطابق الثاني للمشفى ممتلئًا بالركام الناجم عن الاستهداف، كما تظهر فجوات في جدرانه التي انهار بعضها في عدد من الغرف. أدى تلف الأدوية والمعدّات وانهيار الجدران إلى خروج المشفى عن خدمة المناطق المحيطة به.
   
   
-![](/assets/investigations/IkhlasHospital/image13.jpg)![](/assets/investigations/IkhlasHospital/image26.jpg)
+  صيدلية المشفى 1    |  صيدلية المشفى 2
+:-------------------------:|:-------------------------:
+![](/assets/investigations/IkhlasHospital/image13.jpg)  |  ![](/assets/investigations/IkhlasHospital/image26.jpg)
 
 *صورة ملتقطة من قبل فريق التحقيقات لقسم الصيدلية. دمّر الاستهداف مخزون الأدوية في المشفى وأحد جدران الصيدلية*
 

@@ -2,10 +2,12 @@
 layout: investigation.html
 title: "Medical Facilities Under Fire: Al Ikhlas hospital"
 desc: "Investigation reveals hospital targeted with airstrikes"
-date: 2020-01-20
+date: 2020-01-23
 image: /assets/investigations/IkhlasHospital/image21.png
 socialMediaImage: /assets/investigations/IkhlasHospital/image21.png
 ---
+
+Joint investigation: Syrian Archive and [Focus Aleppo](https://focusaleppo.com/)
 
 ## Initial Summary:
 
