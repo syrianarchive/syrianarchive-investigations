@@ -1,8 +1,8 @@
-﻿---
+---
 layout: investigation.html
 title: "Targeting Balyoun Market with airstrikes"
-desc: " Investigation reveals market targeted with airstrikes "
-date: 2020-03-9
+desc: "Investigation reveals market targeted with airstrikes"
+date: 2020-03-09
 image: /assets/investigations/BalyounMarket/image25.jpg
 socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 ---
@@ -154,7 +154,7 @@ These images and videos have been verified by the investigation’s team and fur
 ## Deaths and Injuries:
 
 ![](/assets/investigations/BalyounMarket/image24.png)
-*A still from a [video](https://www.facebook.com/watch/?v=808193129621096) uploaded by the Syrian Civil Defense showing the effort to rescue civilians stuck under the rubble.*
+*A still from a [video](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/444858409558086/) uploaded by the Syrian Civil Defense showing the effort to rescue civilians stuck under the rubble.*
 
 When documenting those dead and injured from the attack, the Syrian Archive’s investigations team corroborated the number and identity of those injured and dead by meeting with villagers and reviewing open source media. The team confirmed that 10 were killed from the attack and thirteen were injured.
 
