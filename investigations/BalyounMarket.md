@@ -62,13 +62,13 @@ The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) 
 *A [geolocation](https://www.google.com/maps/place/35%C2%B041'45.3%22N+36%C2%B029'44.8%22E/@35.6959465,36.4948829,320m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d35.6959194!4d36.495775?shorturl=1) of a video provided by the investigations team showing the moment of the attack.*
 
 ![](/assets/investigations/BalyounMarket/image17.jpg)
-
-A chronolocation (or estimation of the time the video was recorded) of the video further corroborating the time of attack as at around 14:00.
+*A chronolocation (or estimation of the time the video was recorded) of the video further corroborating the time of attack as at around 14:00.*
 
 Raed Khatib, a pharmacist and village resident, spoke to the investigations team and confirmed the time of the strike claiming that it coincided with the Adhan or the call to Asr prayer. This matches with and confirms a multitude of online videos and images from the attack analyzed by the investigations team.
 
 ![](/assets/investigations/BalyounMarket/image6.png)
-[Prayer times and calendar](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) showing Asr as close to the time of the attack.
+
+*[Prayer times and calendar](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) showing Asr as close to the time of the attack.*
 
 The [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be) also shows the moment of the attack from the western side of Balyoun village as seen below.
 
@@ -153,12 +153,12 @@ These images and videos have been verified by the investigation’s team and fur
 
 ## Deaths and Injuries:
 
-![](/assets/investigations/BalyounMarket/image24.png)
+![](/assets/investigations/BalyounMarket/cdl.png)
 *A still from a [video](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/444858409558086/) uploaded by the Syrian Civil Defense showing the effort to rescue civilians stuck under the rubble.*
 
 When documenting those dead and injured from the attack, the Syrian Archive’s investigations team corroborated the number and identity of those injured and dead by meeting with villagers and reviewing open source media. The team confirmed that 10 were killed from the attack and thirteen were injured.
 
-The nine killed were 5 members of the Al Hammadi family ([Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/578569136289392/?type=3&theater), [Mohammad Al Deeb Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577631163049856/?type=3&theater), [Bilal Mohammed Al Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577652379714401/?type=3&theater), [Hassan Mohammed Al Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577669053046067/?type=3&theater), Aya Al Hammadi) from Balyoun, [Ahmed Omar Al Nabhan](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577651049714534/?type=3&theater), [Majid Mohammad Hassan Al Abod](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577649956381310/?type=3&theater) from Balyoun, Umm Omar originally from Homs but owns a shoe store in Balyoun’s market, Jamil Bakour from Maratah, and [Zaid Abu Al Khish](https://www.facebook.com/permalink.php?story_fbid=156712485645145&id=100039191828599) from Al Fatira.
+The ten killed were 5 members of the Al Hammadi family ([Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/578569136289392/?type=3&theater), [Mohammad Al Deeb Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577631163049856/?type=3&theater), [Bilal Mohammed Al Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577652379714401/?type=3&theater), [Hassan Mohammed Al Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577669053046067/?type=3&theater), Aya Al Hammadi) from Balyoun, [Ahmed Omar Al Nabhan](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577651049714534/?type=3&theater), [Majid Mohammad Hassan Al Abod](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577649956381310/?type=3&theater) from Balyoun, Umm Omar originally from Homs but owns a shoe store in Balyoun’s market, Jamil Bakour from Maratah, and [Zaid Abu Al Khish](https://www.facebook.com/permalink.php?story_fbid=156712485645145&id=100039191828599) from Al Fatira.
 
 ## Physical Damage:
 
