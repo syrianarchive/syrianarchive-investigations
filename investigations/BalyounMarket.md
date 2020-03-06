@@ -153,7 +153,7 @@ These images and videos have been verified by the investigation’s team and fur
 
 ## Deaths and Injuries:
 
-![](/assets/investigations/BalyounMarket/cdl.png)
+![](/assets/investigations/BalyounMarket/cdI.png)
 *A still from a [video](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/444858409558086/) uploaded by the Syrian Civil Defense showing the effort to rescue civilians stuck under the rubble.*
 
 When documenting those dead and injured from the attack, the Syrian Archive’s investigations team corroborated the number and identity of those injured and dead by meeting with villagers and reviewing open source media. The team confirmed that 10 were killed from the attack and thirteen were injured.
