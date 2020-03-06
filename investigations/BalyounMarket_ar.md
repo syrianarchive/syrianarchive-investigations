@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "استهداف سوق بيلون بالغارات الجوية"
 desc: "تحقيق يتناول استهداف سوق بالغارات الجوية"
-date: 2020-03-9
+date: 2020-03-09
 image: /assets/investigations/BalyounMarket/image25.jpg
 socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 ---
@@ -62,14 +62,12 @@ socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 *[الموقع الجغرافي](https://www.google.com/maps/place/35%C2%B041'45.3%22N+36%C2%B029'44.8%22E/@35.6959465,36.4948829,320m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d35.6959194!4d36.495775?shorturl=1) لمقطع الفيديو الذي حصل عليه فريق الأرشيف السوري والموثّق لتوقيت الهجوم.*
 
 ![](/assets/investigations/BalyounMarket/image17.jpg)
-
-إن تحديد توقيت تسجيل مقطع الفيديو يعزّز توقيت وقوع الهجوم حوالي الساعة 14:00.
+*إن تحديد توقيت تسجيل مقطع الفيديو يعزّز توقيت وقوع الهجوم حوالي الساعة 14:00.*
 
 في حديثه لفريق التحقيقات؛ أكد رائد الخطيب، صيدلانيّ من سكّان القرية، توقيت الهجوم مدّعيًا تزامنه مع رفع أذان صلاة العصر. وهو ما يؤكّد ويطابق العديد من الصور ومقاطع الفيديو المنشورة على الإنترنت حول الهجوم والتي حلّلها الفريق.
 
 ![](/assets/investigations/BalyounMarket/image6.png)
-
-تظهر [أوقات الصلوات](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) أذان العصر قريبًا من توقيت وقوع الهجوم. 
+*تظهر [أوقات الصلوات](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) أذان العصر قريبًا من توقيت وقوع الهجوم.*
 
 كذلك، يوثّق [مقطع الفيديو الثاني](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be) اللحظات الأولى للاستهداف من الجانب الغربي لقرية بليون، كما هو موضح أدناه.
 
@@ -154,8 +152,8 @@ socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 
 ## القتلى والمصابون:
 
-![](/assets/investigations/BalyounMarket/image24.png)
-*لقطة من [مقطع فيديو](https://www.facebook.com/watch/?v=808193129621096) نشره الدفاع المدني السوريّ يظهر جهود إنقاذ المدنيين العالقين تحت الأنقاض.*
+![](/assets/investigations/BalyounMarket/cdI.png)
+*لقطة من [مقطع فيديو](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/444858409558086/) نشره الدفاع المدني السوريّ يظهر جهود إنقاذ المدنيين العالقين تحت الأنقاض.*
 
 قابل فريق تحقيقات الأرشيف السوري بعضًا من سكان القرية وراجع الوسائط مفتوحة المصدر للتوثّق من عدد وهويات القتلى والمصابين نتيجة للهجوم. أكّد الفريق مقتل 10 أشخاص وجرح 13 آخرين جراء الاستهداف.
 
