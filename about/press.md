@@ -7,6 +7,16 @@ image: "/assets/about/press-1.png"
 ---
 
 Articles in which the work of the Syrian Archive was highlighted include the following:
+
+-  AlJazeera (2020) [The science and the art of open-source journalism](https://www.aljazeera.com/programmes/listeningpost/2020/01/science-art-open-source-journalism-200102224849578.html)
+- Al-Monitor (2020) [Building the revolution’s memory: Coders archive Lebanon’s protests](https://www.al-monitor.com/pulse/originals/2019/12/lebanon-protests-archives-online-projects.html)
+- Amnesty (2020) [ Groundbreaking book on open-source investigation to be launched at expert panel event](https://www.amnesty.org.uk/press-releases/groundbreaking-book-open-source-investigation-be-launched-expert-panel-event)
+- UC Berkeley Social Science Matrix (2020) [The Berkeley Protocol on Open Source Investigations](https://matrix.berkeley.edu/research/berkeley-protocol-open-source-investigations)
+- Witness (2020) [Human rights defenders are not terrorists, and their content is not propaganda](https://blog.witness.org/2020/01/human-rights-defenders-not-terrorists-content-not-propaganda/)
+- Middle East Eye (2019) [Like killing them again': Syrians fear history lost as Twitter plans account purge](https://www.middleeasteye.net/news/twitter-could-soon-erase-parts-syrias-history-and-campaigners-are-trying-save-it)
+- Mangal Media (2019) [Digital Archives: Memory Banks of Revolution](http://www.mangalmedia.net/english//70dek926sf2xtcyxgxa19kyngnld1o)
+- Arms Control Association (2019) [ What You Need to Know About Chemical Weapons Use in Syria ](https://www.armscontrol.org/blog/2018-09-23/what-you-need-know-about-chemical-weapons-use-syria)
+- Scientific American (2019) [The Need for a Nuremberg Code for the 21st Century](https://blogs.scientificamerican.com/observations/the-need-for-a-nuremberg-code-for-the-21st-century/)
 - The New York Times (2019) [YouTube Is Erasing History](https://www.nytimes.com/2019/10/23/opinion/syria-youtube-content-moderation.html?smtyp=cur&smid=tw-nytopinion)
 - Columbia Journalism Review (2019) [YouTube takedowns are making it hard to document war crimes](https://www.cjr.org/hero/youtube-takedowns-war-crimes.php)
 - CNET (2019) [These watchdogs track secret online censorship across the globe](https://www.cnet.com/features/the-watchdogs-tracking-secret-online-censorship-across-the-globe-ooni/?ftag=COS-05-10aaa0b)

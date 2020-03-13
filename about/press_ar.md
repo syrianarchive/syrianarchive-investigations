@@ -8,6 +8,12 @@ image: "/assets/about/press-1.png"
 نُشرت بعض المقالات الصحفية والتي سلطت الضوء على عمل الأرشيف السوري، من بينها:
 
 #### باللغة العربية:
+- عنب بلدي (2020) [سينما “ما بعد الثورة”.. صوت سوري إلى العالمية؟](https://www.enabbaladi.net/archives/365289)
+- العربي الجديد (2019) [ "يوتيوب" يحذف آلاف الفيديوهات عن الثورة السورية.. و"الأرشيف السوري" يحاول تدارك الأمر](https://www.alaraby.co.uk/medianews/2019/12/11/%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%8A%D8%AD%D8%B0%D9%81-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9)
+-  مدونة هادي العبدلله (2019) [موقع يويتوب يحذف أهم القنوات والمقاطع المتعلقة بالثورة السورية](https://hadiabdullah.net/2019/12/09/%D9%85%D9%88%D9%82%D8%B9-%D9%8A%D9%88%D9%8A%D8%AA%D9%88%D8%A8-%D9%8A%D8%AD%D8%B0%D9%81-%D8%A3%D9%87%D9%85-%D8%A7%D9%84%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B7%D8%B9/)
+- صدى الشام (2019) [“أرشفة الحرب”.. صراع بين الأسد والمعارضة على ذاكرة السوريين](https://sadaalshaam.net/2019/12/%D8%A3%D8%B1%D8%B4%D9%81%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B5%D8%B1%D8%A7%D8%B9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9/)
+- المدن (2019) ["يوتيوب" يحذف 300 ألف فيديو عن الثورة السورية](https://www.almodon.com/media/2019/12/13/%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%8A%D8%AD%D8%B0%D9%81-300-%D8%A3%D9%84%D9%81-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B9%D9%86-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9)
+- آرام ميديا (2019) ["يوتيوب" يعيد تفعيل قنوات توثق الثورة السورية](https://aramme.com/post/2060/%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%8A%D8%B9%D9%8A%D8%AF-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%AA%D9%88%D8%AB%D9%82-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9)
 - الجمهورية.نت (2019) [أرشيف للعدالة والتاريخ](https://www.aljumhuriya.net/ar/content/%D8%A3%D8%B1%D8%B4%D9%8A%D9%81-%D9%84%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE?fbclid=IwAR01UMvahOaaTBpClcPZ6NMhemBH-v8ZA6UUM1dFrvxuPMkuH_Yy96mCHQc/)
 - منظمة العفو الدولية (2019) [كيف يعيق التغير المفاجئ لدى "فيسبوك" التحقيقات بشأن حقوق الإنسان](https://www.amnesty.org/ar/latest/news/2019/06/how-facebooks-sudden-change-hinders-human-rights-investigations/)
 - DW (2019) [بسبب مبيعات كيماوية لسوريا ـ شركة ألمانية تحت مجهر النيابة ](https://www.dw.com/ar/%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D9%83%D9%8A%D9%85%D8%A7%D9%88%D9%8A%D8%A9-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%80-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%AA-%D9%85%D8%AC%D9%87%D8%B1-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9/a-49366858)
@@ -25,6 +31,15 @@ image: "/assets/about/press-1.png"
 
 #### بلغات أجنبيّة:
 
+-  AlJazeera (2020) [The science and the art of open-source journalism](https://www.aljazeera.com/programmes/listeningpost/2020/01/science-art-open-source-journalism-200102224849578.html)
+- Al-Monitor (2020) [Building the revolution’s memory: Coders archive Lebanon’s protests](https://www.al-monitor.com/pulse/originals/2019/12/lebanon-protests-archives-online-projects.html)
+- Amnesty (2020) [ Groundbreaking book on open-source investigation to be launched at expert panel event](https://www.amnesty.org.uk/press-releases/groundbreaking-book-open-source-investigation-be-launched-expert-panel-event)
+- UC Berkeley Social Science Matrix (2020) [The Berkeley Protocol on Open Source Investigations](https://matrix.berkeley.edu/research/berkeley-protocol-open-source-investigations)
+- Witness (2020) [Human rights defenders are not terrorists, and their content is not propaganda](https://blog.witness.org/2020/01/human-rights-defenders-not-terrorists-content-not-propaganda/)
+- Middle East Eye (2019) [Like killing them again': Syrians fear history lost as Twitter plans account purge](https://www.middleeasteye.net/news/twitter-could-soon-erase-parts-syrias-history-and-campaigners-are-trying-save-it)
+- Mangal Media (2019) [Digital Archives: Memory Banks of Revolution](http://www.mangalmedia.net/english//70dek926sf2xtcyxgxa19kyngnld1o)
+- Arms Control Association (2019) [ What You Need to Know About Chemical Weapons Use in Syria ](https://www.armscontrol.org/blog/2018-09-23/what-you-need-know-about-chemical-weapons-use-syria)
+- Scientific American (2019) [The Need for a Nuremberg Code for the 21st Century](https://blogs.scientificamerican.com/observations/the-need-for-a-nuremberg-code-for-the-21st-century/)
 - The New York Times (2019) [YouTube Is Erasing History](https://www.nytimes.com/2019/10/23/opinion/syria-youtube-content-moderation.html?smtyp=cur&smid=tw-nytopinion)
 - Columbia Journalism Review (2019) [YouTube takedowns are making it hard to document war crimes](https://www.cjr.org/hero/youtube-takedowns-war-crimes.php)
 - CNET (2019) [These watchdogs track secret online censorship across the globe](https://www.cnet.com/features/the-watchdogs-tracking-secret-online-censorship-across-the-globe-ooni/?ftag=COS-05-10aaa0b)
