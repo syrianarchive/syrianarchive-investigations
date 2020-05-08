@@ -211,7 +211,7 @@ Anadolu Agency published a video of the hospital [showing the trail of destructi
 
 ![](/assets/investigations/Daraa2018/image8.png)
 
-Photos of the hospital
+*Photos of the hospital*
 
 ![](/assets/investigations/Daraa2018/image3.png)
 
