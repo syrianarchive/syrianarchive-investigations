@@ -18,7 +18,6 @@ The town of Busra al-Harir, northeast of Daraa, was targeted with more than 41 a
 In May 2017, Russia, [Turkey and Iran signed a memorandum of understanding for the establishment of de-escalation zones in Syria](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401260470000), which included Idlib province, some parts of the provinces of Latakia, Hama, and Aleppo, as well as some parts of northern Homs, Eastern Ghouta in Damascus countryside, Daraa and Quneitra cities south of Syria.
 
 *Original Russian image:*
-
 ![](/assets/investigations/Daraa2018/image32.png)
 
 *English translation:*
