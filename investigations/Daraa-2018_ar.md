@@ -219,7 +219,7 @@ drafts: true
 
 ![](/assets/investigations/Daraa2018/image8.png)
 
-صور للمشفى
+*صور المستشفى*
 
 ![](/assets/investigations/Daraa2018/image3.png)
 
