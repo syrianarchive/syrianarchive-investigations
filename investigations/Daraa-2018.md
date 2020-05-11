@@ -21,7 +21,7 @@ In May 2017, Russia, [Turkey and Iran signed a memorandum of understanding for t
 
 Although the area is part of the de-escalation zone; Assad regime's forces launched a military campaign against the eastern countryside of Daraa, including an attack on the Medical center of Busra al-Harir. The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and considered strategically important for its proximity to the international highway.
 
-![](/assets/investigations/Daraa2018/image38.jpg)
+![](/assets/investigations/Daraa2018/image43.jpg)
 
 ![](/assets/investigations/Daraa2018/image42.jpg)
 
@@ -46,7 +46,7 @@ The research team in Syrian Archive consider likely that the aircraft was operat
 
 ![](/assets/investigations/Daraa2018/img26.png)
 
-Image of Syrian MiG-23 ML while landing - [Source:](https://www.scramble.nl/orbats/syria/airforce)
+Image of Syrian MiG-23 ML while landing - [Source](https://www.scramble.nl/orbats/syria/airforce)
 
 On June 24, some networks and activists began circulating reports of the Syrian army and its accompanying militias storming Busra al-Harir town. At 11:01 am, Sham network published a report [about the entry of the regime army into the town](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000). A pro-Syrian government network [confirmed the participation of Tiger forces in the attack](https://www.google.com/url?q=https://www.facebook.com/Qarfa.Alaan/photos/a.1637946516223083/2273177062700022/?type%3D3&sa=D&ust=1540401260476000) and that their entry into the town began at 10:56 am. At 15:14, the Tiger forces page on Facebook a [posted a photo of its members in Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000). At 9:19 am on June 24; another pro-Syrian government network [posted a video of artillery shelling](https://www.google.com/url?q=https://www.facebook.com/497626773986237/videos/511630019252579/?__xts__%5B0%5D%3D68.ARB71ioqJjn54ZVyKz-PkQYmLsEWBcz644XaMSQ7oTam2m-usU7sb-fiRGb-E2SR_HmwLfn5zMGXUDHrZqC3agVM2-89HwIWV0mLjnJSsa8EGzC-Djz2evZ8vAWims6izdOmhqXcaLFE_VcfYZMhp-oH5G5tw3HIv0pxG_yWPT72T9Q5xS1N%26__tn__%3D-R&sa=D&ust=1540401260477000) on Busra al-Harir town.
 
