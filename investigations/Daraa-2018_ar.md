@@ -17,15 +17,17 @@ drafts: true
 
 ورغم دخول المنطقة لاتفاقية ”خفض التصعيد“ [برعاية روسية \- ايرانية \- تركية منذ أيّار ٢٠١٧](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401317191000)، والذي يشمل ادلب وبعض أجزاء محافظات اللاذقية وحماة وحلب وشمال محافظة حمص والغوطة الشرقية والجنوب السوري بمدينتي درعا والقنيطرة، إلا آن قوات نظام الأسد شنّت حملة عسكرية على أرياف درعا الشرقي من بينها هجوم على مركز بصر الحرير الطبي في بلدة "بصر الحرير". [وتقع بلدة ”بصر الحرير“](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401317192000) جنوب شرق العاصمة ”دمشق“ حيث تبعد عنها ٩٠ كم وتعتبر هامة استراتيجياً لقربها من الاتوستراد الدولي.
 
+*الصورة الروسية الأصلية*
+
 ![](/assets/investigations/Daraa2018/image32.png)
 
-![](/assets/investigations/Daraa2018/image38.jpg)
+*الترجمة العربية*
 
-![](/assets/investigations/Daraa2018/image11.jpg)
+![](/assets/investigations/Daraa2018/image47.jpeg)
 
-![](/assets/investigations/Daraa2018/image20.jpg)
+![](/assets/investigations/Daraa2018/image43.jpg)
 
-![](/assets/investigations/Daraa2018/image18.jpg)
+![](/assets/investigations/Daraa2018/image42.jpg)
 
 في 24 حزيران\\يونيو 2018 في الساعة 14:16؛ نشرت [شبكة مؤيّدة للنظام السوري](https://www.google.com/url?q=https://www.facebook.com/Manqolmain/photos/a.139275016166461/1777805855646694/?type%3D3%26theater&sa=D&ust=1540401317193000) خريطة لسيطرة القوى تبيّن موقع بلدة بصر الحرير الاستراتيجي بالنسبة لقوّات المعارضة المسلّحة.
 
@@ -193,11 +195,9 @@ drafts: true
 -   الذخائر التي تم تحديدها: غير متوفر
 -   المسؤول المحتمل عن الهجوم: القوات الجوية الروسية أو السورية
 
-![](/assets/investigations/Daraa2018/image10.jpg)
+![](/assets/investigations/Daraa2018/image45.jpg)
 
-![](/assets/investigations/Daraa2018/image4.jpg)
-
-![](/assets/investigations/Daraa2018/image13.jpg)
+![](/assets/investigations/Daraa2018/image44.jpg)
 
 في 28 حزيران\\يونيو 2018 تدوال ناشطون وشبكات إخباريّة، [من بينها قناة حلب اليوم،](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/posts/2279677372049688&sa=D&ust=1540401317221000) أنباء عن مجزرة قام بها الطيران الروسي في بلدة المسيفرة جنوب درعا منذ ساعات الصباح الباكر تسببت بمقتل حوالي 25 ضحيّة جرّاء استهداف أحد الملاجئ.
 
