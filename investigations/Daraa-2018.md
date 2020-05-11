@@ -181,11 +181,9 @@ The location of the Civil Defense Center and the center's garage north of Busra 
 
 
 
-![](/assets/investigations/Daraa2018/image10.jpg)
+![](/assets/investigations/Daraa2018/image45.jpg)
 
-![](/assets/investigations/Daraa2018/image4.jpg)
-
-![](/assets/investigations/Daraa2018/image13.jpg)
+![](/assets/investigations/Daraa2018/image44.jpg)
 
 On June 28 2018, activists and news networks, [including Halab Today TV](https://www.google.com/url?q=https://www.facebook.com/HalabTodayTV/posts/2279677372049688&sa=D&ust=1540401260502000), reported that early in the morning Russian aviation committed a massacre in Al-Musayfirah, a town south of Daraa, that targeted a shelter and killed 25 people.
 
