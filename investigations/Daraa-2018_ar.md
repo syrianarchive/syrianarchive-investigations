@@ -23,7 +23,9 @@ drafts: true
 
 *الترجمة العربية*
 
-![](/assets/investigations/Daraa2018/image47.jpeg)
+![](/assets/investigations/Daraa2018/image48.jpeg)
+
+*موقع بلدة بصر الحرير*
 
 ![](/assets/investigations/Daraa2018/image43.jpg)
 
