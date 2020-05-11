@@ -23,7 +23,7 @@ Although the area is part of the de-escalation zone; Assad regime's forces launc
 
 ![](/assets/investigations/Daraa2018/image38.jpg)
 
-![](/assets/investigations/Daraa2018/)
+![](/assets/investigations/Daraa2018/image42.jpg)
 
 On June 24, 2018, at 14:16 pm, a pro-Syrian government network published a map of control and influence [showing the strategic location of Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/Manqolmain/photos/a.139275016166461/1777805855646694/?type%3D3%26theater&sa=D&ust=1540401260472000) for the armed opposition forces.
 
