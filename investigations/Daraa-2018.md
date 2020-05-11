@@ -17,9 +17,9 @@ The town of Busra al-Harir, northeast of Daraa, was targeted with more than 41 a
 
 In May 2017, Russia, [Turkey and Iran signed a memorandum of understanding for the establishment of de-escalation zones in Syria](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401260470000), which included Idlib province, some parts of the provinces of Latakia, Hama, and Aleppo, as well as some parts of northern Homs, Eastern Ghouta in Damascus countryside, Daraa and Quneitra cities south of Syria.
 
-Although the area is part of the de-escalation zone; Assad regime's forces launched a military campaign against the eastern countryside of Daraa, including an attack on the Medical center of Busra al-Harir. The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and considered strategically important for its proximity to the international highway.
-
 ![](/assets/investigations/Daraa2018/image32.png)
+
+Although the area is part of the de-escalation zone; Assad regime's forces launched a military campaign against the eastern countryside of Daraa, including an attack on the Medical center of Busra al-Harir. The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and considered strategically important for its proximity to the international highway.
 
 ![](/assets/investigations/Daraa2018/image38.jpg)
 
