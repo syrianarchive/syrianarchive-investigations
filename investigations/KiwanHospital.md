@@ -89,7 +89,7 @@ Ubaida Dandoush, a media activist, first [posted](https://www.facebook.com/perma
 Beginning after 22:00, images and videos from the aftermath of the attack appeared on Facebook. Al Hadath News Agency uploaded [images](https://www.facebook.com/alhadath.agency/posts/1724238624377005) from inside the hospital showing its destruction. The post reported that the hospital was pushed out of service. Mohammed Katoub, a former advocacy manager for the Syrian American Medical Society, posted [photos and videos](https://www.facebook.com/Katoub.Mohamad/posts/1355328954627687) on Facebook at 22:39 and 22:43 stating that the Russian Airforce targeted Kiwan Hospital at around 21:00. 
 
 <iframe src="https://giphy.com/embed/lP2xRZCuVrDtL58LWj" width="480" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lP2xRZCuVrDtL58LWj">via GIPHY</a></p> 
-*A still from a [video](https://www.facebook.com/mortimer.flourencemonette/videos/760673931102904/) posted by Abu Hamza Al Janobi of the hospital directly after the attack.*
+*A GIF from a [video](https://www.facebook.com/mortimer.flourencemonette/videos/760673931102904/) posted by Abu Hamza Al Janobi of the hospital directly after the attack.*
 
 At 22:40, media activist Abu Hamza Al Janobi posted [images](https://www.facebook.com/mortimer.flourencemonette/posts/760098634493767) from inside the hospital showing the extensive damage to the facility. He later, on November 25 at 13:45, posted a [video](https://www.facebook.com/mortimer.flourencemonette/videos/760673931102904/) of the external damage to Kiwan Hospital. 
 
@@ -107,7 +107,81 @@ Alongside a [statement](https://www.facebook.com/Idleb.Health.Directorate/posts/
 
 Alongside Idlib Health Directorate and as mentioned above, Syria TV published a [video report](https://www.facebook.com/watch/?v=2505530133069913) on the attack and [interview](https://youtu.be/SzeP2wsWClY) with Ali Hashoum on Nov 25 and Nov 28. In the longform video report and interview, Hashoum again confirmed the time of the attack as well as mentioned the hospital’s evacuation process given the facility's high risk of attack.
 
-Following reports such as those published by the Syrian Network for Human Rights on November 25, on November 26 at 15:48 the Syrian Civil Defense published a video interview with a member of the Civil Defense team that confirmed the time of the strike as at 21:20 on November 24. The team member confirmed that this time of attack matches reports by the Civil Defense of a Russian aircraft above the villages at 21:15. According to the Civil Defense team member, an explosion was heard before the location of attack was determined as Kiwan Hospital. The video discusses the evacuation of the hospital patients and staff as well as the extensive destruction to the hospital from the attack. Alongside the Civil Defense, the Syrian Expatriates Medical Association posted a video on its Facebook page at 16:34 on November 26  confirming the airstrike on Kiwan hospital as well as emphasizing the targeting as “direct.” 
+Following [reports](http://sn4hr.org/sites/news/2019/11/25/russian-forces-bombed-hospital-kansafra-village-idlib-suburbs-november-24/) such as those published by SNHR, on November 26 at 15:48 the Syrian Civil Defense published a [video interview](https://youtu.be/o085x5QxTH0) with a member of the Civil Defense team that confirmed the time of the strike as at 21:20 on November 24. The team member confirmed that this time of attack matches reports by the Civil Defense of a Russian aircraft above the villages at 21:15. According to the Civil Defense team member, an explosion was heard before the location of attack was determined as Kiwan Hospital. The video discusses the evacuation of the hospital patients and staff as well as the extensive destruction to the hospital from the attack. Alongside the Civil Defense, SEMA posted a [video](https://www.facebook.com/watch/?v=3022809924609786) on its Facebook page at 16:34 on November 26  confirming the airstrike on Kiwan hospital as well as emphasizing the targeting as “direct.” 
+
+These reports were followed by an [article](https://www.alaraby.co.uk/flashnews/2019/12/13/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%88%D8%AA%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%AE%D9%85) published by Al Araby that detailed the attack and the damage to the facility. As reviewed below, the damage to the facility, both from the impact of the attack itself and later fires, was irreparable and forced the facility out of service.
+
+
+## Analysis of the Damage
+![](/assets/investigations/KiwanHospital/image25.jpg)
+*The inside of the hospital’s laboratory after the attack as captured by the investigations team.*
+
+The damage to Kiwan Hospital from the attack was determined and analyzed by the Syrian Archive through open source media as well as interviews, videos, and pictures taken by the investigations team on the ground. The media taken by the  team, alongside the open source media found online, corroborate and confirm statements that the hospital was directly targeted and pushed out of service. 
+
+### External Damage
+
+<iframe src="https://giphy.com/embed/W1ltwJHuHl4tT19vFE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/W1ltwJHuHl4tT19vFE">via GIPHY</a></p>
+*A GIF from a video taken by the investigations team of outside the medical facility.*
+
+As shown in the videos and images taken by the Syrian Archive’s Investigations team, the hospital suffered severe damage externally with the hospital’s structure almost fully collapsed. Although part of the hospital’s main building was left still standing, the left block of Kiwan Hospital, which includes the medical warehouse and examination rooms, were completely destroyed with the roof collapsed and rooms exposed. Images and footage reveal that the concrete columns of the hospital’s main building were broken and no longer able to support the hospital’s structure. In addition, the ceiling of the hospital, and the hospital’s roof, were collapsed placing pressure on the already crumbling hospital foundation. 
+
+![](/assets/investigations/KiwanHospital/image40.png)
+*An image of the collaposed and destroyed left block of Kiwan hospital taken by the investigations team.* 
+
+![](/assets/investigations/KiwanHospital/image15.png)
+*An image taken by the investigations team of the hospital’s emergency/ambulance entrance after the attack.*
+
+Directly after the attack             |  Days after the attack
+:-------------------------:|:-------------------------:
+![](/assets/investigations//KiwanHospital/image9.png)  |  ![](/assets/investigations/KiwanHospital/image6.png)
+
+* The image on the [left](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2540115772754130/?type=3&theater) was uploaded by the Civil Defense of the pharmacy on fire directly after the attack. The image on the right is a still from a video taken of the hospital’s pharmacy days after the attack by the investigations team.*
+
+An additional building to the right of the primary hospital building, which is the hospital’s ambulance entrance, also suffered significant external damage with its windows broken and rooms’ walls destroyed. The hospital’s pharmacy faced the brunt of the damage with the entirety of the pharmacy burned and one of its walls destroyed. The hospital’s severe external damage matches its devastating internal damage, which rendered the hospital out of service.
+
+### Internal Damage 
+![](/assets/investigations//KiwanHospital/image17.jpg)
+*An image taken by the investigations team of the hospital’s entrance.*
+
+When first entering the hospital, large boulders from the hospital's structure scattered on the hospital floor reveal the severe extent of the damage from the attack on the facility’s interior. The reception and waiting rooms on the first floor are covered in debris with concrete and splintered wood from the hospital’s walls, ceiling, and furniture on the floor. 
+
+![](/assets/investigations//KiwanHospital/image41.jpg)
+![](/assets/investigations//KiwanHospital/image37.jpg)
+![](/assets/investigations//KiwanHospital/image38.jpg)
+![](/assets/investigations//KiwanHospital/image39.jpg)
+*Images taken by the investigations of the hospital’s reception, waiting room, and patient rooms on the first floor.*
+
+![](/assets/investigations//KiwanHospital/image19.jpg)
+![](/assets/investigations//KiwanHospital/image5.jpg)
+![](/assets/investigations//KiwanHospital/image35.jpg)
+![](/assets/investigations//KiwanHospital/image36.jpg)
+*Images of the hospital’s basement or bottom floor taken by the investigations team.*
+
+![](/assets/investigations//KiwanHospital/image13.jpg)
+![](/assets/investigations//KiwanHospital/image22.jpg)
+*Images taken by the investigations team of the hospital’s laboratory located on the bottom or basement floor.*
+
+The hospital’s ambulance room, on the basement or bottom floor, was additionally damaged with the remnants of the ceiling, the ceiling fan, as well as medical equipment scattered on the ground. On the second floor, corridors are blocked by debris with the broken windows, hospital equipment, and medicine of the pharmacy covering the floor. The stairs to the second floor were blocked as the partially collapsed roof prevented access.
+
+<iframe src="https://giphy.com/embed/VJBUhy615mPBOCDmb1" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VJBUhy615mPBOCDmb1">via GIPHY</a></p>
+*A GIF from a video taken by the investigations team of the hospital's collapsed roof.* 
+
+![](/assets/investigations//KiwanHospital/image18.png)
+*A still from a video of the hospital’s second floor medicine storage room taken by the investigations team.*
+
+![](/assets/investigations//KiwanHospital/image20.png)
+*A still from a video of the doctor’s clinic taken by the investigations team. This room suffered extensive damage with one of its walls destroyed.*
+
+![](/assets/investigations//KiwanHospital/image27.png)
+*A still from a video of the hospital’s women’s drugs storage taken by the investigations team.*
+
+![](/assets/investigations//KiwanHospital/image7.jpg)
+*An image of the women’s second floor restroom taken by the investigations team.*
+
+Additional rooms in the hospital were damaged including the doctor’s clinic or office. The Nutrition department’s windows were destroyed from the attack with glass on the department’s floor and furniture. On the bottom floor, the hospital’s laboratory was left covered in debris after the attack with necessary equipment destroyed from the missile's impact. The women’s drug store suffered severe damage with the majority of its equipment and medicine ruined. Additionally, the women’s restroom suffered equal damage with pieces of furniture and the ceiling covering the ground. The hospital’s administration room was in a similar condition with cracks in the wall, files strewn around the room, and its door ripped off the wall. Moreover, the X-Ray room’s door was broken with the X-ray equipment damaged. The pharmacy, like its exterior, was completely destroyed and burned with the medicine and equipment inside the pharmacy melted. 
+
+
+
 
 
 
