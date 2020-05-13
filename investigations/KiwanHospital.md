@@ -188,7 +188,17 @@ Additional rooms in the hospital were damaged including the doctor’s clinic an
 ![](/assets/investigations//KiwanHospital/image52.jpg)
 *Images taken by the investigations team of medicine burnt inside the pharmacy.* 
 
+This destruction of Kiwan hospital has left residents in the countryside of Idlib with increasingly less options for medical help. The extensive damage to the hospital corroborates its direct targeting, a prevalent feature of the Russian-Syrian military campaign. 
 
 
+## Flight Data and Analysis
+To provide a further layer of verification, the Syrian Archive cross referenced findings from open source media and images/videos taken by the investigations team with flight observation data from a spotter organization. Data for flights occurring before and after 21:00 - 21:30 on November 24, 2019 around Idlib and Hama was closely analyzed. 
 
+<iframe height="550" src="https://public.tableau.com/views/FlightObservationDatafrom24November2019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
+First in Latakia at Hmemim Airbase, a Russian fixed wing aircraft was seen taking off in the southeastern direction at around 20:35. At 20:52, a Russian fixed wing aircraft was then seen flying east near the village of Bara, which lies only around 6 km away from the hospital. Shortly thereafter at around 20:55, a Russian fixed wing aircraft was spotted circling over the Maarat Hurma, a village 13 km south of Kansafra. Lastly, and shortly before the airstrike, at 21:01 a Russian fixed wing aircraft is observed circling over Jabal Shahshabo, an area 18 km south of Kansafra. Although not circling over Kansafra itself, this common practice of circling by warzone aircrafts indicates target acquisition and/or preparation for an imminent attack. Furthermore, the circling by a fixed wing Russian aircraft over the neighbouring villages of Kansafra corroborates the estimated time of the attack of between 21:00 and 21:30 as mentioned in interviews conducted by the investigations team and in local news reports. 
+
+Although this data matches claims by human rights organizations, local news sources, and interviewed witnesses that the attack was committed by the Russian Air Force, there is no direct evidence available that one of the observed aircraft was involved in the attack on Kiwan Hospital. Nevertheless, the presence of aircrafts above the neighboring villages and towns increases the likelihood that an air attack occurred on the hospital during the time detailed in interviews with the investigations team and by local news sources online. 
+
+## Conclusion
+On November 24 2019, Kiwan hospital, supported by the Syrian Expatriates Medical Association, was attacked and pushed out of service. Providing free treatment to residents in the area, the hospital’s women and children’s wards and various departments were destroyed. The time of the attack and the damage to the hospital was confirmed through open source media found online, media and interviews captured by the investigations team at the attack site, and flight observation data. Although witnesses, local news sources, and flight observation data claims the attack was committed by the Russian Air Force, the Syrian Archive is unable to fully confirm the perpetrators of the attack given the limitations of the investigation. This attack, like many others on medical facilities, is illegal and severely limits the ability for Syrians to access healthcare in an increasingly deadly warzone. 
