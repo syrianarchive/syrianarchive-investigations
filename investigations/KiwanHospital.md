@@ -9,7 +9,7 @@ socialMediaImage:
 
 ## Initial Summary
 - Location: Idlib: [Kansafra](https://goo.gl/maps/dBBbCV9xiSGKK77C8)
-- Beneficiaries of the Hospital: Kiwan Hospital, supported by [Syrian Expatriates Medical Association (SEMA)](https://www.sema-sy.org/en/project/kiwan-hospital/), serves the 175,000 people of the surrounding areas with over 900 patients treated at the hospital every month.
+- Target: Kiwan Hospital, supported by [Syrian Expatriates Medical Association (SEMA)](https://www.sema-sy.org/en/project/kiwan-hospital/), serves the 175,000 people of the surrounding areas with over 900 patients treated at the hospital every month.
 - Date: 24 November 2019
 - Time: Between 21:00 and 21:30 according to interviews with hospital staff conducted by the Syrian Archive’s investigations team and in corroboration with online open source media.  
 - Deaths or Wounded: None
@@ -164,6 +164,7 @@ When first entering the hospital, large boulders from the hospital's structure s
 The hospital’s ambulance room, on the basement or bottom floor, was additionally damaged with the remnants of the ceiling, the ceiling fan, as well as medical equipment scattered on the ground. On the second floor, corridors are blocked by debris with the broken windows, hospital equipment, and medicine of the pharmacy covering the floor. The stairs to the second floor were blocked as the partially collapsed roof prevented access.
 
 <iframe src="https://giphy.com/embed/VJBUhy615mPBOCDmb1" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VJBUhy615mPBOCDmb1">via GIPHY</a></p>
+
 *A GIF from a video taken by the investigations team of the hospital's collapsed roof.* 
 
 ![](/assets/investigations//KiwanHospital/image18.png)
@@ -178,9 +179,14 @@ The hospital’s ambulance room, on the basement or bottom floor, was additional
 ![](/assets/investigations//KiwanHospital/image7.jpg)
 *An image of the women’s second floor restroom taken by the investigations team.*
 
-Additional rooms in the hospital were damaged including the doctor’s clinic or office. The Nutrition department’s windows were destroyed from the attack with glass on the department’s floor and furniture. On the bottom floor, the hospital’s laboratory was left covered in debris after the attack with necessary equipment destroyed from the missile's impact. The women’s drug store suffered severe damage with the majority of its equipment and medicine ruined. Additionally, the women’s restroom suffered equal damage with pieces of furniture and the ceiling covering the ground. The hospital’s administration room was in a similar condition with cracks in the wall, files strewn around the room, and its door ripped off the wall. Moreover, the X-Ray room’s door was broken with the X-ray equipment damaged. The pharmacy, like its exterior, was completely destroyed and burned with the medicine and equipment inside the pharmacy melted. 
+Additional rooms in the hospital were damaged including the doctor’s clinic and office. The nutrition department’s windows were destroyed from the attack with glass on the department’s floor and furniture. On the bottom floor, the hospital’s laboratory was left covered in debris after the attack with necessary equipment destroyed from the missile's impact. The women’s drug store suffered severe damage with the majority of its equipment and medicine ruined. Additionally, the women’s restroom suffered equal damage with pieces of furniture and the ceiling covering the ground. The hospital’s administration room was in a similar condition with cracks in the wall, files strewn around the room, and its door ripped off the wall. Moreover, the X-Ray room’s door was broken with the X-ray equipment damaged. The pharmacy, like its exterior, was completely destroyed and burned with the medicine and equipment inside the pharmacy melted. 
 
+![](/assets/investigations//KiwanHospital/image53.jpg)
+*An image taken by the investigations team of the hospital's x-ray room after the attack.*
 
+![](/assets/investigations//KiwanHospital/image23.jpg)
+![](/assets/investigations//KiwanHospital/image52.jpg)
+*Images taken by the investigations team of medicine burnt inside the pharmacy.* 
 
 
 
