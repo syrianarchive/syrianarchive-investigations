@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "Two air raids on Harem: popular market and residential housing complex  "
+title: "Two air raids on Harem: popular market and residential housing complex"
 date: 2018-10-02
 desc: "investigation"
 image: /assets/investigations/hrc_cover.png
@@ -31,21 +31,21 @@ On 22 March 2018, reports emerged of warplanes targeting Harem city. News networ
 
 ![](/assets/investigations/Harem/image30.png)
 
-At 18:10 the same day, the Facebook page of [Aleppo Media Center published a post](https://www.google.com/url?q=http://archive.fo/ootFv&sa=D&ust=1538477135300000) alerting of an alleged Russian airstrikes on Harem city.
+At 18:10 the same day, the Facebook page of [Aleppo Media Center published a post](https://www.google.com/url?q=http://archive.fo/ootFv&sa=D&ust=1538477135300000) alerting of alleged Russian airstrikes on Harem city.
 
 ![](/assets/investigations/Harem/image20.png)
 
-Thereafter, Hisham Al Abdullah, a correspondent for Orient Television in the countryside of Idlib, [published a video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpDtU38PE_oM&sa=D&ust=1538477135301000) on what he described as two air raids on Harem. According to Al Abdullah, the first airstrike destroyed a number of the town's residential buildings, and the second airstrike targeted and damage the main market in the city. In a report, a Civil Defense member further confirms the attack stating that "the city of Harem was subjected to several air raids believed to be Russian in the market area near the Grand Mosque." Reporting prelimary death tolls, a doctor in Harem who spoke with Al Abdullah confirmed that around 30 civlians were killed from the attack with the hospital having admitted an additional 50 civlians for serious injuries.
+Thereafter, Hisham Al Abdullah, a correspondent for Orient Television in the countryside of Idlib, [published a video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DpDtU38PE_oM&sa=D&ust=1538477135301000) covering what he described as two air raids on Harem. According to Al Abdullah, the first airstrike destroyed a number of the town's residential buildings, and the second airstrike targeted and damage the main market in the city. In a report, a Civil Defense member further confirms the attack stating that "the city of Harem was subjected to several air raids believed to be Russian in the market area near the Grand Mosque." Reporting prelimary death tolls, a doctor in Harem who spoke with Al Abdullah confirmed that around 30 civlians were killed from the attack with the hospital having admitted an additional 50 civlians for serious injuries.
 
-The [Idlib Syrian Civil Defense's](https://www.google.com/url?q=https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/1609876025778114/?type%3D3&sa=D&ust=1538477135301000) provincial Facebook page [published an infographic](https://www.google.com/url?q=http://archive.fo/JKrGB&sa=D&ust=1538477135302000) on the Harem city attacks. In this image, as a preliminary assessment of the two airstrikes, the Civil Defense reports the death toll reached 31 people killed, in addition to the 50 seriously injured .
+The [Idlib Syrian Civil Defense's](https://www.google.com/url?q=https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/1609876025778114/?type%3D3&sa=D&ust=1538477135301000) provincial Facebook page [published an infographic](https://www.google.com/url?q=http://archive.fo/JKrGB&sa=D&ust=1538477135302000) on the Harem city attacks. In the image, the Civil Defense reports a preliminary assessment of 31 people killed, in addition to the 50 seriously injured from the attack .
 
 ![](/assets/investigations/Harem/image17.png)
 
-That same day, [Kafar Yahmoul coordination committee](https://www.facebook.com/k.nn.hos/) published the [names of those civilians  killed](https://www.google.com/url?q=http://archive.fo/y9AiW&sa=D&ust=1538477135303000) as a result of this attack.
+That same day, [Kafar Yahmoul coordination committee](https://www.facebook.com/k.nn.hos/) published the [names of the civilians killed](https://www.google.com/url?q=http://archive.fo/y9AiW&sa=D&ust=1538477135303000) by the attack.
 
-The following day (23 March), Orient Television published another video which [increased the number of casualties from the attack from 31 to 42](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DreWiAxofGVY&sa=D&ust=1538477135303000). According to the correspondent, the first raid hit the popular market in the old garage area near the vegetable market, destroying more than 100 shops. Witnesses stated that the market was crowded with civilians, and the location of the raid is far from any military headquarters.
+The following day (March 23), Orient Television published another video which [reported an increase in the number of civilian casualties from 31 to 42](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DreWiAxofGVY&sa=D&ust=1538477135303000). According to the correspondent, the first raid hit the popular market destroying more than 100 shops. Emphasziing that the location of the popular market is far from any military headquarters, witnesses in the video report described the market as crowded with civilian at the time of the attack.
 
-The video claimed that the second raid attacked a civilian residential area, including a kindergarten. Because the strike hit outside of attendance hours (several witnesses stated the two airstrikes occurred after the late-afternoon call to prayer), the kindergarten was mostly empty as it was hit outside of attendance hours.
+Moreover, the report claimed that the second raid attacked a residential area, including a kindergarten. Because the time the strike hit was outside of attendance hours (several witnesses stated the two airstrikes occurred after the late-afternoon call to prayer), the kindergarten was mostly empty.
 
 ![](/assets/investigations/Harem/image35.jpg)
 *The location of Harem city, the map shows the distance between the city and the fighting fronts*
@@ -54,7 +54,7 @@ The video claimed that the second raid attacked a civilian residential area, inc
 *A photo of the kindergarten affected by the second air raid - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DreWiAxofGVY&sa=D&ust=1538477135304000): Orient Television*
 
 
-Also on 23 March, Syrian Civil Defense in Idlib province posted a video to their YouTube channel [reporting on the two airstrikes](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135305000). This video included footage of rescue operations at the two impact sites. According to a Civil Defense member, the two air raids on 22 March took place at 16:00 after the late-afternoon call to prayer. He stated that the rescue operations continued for 17 hours at the two impact sites.
+Also on March 23, the Syrian Civil Defense in Idlib province posted a video to their YouTube channel [reporting on the two airstrikes](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135305000). This video included footage showing rescue operations at the two impact sites. According to a Civil Defense member featured in the video, the two air raids on March 22 took place at 16:00 shortly after the late-afternoon call to prayer. He stated that the rescue operations continued for 17 hours at the two impact sites.
 
 It is worth noting that the 22 March [late-afternoon call to prayer call](https://www.google.com/url?q=https://timesprayer.today/1677-month03-year2018-%25D8%25AC%25D8%25AF%25D9%2588%25D9%2584-%25D9%2585%25D9%2588%25D8%25A7%25D9%2582%25D9%258A%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25B5%25D9%2584%25D8%25A7%25D8%25A9-%25D8%25B4%25D9%2587%25D8%25B1-%25D9%2585%25D8%25A7%25D8%25B1%25D8%25B3-%25D8%25A5%25D8%25AF%25D9%2584%25D8%25A8.html&sa=D&ust=1538477135305000) in Idlib province was recited at 15:08 (while the sunset prayer was recited at 17:50).
 
@@ -66,7 +66,7 @@ It is worth noting that the 22 March [late-afternoon call to prayer call](https:
 ![](/assets/investigations/Harem/image26.png)
 *The location of the second air raid - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135307000): Syrian Civil Defense Channel in Idlib province on YouTube*
 
-Shortly after the airstrikes, the "Nedaa Syria Network" YouTube channel posted a video of the  [first moments of rescue operations](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBg4SInsCizA&sa=D&ust=1538477135307000) at the Harem impact sites. In one frame, the video shows the locations of the two airstrikes, indicating the distance between them. See below:
+Shortly after the airstrikes, the Nedaa Syria Network YouTube channel posted a video showing the [first moments of rescue operations](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBg4SInsCizA&sa=D&ust=1538477135307000) at the Harem impact sites. In one frame, the video shows the locations of the two airstrikes indicating the distance between them. 
 
 ![](/assets/investigations/Harem/image1.png)
 
@@ -84,12 +84,12 @@ Shortly after the airstrikes, the "Nedaa Syria Network" YouTube channel posted a
 *A panoramic photo of the two airstrikes locations*
 
 
-Thiqa News Agency also published a video on 22 March [of the site of the two air raids](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DogKrVO-o3sE&sa=D&ust=1538477135308000). In the video, one witness spoke about the two raids, pointing to the location of the second one. The same witness confirmed that the compound is a residential complex, inhabited by civilian families. They also denied any military presence in the area.
+Thiqa News Agency also published a video on March 22 [of the site of the two air raids](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DogKrVO-o3sE&sa=D&ust=1538477135308000). In the video, a witness spoke about the two raids pointing to the location of the second strike. The same witness confirmed that the structure hit is a residential complex inhabited by families. They also denied any military presence in the area.
 
-On 22 March, several hours after the raids Zaman al-Wasl newspaper published an [initial report](https://www.google.com/url?q=https://www.zamanalwsl.net/news/article/85783/&sa=D&ust=1538477135310000) on the incident; the report contained the following pictures:
+On March 22, several hours after the raids Zaman al-Wasl newspaper published an [initial report](https://www.google.com/url?q=https://www.zamanalwsl.net/news/article/85783/&sa=D&ust=1538477135310000) on the incident with the following images:
 
 ![](/assets/investigations/Harem/image11.png)
-*The photo was taken at the site of the second raid, The photographer was facing in the southern direction in the picture, in the background the presence of Harem castle can be noticed, which is located south and near the locations of the two airstrikes*
+*The photo was taken at the site of the second raid, the photographer is facing south in the picture, in the background the presence of Harem castle can be noticed, which is located south and near the locations of the two airstrikes*
 
 
 ![](/assets/investigations/Harem/image4.png)
@@ -110,7 +110,21 @@ On 22 March, several hours after the raids Zaman al-Wasl newspaper published an 
 *Harem Castle - [Source](https://www.google.com/url?q=http://esyria.sy/sites/code/index.php?site%3Didleb%26p%3Dstories%26category%3Druins%26filename%3D201011221500123&sa=D&ust=1538477135311000).*
 
 
-On 3 June 2018, after nearly three months of the Russian airstrikes, Syria TV published a video report on the return of normalcy to the popular market in Harem city after the massive destruction.
+On 22 March, the journalist Ayman Abu AL-Shouq published a [video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-LT1lFxzalU&sa=D&ust=1538477135313000) on his YouTube channel showing victims of the attack in the hospital.
+
+On March 23, Baladi-News Network published a video on their YouTube channel [documenting rescue operations at the site of the second airstrike (the residential complex)](https://www.youtube.com/watch?v%3DWo95UYI-_M8&sa=D&ust=1538477135313000). The video documents the collapse of one of the damaged buildings during rescue operations, which prolonged and hindered resecue efforts.
+
+![](/assets/investigations/Harem/image19.png)
+*One of the collapsed buildings at the location of the second airstrike
+[Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWo95UYI-_M8&sa=D&ust=1538477135314000) Baladi News Network*
+
+
+On 23 March, Qasioun News Agency published a video [of a tour of the impact sites ](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0ab_zYmfDpg&sa=D&ust=1538477135314000) documenting the effects of the massive destruction, particularly at the location of the second airstrike.
+
+![](/assets/investigations/Harem/image31.png)
+*Destruction at the site of the second airstrike - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0ab_zYmfDpg&sa=D&ust=1538477135315000): Qasioun News Agency*
+
+On 3 June 2018, nearly three months after the airstrikes, Syria TV published a video report covering the return to normalcy at the popular market in Harem city after the devestating attacks.
 
 The following images appeared in the video report showing destruction in the market as a result of airstrikes.
 
@@ -125,31 +139,16 @@ The following images appeared in the video report showing destruction in the mar
 ![](/assets/investigations/Harem/image14.jpg)
 *A picture shows the matched location of the second raid from Orient taken on the day of the raid with stills from Syria TV filmed three months after the raid. Notice some parts of the building have been demolished and rubble removed.*
 
+After collecting and analysing images and videos published on social media platforms and news networks, Syrian Archive concluded that on 22 March 2018 at roughly 16:00 the town of Harem was targeted with two air raids on the popular market and the surrounding area in western Harem. Russian forces are likely responsible for the attack. [The first airstrike](https://www.google.com/url?q=https://www.google.com/maps/place/36%25C2%25B012'33.5%2522N%2B36%25C2%25B031'12.0%2522E/@36.2092191,36.519996,179m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.2093028!4d36.5199889&sa=D&ust=1538477135316000) targeted the popular market near the Great Mosque and the neighboring vegetable market. [The second airstrike](https://www.google.com/url?q=https://www.google.com/maps/place/36%25C2%25B012'36.4%2522N%2B36%25C2%25B031'11.2%2522E/@36.210025,36.5197782,261m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.210121!4d36.519764&sa=D&ust=1538477135316000) hit a residential complex inhabited by civilians, according to witnesses. The distance between both impact sites is nore more than 90 meters. Combined, the two airstrikes resulted in more than 40 killed and 50 injured.
 
-On 22 March, the journalist Ayman Abu AL-Shouq published a [video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D-LT1lFxzalU&sa=D&ust=1538477135313000) on his YouTube channel showing many victims in a hospital as a result of the two airstrikes.
-
-On 23 March, Baladi-News Network published a video on their YouTube channel [documenting rescue operations at the site of the second airstrike (the residential complex)](https://www.youtube.com/watch?v%3DWo95UYI-_M8&sa=D&ust=1538477135313000). The video documents the collapse of one of the damaged buildings during rescue operations, which prolonged and hindered efforts.
-
-![](/assets/investigations/Harem/image19.png)
-One of the collapsed buildings at the location of the second airstrike
-[Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWo95UYI-_M8&sa=D&ust=1538477135314000) Baladi News Network
-
-
-On 23 March, Qasioun News Agency published a video [of a tour of the impact sites ](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0ab_zYmfDpg&sa=D&ust=1538477135314000), documenting the effects of the massive destruction, particularly at the location of the second airstrike.
-
-![](/assets/investigations/Harem/image31.png)
-*Destruction at the site of the second airstrike - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0ab_zYmfDpg&sa=D&ust=1538477135315000): Qasioun News Agency*
-
-After collecting and analysing images and videos published on social media platforms and news networks, Syrian Archive concluded that on 22 March 2018 at roughly 16:00 pm, the town of Harem, north of Idlib province, was targeted with two air raids on the old garage area in the west of the city by, likely by Russian aircraft. [The first airstrike](https://www.google.com/url?q=https://www.google.com/maps/place/36%25C2%25B012'33.5%2522N%2B36%25C2%25B031'12.0%2522E/@36.2092191,36.519996,179m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.2093028!4d36.5199889&sa=D&ust=1538477135316000) targeted the popular market near the Great Mosque and near the vegetable market. [The second airstrike](https://www.google.com/url?q=https://www.google.com/maps/place/36%25C2%25B012'36.4%2522N%2B36%25C2%25B031'11.2%2522E/@36.210025,36.5197782,261m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.210121!4d36.519764&sa=D&ust=1538477135316000) targeted a residential complex inhabited by civilians, according to witnesses. It is worth mentioning that the distance between the two impact sites does not exceed 90 meters. Combined, the two airstrikes resulted in more than 40 casualties and more than 50 injured.
-
-The attack in Harem is the third attack in Idlib by Russian aircraft in three days: it occurred right after the attacks on [Hass](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvhWCokTU6GA&sa=D&ust=1538477135316000) and [Kafr al-Battikh](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dbf1-afwsPv0&sa=D&ust=1538477135316000), which resulted in the death of dozens of civilians, mostly children and women.
+The airstrikes on Harem is the third attack in Idlib by Russian aircraft in three days. The attack occurred days after airraids on [Hass](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvhWCokTU6GA&sa=D&ust=1538477135316000) (March 20, 2018) and [Kafr al-Battikh](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dbf1-afwsPv0&sa=D&ust=1538477135316000) (March 21, 2018), which resulted in the death of dozens of civilians, mostly women and children.
 
 ![](/assets/investigations/Harem/image7.jpg)
 *The location of the two airstrikes in the west of Harem city, according to witnesses*
 
 
 ![](/assets/investigations/Harem/image15.jpg)
-*The location of the two airstrikes in the old garage area in the west of Harem city, according to witnesses and evidence analysis*
+*The location of the two airstrikes in the popular market area in western harem, according to witnesses and evidence analysis*
 
 ![](/assets/investigations/Harem/image34.jpg)
 *The location of the two airstrikes according to witnesses and evidence analysis in the west of Harem city*
