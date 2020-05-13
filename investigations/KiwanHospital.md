@@ -55,6 +55,7 @@ In 2011 and 2012 with the beginning of the Syrian revolution and the closing of 
 Having been established in 2000, Kiwan Hospital was [registered online by the Syrian government](https://web.archive.org/web/20200405190503/http://www.moh.gov.sy/Default.aspx?tabid=202&language=ar-YE) as a hospital in the Idlib province beginning as early as 2008. This indicates and further corroborates that the Syrian government knew of the hospital’s location at the time of the attack. Moreover, in 2016, the Syrian Government classified the hospital and its staff as “wanted." This classification was based on a [decision](https://babaamr.wordpress.com/2012/02/19/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D9%85%D9%86-%D9%82%D8%A8%D9%84-%D9%86%D8%B8%D8%A7%D9%85-%D8%A8%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF/) stating: “Adnan Kiwan Charitable Hospital, Maarat Al Numan, Kansafra Village is hiding weapons in the facility with full support of the medical staff. Director of Administration's decision on the Northern Branch Book No. 6846 Date 27/5/2011, assigned Court of Administration with reference number 2053/1 and date 18/6/2011.” This, presumably, was decided to justify attacks on the facility and increases the likelihood that Russian or Syrian government forces are responsible for the attack. 
 
 ![](/assets/investigations/KiwanHospital/image14.png)
+
 *A screenshot from the [Baba Amr blog](https://babaamr.wordpress.com/2012/02/19/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B7%D9%84%D9%88%D8%A8%D9%8A%D9%86-%D9%85%D9%86-%D9%82%D8%A8%D9%84-%D9%86%D8%B8%D8%A7%D9%85-%D8%A8%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF/) reporting the case against Kiwan hospital and its staff.*
 
 ### Previous Attacks on the Facility
@@ -103,7 +104,7 @@ After the Civil Defense, the staff of Kiwan Hospital posted videos and images on
 Alongside a [statement](https://www.facebook.com/Idleb.Health.Directorate/posts/2084077081695636?__tn__=-R) published on its Facebook page at 10:49 on November 25, the Idlib Health Directorate posted a [video](https://youtu.be/hY0Ydwh2jPs) showing the damage to the hospital from the attack as well as an interview with Ali Hashoum, the director of Kiwan Hospital. In his interview, Hashoum says the attack came from a Russian plane and emphasized that it pushed the facility out of service. Similar damage is seen in video reports done by [Anadolu News Agency](https://www.facebook.com/blyooooon/videos/972045403174556/?v=972045403174556) and [Enab Baladi](https://www.facebook.com/watch/?v=551126145434510), which were both posted in the afternoon and evening a day after the attack on November 25.
 
 ![](/assets/investigations/KiwanHospital/image26.png)
-*A still showing damage to the facility from atop the hospital taken from a [video report](https://www.facebook.com/enab.baladi/videos/551126145434510/?v=551126145434510) by Enab Baladi on the hospital attack.*
+*A still showing damage to the facility from atop the hospital taken from a [video report](https://www.facebook.com/enab.baladi/videos/551126145434510/?v=551126145434510) by Enab Baladi on the attack.*
 
 Alongside Idlib Health Directorate and as mentioned above, Syria TV published a [video report](https://www.facebook.com/watch/?v=2505530133069913) on the attack and [interview](https://youtu.be/SzeP2wsWClY) with Ali Hashoum on Nov 25 and Nov 28. In the longform video report and interview, Hashoum again confirmed the time of the attack as well as mentioned the hospital’s evacuation process given the facility's high risk of attack.
 
@@ -135,7 +136,7 @@ Directly after the attack             |  Days after the attack
 :-------------------------:|:-------------------------:
 ![](/assets/investigations//KiwanHospital/image9.png)  |  ![](/assets/investigations/KiwanHospital/image6.png)
 
-* The image on the [left](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2540115772754130/?type=3&theater) was uploaded by the Civil Defense of the pharmacy on fire directly after the attack. The image on the right is a still from a video taken of the hospital’s pharmacy days after the attack by the investigations team.*
+*The image on the [left](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2540115772754130/?type=3&theater) was uploaded by the Civil Defense of the pharmacy on fire directly after the attack. The image on the right is a still from a video taken of the hospital’s pharmacy days after the attack by the investigations team.*
 
 An additional building to the right of the primary hospital building, which is the hospital’s ambulance entrance, also suffered significant external damage with its windows broken and rooms’ walls destroyed. The hospital’s pharmacy faced severe damage with the entirety of the pharmacy burned and one of its walls destroyed. The hospital’s severe external damage matches its devastating internal damage, which rendered the hospital out of service.
 
@@ -161,7 +162,7 @@ When first entering the hospital, large boulders from the hospital's structure s
 ![](/assets/investigations//KiwanHospital/image22.jpg)
 *Images taken by the investigations team of the hospital’s laboratory located on the bottom or basement floor.*
 
-The hospital’s ambulance room, on the basement or bottom floor, was additionally damaged with the remnants of the ceiling, the ceiling fan, as well as medical equipment covering the ground. Moreoer, the hospital’s laboratory in the basement was left covered in debris after the attack with necessary equipment destroyed from the missile's impact. With the facility's roof collaposed, access to the second floor was blocked by rubble preventing access to other parts of the facility. Up the stairs on the second floor, debris from broken windows, hospital equipment, and burnt medicine from the pharmacy block the hospital corridors. 
+The hospital’s ambulance room, on the basement or bottom floor, was additionally damaged with the remnants of the ceiling, the ceiling fan, as well as medical equipment covering the ground. Moreover, the hospital’s laboratory in the basement was left covered in debris after the attack with necessary equipment destroyed from the missile's impact. With the facility's roof collaposed, access to the second floor was blocked by rubble preventing access to other parts of the facility. Up the stairs on the second floor, debris from broken windows, hospital equipment, and burnt medicine from the pharmacy block the hospital corridors. 
 
 <iframe src="https://giphy.com/embed/VJBUhy615mPBOCDmb1" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VJBUhy615mPBOCDmb1">via GIPHY</a></p>
 
