@@ -27,6 +27,29 @@ drafts: true
 
 ## What Happened? 
 
+After collecting and analysing images and videos published on social media platforms and news networks, Syrian Archive concluded that on 22 March 2018 at roughly 16:00 the town of Harem was targeted with two air raids on the popular market and the surrounding area in western Harem. Russian forces are likely responsible for the attack. 
+
+![](/assets/investigations/Harem/image24.png)
+*The location of the first air raid - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135306000): Syrian Civil Defense Channel in Idlib province on YouTube*
+
+[The first airstrike](https://www.google.com/url?q=https://www.google.com/maps/place/36%25C2%25B012'33.5%2522N%2B36%25C2%25B031'12.0%2522E/@36.2092191,36.519996,179m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.2093028!4d36.5199889&sa=D&ust=1538477135316000) targeted the popular market near the Grand Mosque and the neighboring vegetable market. 
+
+![](/assets/investigations/Harem/image26.png)
+*The location of the second air raid - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135307000): Syrian Civil Defense Channel in Idlib province on YouTube*
+
+[The second airstrike](https://www.google.com/url?q=https://www.google.com/maps/place/36%25C2%25B012'36.4%2522N%2B36%25C2%25B031'11.2%2522E/@36.210025,36.5197782,261m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.210121!4d36.519764&sa=D&ust=1538477135316000) hit a residential complex inhabited by civilians, according to witnesses. Combined, the two airstrikes resulted in more than 40 killed and 50 injured.
+
+![](/assets/investigations/Harem/image60.jpg)
+![](/assets/investigations/Harem/image61.jpg)
+*The location of the two airstrikes in the popular market area in western Harem, according to witnesses and visual analysis. The distance between both attack sites is 90 meters.*
+
+![](/assets/investigations/Harem/image13.png)
+*Two satellite images of the sites of the air raids, 11 September 2017 on the right; 24 April 2018 on the left, showing the effects of the destruction on the buildings and the popular market*
+
+The airstrikes on Harem are the third attack in Idlib by Russian aircraft in three days. The attack occurred days after airraids on [Hass](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvhWCokTU6GA&sa=D&ust=1538477135316000) (March 20, 2018) and [Kafr al-Battikh](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dbf1-afwsPv0&sa=D&ust=1538477135316000) (March 21, 2018), which resulted in the death of dozens of civilians, mostly women and children.
+
+### Civilian Media
+
 On 22 March 2018, reports emerged of warplanes targeting Harem city. News networks and citizen journalists began publishing reports of an attack on social media at 17:27 that same day. One Facebook page [posted a video](https://www.google.com/url?q=https://www.facebook.com/1765254933690858/videos/2064178657131816/?fb_dtsg_ag%3DAdwdTli_SrLh0UU425oJ0cv5lMKp5rNLV9yEkfYRHMKQoQ%253AAdzKVR0kfB1SJ7CB--TxGzlxF3bmCYCppYEH4Dp0eF573w&sa=D&ust=1538477135300000) documenting the alleged second airstrike on Harem city. According to the video, the warplanes carried out two separate air raids.
 
 ![](/assets/investigations/Harem/image30.png)
@@ -58,13 +81,11 @@ Also on March 23, the Syrian Civil Defense in Idlib province posted a video to t
 
 It is worth noting that the 22 March [late-afternoon call to prayer call](https://www.google.com/url?q=https://timesprayer.today/1677-month03-year2018-%25D8%25AC%25D8%25AF%25D9%2588%25D9%2584-%25D9%2585%25D9%2588%25D8%25A7%25D9%2582%25D9%258A%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25B5%25D9%2584%25D8%25A7%25D8%25A9-%25D8%25B4%25D9%2587%25D8%25B1-%25D9%2585%25D8%25A7%25D8%25B1%25D8%25B3-%25D8%25A5%25D8%25AF%25D9%2584%25D8%25A8.html&sa=D&ust=1538477135305000) in Idlib province was recited at 15:08 (while the sunset prayer was recited at 17:50).
 
-![](/assets/investigations/Harem/image24.png)
-*The location of the first air raid - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135306000): Syrian Civil Defense Channel in Idlib province on YouTube*
+
 
 ![](/assets/investigations/Harem/image21.png)
 
-![](/assets/investigations/Harem/image26.png)
-*The location of the second air raid - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135307000): Syrian Civil Defense Channel in Idlib province on YouTube*
+
 
 Shortly after the airstrikes, the Nedaa Syria Network YouTube channel posted a video showing the [first moments of rescue operations](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBg4SInsCizA&sa=D&ust=1538477135307000) at the Harem impact sites. In one frame, the video shows the locations of the two airstrikes indicating the distance between them. 
 
@@ -139,29 +160,4 @@ The following images appeared in the video report showing destruction in the mar
 ![](/assets/investigations/Harem/image14.jpg)
 *A picture shows the matched location of the second raid from Orient taken on the day of the raid with stills from Syria TV filmed three months after the raid. Notice some parts of the building have been demolished and rubble removed.*
 
-After collecting and analysing images and videos published on social media platforms and news networks, Syrian Archive concluded that on 22 March 2018 at roughly 16:00 the town of Harem was targeted with two air raids on the popular market and the surrounding area in western Harem. Russian forces are likely responsible for the attack. [The first airstrike](https://www.google.com/url?q=https://www.google.com/maps/place/36%25C2%25B012'33.5%2522N%2B36%25C2%25B031'12.0%2522E/@36.2092191,36.519996,179m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.2093028!4d36.5199889&sa=D&ust=1538477135316000) targeted the popular market near the Great Mosque and the neighboring vegetable market. [The second airstrike](https://www.google.com/url?q=https://www.google.com/maps/place/36%25C2%25B012'36.4%2522N%2B36%25C2%25B031'11.2%2522E/@36.210025,36.5197782,261m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.210121!4d36.519764&sa=D&ust=1538477135316000) hit a residential complex inhabited by civilians, according to witnesses. The distance between both impact sites is nore more than 90 meters. Combined, the two airstrikes resulted in more than 40 killed and 50 injured.
 
-The airstrikes on Harem is the third attack in Idlib by Russian aircraft in three days. The attack occurred days after airraids on [Hass](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvhWCokTU6GA&sa=D&ust=1538477135316000) (March 20, 2018) and [Kafr al-Battikh](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dbf1-afwsPv0&sa=D&ust=1538477135316000) (March 21, 2018), which resulted in the death of dozens of civilians, mostly women and children.
-
-![](/assets/investigations/Harem/image7.jpg)
-*The location of the two airstrikes in the west of Harem city, according to witnesses*
-
-
-![](/assets/investigations/Harem/image15.jpg)
-*The location of the two airstrikes in the popular market area in western harem, according to witnesses and evidence analysis*
-
-![](/assets/investigations/Harem/image34.jpg)
-*The location of the two airstrikes according to witnesses and evidence analysis in the west of Harem city*
-
-*The site of [the first airstrike](https://www.google.com/maps/place/36%C2%B012%2733.5%22N+36%C2%B031%2712.0%22E/@36.2092191,36.519996,179m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.2093028!4d36.5199889) (below) in the popular market near the Grand Mosque*
-*The site of [the second airstrike](https://www.google.com/maps/place/36%C2%B012%2736.4%22N+36%C2%B031%2711.2%22E/@36.210025,36.5197782,261m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d36.210121!4d36.519764) (at the top) in a residential complex*
-
-
-It is worth noting that the distance between the two impact sites is only 90 meters.
-
-![](/assets/investigations/Harem/image10.jpg)
-*Comparison between the satellite image and the panoramic picture of the sites of the air raids.*
-
-
-![](/assets/investigations/Harem/image13.png)
-*Two satellite images of the sites of the air raids, 11 September 2017 on the right; 24 April 2018 on the left, showing the effects of the destruction on the buildings and the popular market*
