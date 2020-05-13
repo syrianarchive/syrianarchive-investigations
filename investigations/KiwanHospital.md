@@ -1,15 +1,15 @@
 ---
 layout: investigation.html
-title:
-desc: 
-date: 
-image:
-socialMediaImage:
+title: "Medical Facilities Under Fire: Kiwan Charitable Hospital"
+desc: "Investigation reveals the destruction of a hospital operating in southwestern Idlib"
+date: 2020-05-19
+image: /assets/investigations/KiwanHospital/image54.jpg
+socialMediaImage: /assets/investigations/KiwanHospital/image54.jpg
 ---
 
 ## Initial Summary
 - Location: Idlib: [Kansafra](https://goo.gl/maps/dBBbCV9xiSGKK77C8)
-- Target: Kiwan Hospital, supported by [Syrian Expatriates Medical Association (SEMA)](https://www.sema-sy.org/en/project/kiwan-hospital/), serves the 175,000 people of the surrounding areas with over 900 patients treated at the hospital every month.
+- Target: Kiwan Charitable Hospital, supported by [Syrian Expatriates Medical Association (SEMA)](https://www.sema-sy.org/en/project/kiwan-hospital/), serves the 175,000 people of the surrounding areas with over 900 patients treated at the hospital every month.
 - Date: 24 November 2019
 - Time: Between 21:00 and 21:30 according to interviews with hospital staff conducted by the Syrian Archive’s investigations team and in corroboration with online open source media.  
 - Deaths or Wounded: None
