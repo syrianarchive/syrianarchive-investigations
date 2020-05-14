@@ -89,7 +89,9 @@ Ubaida Dandoush, a media activist, first [posted](https://www.facebook.com/perma
 
 Beginning after 22:00, images and videos from the aftermath of the attack appeared on Facebook. Al Hadath News Agency uploaded [images](https://www.facebook.com/alhadath.agency/posts/1724238624377005) from inside the hospital showing its destruction. The post reported that the hospital was pushed out of service. Mohammed Katoub, a former advocacy manager for the Syrian American Medical Society, posted [photos and videos](https://www.facebook.com/Katoub.Mohamad/posts/1355328954627687) on Facebook at 22:39 and 22:43 stating that the Russian Airforce targeted Kiwan Hospital at around 21:00. 
 
-<iframe src="https://giphy.com/embed/lP2xRZCuVrDtL58LWj" width="480" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lP2xRZCuVrDtL58LWj">via GIPHY</a></p> 
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/KiwanHospital/1.webm" type="video/webm">
+</video>
 *A GIF from a [video](https://www.facebook.com/mortimer.flourencemonette/videos/760673931102904/) posted by Abu Hamza Al Janobi of the hospital directly after the attack.*
 
 At 22:40, media activist Abu Hamza Al Janobi posted [images](https://www.facebook.com/mortimer.flourencemonette/posts/760098634493767) from inside the hospital showing the extensive damage to the facility. He later, on November 25 at 13:45, posted a [video](https://www.facebook.com/mortimer.flourencemonette/videos/760673931102904/) showing the external damage to Kiwan hospital. 
@@ -121,7 +123,9 @@ The damage to Kiwan Hospital from the attack was determined and analyzed by the 
 
 ### External Damage
 
-<iframe src="https://giphy.com/embed/W1ltwJHuHl4tT19vFE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/W1ltwJHuHl4tT19vFE">via GIPHY</a></p>
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/KiwanHospital/2.webm" type="video/webm">
+</video>
 *A GIF from a video taken by the investigations team of outside the medical facility.*
 
 As shown in the videos and images taken by the investigations team, the hospital suffered severe damage externally with the hospital’s structure almost fully collapsed. Although part of the hospital’s main building was left still standing, the left block of Kiwan Hospital, which includes the medical warehouse and examination rooms, was completely destroyed with the roof collapsed and rooms exposed. Images and footage reveal that the concrete columns of the hospital’s main building were broken and no longer able to support the hospital’s structure. 
@@ -164,8 +168,9 @@ When first entering the hospital, large boulders from the hospital's structure s
 
 The hospital’s ambulance room, on the basement or bottom floor, was additionally damaged with the remnants of the ceiling, the ceiling fan, as well as medical equipment covering the ground. Moreover, the hospital’s laboratory in the basement was left covered in debris after the attack with necessary equipment destroyed from the missile's impact. With the facility's roof collaposed, access to the second floor was blocked by rubble preventing access to other parts of the facility. Up the stairs on the second floor, debris from broken windows, hospital equipment, and burnt medicine from the pharmacy block the hospital corridors. 
 
-<iframe src="https://giphy.com/embed/VJBUhy615mPBOCDmb1" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/VJBUhy615mPBOCDmb1">via GIPHY</a></p>
-
+<video autoplay loop muted playsinline style="width: 100%">
+<source src="/assets/investigations/KiwanHospital/3.webm" type="video/webm">
+</video>
 *A GIF from a video taken by the investigations team of the hospital's collapsed roof.* 
 
 ![](/assets/investigations//KiwanHospital/image18.png)
