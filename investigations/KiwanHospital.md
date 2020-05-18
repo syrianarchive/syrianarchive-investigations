@@ -26,7 +26,7 @@ On November 14, 2019 between 21:00 and 21:30, Kiwan Charitable Hospital in Kansa
 ![](/assets/investigations/KiwanHospital/image1.png)
 *An [image](http://sn4hr.org/%D9%85%D8%B4%D9%81%D9%89-%D8%B9%D8%AF%D9%86%D8%A7%D9%86-%D9%83%D9%8A%D9%88%D8%A7%D9%86-%D9%83%D9%86%D8%B5%D9%81%D8%B1%D8%A9-7-8-2015/) from 2015 of Kiwan Hospital published by the Syrian Network for Human Rights.*
 
-Kiwan Charitable Hospital is a free medical facility that treats patients in the western part of the Idlib province. The hospital houses a women and children’s wards and has a history of treating residents in the surrounding areas free of charge. Kiwan Hospital, according to its medical director Dr. Zahir Qarat, houses incubators, a patient reception ward, clinics, a nutrition department, a cesarean operating room, an ambulance department, as well as a laboratory, pharmacy, and radiology department. 
+Kiwan Charitable Hospital is a free medical facility that treats patients in the western part of the Idlib province. The hospital houses women and children’s wards and has a history of treating residents in the surrounding areas free of charge. Kiwan Hospital, according to its medical director Dr. Zahir Qarat, houses incubators, a patient reception ward, clinics, a nutrition department, a cesarean operating room, an ambulance department, as well as a laboratory, pharmacy, and radiology department. 
 
 ### Location
 ![](/assets/investigations/KiwanHospital/image10.png)
