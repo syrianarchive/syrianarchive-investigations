@@ -76,7 +76,7 @@ Raed Khatib, a pharmacist and village resident, spoke to the investigations team
 
 *The [prayer times and calendar](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) show the time of Asr prayer as close to the time of the attack.*
 
-The [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be) also shows the moment of the attack from the western side of Balyoun.
+Showing the moment of the airstrike, the [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be) was additionally taken from the western side of Balyoun.
 
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/BalyounMarket/secondgif.webm" type="video/webm">
