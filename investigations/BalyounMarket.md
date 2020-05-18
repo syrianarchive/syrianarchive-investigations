@@ -73,6 +73,7 @@ The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) 
 Raed Khatib, a pharmacist and village resident, spoke to the investigations team and confirmed the time of the strike claiming that it coincided with the Adhan, or the call, to Asr prayer. This matches with and confirms a multitude of online videos and images from the attack analyzed by the investigations team. 
 
 ![](/assets/investigations/BalyounMarket/image6.png)
+
 *The [prayer times and calendar](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) show the time of Asr prayer as close to the time of the attack.*
 
 The [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be) also shows the moment of the attack from the western side of Balyoun.
@@ -84,6 +85,7 @@ The [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be)
 Flight observers in the video mention an aircraft flying over the village and then bombing the center of the village.The Syrian Archive investigation team obtained the original video from a source and analysed the metadata to corroborate the time of the attack.
 
 ![](/assets/investigations/BalyounMarket/image11.png)
+
 *Screenshot of the second video's metadata, which shows the video was taken at around the time of the attack.*
 
 The creation date and time of the video is 07/12/2019 at 12:10:54 GMT. With Balyoun’s time zone at GMT+2 , this corroborates reported times of the attack from witness testimony as well as shown in verified videos. Additionally, the coordinates (35°41' 54.24" N, 36°29' 52.44" E) provided in the metadata were confirmed by the investigations team through geolocation.  
