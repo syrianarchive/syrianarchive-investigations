@@ -11,11 +11,11 @@ socialMediaImage: /assets/investigations/KiwanHospital/image54.jpg
 - Place of Attack: Idlib: [Kansafra](https://goo.gl/maps/dBBbCV9xiSGKK77C8)
 - Location Hit: Kiwan Charitable Hospital, supported by [Syrian Expatriates Medical Association (SEMA)](https://www.sema-sy.org/en/project/kiwan-hospital/), serves the 175,000 people of the surrounding areas with over 900 patients treated at the hospital every month.
 - Date: 24 November 2019
-- Time: Between 21:00 and 21:30, according to interviews with hospital staff conducted by the Syrian Archive’s investigations team and in corroboration with online open source media and flight observation data.  
+- Time: Between 21:00 and 21:30, according to interviews with hospital staff conducted by the Syrian Archive’s investigations team and in corroboration with online open source media and flight observation data.
 - Deaths or Wounded: None
 - Type of Attack: Airstrike
 - Munitions Used: Unknown
-- Potentially Responsible: Flight observation data, witness testimony, and open source information point towards the Russian Air Force as the perpetrator of the attack.  
+- Potentially Responsible: Flight observation data, witness testimony, and open source information point towards the Russian Air Force as the perpetrator of the attack.
 
 
 ## Introduction
@@ -28,11 +28,7 @@ Syrian Archive conducted this investigation verifying the attack on Kiwan Hospit
 ![](/assets/investigations/KiwanHospital/image1.png)
 *An [image](http://sn4hr.org/%D9%85%D8%B4%D9%81%D9%89-%D8%B9%D8%AF%D9%86%D8%A7%D9%86-%D9%83%D9%8A%D9%88%D8%A7%D9%86-%D9%83%D9%86%D8%B5%D9%81%D8%B1%D8%A9-7-8-2015/) from 2015 of Kiwan Hospital published by the Syrian Network for Human Rights.*
 
-<<<<<<< HEAD
-Kiwan Charitable Hospital is a free medical facility that treats patients in the western part of the Idlib province. The hospital houses women and children’s wards and has a history of treating residents in the surrounding areas free of charge. Kiwan Hospital, according to its medical director Dr. Zahir Qarat, houses incubators, a patient reception ward, clinics, a nutrition department, a cesarean operating room, an ambulance department, as well as a laboratory, pharmacy, and radiology department. 
-=======
 Kiwan Charitable Hospital is a free medical facility that treats patients in the southwestern part of the Idlib province. The hospital houses a women and children’s wards and has a history of treating residents in the surrounding areas free of charge. Kiwan Hospital, according to its medical director Dr. Zahir Qarat, houses incubators, a patient reception ward, clinics, a nutrition department, a cesarean operating room, an ambulance department, as well as a laboratory, pharmacy, and radiology department. According to Qarat, daily the hospital performs around one hundred examinations of children, three cesarean sections (alongside normal deliveries) as well as admits four babies in incubators and seven into the children’s ward. 
->>>>>>> c4255c069296026c7564a3b25b4bf2619dd8b258
 
 ### Location
 ![](/assets/investigations/KiwanHospital/image10.png)
