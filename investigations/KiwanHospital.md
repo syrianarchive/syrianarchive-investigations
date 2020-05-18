@@ -190,7 +190,7 @@ Additional rooms on the hospital's on the second floor feature similar damage in
 This destruction of Kiwan hospital has left residents in the countryside of Idlib with increasingly less options for medical help. The extensive damage to the hospital corroborates its direct targeting, a prevalent feature of the Russian-Syrian military campaign. 
 
 
-## Flight Data and Analysis
+## Flight Data Analysis
 To provide a further layer of verification, the Syrian Archive cross referenced findings from open source media and images/videos taken by the investigations team with flight observation data from a spotter organization. Data for flights occurring briefly before, during, and briefly after the time of the attack (21:00 - 21:30) on November 24, 2019 around Idlib and Hama was closely analyzed. 
 
 <iframe height="550" src="https://public.tableau.com/views/FlightObservationDatafrom24November2019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
