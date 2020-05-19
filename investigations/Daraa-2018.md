@@ -1,21 +1,19 @@
 ﻿---
 layout: investigation.html
-title: "Daraa investigation"
+title: "Targeting vital facilities in Daraa"
 date: 2018-01-17
-desc: "investigation"
+desc: "investigation reveals the targeting of a health care center, Civil Defense Center, and Hospital"
 image: /assets/investigations/russian-attacks.png
 drafts: true
 ---
 
-# Targeting medical facilities in Daraa
+## Introduction
 
-Several days after an intense shelling of the area that began on Tuesday 19 June; On Saturday, June 23, 2018, Syrian government forces launched an offensive against armed opposition strongholds in the Daraa province south of Syria.
-
-The town of Busra al-Harir, northeast of Daraa, was targeted with more than 41 air strikes. Regime helicopters dropped more than eight barrel bombs onto the region on Saturday night and Sunday (23-24 June), according to activists and media. According to Radio Rozana; [Russian warplanes launched heavy raids on areas under the opposition factions' control in Daraa](https://www.google.com/url?q=http://www.rozana.fm/ar/%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3%25D9%258A%25D8%25A9/%25D8%25A3%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1/1/%25D9%2585%25D8%25AD%25D8%25AA%25D9%2588%25D9%2589/34466/%25D9%2582%25D8%25B5%25D9%2581-%25D8%25B1%25D9%2588%25D8%25B3%25D9%258A-%25D9%2585%25D9%2583%25D8%25AB%25D9%2591%25D9%2581-%25D8%25B9%25D9%2584%25D9%2589-%25D8%25AF%25D8%25B1%25D8%25B9%25D8%25A7...-%25D8%25A8%25D8%25B9%25D8%25AF-%25D8%25B9%25D8%25A7%25D9%2585-%25D8%25B9%25D9%2584%25D9%2589-%2522%25D8%25AE%25D9%2581%25D8%25B6-%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B5%25D8%25B9%25D9%258A%25D8%25AF%2522&sa=D&ust=1540401260469000) for the first time in about a year after Russia agreed to a ceasefire in the region.
+Several days after intense shelling in the Daraa govenorate that began on Tuesday June 19,2018, Syrian government forces launched an offensive, on June 23, against armed opposition strongholds in the southwestern province. According to activists and open source media, regime helicopters dropped more than eight barrel bombs on towns in the province on June 23 and 24. [Radio Rozana](https://www.rozana.fm/en/about-us), an "independent, politically and non-religiouslly affiliated" news organization, Russian warplanes launched [heavy raids](https://www.rozana.fm/ar/news/2018/06/24/%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D9%85%D9%83%D8%AB%D9%91%D9%81-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B9%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF) on areas under opposition faction control in Daraa for the first time in a year after a Russian agreement to a ceasefire in the region. 
 
 ## De-escalation zone
 
-In May 2017, Russia, [Turkey and Iran signed a memorandum of understanding for the establishment of de-escalation zones in Syria](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401260470000), which included Idlib province, some parts of the provinces of Latakia, Hama, and Aleppo, as well as some parts of northern Homs, Eastern Ghouta in Damascus countryside, Daraa and Quneitra cities south of Syria.
+In May 2017, Russia, Turkey, and Iran signed a [memorandum of understanding establishing de-escalation zones](https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401260470000) in Syria where hostilities would be halted. This zones included the entire Idlib governorate, some parts of the provinces of Latakia, Hama, and Aleppo, as well as some parts of northern Homs, Eastern Ghouta in the Damascus countryside, and the cities of Daraa and Quneitra in southern Syria.
 
 *Original Russian image:*
 
@@ -25,7 +23,10 @@ In May 2017, Russia, [Turkey and Iran signed a memorandum of understanding for t
 
 ![](/assets/investigations/Daraa2018/image47.jpeg)
 
-Although the area is part of the de-escalation zone; Assad regime's forces launched a military campaign against the eastern countryside of Daraa, including an attack on the Medical center of Busra al-Harir. The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and considered strategically important for its proximity to the international highway.
+Although included and established as a de-escalation zone, Syrian government forces launched a military campaign against the eastern countryside of Daraa, which included an attack on vital centers near Busra al-Harir. 
+
+## Background (CONTINUE EDITING HERE)
+The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and considered strategically important for its proximity to the international highway.
 
 ![](/assets/investigations/Daraa2018/image43.jpg)
 
