@@ -9,11 +9,22 @@ drafts: true
 
 ## Introduction
 
-Several days after intense shelling in the Daraa govenorate that began on Tuesday June 19,2018, Syrian government forces launched an offensive, on June 23, against armed opposition strongholds in the southwestern province. According to activists and open source media, regime helicopters dropped more than eight barrel bombs on towns in the province on June 23 and 24. [Radio Rozana](https://www.rozana.fm/en/about-us), an "independent, politically and non-religiouslly affiliated" news organization, Russian warplanes launched [heavy raids](https://www.rozana.fm/ar/news/2018/06/24/%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D9%85%D9%83%D8%AB%D9%91%D9%81-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B9%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF) on areas under opposition faction control in Daraa for the first time in a year after a Russian agreement to a ceasefire in the region. 
+Several days after intense shelling in the Daraa govenorate that began on Tuesday June 19,2018, Syrian government forces launched an offensive, on June 23, against armed opposition strongholds in the southwestern province. According to activists and open source media, regime helicopters dropped more than eight barrel bombs on towns in the province on June 23 and 24. According to [Radio Rozana](https://www.rozana.fm/en/about-us), an "independent, politically and non-religiouslly affiliated" news organization, Russian warplanes launched [heavy raids](https://www.rozana.fm/ar/news/2018/06/24/%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D9%85%D9%83%D8%AB%D9%91%D9%81-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B9%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF) on areas under opposition faction control in Daraa for the first time in a year after a Russian agreement to a ceasefire in the region. This investigation focuses upon attacks on 3 vital facilities in Busra Al Harir and Al Musayfirah during this campaign limiting civilian access to medical care. 
+
+### Methodology
+Syrian Archive conducted an investigation into the incident, based on three steps:
+
+(1) A local investigation’s team collected testimonies from eye-witnesses or those who witnessed the immediate aftermath of the airstrike; 
+(2) Securing, analysing, and verifying of 47 videos and images uploaded to social media networks purportedly showing the incident; 
+(3) The combined analysis of these sources has culminated in the present investigation report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage.
+
+Examining all information available on the attack, the investigations’ team developed an understanding of the incident and potential perpetrators.
+
+For more details on Syrian Archive’s Methodology, please see our [website](https://syrianarchive.org/en/tools_methods/methodology/).
 
 ## De-escalation zone
 
-In May 2017, Russia, Turkey, and Iran signed a [memorandum of understanding establishing de-escalation zones](https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401260470000) in Syria where hostilities would be halted. This zones included the entire Idlib governorate, some parts of the provinces of Latakia, Hama, and Aleppo, as well as some parts of northern Homs, Eastern Ghouta in the Damascus countryside, and the cities of Daraa and Quneitra in southern Syria.
+A year prior to the attack on Busra Al Harir and Al Musayfirah, in May 2017, Russia, Turkey, and Iran signed a [memorandum of understanding establishing de-escalation zones](https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401260470000) in Syria where hostilities would be halted. These zones included the entire Idlib governorate, some parts of the provinces of Latakia, Hama, and Aleppo, as well as some parts of northern Homs, Eastern Ghouta in the Damascus countryside, and the cities of Daraa and Quneitra in southern Syria.
 
 *Original Russian image:*
 
@@ -23,18 +34,20 @@ In May 2017, Russia, Turkey, and Iran signed a [memorandum of understanding esta
 
 ![](/assets/investigations/Daraa2018/image47.jpeg)
 
-Although included and established as a de-escalation zone, Syrian government forces launched a military campaign against the eastern countryside of Daraa, which included an attack on vital centers near Busra al-Harir. 
+Although included and established as a zone with little to no hostility, Eastern Daraa faced a military campaign by Russian and Syrian government forces Syrian government forces, which included an attack on vital centers in Busra al-Harir and Al Musayfirah. 
 
 ## Background (CONTINUE EDITING HERE)
-The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and considered strategically important for its proximity to the international highway.
+The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and is considered strategically important because of its proximity to the M5, a highway which runs from Jordan through Damascus and Homs to Aleppo.
 
 ![](/assets/investigations/Daraa2018/image43.jpg)
 
 ![](/assets/investigations/Daraa2018/image42.jpg)
 
-On June 24, 2018, at 14:16 pm, a pro-Syrian government network published a map of control and influence [showing the strategic location of Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/Manqolmain/photos/a.139275016166461/1777805855646694/?type%3D3%26theater&sa=D&ust=1540401260472000) for the armed opposition forces.
+Although only as an estimation, [LiveUAMap](https://syria.liveuamap.com/en/time/23.06.2018), an interactive mapping tool which shows major events and areas of control in Syria, reveals the mounting fight for Busra Al Harir as the town stood sandwiched between government forces just days before the attack. [Posts](https://www.google.com/url?q=https://www.facebook.com/Manqolmain/photos/a.139275016166461/1777805855646694/?type%3D3%26theater&sa=D&ust=1540401260472000) from pro-Syrian government networks on June 24 show the strategic importance of the town and indicate an approaching fight to overtake it. 
 
 ![](/assets/investigations/Daraa2018/image23.png)
+
+The fight for Busra Al Harir took place on June 24 with posts, videos, and images reporting in the morning of the Syrian government army and its accompanying militias sheling Busra Al Harir. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted an alert of the entry of governments forces into the town. A [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-Syrian government page at 09:19 allegedly shows the early shelling of the town. An additional [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-government Facebook account at 12:36 allegedly shows the bombing of Busra Al Harir by warplanes. A [post](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) by the Facebook page SyrianWatchers confirmed airstrikes by Russian warplanes on the town supporting Syrian government troops and its accompanying militias.  
 
 Several news networks reported [shelling of Busra al-Harir town by warplanes](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692427715370&sa=D&ust=1540401260472000), as well as [dropping barrel bombs on the town by regime helicopters](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692604382019&sa=D&ust=1540401260473000) on the morning of June 24.
 
@@ -55,17 +68,59 @@ The research team in Syrian Archive consider likely that the aircraft was operat
 
 Image of Syrian MiG-23 ML while landing - [Source](https://www.scramble.nl/orbats/syria/airforce)
 
-On June 24, some networks and activists began circulating reports of the Syrian army and its accompanying militias storming Busra al-Harir town. At 11:01 am, Sham network published a report [about the entry of the regime army into the town](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000). A pro-Syrian government network [confirmed the participation of Tiger forces in the attack](https://www.google.com/url?q=https://www.facebook.com/Qarfa.Alaan/photos/a.1637946516223083/2273177062700022/?type%3D3&sa=D&ust=1540401260476000) and that their entry into the town began at 10:56 am. At 15:14, the Tiger forces page on Facebook a [posted a photo of its members in Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000). At 9:19 am on June 24; another pro-Syrian government network [posted a video of artillery shelling](https://www.google.com/url?q=https://www.facebook.com/497626773986237/videos/511630019252579/?__xts__%5B0%5D%3D68.ARB71ioqJjn54ZVyKz-PkQYmLsEWBcz644XaMSQ7oTam2m-usU7sb-fiRGb-E2SR_HmwLfn5zMGXUDHrZqC3agVM2-89HwIWV0mLjnJSsa8EGzC-Djz2evZ8vAWims6izdOmhqXcaLFE_VcfYZMhp-oH5G5tw3HIv0pxG_yWPT72T9Q5xS1N%26__tn__%3D-R&sa=D&ust=1540401260477000) on Busra al-Harir town.
+On the evening of June 24, after air support from allegedly Russian planes, the Syrian army and its accompanying militias began entering Basra al-Harir town. [Posts](https://www.google.com/url?q=https://www.facebook.com/192944268106401/videos/255907208476773/&sa=D&ust=1540401260479000) announcing the army's arrival began appearing at around 19:40. Moreover, soldiers, such as Abdallah Malah, posted at around 19:40 [images](https://www.google.com/url?q=https://www.facebook.com/abdallah.malah.52/posts/245331846241435&sa=D&ust=1540401260480000) of themselves allegedly on the front lines near the town. 
 
-At 16:15 on the same day, an activist published a post on Facebook about the [bombing of the town by Russian aviation](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D688186038187071%26id%3D100009870429016&sa=D&ust=1540401260478000). At 12:36 am, a pro-Syrian government account posted a video showing, what it called, the [bombing of Busra al-Harir by warplanes](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D264076851030317%26id%3D100022840131964&sa=D&ust=1540401260478000).
+Shortly after 19:00 and the days after the attack, soldiers posted images and videos of themselves in Basra Al Harir with captions describing the weapons left by opposition forces as well as by the tactics used by the government to seize the territory. 
 
-At 12:37, one of the news networks [denied that the regime army had entered Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000), and confirmed that Russian warplanes supported the Syrian army and its accompanying militias and bombed the town.
+https://www.facebook.com/groups/525959247758164/permalink/656964697990951/ 
 
-On the evening of June 24, the Syrian army and its accompanying militias began entering Basra al-Harir town, where a pro-Syrian government Facebook page [published the news of the Syrian army entering the town](https://www.google.com/url?q=https://www.facebook.com/192944268106401/videos/255907208476773/&sa=D&ust=1540401260479000) at 19:41. One of the Syrian regime army soldiers in the 5th Division also [posted a photo of him on the front lines of the town](https://www.google.com/url?q=https://www.facebook.com/abdallah.malah.52/posts/245331846241435&sa=D&ust=1540401260480000) at 19:44.
+https://www.facebook.com/permalink.php?story_fbid=2065938530401467&id=100009560207508
+
+https://www.facebook.com/groups/931654150301465/permalink/1370548643078678/
+
+https://www.facebook.com/ali.arabi.549668/posts/515124878931110
+
+https://www.facebook.com/aos.eid.1/posts/2095222387359915?__tn__=-R 
+
+https://www.facebook.com/permalink.php?story_fbid=2075988246057323&id=100009385034957&__tn__=-R
+
+https://www.facebook.com/supporting.Syrian.military.encyclopedia/posts/1089711401195287
+
+https://www.facebook.com/damas.times2/photos/a.298038533644340/1721996271248552/?type=3&theater
+
+https://web.archive.org/web/20200116040315/https://www.sana.sy/?p=772742
+
+names of those killed:
+https://www.facebook.com/permalink.php?story_fbid=272867519954288&id=100016931256111
+
+
 
 On June 26, the Zulfiqar Brigade Facebook page posted [pictures of some of its fighters](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D2139514872985165%26id%3D1825406404396015&sa=D&ust=1540401260480000) who participated in military operations in Daraa province. [The brigade](https://www.google.com/url?q=https://www.terrorism-info.org.il/en/hezbollah-iran-handled-shiite-militias-integrated-syrian-army-campaign-take-control-south-syria/&sa=D&ust=1540401260481000) is an Iraqi military force run by Iran.
 
 ![](/assets/investigations/Daraa2018/image41.png)
+
+
+
+
+
+
+
+
+
+TAKEN DOWN
+A pro-Syrian government network [confirmed the participation of Tiger forces in the attack](https://www.google.com/url?q=https://www.facebook.com/Qarfa.Alaan/photos/a.1637946516223083/2273177062700022/?type%3D3&sa=D&ust=1540401260476000) and that their entry into the town began at 10:56 am. At 15:14, the Tiger forces page on Facebook a [posted a photo of its members in Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000). 
+
+
+At 16:15 on the same day, an activist published a post on Facebook about the [bombing of the town by Russian aviation](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D688186038187071%26id%3D100009870429016&sa=D&ust=1540401260478000). 
+
+
+
+
+
+
+
+
+
 
 The Syrian Archive identified 3 salient incidents, which occurred during these attack in Daraa. These incidents, alongside being reported on by local news sources, were verified by the Syrian Archive as well as detailed in various reports including the [Syrian Human Rights Committee's annual report.](https://www.shrc.org/wp-content/uploads/2019/01/Arabic-report.pdf)   
 
