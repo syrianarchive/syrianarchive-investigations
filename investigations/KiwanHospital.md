@@ -17,6 +17,10 @@ socialMediaImage: /assets/investigations/KiwanHospital/image54.jpg
 - Munitions Used: Unknown
 - Potentially Responsible: Flight observation data, witness testimony, and open source information point towards the Russian Air Force as the perpetrator of the attack.
 
+
+## Introduction
+On November 14, 2019 between 21:00 and 21:30, Kiwan Charitable Hospital in Kansafra, a town in the southern Idlib countryside, was hit with two airstrikes from a fixed-wing Russian aircraft forcing the medical facility out of service. Supported by the Syrian Expatriates Medical Association (SEMA), the hospital’s rooms and equipment in the facility’s women and children’s and surgical departments were severely damaged. No casualties or injuries were reported from the attack as staff evacuated the hospital half an hour before the strikes occurred. The report below examines Al Kiwan Hospital, its vitality to the southern region of the Idlib governorate, the attack itself, and the resulting damage to the facility. 
+
 ### Methodology
 Syrian Archive conducted an investigation into the incident, based on three steps:
 
@@ -27,12 +31,6 @@ Syrian Archive conducted an investigation into the incident, based on three step
 Examining all information available on the attack, the investigations’ team developed an understanding of the incident and potential perpetrators.
 
 For more details on Syrian Archive’s Methodology, please see our [website](https://syrianarchive.org/en/tools_methods/methodology/).
-
-
-## Introduction
-On November 14, 2019 between 21:00 and 21:30, Kiwan Charitable Hospital in Kansafra, a town in the southern Idlib countryside, was hit with two airstrikes from a fixed-wing Russian aircraft forcing the medical facility out of service. Supported by the Syrian Expatriates Medical Association (SEMA), the hospital’s rooms and equipment in the facility’s women and children’s and surgical departments were severely damaged. No casualties or injuries were reported from the attack as staff evacuated the hospital half an hour before the strikes occurred. The report below examines Al Kiwan Hospital, its vitality to the southern region of the Idlib governorate, the attack itself, and the resulting damage to the facility. 
-
-Syrian Archive conducted this investigation verifying the attack on Kiwan Hospital through interviews conducted by the investigations team, an analysis of videos and images uploaded to social media and verified by the team, media given to the team by sources on the ground, and flight observation data. Complementing each other, these sources provided information regarding the attack’s date and time, location, casualties, and extent of damage. Examining all information available on the attack objectively, the investigations team considered multiple hypotheses and all potential perpetrators/sides to the conflict.
 
 
 ## The Background of the Hospital
