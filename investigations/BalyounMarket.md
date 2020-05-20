@@ -73,7 +73,6 @@ The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) 
 Raed Khatib, a pharmacist and village resident, spoke to the investigations team and confirmed the time of the strike claiming that it coincided with the Adhan, or the call, to Asr prayer. This matches with and confirms a multitude of online videos and images from the attack analyzed by the investigations team. 
 
 ![](/assets/investigations/BalyounMarket/image6.png)
-
 *The [prayer times and calendar](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) show the time of Asr prayer as close to the estimated time of the attack.*
 
 Showing the moment of the airstrike, the [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be), taken from Telegram, was additionally recorded from the western side of Balyoun.
@@ -85,10 +84,9 @@ Showing the moment of the airstrike, the [second video](https://www.youtube.com/
 Flight observers in the video mention an aircraft flying over the village with an airstrike shown hitting the town. The Syrian Archive investigations team obtained the original video from a source and analysed the metadata to corroborate the time of the attack.
 
 ![](/assets/investigations/BalyounMarket/image11.png)
-
 *A screenshot of the second video's metadata, which shows it was taken at around the time of the attack.*
 
-The creation date and time of the video according to metadata is 07/12/2019 at 12:10:54 GMT. With Balyoun’s time zone at GMT+2 , this corroborates reported times of the attack from witness testimony as well as shown in verified videos. Additionally, the coordinates (35°41' 54.24" N, 36°29' 52.44" E) provided in the metadata were confirmed by the investigations team through geolocation.  
+The creation date and time of the video according to metadata is 07/12/2019 at 12:10:54 GMT. With Balyoun’s time zone at GMT+2 , this corroborates reported times of the attack from witness testimony as well as shown in verified videos. Additionally, the coordinates (35°41' 54.24" N, 36°29' 52.44" E) provided in the metadata were confirmed by the investigations team through geolocation.
 
 ![](/assets/investigations/BalyounMarket/image21.jpg)
 *A [geolocation](https://goo.gl/maps/yu54cBJXkgbSsjdq5) of a still taken from the second video, which shows the moment of the attack. The video was taken from western Balyoun.*
