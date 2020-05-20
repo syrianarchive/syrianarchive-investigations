@@ -58,7 +58,7 @@ As the center of life for Balyoun and the target of the recent airstrikes on the
 ![](/assets/investigations/BalyounMarket/image15.png)
 *An [image](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/pcb.2568182669947440/2568182313280809/?type=3&theater) from the Civil Defense in Idlib of the damage to the market and the rescue effort.*
 
-A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing nine people and wounding fourteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hamadi, killing four members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
+A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing nine people and wounding fourteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hammadi, killing four members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
 
 ![](/assets/investigations/BalyounMarket/image14.png)
 *An [image](https://www.facebook.com/blyooooon/photos/pcb.2660998007473432/2660997864140113/?type=3&theater) posted by Blyon Voice showing the damage to the market and its surrounding buildings from the attack.*
