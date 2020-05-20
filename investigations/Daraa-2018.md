@@ -43,13 +43,13 @@ The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus]
 
 ![](/assets/investigations/Daraa2018/image42.jpg)
 
-Although only as an estimation, [LiveUAMap](https://syria.liveuamap.com/en/time/23.06.2018), an interactive mapping tool which shows major events and areas of control in Syria, reveals the mounting fight for Busra Al Harir as the town stood sandwiched between government forces just days before the attack. [Posts](https://www.google.com/url?q=https://www.facebook.com/Manqolmain/photos/a.139275016166461/1777805855646694/?type%3D3%26theater&sa=D&ust=1540401260472000) from pro-Syrian government networks on June 24 show the strategic importance of the town and indicate an approaching fight to overtake it. 
+Although only as an estimation, [LiveUAMap](https://syria.liveuamap.com/en/time/23.06.2018), an interactive mapping tool which shows major events and areas of control in Syria, reveals the mounting pressure on Busra Al Harir as the town stands sandwiched between government forces just days before the attack. [Posts](https://www.google.com/url?q=https://www.facebook.com/Manqolmain/photos/a.139275016166461/1777805855646694/?type%3D3%26theater&sa=D&ust=1540401260472000) from pro-Syrian government networks on June 24 show the strategic importance of the town and indicate an approaching fight to overtake it. 
 
 ![](/assets/investigations/Daraa2018/image23.png)
 
-The fight for Busra Al Harir took place on June 24 with posts, videos, and images reporting in the morning of the Syrian government army and its accompanying militias sheling Busra Al Harir. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted an alert of the entry of governments forces into the town. A [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-Syrian government page at 09:19 allegedly shows the early shelling of the town. An additional [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-government Facebook account at 12:36 allegedly shows the bombing of Busra Al Harir by warplanes. A [post](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) by the Facebook page SyrianWatchers confirmed airstrikes by Russian warplanes on the town supporting Syrian government troops and its accompanying militias.  
+The fight for Busra Al Harir took place on June 24 with posts, videos, and images reporting in the morning of the Syrian government army and its accompanying militias shelling the town. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted an alert of the entry of governments forces into the town. A [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-Syrian government page at 09:19 allegedly shows the early shelling of the town. An additional [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-government Facebook account at 12:36 allegedly shows the bombing of Busra Al Harir by warplanes. A [post](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) by the Facebook page SyrianWatchers confirmed airstrikes by Russian warplanes on the town supporting Syrian government troops and its accompanying militias.  
 
-Several news networks reported [shelling of Busra al-Harir town by warplanes](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692427715370&sa=D&ust=1540401260472000), as well as [dropping barrel bombs on the town by regime helicopters](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692604382019&sa=D&ust=1540401260473000) on the morning of June 24.
+Additional news networks reported [shelling of Busra al-Harir town by warplanes](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692427715370&sa=D&ust=1540401260472000), as well as [dropping barrel bombs on the town by regime helicopters](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692604382019&sa=D&ust=1540401260473000) on the morning of June 24.
 
 A video was circulated by activists [showing a MiG flying in a low altitude over Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401260473000), this video was published at 14:44 pm, on June 24.
 
@@ -70,25 +70,19 @@ Image of Syrian MiG-23 ML while landing - [Source](https://www.scramble.nl/orbat
 
 On the evening of June 24, after air support from allegedly Russian planes, the Syrian army and its accompanying militias began entering Basra al-Harir town. [Posts](https://www.google.com/url?q=https://www.facebook.com/192944268106401/videos/255907208476773/&sa=D&ust=1540401260479000) announcing the army's arrival began appearing at around 19:40. Moreover, soldiers, such as Abdallah Malah, posted at around 19:40 [images](https://www.google.com/url?q=https://www.facebook.com/abdallah.malah.52/posts/245331846241435&sa=D&ust=1540401260480000) of themselves allegedly on the front lines near the town. 
 
-Shortly after 19:00 and the days after the attack, soldiers posted images and videos of themselves in Basra Al Harir with captions describing the weapons left by opposition forces as well as by the tactics used by the government to seize the territory. 
+Shortly after 19:00 and the days after the attack, [soldiers](https://www.facebook.com/permalink.php?story_fbid=2075988246057323&id=100009385034957&__tn__=-R) posted [images](https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) and [videos](https://www.facebook.com/ali.arabi.549668/posts/515124878931110) of themselves in Basra Al Harir with captions describing the weapons left by opposition forces as well as by the tactics used by the government to seize the territory. Two days after the raid on June 26 at 15:29, Feras Hasan Al Saoor posted a [video] (https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) of himself in front of Busra Al Harir's police station. In the video, Al Saoor describes the attack as lasting 24 hours and calls the "liberation" a strategic win that opens up Daraa to government forces. Videos and [images](https://www.facebook.com/damas.times2/photos/a.298038533644340/1721996271248552/?type=3&theater) like Al Saoor's show [soldiers](https://www.facebook.com/supporting.Syrian.military.encyclopedia/posts/1089711401195287) [in](https://www.facebook.com/aos.eid.1/posts/2095222387359915?__tn__=-R) and [around](https://www.facebook.com/watch/?v=2009028722441294) the city [the days after the attack](https://www.facebook.com/permalink.php?story_fbid=2065938530401467&id=100009560207508). These images were verified and geolocated by the investigations team. Alongside images posted by the soldiers themselves, SANA published a [report](https://web.archive.org/web/20200116040315/https://www.sana.sy/?p=772742) on the raid. 
 
-https://www.facebook.com/groups/525959247758164/permalink/656964697990951/ 
+  ![](/assets/investigations/Daraa2018/image253.png)
+ *A still from Al Saoor's video taken in front of the town's police station.*
+ 
+ 
+ ![](/assets/investigations/Daraa2018/image252.png)
+*Geolocated images from Facebook profile [Aos Eid](https://www.facebook.com/aos.eid.1/posts/2095222387359915?__xts__[0]=68.ARCj3YtR_7MwX9nYghN7e9p2MGpfOA9i-jyJNuTrTKILiPzDSM7FZowoCulcrIyYXntPcT59FoWu6l97F3ulugWgJedbPVBvXCiHpfUVzrFNBocZhTW3d1MROQp0lwVzgzK55EuqaLF0s8CrPP6OEnxl2jL-mqWZRJ-3mIbSsLe4NZObeMM1keeLFf3rOmtYyqvklMCD3HOracfS4_ZW2lWsigwBpst8srX-cE_LaAxeetlY80-biWex7h9LYthpA6GgXdCm2OGvS9PDeYXeD2Ymb4EGtWHtjQ&__tn__=-R) and a [video](https://www.facebook.com/watch/?v=2009028722441294) posted by the Facebook page Damas Post taken in Busra Al Harir after the attack on the town.*
 
-https://www.facebook.com/permalink.php?story_fbid=2065938530401467&id=100009560207508
 
-https://www.facebook.com/groups/931654150301465/permalink/1370548643078678/
 
-https://www.facebook.com/ali.arabi.549668/posts/515124878931110
 
-https://www.facebook.com/aos.eid.1/posts/2095222387359915?__tn__=-R 
 
-https://www.facebook.com/permalink.php?story_fbid=2075988246057323&id=100009385034957&__tn__=-R
-
-https://www.facebook.com/supporting.Syrian.military.encyclopedia/posts/1089711401195287
-
-https://www.facebook.com/damas.times2/photos/a.298038533644340/1721996271248552/?type=3&theater
-
-https://web.archive.org/web/20200116040315/https://www.sana.sy/?p=772742
 
 names of those killed:
 https://www.facebook.com/permalink.php?story_fbid=272867519954288&id=100016931256111
