@@ -9,8 +9,8 @@ socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 
 ## Initial Summary:
 
-- Place of Attack: Idlib: [Balyoun](https://goo.gl/maps/e5GFA8FK5n2erBwPA)
-- Location Hit: The town’s street market.
+- Place of Attack: Idlib: [Balyoun](https://goo.gl/maps/e5GFA8FK5n2erBwPA) - The town’s street clothing market.
+- Location Hit:  Al Hammadi family home and surrounding buildings.
 - Date: 7 December 2019
 - Time: Between 14:00 and 14:15
 - Deaths: 9 killed, including 3 children and one woman.
@@ -18,6 +18,18 @@ socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 - Type of Attack: Two airstrikes
 - Munitions Used: Unknown
 - Potentially Responsible: Flight observation data, witness testimony, and human rights organizations point towards the Russian Air Force as the potential perpetrator of the attack. 
+
+### Methodology
+
+Syrian Archive conducted an investigation into the incident, based on three steps:
+
+(1) A local investigation’s team collected testimonies from eye-witnesses or those who witnessed the immediate aftermath of the airstrike;
+(2) Securing, analysing, and verifying of 47 videos and images uploaded to social media networks purportedly showing the incident;
+(3) The combined analysis of these sources has culminated in the present investigation report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage. 
+
+Examining all information available on the attack, the investigations’ team developed an understanding of the incident and potential perpetrators.
+
+For more details on Syrian Archive’s Methodology, please see our [website](https://syrianarchive.org/en/tools_methods/methodology/).
 
 
 ## Introduction
