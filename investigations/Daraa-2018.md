@@ -36,7 +36,7 @@ A year prior to the attack on Busra Al Harir and Al Musayfirah, in May 2017, Rus
 
 Although included and established as a zone with little to no hostility, Eastern Daraa faced a military campaign by Russian and Syrian government forces Syrian government forces, which included an attack on vital centers in Busra al-Harir and Al Musayfirah. 
 
-## Background (CONTINUE EDITING HERE)
+## Background
 The town of [Busra al-Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and is considered strategically important because of its proximity to the M5, a highway which runs from Jordan through Damascus and Homs to Aleppo.
 
 ![](/assets/investigations/Daraa2018/image43.jpg)
@@ -47,21 +47,17 @@ Although only as an estimation, [LiveUAMap](https://syria.liveuamap.com/en/time/
 
 ![](/assets/investigations/Daraa2018/image23.png)
 
-The fight for Busra Al Harir took place on June 24 with posts, videos, and images reporting in the morning of the Syrian government army and its accompanying militias shelling the town. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted an alert of the entry of governments forces into the town. A [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-Syrian government page at 09:19 allegedly shows the early shelling of the town. An additional [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-government Facebook account at 12:36 allegedly shows the bombing of Busra Al Harir by warplanes. A [post](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) by the Facebook page SyrianWatchers confirmed airstrikes by Russian warplanes on the town supporting Syrian government troops and its accompanying militias.  
-
-Additional news networks reported [shelling of Busra al-Harir town by warplanes](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692427715370&sa=D&ust=1540401260472000), as well as [dropping barrel bombs on the town by regime helicopters](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692604382019&sa=D&ust=1540401260473000) on the morning of June 24.
-
-A video was circulated by activists [showing a MiG flying in a low altitude over Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401260473000), this video was published at 14:44 pm, on June 24.
+The fight for Busra Al Harir took place on June 24 with posts, videos, and images reporting in the morning of the Syrian government army and its accompanying militias shelling the town. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted an alert of the entry of governments forces into the town. A [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-Syrian government page at 09:19 allegedly shows the early shelling of the town. A [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-government Facebook account shows the bombing of Busra Al Harir by warplanes. Additionally, a [post](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) by the Facebook page SyrianWatchers confirmed airstrikes by Russian warplanes on the town supporting Syrian government troops and its accompanying militias.Moreover, a video circulated by activists on social video and posted at 14:44 on June 24 [show a MiG flying in a low altitude over Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401260473000).
 
 ![](/assets/investigations/Daraa2018/image2.png)
 
-After scrutiny, the Research Team in the Syrian Archive concluded that the aircraft shown in the video was a MiG-23.
+The shape of the aircraft, wing length, and other distinct aspects of the warplane are most similar to an MiG-23, a plane frequently used in the Syrian conflict.
 
 ![](/assets/investigations/Daraa2018/image25.png)
 
 MiG 23 - [Source](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-23&sa=D&ust=1540401260475000)
 
-The research team in Syrian Archive consider likely that the aircraft was operated by the Syrian air force, since Russia no longer uses the MiG-23, while it is still widely used by the Syrian air force.
+It is likely that the aircraft was operated  by the Syrian air force as it is Frequently used by government forces and no longer used by the Russian military..
 [This link contains](https://www.scramble.nl/orbats/syria/airforce) Information about MiG-23 ML, its use by the Syrian Air Force, and the most important military airports of the Syrian regime. We note that the nearest airports to the impact site are Khalkhaleh military airport in As-Suwayda' countryside and Marj Rahil airport; which both contain MiG-23 ML aircraft.
 
 ![](/assets/investigations/Daraa2018/img26.png)
