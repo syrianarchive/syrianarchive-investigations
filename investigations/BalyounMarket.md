@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Targeting Balyoun Market with airstrikes"
-desc: "Investigation reveals market targeted with airstrikes"
+desc: "Investigation reveals market targeted by airstrikes"
 date: 2020-05-22
 image: /assets/investigations/BalyounMarket/image25.jpg
 socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
@@ -15,7 +15,7 @@ socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 - Time: Between 14:00 and 14:15
 - Deaths: 9 killed, including 3 children and one woman.
 - Wounded: 14 injured, including 4 children and two women.
-- Type of Attack: Two airstrikes
+- Type of Attack: One airstrike 
 - Munitions Used: Unknown
 - Potentially Responsible: Flight observation data, witness testimony, and human rights organizations point towards the Russian Air Force as the potential perpetrator of the attack. 
 
@@ -60,7 +60,7 @@ As the center of life for Balyoun and the target of the recent airstrikes on the
 ![](/assets/investigations/BalyounMarket/image15.png)
 *An [image](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/pcb.2568182669947440/2568182313280809/?type=3&theater) from the Civil Defense in Idlib of the damage to the market and the rescue effort.*
 
-A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing nine people and wounding fourteen others. According to images and videos uploaded to social media as well as witness testimony, two airstrikes hit the village. One targeted and struck the house of Abdul Mohsen Hamadi, killing four members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
+A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing nine people and wounding fourteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hamadi, killing four members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
 
 ![](/assets/investigations/BalyounMarket/image14.png)
 *An [image](https://www.facebook.com/blyooooon/photos/pcb.2660998007473432/2660997864140113/?type=3&theater) posted by Blyon Voice showing the damage to the market and its surrounding buildings from the attack.*
@@ -116,7 +116,7 @@ Posts evaluating the damage from directly after the attack were followed by vide
 ![](/assets/investigations/BalyounMarket/image72.jpg)
 *An image [posted](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/2568182669947440?__tn__=-R) by the Syrian Civil Defense showing the rescue efforts after the attack.*
 
-One day after the attack on December 8, the Syrian Media Forum posted a [video](https://youtu.be/71E1r4gSFSw) showing the destroyed market’s shops and kiosks. The video includes an interview with Ahmed Ismail, the owner of one of the shops in Balyooun, who describes missiles destroying the Al Hammadi home and the market further confirming that two airstrikes hit the area at around 14:00. 
+One day after the attack on December 8, the Syrian Media Forum posted a [video](https://youtu.be/71E1r4gSFSw) showing the destroyed market’s shops and kiosks. The video includes an interview with Ahmed Ismail, the owner of one of the shops in Balyoun, who describes missiles destroying the Al Hammadi home and the market further confirming that two missiles hit the area at around 14:00. 
 
 
 ## Damage to the Market and Surrounding Areas
@@ -177,10 +177,10 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 <iframe height="550" src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/FlightObservationson7December2019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
-Around twenty minutes before the attack on Balyoun, at approximately 13:40, spotters first observed a fixed wing Russian aircraft departing southeast from Hmeimim Airbase. Shortly thereafter, at 13:54, a Russian fixed wing aircraft was spotted circling Jabal Al Zawiya, an area surrounding Balyoun village. Previous research has found that warplanes circling over a location indicates target acquisition and/or preparation for an imminent attack. Furthermore, at 14:09, a Russian fixed wing aircraft was spotted flying north over Kafr Oweid, a village just southwest of Balyoun. Lastly, presumably after the airstrikes on the village (around 14:05, 14:11, and 14:27), Russian fixed wing aircraft were spotted flying south over Kafranbel, a village 10 km south of Balyoun.  
+Around twenty minutes before the attack on Balyoun, at approximately 13:40, spotters first observed a fixed wing Russian aircraft departing southeast from Hmeimim Airbase. Shortly thereafter, at 13:54, a Russian fixed wing aircraft was spotted circling Jabal Al Zawiya, an area surrounding Balyoun village. Previous research has found that warplanes circling over a location indicates target acquisition and/or preparation for an imminent attack. Furthermore, at 14:09, a Russian fixed wing aircraft was spotted flying north over Kafr Oweid, a village just southwest of Balyoun. Lastly, presumably after the airstrike on the village (around 14:05, 14:11, and 14:27), Russian fixed wing aircraft were spotted flying south over Kafranbel, a village 10 km south of Balyoun.  
 
-Although this data matches media and posts on social media that purport the attack as committed by the Russian Air Force, no evidence available shows the direct involvement of the observed aircraft in the attack on Balyoun. Nevertheless, the presence of these aircrafts above the neighboring villages and towns at the time that the attack occurred increases the likelihood that the airstrikes were carried out by the Russian Air Force
+Although this data matches media and posts on social media that purport the attack as committed by the Russian Air Force, no evidence available shows the direct involvement of the observed aircraft in the attack on Balyoun. Nevertheless, the presence of these aircrafts above the neighboring villages and towns at the time that the attack occurred increases the likelihood that the airstrike was carried out by the Russian Air Force
 
 
 # Conclusion
-As detailed in interviews conducted by the investigations team, verified open source media, and flight observation data, Balyoun market and its surrounding residential areas were attacked by two airstrikes on 7 Dec 2019 between 14:00 and 14:15. The missiles, according to testimony, hit the house of the Al Hammadi family near the market and a school around thirty meters away. The attack killed nine people and injured fourteen others. Because of the limited information available in open source investigations, the Syrian Archive was unable to definitively identify the perpetrators of the attack. However, flight observation data, witness testimony, and open source media indicate the Russian Air Force as potentially responsible for the attack.
+As detailed in interviews conducted by the investigations team, verified open source media, and flight observation data, Balyoun market and its surrounding residential areas were attacked by an airstrike with two missiles on 7 Dec 2019 between 14:00 and 14:15. The missiles, according to testimony, hit the house of the Al Hammadi family near the market and a school around thirty meters away. The attack killed nine people and injured fourteen others. Because of the limited information available in open source investigations, the Syrian Archive was unable to definitively identify the perpetrators of the attack. However, flight observation data, witness testimony, and open source media indicate the Russian Air Force as potentially responsible for the attack.
