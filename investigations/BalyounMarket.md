@@ -19,6 +19,12 @@ socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 - Munitions Used: Unknown
 - Potentially Responsible: Flight observation data, witness testimony, and human rights organizations point towards the Russian Air Force as the potential perpetrator of the attack. 
 
+
+## Introduction
+Suddenly, on a Saturday afternoon on December 7 2019, Abdul Mohsen Al Hammadi found himself in an ambulance carrying him to the nearest medical point for treatment. Captured and published by international media, the picture of the [injured one-year-old](https://www.facebook.com/bluoninmemory.blogspot/posts/577950433017929) after the attack was used and asserted as evidence to the targeting of civilians in Idlib. 
+
+Although Abdul Mohsen survived, his brothers, Bilal and Hassan, were killed by the airstrike. Abdul Mohsen’s sister Aya was injured and transferred to Turkey for treatment. His father Mohammed Al Deeb and grandfather Abdo Al Hammadi were amongst the nine civilians killed by the attack on the market in the village of Balyoun.
+
 ### Methodology
 
 Syrian Archive conducted an investigation into the incident, based on three steps:
@@ -30,14 +36,6 @@ Syrian Archive conducted an investigation into the incident, based on three step
 Examining all information available on the attack, the investigations’ team developed an understanding of the incident and potential perpetrators.
 
 For more details on Syrian Archive’s Methodology, please see our [website](https://syrianarchive.org/en/tools_methods/methodology/).
-
-
-## Introduction
-Suddenly, on a Saturday afternoon on December 7 2019, Abdul Mohsen Al Hammadi found himself in an ambulance carrying him to the nearest medical point for treatment. Captured and published by international media, the picture of the [injured one-year-old](https://www.facebook.com/bluoninmemory.blogspot/posts/577950433017929) after the attack was used and asserted as evidence to the targeting of civilians in Idlib. 
-
-Although Abdul Mohsen survived, his brothers, Bilal and Hassan, were killed by the airstrike. Abdul Mohsen’s sister Aya was injured and transferred to Turkey for treatment. His father Mohammed Al Deeb and grandfather Abdo Al Hammadi were amongst the nine civilians killed by the attack on the market in the village of Balyoun.
-
-Syrian Archive conducted an investigation verifying this attack through interviews as well as an analysis of videos and images uploaded to social media and verified by the investigations team, media taken by sources on the ground, and flight observation data. Complementing each other, these sources provide information regarding the attack’s date and time, location, casualties, and extent of damage. Examining all information available on the attack objectively, the investigations team considered multiple hypotheses and all potential perpetrators/sides to the conflict.
 
 
 ## Background on Balyoun:
