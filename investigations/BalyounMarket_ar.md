@@ -131,23 +131,23 @@ socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 ![](/assets/investigations/BalyounMarket/image1.png)
 *صورة أقمار صناعية من غوغل إيرث برو تظهر مواقع خمسة أبنية متضررة حُدّدت بواسطة الأرشيف السوري*
 
-####البناء الأول
+#### البناء الأول
 
 ![](/assets/investigations/BalyounMarket/image9.png)
 
-####البناء الثاني
+#### البناء الثاني
 
 ![](/assets/investigations/BalyounMarket/image19.png)
 
-####البناء الثالث
+#### البناء الثالث
 
 ![](/assets/investigations/BalyounMarket/image10.png)
 
-####البناء الرابع
+#### البناء الرابع
 
 ![](/assets/investigations/BalyounMarket/image8.jpg)
 
-####البناء الخامس
+#### البناء الخامس
 
 ![](/assets/investigations/BalyounMarket/image4.jpg)
 *تتضمن هذه الصور موادًا مفتوحة المصدر، صورة مُلتقطة من قبل فريق التحقيقات، وصور أقمار صناعية من غوغل إيرث، وتظهر الأبنية المتضررة المُحدّدة من قبل الأرشيف السوري.*
