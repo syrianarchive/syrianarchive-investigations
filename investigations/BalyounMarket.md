@@ -177,7 +177,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 Around twenty minutes before the attack on Balyoun, at approximately 13:40, spotters first observed a fixed wing Russian aircraft departing southeast from Hmeimim Airbase. Shortly thereafter, at 13:54, a Russian fixed wing aircraft was spotted circling Jabal Al Zawiya, an area surrounding Balyoun village. Previous research has found that warplanes circling over a location indicates target acquisition and/or preparation for an imminent attack. Furthermore, at 14:09, a Russian fixed wing aircraft was spotted flying north over Kafr Oweid, a village just southwest of Balyoun. Lastly, presumably after the airstrike on the village (around 14:05, 14:11, and 14:27), Russian fixed wing aircraft were spotted flying south over Kafranbel, a village 10 km south of Balyoun.  
 
-Although this data matches media and posts on social media that purport the attack as committed by the Russian Air Force, no evidence available shows the direct involvement of the observed aircraft in the attack on Balyoun. Nevertheless, the presence of these aircrafts above the neighboring villages and towns at the time that the attack occurred increases the likelihood that the airstrike was carried out by the Russian Air Force
+Although this data matches media and posts on social media that purport the attack as committed by the Russian Air Force, no evidence available shows the direct involvement of the observed aircraft in the attack on Balyoun. Nevertheless, the presence of these aircrafts above the neighboring villages and towns at the time that the attack occurred increases the likelihood that the airstrike was carried out by the Russian Air Force.
 
 
 # Conclusion
