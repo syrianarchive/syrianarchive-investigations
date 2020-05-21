@@ -58,7 +58,7 @@ As the center of life for Balyoun and the target of the recent airstrikes on the
 ![](/assets/investigations/BalyounMarket/image15.png)
 *An [image](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/pcb.2568182669947440/2568182313280809/?type=3&theater) from the Civil Defense in Idlib of the damage to the market and the rescue effort.*
 
-A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing nine people and wounding fourteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hamadi, killing four members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
+A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing nine people and wounding fourteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hammadi, killing four members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
 
 ![](/assets/investigations/BalyounMarket/image14.png)
 *An [image](https://www.facebook.com/blyooooon/photos/pcb.2660998007473432/2660997864140113/?type=3&theater) posted by Blyon Voice showing the damage to the market and its surrounding buildings from the attack.*
@@ -83,6 +83,7 @@ The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) 
 Raed Khatib, a pharmacist and village resident, spoke to the investigations team and confirmed the time of the strike claiming that it coincided with the Adhan, or the call, to Asr prayer. This matches with and confirms a multitude of online videos and images from the attack analyzed by the investigations team. 
 
 ![](/assets/investigations/BalyounMarket/image6.png)
+
 *The [prayer times and calendar](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) show the time of Asr prayer as close to the estimated time of the attack.*
 
 Showing the moment of the airstrike, the [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be), taken from Telegram, was additionally recorded from the western side of Balyoun.
@@ -177,7 +178,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 Around twenty minutes before the attack on Balyoun, at approximately 13:40, spotters first observed a fixed wing Russian aircraft departing southeast from Hmeimim Airbase. Shortly thereafter, at 13:54, a Russian fixed wing aircraft was spotted circling Jabal Al Zawiya, an area surrounding Balyoun village. Previous research has found that warplanes circling over a location indicates target acquisition and/or preparation for an imminent attack. Furthermore, at 14:09, a Russian fixed wing aircraft was spotted flying north over Kafr Oweid, a village just southwest of Balyoun. Lastly, presumably after the airstrike on the village (around 14:05, 14:11, and 14:27), Russian fixed wing aircraft were spotted flying south over Kafranbel, a village 10 km south of Balyoun.  
 
-Although this data matches media and posts on social media that purport the attack as committed by the Russian Air Force, no evidence available shows the direct involvement of the observed aircraft in the attack on Balyoun. Nevertheless, the presence of these aircrafts above the neighboring villages and towns at the time that the attack occurred increases the likelihood that the airstrike was carried out by the Russian Air Force
+Although this data matches media and posts on social media that purport the attack as committed by the Russian Air Force, no evidence available shows the direct involvement of the observed aircraft in the attack on Balyoun. Nevertheless, the presence of these aircrafts above the neighboring villages and towns at the time that the attack occurred increases the likelihood that the airstrike was carried out by the Russian Air Force.
 
 
 # Conclusion
