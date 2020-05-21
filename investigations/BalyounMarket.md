@@ -83,6 +83,7 @@ The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) 
 Raed Khatib, a pharmacist and village resident, spoke to the investigations team and confirmed the time of the strike claiming that it coincided with the Adhan, or the call, to Asr prayer. This matches with and confirms a multitude of online videos and images from the attack analyzed by the investigations team. 
 
 ![](/assets/investigations/BalyounMarket/image6.png)
+
 *The [prayer times and calendar](https://www.muslimpro.com/Prayer-times--Afrin-Syria-174186?date=2019-12&convention=EgyptBis&asrjuristic=Standard) show the time of Asr prayer as close to the estimated time of the attack.*
 
 Showing the moment of the airstrike, the [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be), taken from Telegram, was additionally recorded from the western side of Balyoun.
