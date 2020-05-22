@@ -144,26 +144,25 @@ Nearby the health care center, Busra Al Harir's Civil Defense center was attacke
 -   Munitions identified: N/A
 -   Potentially responsible: Russian Air Force (FACT CHECK)
 
-On 24 June at 15:43, the page of the Syrian Civil Defense on Facebook [published pictures of targeting the Civil Defense Center in Busra al-Harir town](https://www.google.com/url?q=https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000), as well as photos showing the aftermath of shelling on a field hospital in the town. The post stated that the civil defense teams were targeted directly after an artillery bombardment on the Busra al-Harir town. They noted that the attack took a fire engine completely out of service.
-
-![](/assets/investigations/Daraa2018/image9.png)
-
-![](/assets/investigations/Daraa2018/image5.png)
-
-![](/assets/investigations/Daraa2018/image22.png)
-
-On Sunday June 24th, media sources from the Busra Al-Harir town reported to Enab Baladi newspaper, corroborating claims by the Civil Defense, that [intensive rocket attack and airstrikes targeted residential areas and the Civil Defense center](https://www.google.com/url?q=https://www.enabbaladi.net/archives/237050&sa=D&ust=1540401260499000), taking the center out of service and damaging its cars significantly. This was additionally corroborated and reported on by [Smart News.](https://smartnews-agency.com/ar/wires/302540/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%8A%D9%82%D8%B5%D9%81-%D9%81%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7) 
-
-![](/assets/investigations/Daraa2018/image26.png)
+On June 24, the same day as the Busra Al Harir attack, the Civil Defense center in [central Busra Al Harir](https://goo.gl/maps/zQpYW557TwTLzs1V6) was attacked destroying a field hospital near center and the Civil Defense's fire engine. According to a [post](https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000) with pictures from the Civil Defense Facebook page, the Civil Defense team was directly targeted during the early artillery bombardment on Busra Al Harir. 
 
 ![](/assets/investigations/Daraa2018/image27.jpg)
+*The [location](https://goo.gl/maps/zQpYW557TwTLzs1V6) of the Civil Defense center in Busra Al Harir as identified by Syrian Archive.*
 
-The location of the Civil Defense Center and the center's garage north of Busra al-Harir town
+![](/assets/investigations/Daraa2018/image9.png)
+![](/assets/investigations/Daraa2018/image5.png)
+![](/assets/investigations/Daraa2018/image22.png)
+![](/assets/investigations/Daraa2018/image26.png)
+*Images [posted](https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000) by the Civil Defense Facebook page an [Enab Baladi](https://www.enabbaladi.net/archives/237050) showing the destroyed Civil Defense center and fire engine.*
+
+Corroboating the Civil Defense's post, the news agency [Enab Baladi](https://www.enabbaladi.net/archives/237050) reported local sources confirmed the claims of the Civil Defense. According to Enab Baladi, intensive air and ground attacks during the raid on Busra Al Harir targeted residential areas and the Civil Defense center pushing the facility out of service. The claims of the Civil Defense were additionally corroborated by [SMART News](https://smartnews-agency.com/ar/wires/302540/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%8A%D9%82%D8%B5%D9%81-%D9%81%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7), which additionally confirmed the attack as well as spoke with representatives of the Daraa Civil Defense's media office. 
 
 
-## The third incident: Al-Musayfirah town hospital
 
--   Location: Daraa, Al-Musayfirah town
+## The third incident: Al Musayfirah field hospital
+
+-   Place of Attack: Daraa: [Al Musayfirah](https://goo.gl/maps/LSc5JdJMtawfKD4m6)
+-   Location Hit: Al Musayfirah Field Hospital
 -   Date: 28 June 2018
 -   Reported killed: ~1
 -   Reported injured: ~14
