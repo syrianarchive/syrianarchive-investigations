@@ -7,6 +7,8 @@ image: /assets/investigations/BalyounMarket/image25.jpg
 socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i3R2L2VeN3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Initial Summary:
 
 - Place of Attack: Idlib: [Balyoun](https://goo.gl/maps/e5GFA8FK5n2erBwPA) - The town’s street clothing market.
