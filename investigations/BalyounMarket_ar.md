@@ -1,4 +1,4 @@
-﻿---
+---
 layout: investigation.html
 title: "استهداف سوق بيلون بالغارات الجوية"
 desc: "تحقيق يتناول استهداف سوق بالغارات الجوية"
@@ -6,6 +6,8 @@ date: 2020-05-22
 image: /assets/investigations/BalyounMarket/image25.jpg
 socialMediaImage: /assets/investigations/BalyounMarket/image25.jpg
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Duio6fPlls8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## حول الحادثة
 
