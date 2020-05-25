@@ -1,6 +1,6 @@
 ---
 layout: investigation.html
-title: "استهداف سوق بيلون بالغارات الجوية"
+title: "استهداف سوق بليون بالغارات الجوية"
 desc: "تحقيق يتناول استهداف سوق شعبي بالغارات الجوية"
 date: 2020-05-22
 image: /assets/investigations/BalyounMarket/image15.png
