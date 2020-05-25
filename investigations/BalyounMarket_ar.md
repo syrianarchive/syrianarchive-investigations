@@ -86,7 +86,7 @@ socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 
 كذلك، يوثّق [مقطع الفيديو الثاني](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be) اللحظات الأولى للاستهداف من الجانب الغربي لقرية بليون، كما هو موضح أدناه.
 
-<video autoplay loop muted playsinline style="width: 100%">
+<video autoplay loop muted playsinline style="width: 100%; height: 550px">
 <source src="/assets/investigations/BalyounMarket/secondgif.webm" type="video/webm">
 </video>
 

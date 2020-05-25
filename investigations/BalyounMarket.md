@@ -90,7 +90,7 @@ Raed Khatib, a pharmacist and village resident, spoke to the investigations team
 
 Showing the moment of the airstrike, the [second video](https://www.youtube.com/watch?v=ldQxTcoLBFs&feature=youtu.be), taken from Telegram, was additionally recorded from the western side of Balyoun.
 
-<video autoplay loop muted playsinline style="width: 100%">
+<video autoplay loop muted playsinline style="width: 100%; height: 550px">
 <source src="/assets/investigations/BalyounMarket/secondgif.webm" type="video/webm">
 </video>
 
