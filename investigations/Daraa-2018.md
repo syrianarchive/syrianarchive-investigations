@@ -181,32 +181,33 @@ Although well inside the de-escalation zone, Al Musayfirah suffered severe damag
 
 On June 28, Al Musayfirah Central Hospital was attacked by air raids rendering it inoperable and out of service. [The Syrian Network for Human Rights](http://sn4hr.org/sites/news/2018/06/29/syrian-russian-regime-forces-bombed-hospital-al-msaifra-town-daraa-suburbs-june-26/) and [BBC](https://www.bbc.com/arabic/middleeast-44630902) reported on the attack additionally confirming the hospital was pushed out of service. In addition to news sources such as [Faifa](https://www.faifaonline.net/portal/2018/06/29/429777.html), Anadolu Agency reported extensively on the attack including a [video](https://twitter.com/aa_arabic/status/1012394327954411520) showing the destruction to the facility and surrounding areas. Planes in this video can be heard flying above the town.   
 
+
 <blockquote class="twitter-tweet"><p lang="ar" dir="rtl"><a href="https://twitter.com/hashtag/%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A?src=hash&amp;ref_src=twsrc%5Etfw">#الطيران_الروسي</a> يدمر مشفى مركزيا في <a href="https://twitter.com/hashtag/%D8%AF%D8%B1%D8%B9%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw">#درعا</a> السورية<br><br>ما أدى إلى مقتل مدني وجرح 14 آخرين، وخروج المشفى عن الخدمة بشكل كامل، حسب مصدر طبي. <a href="https://t.co/rs1cvBQjSD">pic.twitter.com/rs1cvBQjSD</a></p>&mdash; ANADOLU AGENCY (AR) (@aa_arabic) <a href="https://twitter.com/aa_arabic/status/1012394327954411520?ref_src=twsrc%5Etfw">June 28, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-In an [article]((https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%AF%D9%85%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-/1190145) on the attack by Anadolu Agency, Dr. Muhammad Al Saleh from the Central Hospital stated, "the hospital, affiliated with the Syrian American Medical Society, was hit with thermobaric missiles by Russian planes while it was providing medical services for the residents of the towns and villages of the Daraa countryside, killing a civilian and injuring fourteen others, some in serious condition." Dr. Al Saleh additionally mentioned that "since the beginning of the campaign offensive on Daraa about 10 days ago, Russian and Syrian planes bombed four medical centers in the eastern countryside and two centers of the Free Police and the Syrian Civil Defense."
-
-![](/assets/investigations/Daraa2018/image14.png)
-
-![](/assets/investigations/Daraa2018/image15.png)
-
-![](/assets/investigations/Daraa2018/image8.png)
-
-*Photos of the hospital*
 
 ![](/assets/investigations/Daraa2018/image3.png)
+*A banner for the Syrian American Medical Society (SAMS) featured in the [video](https://twitter.com/aa_arabic/status/1012394327954411520) posted by Anadolu Agency. The sign was for the hospital's reproductive health clinic.*
 
-*A banner for the Syrian American Medical Society (SAMS) for the reproductive health clinic is shown inside the hospital in the video published by the Anadolu Agency*
+![](/assets/investigations/Daraa2018/image30.jpg)
+![](/assets/investigations/Daraa2018/image50.png)
+*Using images from [Tishreen]](http://tishreen.news.sy/?p=174154), [Anadolu Agency](https://twitter.com/aa_arabic/status/1012394327954411520), and [Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2228407244047612?__xts__[0]=68.ARANeTGlfxBN61LiJsVoDxzPN66SBTH29g-5QEtFODJLa19DxucAtn9c6-pezcGjPNmg1rh9uZ2nW9Ap8IwYuqQO-1OFYNfHDs96v7lCaHWgGlG5nyYVwd3t3BGCkPS0wAHwSsjKpRBwd_kLngHO-JaHRWRUL3DRhyguKLKCUb3m9FTwGyrXNz-6nmcRh1geBkD5yRA2AOQ1yr42YC1x6EVpUjoBgtk59cB1UxibL5oSW8GoNjwXDotWxc7DVysnh6aUxFlscxsG8SNjk6_z36HOLqVl2mpJO1ZNqx4ypOKAAJGpTU0b20Ml-8iRvBRwhclen2E6Y8o2aIfEY1UGqZUodVXQ&__tn__=-R), Syrian Archive was able to [locate the facility to western Al Musayfirah](https://goo.gl/maps/LuCrVSgVC8Ujdfdi9).*
+
+In an [article](https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D9%8A%D8%AF%D9%85%D8%B1-%D9%85%D8%B4%D9%81%D9%89-%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-/1190145) on the attack by Anadolu Agency, Dr. Muhammad Al Saleh from the Central Hospital stated, "the hospital, affiliated with the Syrian American Medical Society, was hit with thermobaric missiles by Russian planes while it was providing medical services for the residents of the towns and villages of the Daraa countryside, killing a civilian and injuring fourteen others, some in serious condition." Dr. Al Saleh additionally mentioned that "since the beginning of the campaign offensive on Daraa about 10 days ago, Russian and Syrian planes bombed four medical centers in the eastern countryside and two centers of the Free Police and the Syrian Civil Defense."
+
+![](/assets/investigations/Daraa2018/image14.png)
+![](/assets/investigations/Daraa2018/markazi1.jpg)
+![](/assets/investigations/Daraa2018/markazi2.jpg)
+![](/assets/investigations/Daraa2018/markazi3.jpg)
+![](/assets/investigations/Daraa2018/markazi4.jpg)
+![](/assets/investigations/Daraa2018/markazi5.jpg)
+*Images from [Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2228407244047612?__xts__[0]=68.ARANeTGlfxBN61LiJsVoDxzPN66SBTH29g-5QEtFODJLa19DxucAtn9c6-pezcGjPNmg1rh9uZ2nW9Ap8IwYuqQO-1OFYNfHDs96v7lCaHWgGlG5nyYVwd3t3BGCkPS0wAHwSsjKpRBwd_kLngHO-JaHRWRUL3DRhyguKLKCUb3m9FTwGyrXNz-6nmcRh1geBkD5yRA2AOQ1yr42YC1x6EVpUjoBgtk59cB1UxibL5oSW8GoNjwXDotWxc7DVysnh6aUxFlscxsG8SNjk6_z36HOLqVl2mpJO1ZNqx4ypOKAAJGpTU0b20Ml-8iRvBRwhclen2E6Y8o2aIfEY1UGqZUodVXQ&__tn__=-R) of Al Musayfirah Central Hospital after the attack.*
 
 Further confirming the attack, on July 2 [Tishreen](http://tishreen.news.sy/?p=174154), a pro-government news source, published photos of the Syrian forces' control of a "field hospital" in Al Musayfirah previously held by "terrorist." These images match and show the Central Hospital. 
 
-### Geolocating the Hospital
 
-Given the images from Tishreen and Anadolu Agency, Syrian Archive was able to [locate the facility to western Al Musayfirah](https://goo.gl/maps/LuCrVSgVC8Ujdfdi9). Images of the damaged hospital were matched with older images of the hospital's facade from before the attack. 
+## Perpetrators of the attack (?)
 
-![](/assets/investigations/Daraa2018/image35.png)
 
-![](/assets/investigations/Daraa2018/image30.jpg)
-
-![](/assets/investigations/Daraa2018/image50.png)
-
+## Conclusion
+Following the offensive to retake the Daraa province, Russian and Syrian planes were used to to attack villages and cities further damaging and destroying vital facilities in the Daraa countryside. On June 24, in the government effort to conquer Busra Al Harir, the town's health care and Civil Defense center were attacked by air pushing them out of service. Moving south, government forces again attacked the Central Hospital in Al Musayfirah also pushing it out of service. The date of the attacks and extent of damage to these facilities were confirmed through open source media found online. Although Syrian Archive is unable to definitevly identify the perpetraros of these attacks, the identification of Syrian warplanes flying over Busra Al Harir as well as the repeated reportings of Russian warplanes attacking sites in Daraa point towards the Syrian government or Russian Air Force as potentially responsible for the attack. 
 
