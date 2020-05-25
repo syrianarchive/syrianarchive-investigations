@@ -15,8 +15,8 @@ socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 - Location Hit:  Al Hammadi family home and surrounding buildings.
 - Date: 7 December 2019
 - Time: Between 14:00 and 14:15
-- Deaths: 9 killed, including 3 children and one woman.
-- Wounded: 14 injured, including 4 children and two women.
+- Deaths: 10 killed, including 4 children and one woman.
+- Wounded: 13 injured, including 3 children and two women.
 - Type of Attack: One airstrike 
 - Munitions Used: Unknown
 - Potentially Responsible: Flight observation data, witness testimony, and human rights organizations point towards the Russian Air Force as the potential perpetrator of the attack. 
@@ -25,7 +25,7 @@ socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 ## Introduction
 Suddenly, on a Saturday afternoon on December 7 2019, Abdul Mohsen Al Hammadi found himself in an ambulance carrying him to the nearest medical point for treatment. Captured and published by international media, the picture of the [injured one-year-old](https://www.facebook.com/bluoninmemory.blogspot/posts/577950433017929) after the attack was used and asserted as evidence to the targeting of civilians in Idlib. 
 
-Although Abdul Mohsen survived, his brothers, Bilal and Hassan, were killed by the airstrike. Abdul Mohsen’s sister Aya was injured and transferred to Turkey for treatment. His father Mohammed Al Deeb and grandfather Abdo Al Hammadi were amongst the nine civilians killed by the attack on the market in the village of Balyoun.
+Although Abdul Mohsen survived, his brothers, Bilal and Hassan, were killed by the airstrike. Abdul Mohsen’s sister Aya [lost her life](https://www.facebook.com/blyooooon/posts/2664839550422611?__tn__=-R) after being injured and transferred to Turkey for treatment. His father Mohammed Al Deeb and grandfather Abdo Al Hammadi were amongst the ten civilians killed by the attack on the market in the village of Balyoun.
 
 ### Methodology
 
@@ -60,7 +60,7 @@ As the center of life for Balyoun and the target of the recent airstrikes on the
 ![](/assets/investigations/BalyounMarket/image15.png)
 *An [image](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/pcb.2568182669947440/2568182313280809/?type=3&theater) from the Civil Defense in Idlib of the damage to the market and the rescue effort.*
 
-A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing nine people and wounding fourteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hammadi, killing four members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
+A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing ten people and wounding thirteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hammadi, killing five members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
 
 ![](/assets/investigations/BalyounMarket/image14.png)
 *An [image](https://www.facebook.com/blyooooon/photos/pcb.2660998007473432/2660997864140113/?type=3&theater) posted by Blyon Voice showing the damage to the market and its surrounding buildings from the attack.*
@@ -168,9 +168,9 @@ Following an analysis of the civilian media featured above, the Syrian Archive i
 ![](/assets/investigations/BalyounMarket/image75.png)
 *A still from a [video](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/444858409558086/) uploaded by the Syrian Civil Defense showing the effort to rescue civilians stuck under rubble.*
 
-When documenting those dead and injured from the attack, the Syrian Archive’s investigations team corroborated the number and identity of those injured and killed by meeting with villagers and reviewing open source media. The team confirmed that nine were killed from the attack and fourteen were injured.  
+When documenting those dead and injured from the attack, the Syrian Archive’s investigations team corroborated the number and identity of those injured and killed by meeting with villagers and reviewing open source media. The team confirmed that ten were killed from the attack and thirteen were injured.  
 
-The nine killed were four members of the Al Hammadi family ([Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/578569136289392/?type=3&theater), [Mohammad Deeb Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577631163049856/?type=3&theater), [Bilal Mohammed Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577652379714401/?type=3&theater), and [Hassan Mohammed Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577669053046067/?type=3&theater)) from Balyoun, [Ahmed Al Nabhan](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577651049714534/?type=3&theater), [Majid Mohammad Hassan Al Abod](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577649956381310/?type=3&theater) from Balyoun, Umm Omar originally from Homs but owns a shoe store in Balyoun’s market, Jamil Bakour from Maratah, and [Zaid Khalid Abu Al Khish](https://www.facebook.com/permalink.php?story_fbid=156712485645145&id=100039191828599) from Al Fatira. 
+The ten killed were five members of the Al Hammadi family ([Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/578569136289392/?type=3&theater), [Mohammad Deeb Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577631163049856/?type=3&theater), [Bilal Mohammed Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577652379714401/?type=3&theater), [Hassan Mohammed Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577669053046067/?type=3&theater), and [Aya Mohammed Deeb Al Hammadi](https://www.facebook.com/blyooooon/posts/2664839550422611?__tn__=-R) ) from Balyoun, [Ahmed Al Nabhan](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577651049714534/?type=3&theater), [Majid Mohammad Hassan Al Abod](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577649956381310/?type=3&theater) from Balyoun, Umm Omar originally from Homs but owns a shoe store in Balyoun’s market, Jamil Bakour from Maratah, and [Zaid Khalid Abu Al Khish](https://www.facebook.com/permalink.php?story_fbid=156712485645145&id=100039191828599) from Al Fatira. 
 
 
 ## Flight Data Analysis
@@ -184,4 +184,4 @@ Although this data matches media and posts on social media that purport the atta
 
 
 # Conclusion
-As detailed in interviews conducted by the investigations team, verified open source media, and flight observation data, Balyoun market and its surrounding residential areas were attacked by an airstrike with two missiles on 7 Dec 2019 between 14:00 and 14:15. The missiles, according to testimony, hit the house of the Al Hammadi family near the market and a school around thirty meters away. The attack killed nine people and injured fourteen others. Because of the limited information available in open source investigations, the Syrian Archive was unable to definitively identify the perpetrators of the attack. However, flight observation data, witness testimony, and open source media indicate the Russian Air Force as potentially responsible for the attack.
+As detailed in interviews conducted by the investigations team, verified open source media, and flight observation data, Balyoun market and its surrounding residential areas were attacked by an airstrike with two missiles on 7 Dec 2019 between 14:00 and 14:15. The missiles, according to testimony, hit the house of the Al Hammadi family near the market and a school around thirty meters away. The attack killed ten people and injured thirteen others. Because of the limited information available in open source investigations, the Syrian Archive was unable to definitively identify the perpetrators of the attack. However, flight observation data, witness testimony, and open source media indicate the Russian Air Force as potentially responsible for the attack.
