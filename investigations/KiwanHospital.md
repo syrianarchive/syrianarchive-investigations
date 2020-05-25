@@ -102,6 +102,7 @@ Images taken by the investigations team on the ground (featured later in the rep
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/KiwanHospital/1.webm" type="video/webm">
 </video>
+
 *A GIF from a [video](https://www.facebook.com/mortimer.flourencemonette/videos/760673931102904/) posted by Abu Hamza Al Janobi of the hospital directly after the attack.*
 
 Further corroborating Ayman's reports regarding the extent of damage to the facility, [videos](https://www.facebook.com/mortimer.flourencemonette/videos/760673931102904/) and [images](https://www.facebook.com/mortimer.flourencemonette/posts/760098634493767) such as those posted by activists Abu Hamza Al Janobi show Kiwan Hospital's internal and external destruction. Additionally, a [report](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/2540116112754096?__tn__=H-R) from the Syrian Civil Defense of the Idlib Governorate around 5 hours after the attack confirms the damage to the hospital, which they claim was attacked by the Russian Air Force and is now out of service. 
@@ -128,6 +129,7 @@ The damage to Kiwan Hospital from the attack was determined and analyzed by the 
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/KiwanHospital/2.webm" type="video/webm">
 </video>
+
 *A GIF from a video taken by the investigations team of outside the medical facility.*
 
 As shown in the videos and images taken by the investigations team, the hospital suffered severe damage externally with the hospital’s structure almost fully collapsed. Although part of the hospital’s main building was left still standing, the left block of Kiwan Hospital, which includes the medical warehouse and examination rooms, was completely destroyed with the roof collapsed and rooms exposed. 
