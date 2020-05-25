@@ -176,7 +176,7 @@ The nine killed were four members of the Al Hammadi family ([Abdo Al Hammadi](ht
 ## Flight Data Analysis
 To provide a further layer of verification, the Syrian Archive cross referenced findings from open source media and images/videos taken by the investigations team with flight observation data from a spotter organization. Data for flights occurring briefly before, during, and briefly after the time of the attack (14:00 - 14:15) on December 7, 2019 around Idlib was closely analyzed.  
 
-<iframe height="550" src="https://public.tableau.com/profile/syrianarchiveorg#!/vizhome/FlightObservationson7December2019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+<iframe height="550" src="https://public.tableau.com/views/syrianarchiveorg#!/vizhome/FlightObservationson7December2019/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
 
 Around twenty minutes before the attack on Balyoun, at approximately 13:40, spotters first observed a fixed wing Russian aircraft departing southeast from Hmeimim Airbase. Shortly thereafter, at 13:54, a Russian fixed wing aircraft was spotted circling Jabal Al Zawiya, an area surrounding Balyoun village. Previous research has found that warplanes circling over a location indicates target acquisition and/or preparation for an imminent attack. Furthermore, at 14:09, a Russian fixed wing aircraft was spotted flying north over Kafr Oweid, a village just southwest of Balyoun. Lastly, presumably after the airstrike on the village (around 14:05, 14:11, and 14:27), Russian fixed wing aircraft were spotted flying south over Kafranbel, a village 10 km south of Balyoun.  
 
