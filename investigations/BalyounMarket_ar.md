@@ -7,7 +7,7 @@ image: /assets/investigations/BalyounMarket/image15.png
 socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Duio6fPlls8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/Duio6fPlls8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## حول الحادثة
 
@@ -69,7 +69,7 @@ socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 
 التُقط [مقطع الفيديو الأول](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) من الجهة الغربية لبليون. تعزز الظلال الظاهرة فيه وقوع الهجوم حوالي الساعة 14:00.
 
-<video autoplay loop muted playsinline style="width: 100%">
+<video autoplay loop muted playsinline style="width: 100%; height: 550px">
 <source src="/assets/investigations/BalyounMarket/firstgif.webm" type="video/webm">
 </video>
 

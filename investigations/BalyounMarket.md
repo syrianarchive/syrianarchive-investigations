@@ -7,7 +7,7 @@ image: /assets/investigations/BalyounMarket/image15.png
 socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i3R2L2VeN3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/i3R2L2VeN3A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Initial Summary:
 
@@ -72,7 +72,7 @@ The Syrian Archive investigation team collected two videos that show the moment 
 
 The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) was recorded on the western outskirts of Balyoun village. It shows distinct shadows that corroborate the time of attack as at around 14:00. 
 
-<video autoplay loop muted playsinline style="width: 100%">
+<video autoplay loop muted playsinline style="width: 100%; height: 550px">
 <source src="/assets/investigations/BalyounMarket/firstgif.webm" type="video/webm">
 </video>
 
