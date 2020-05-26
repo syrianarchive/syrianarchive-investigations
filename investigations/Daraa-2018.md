@@ -10,14 +10,19 @@ drafts: true
 
 ## Introduction
 
-Several days after intense shelling in the Daraa govenorate that began on Tuesday June 19,2018, Syrian government forces launched an offensive, on June 23, against armed opposition strongholds in the southwestern province. According to activists and open source media, regime helicopters dropped more than eight barrel bombs on towns in the province on June 23 and 24. According to [Radio Rozana](https://www.rozana.fm/en/about-us), an "independent, politically and non-religiouslly affiliated" news organization, Russian warplanes launched [heavy raids](https://www.rozana.fm/ar/news/2018/06/24/%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D9%85%D9%83%D8%AB%D9%91%D9%81-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B9%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF) on areas under opposition faction control in Daraa for the first time in a year after a Russian agreement to a ceasefire in the region. This investigation focuses upon attacks on 3 vital facilities in Busra Al Harir and Al Musayfirah during this campaign limiting civilian access to medical care. 
+Several days after intense shelling in the Daraa govenorate that began on Tuesday June 19,2018, Syrian government forces launched an offensive, on June 23, against armed opposition strongholds in the southwestern province. According to activists and open source media, regime helicopters dropped more than eight barrel bombs on towns in the province on June 23 and 24. According to [Radio Rozana](https://www.rozana.fm/en/about-us), an "independent, politically and non-religiouslly affiliated" news organization, Russian warplanes launched [heavy raids](https://www.rozana.fm/ar/news/2018/06/24/%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D9%85%D9%83%D8%AB%D9%91%D9%81-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B9%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%AE%D9%81%D8%B6-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF) on areas under opposition faction control in the Daraa governorate for the first time in a year after a Russian agreement to a ceasefire in the region. This investigation examines attacks on 3 vital facilities in Busra Al Harir and Al Musayfirah during this campaign on June 24 and 28:
+
+1. The Busra Al Harir Health Care Center, pushed out of service by air attacks on the town on June 24.
+
+2. The Civil Defense Center in Busra Al Harir, pushed out of service by air attacks on the town on June 24.
+
+3. The Al Musayfirah Central Hospital in Al Musayfirah, pushed out of service by air attacks on the town on June 28. 
 
 ### Methodology
-Syrian Archive conducted an investigation into the incident, based on three steps:
+Syrian Archive conducted an investigation into the incident, based on:
 
-(1) A local investigation’s team collected testimonies from eye-witnesses or those who witnessed the immediate aftermath of the airstrike; 
-(2) Securing, analysing, and verifying of 47 videos and images uploaded to social media networks purportedly showing the incident; 
-(3) The combined analysis of these sources has culminated in the present investigation report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage.
+(1) Securing, analysing, and verifying of around 80 videos and images uploaded to social media networks purportedly showing the incident; 
+(2) The combined analysis of these sources culminating in the present investigation report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage.
 
 Examining all information available on the attack, the investigations’ team developed an understanding of the incident and potential perpetrators.
 
@@ -25,7 +30,7 @@ For more details on Syrian Archive’s Methodology, please see our [website](htt
 
 ## De-escalation zone
 
-A year prior to the attack on Busra Al Harir and Al Musayfirah, in May 2017, Russia, Turkey, and Iran signed a [memorandum of understanding establishing de-escalation zones](https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401260470000) in Syria where hostilities would be halted. These zones included the entire Idlib governorate, some parts of the provinces of Latakia, Hama, and Aleppo, as well as some parts of northern Homs, Eastern Ghouta in the Damascus countryside, and the cities of Daraa and Quneitra in southern Syria.
+A year prior to the attack on Busra Al Harir and Al Musayfirah, in May 2017, Russia, Turkey, and Iran signed a [memorandum of understanding establishing de-escalation zones](https://www.youtube.com/watch?v%3D5cF-gIL8yzk&sa=D&ust=1540401260470000) in Syria where hostilities would be halted. These zones included the entire Idlib governorate, some parts of the Latakia, Hama, and Aleppo governorates, as well as some parts of northern Homs, Eastern Ghouta in the Damascus countryside, and the cities of Daraa and Quneitra in southern Syria.
 
 *Original Russian image:*
 
@@ -35,38 +40,36 @@ A year prior to the attack on Busra Al Harir and Al Musayfirah, in May 2017, Rus
 
 ![](/assets/investigations/Daraa2018/image47.jpeg)
 
-Although included and established as a zone with little to no hostility, Eastern Daraa faced a military campaign by Russian and Syrian government forces Syrian government forces, which included an attack on vital centers in Busra al-Harir and Al Musayfirah. 
+Although included and established as a zone with little to no hostility,  Daraa faced a military campaign by Russian and Syrian government forces to retake the province, which included an attack on vital centers in Busra al-Harir and Al Musayfirah. 
 
 ## Background
-The town of [Busra Al Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and is considered strategically important because of its proximity to the M5, a highway which runs from Jordan through Damascus and Homs to Aleppo.
+The town of [Busra Al Harir is located 90 km southeast of the capital, Damascus](https://www.google.com/url?q=https://goo.gl/maps/VQz9XEU6qSS2&sa=D&ust=1540401260470000), and is considered strategically important because of its proximity to the M5, a highway which runs from Jordan through Damascus and Homs to Aleppo. Given this location, pressure, according to pro-government news sources, was placed on retaking Busra Al Harir, with soldiers claiming it would open up Daraa further to government forces. 
 
 ![](/assets/investigations/Daraa2018/image43.jpg)
 ![](/assets/investigations/Daraa2018/image42.jpg)
-*Images taken from Google Earth of Busra Al Harir and surroudning areas as well as the town with the De-escalation map overlayed onto the satellite iamgery.
+*Images taken from Google Earth of Busra Al Harir and surrounding areas as well as the town with the De-escalation map overlayed onto the satellite iamgery.
 
-Although only estimating, [LiveUAMap](https://syria.liveuamap.com/en/time/23.06.2018), an interactive mapping tool which shows major events and areas of control in Syria, reveals the mounting pressure on Busra Al Harir as the town stands sandwiched between government forces just days before the attack. [Posts](https://www.google.com/url?q=https://www.facebook.com/Manqolmain/photos/a.139275016166461/1777805855646694/?type%3D3%26theater&sa=D&ust=1540401260472000) from pro-Syrian government networks on June 24 confirm this showing the strategic importance of the town and indicating an approaching fight to overtake it. 
+Although only estimating, [LiveUAMap](https://syria.liveuamap.com/en/time/23.06.2018), an interactive mapping tool which shows major events and areas of control in Syria, shows government forces approaching and surrounding Busra Al Harir. [Posts](https://www.google.com/url?q=https://www.facebook.com/Manqolmain/photos/a.139275016166461/1777805855646694/?type%3D3%26theater&sa=D&ust=1540401260472000) from pro-Syrian government accounts on June 24 additionally confirm the mounting government effort to retake the town. 
 
 ![](/assets/investigations/Daraa2018/image23.png)
 *An image posted by pro-Syrian government accounts of the areas of control surrounding Busra Al Harir.*
 
-The fight for Busra Al Harir began on June 24 with posts, videos, and images reporting that morning of Syrian government forces and its accompanying militias shelling the town. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted alerting of government forces attacking the town. A [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-Syrian government page at 09:19 allegedly shows the early shelling of the town. Another [video](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) posted by a pro-government accoutn additionally shows the bombing of Busra Al Harir by warplanes. Additionally, a [post](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) from the Facebook page SyrianWatchers confirms airstrikes by Russian warplanes on the town. Photos published by [Sham News](https://smartnews-agency.com/ar/photos/2018-06-26-%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7#4) also show the air and ground attack on the town. Moreover, a video circulated by activists on social video and posted at 14:44 [shows a MiG warplane flying low over Busra Al Harir](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401260473000). (TAKEN DOWN)
+The fight for Busra Al Harir began on June 24 with posts, videos, and images reporting that morning of Syrian government forces and its accompanying militias shelling the town. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted alerting of government forces attacking the town. Videos posted, the morning of the attack, by pro-Syrian government Facebook pages allegedly also show [the early shelling](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) and [airstrikes](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) on the town. In addition to posts from the Facebook page [SyrianWatchers](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) warning of airstrikes by Russian warplanes on the town, Sham News published [images](https://smartnews-agency.com/ar/photos/2018-06-26-%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7#4) from June 24 showing the air and ground attack on Busra Al Harir. Further confirming reports of air raids on the town, a video circulated by activists on social media, originall posted at 14:44, [shows a warplane flying low over Busra Al Harir](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401260473000).(TAKEN DOWN) Analyzing the aircraft's shape, wing length, and other distinct aspects, the Syrian Archive was able to identify the warplane as an MiG-23, a plane frequently used in the Syrian conflict.
 
 ![](/assets/investigations/Daraa2018/image2.png)
 *A still from a video showing an MiG warplane flying low over Busra Al Harir.*
 
-Analyzin shape of the aircraft, wing length, and other distinct aspects, the Syrian Archive was able to identify the warplane as an MiG-23, a plane frequently used in the Syrian conflict.
-
 ![](/assets/investigations/Daraa2018/image25.png)
 *An [image](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-23&sa=D&ust=1540401260475000) of a MiG 23, a plane frequently used in the Syrian conflict.*
 
-Given its declining usage by Russian forces and increased usage by the Syrian Airforce, it is likely that the aircraft featured in the video was operated by the Syrian Air Force. The Dutch website [Scramble](https://www.scramble.nl/orbats/syria/airforce) confirms the MiG-23's prevelance in the Syrian Air Force as well as includes information about the plane and air bases/military airports housing the aircraft. The nearest air bases to Busra Al Harir with the MiG-23 are the Khalkhaleh military airport (30 km away) in As-Suwayda's countryside and the Marj Rahil airport (50 km away) just outside Damascus.
+Given its declining usage by Russian forces in Syria and increased usage by the Syrian Air Force, it is likely that the aircraft shown in the video was operated by the Syrian Air Force at the time it was recorded. The Dutch website [Scramble](https://www.scramble.nl/orbats/syria/airforce) confirms the MiG-23's prevelance in the Syrian Air Force as well as includes information about the plane and air bases/military airports housing the aircraft. The nearest air bases to Busra Al Harir with the MiG-23 are the Khalkhaleh military airport (30 km away) in As-Suwayda's countryside and the Marj Rahil airport (50 km away) just outside Damascus.
 
 ![](/assets/investigations/Daraa2018/img26.png)
 *An [image](https://www.scramble.nl/orbats/syria/airforce) of a Syrian MiG-23 ML while landing.*
 
-On the evening of June 24, after air support from allegedly Russian and Syrian planes, the Syrian army and its accompanying militias began entering Busra Al Harir. [Posts](https://www.google.com/url?q=https://www.facebook.com/192944268106401/videos/255907208476773/&sa=D&ust=1540401260479000) announcing the army's arrival began appearing at around 19:40. Moreover, soldiers, such as Abdallah Malah, posted at around 19:40 [images](https://www.google.com/url?q=https://www.facebook.com/abdallah.malah.52/posts/245331846241435&sa=D&ust=1540401260480000) of themselves allegedly on the front lines near the town. 
+On the evening of June 24, after air support from allegedly Russian and Syrian planes, the Syrian army and its accompanying militias began entering Busra Al Harir. [Posts](https://www.google.com/url?q=https://www.facebook.com/192944268106401/videos/255907208476773/&sa=D&ust=1540401260479000) announcing the army's arrival appeared at around 19:40. Moreover, soldiers, such as Abdallah Malah, posted at around 19:40 [images](https://www.google.com/url?q=https://www.facebook.com/abdallah.malah.52/posts/245331846241435&sa=D&ust=1540401260480000) of themselves allegedly on the front lines near the town. 
 
-Shortly after 19:00 and the days after the attack, [soldiers](https://www.facebook.com/permalink.php?story_fbid=2075988246057323&id=100009385034957&__tn__=-R) posted [images](https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) and [videos](https://www.facebook.com/ali.arabi.549668/posts/515124878931110) of themselves in Busra Al Harir with captions describing the weapons left by opposition forces as well as the tactics used by the government to seize the territory. Two days after the raid on June 26 at 15:29, Feras Hasan Al Saoor posted a [video] (https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) of himself in front of Busra Al Harir's police station. In the video, Al Saoor describes the attack as lasting 24 hours and calls the "liberation" a strategic win that opens up Daraa to government forces. [Videos](https://www.facebook.com/watch/?v=2009028722441294) and [images](https://www.facebook.com/damas.times2/photos/a.298038533644340/1721996271248552/?type=3&theater) like Al Saoor's show [soldiers](https://www.facebook.com/supporting.Syrian.military.encyclopedia/posts/1089711401195287) [in and around](https://www.facebook.com/aos.eid.1/posts/2095222387359915?__tn__=-R) the city [the days after the attack](https://www.facebook.com/permalink.php?story_fbid=2065938530401467&id=100009560207508), included in these photos is the [Zulfiqar Brigade]((https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D2139514872985165%26id%3D1825406404396015&sa=D&ust=1540401260480000) an Iraqi military group allegedly [linked to Iran](https://www.google.com/url?q=https://www.terrorism-info.org.il/en/hezbollah-iran-handled-shiite-militias-integrated-syrian-army-campaign-take-control-south-syria/&sa=D&ust=1540401260481000). Alongside images posted by the soldiers themselves, SANA published a [report](https://web.archive.org/web/20200116040315/https://www.sana.sy/?p=772742) covering the raid. 
+Shortly after 19:00 and the days after the attack, [soldiers](https://www.facebook.com/permalink.php?story_fbid=2075988246057323&id=100009385034957&__tn__=-R) posted [images](https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) and [videos](https://www.facebook.com/ali.arabi.549668/posts/515124878931110) of themselves in Busra Al Harir with captions announcing and celebrating the conquering of Busra Al Harir as well as describing the tactics used by the government to seize the territory. Two days after the raid on June 26 at 15:29, Feras Hasan Al Saoor posted a [video] (https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) of himself in front of Busra Al Harir's police station. In the video, Al Saoor describes the attack as lasting 24 hours and calls the "liberation" a strategic win that opens up Daraa to government forces. [Videos](https://www.facebook.com/watch/?v=2009028722441294) and [images](https://www.facebook.com/damas.times2/photos/a.298038533644340/1721996271248552/?type=3&theater) like Al Saoor's show [soldiers](https://www.facebook.com/supporting.Syrian.military.encyclopedia/posts/1089711401195287) [in and around](https://www.facebook.com/aos.eid.1/posts/2095222387359915?__tn__=-R) the city [the days after the attack](https://www.facebook.com/permalink.php?story_fbid=2065938530401467&id=100009560207508) included in these photos is the [Zulfiqar Brigade](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D2139514872985165%26id%3D1825406404396015&sa=D&ust=1540401260480000), an Iraqi military group allegedly [linked to Iran](https://www.google.com/url?q=https://www.terrorism-info.org.il/en/hezbollah-iran-handled-shiite-militias-integrated-syrian-army-campaign-take-control-south-syria/&sa=D&ust=1540401260481000). Alongside images posted by the soldiers themselves, SANA published a [report](https://web.archive.org/web/20200116040315/https://www.sana.sy/?p=772742) covering the raid. 
 
  ![](/assets/investigations/Daraa2018/image253.png)
  *A still from Al Saoor's video taken in front of the town's police station.*
@@ -74,11 +77,11 @@ Shortly after 19:00 and the days after the attack, [soldiers](https://www.facebo
  ![](/assets/investigations/Daraa2018/image252.png)
 *Geolocated images from Facebook profile [Aos Eid](https://www.facebook.com/aos.eid.1/posts/2095222387359915?__xts__[0]=68.ARCj3YtR_7MwX9nYghN7e9p2MGpfOA9i-jyJNuTrTKILiPzDSM7FZowoCulcrIyYXntPcT59FoWu6l97F3ulugWgJedbPVBvXCiHpfUVzrFNBocZhTW3d1MROQp0lwVzgzK55EuqaLF0s8CrPP6OEnxl2jL-mqWZRJ-3mIbSsLe4NZObeMM1keeLFf3rOmtYyqvklMCD3HOracfS4_ZW2lWsigwBpst8srX-cE_LaAxeetlY80-biWex7h9LYthpA6GgXdCm2OGvS9PDeYXeD2Ymb4EGtWHtjQ&__tn__=-R) and a [video](https://www.facebook.com/watch/?v=2009028722441294) posted by the Facebook page Damas Post taken in Busra Al Harir after the attack on the town.*
 
-Amongst the intense fighting by ground and air occurred during this raid, the Syrian Archive identified 3 salient incidents of attacks on vital facilities usually protected by international law. These incidents, alongside their mention reports on by local news sources and the [Syrian Human Rights Committees annual report](https://www.shrc.org/wp-content/uploads/2019/01/Arabic-report.pdf), reveal the severity of the fight for southern Syria. The incidents include an attack on a health care center in eastern Busra Al Harir, an attack on the town's Civil Defense center, as well as a later attack on a hospital in Al Musayfirah, a town around 20 km south of Busra Al Harir. 
+Amongst the intense fighting by ground and air occurred during this raid, the Syrian Archive identified 3 salient incidents of attacks on vital facilities usually protected by international law. These incidents, some mentioned in the [Syrian Human Rights Committees annual report](https://www.shrc.org/wp-content/uploads/2019/01/Arabic-report.pdf), reveal the severity of the fight for southern Syria. 
 
 
-## The first incident: Busrar Al Harir Health Care Center
--   Place of Attaack: Daraa: [Busra Al Harir](https://goo.gl/maps/yLVmcE7hWTGMhjid6)
+## The first incident: Busra Al Harir Health Care Center
+-   Place of Attack: Daraa: [Busra Al Harir](https://goo.gl/maps/yLVmcE7hWTGMhjid6)
 -   Location Hit: Medical facility
 -   Date: 24 June 2018 
 -   Time: around 17:00, [according to UOSSM](https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000)
@@ -101,7 +104,7 @@ Busra Al Harir Health Care Center was established on November 15, 2009 by the Sy
 ![](/assets/investigations/Daraa2018/image21.jpg)
 
 ![](/assets/investigations/Daraa2018/image36.jpg)
-*Images from Nabaa News taken in 2018 and from the Ministry of Local Administration in 2009 of the medical facility. Both sets of images show consistent features including the two main entrances, the gate, and the color of the building confirming that they are the same facility.*
+*Images from [Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) taken in 2018 and from the Ministry of Local Administration in 2009 of the medical facility. Both sets of images show consistent features including the two main entrances, the gate, and the color of the building confirming that they are the same facility.*
 
 ### What happened?
 ![](/assets/investigations/Daraa2018/image39.jpg)
@@ -111,7 +114,7 @@ According to the [UOSSM](https://www.uossm.org/breaking_uossm_phc_attacked_in_da
 
 *A screenshot of the UOSSM's statement.*
 
-[Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) posted several images of the hospital after the attack reporting it was now out of service. A number of Facebook pages, such as [Houran News](https://www.facebook.com/2187202808178227/photos/a.2187278384837336/2187370148161493/?type=3&theater) posted on June 24 about the attack confirming the facility was pushed out of service by airstrikes. Additionally, Sham News published a [video report](https://smartnews-agency.com/en/videos/2018-06-24-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7) covering the attacks on Busar Al Harir showing the outside of the facility. 
+[Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) posted several images of the hospital after the attack reporting it was now out of service. A number of Facebook pages, such as [Houran News](https://www.facebook.com/2187202808178227/photos/a.2187278384837336/2187370148161493/?type=3&theater) posted on June 24 about the attack confirming the facility was pushed out of service by airstrikes. Additionally, Sham News published a [video report](https://smartnews-agency.com/en/videos/2018-06-24-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7) on the attacks on Busra Al Harir showing the outside of the facility. 
 
 ![](/assets/investigations/Daraa2018/image28.jpg)
 ![](/assets/investigations/Daraa2018/image353.jpg)
@@ -119,21 +122,21 @@ According to the [UOSSM](https://www.uossm.org/breaking_uossm_phc_attacked_in_da
 *Images from Nabaa News Agency of the hospital and medications destroyed from the attack. The UOSSM logo on the hospital sign further confirms the organization as a supporter of the facility.*
  
 ### Geolocating the attacked site
-In verifying this attack, the Syrian Archive geolocated the medical facility through additional images and videos revealing the location of the center. An Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town from 2015, for example, shows Busra Al Harir and the surrounding areas. From the photos published of the attack and from the facility's opening in 2009, the Syrian Archive was able to identify landmarks, including a school and mosque neighboring the facility, featured in all the photos and further identify the [location of the attacked medical center](https://www.google.com/url?q=https://goo.gl/maps/uMzSWTgFf112&sa=D&ust=1540401260493000.)
+In verifying this attack, the Syrian Archive located the medical facility through additional images and videos revealing the center's surroundings. An Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town from 2015, for example, shows Busra Al Harir and the surrounding areas. From the photos published of the attack and from the facility's opening in 2009, the Syrian Archive was able to identify consistent landmarks, including a school and mosque neighboring the facility, which revelead the [location of the the attacked medical center](https://www.google.com/url?q=https://goo.gl/maps/uMzSWTgFf112&sa=D&ust=1540401260493000) to be in western Busra Al Harir. 
 
 ![](/assets/investigations/Daraa2018/image6.png)
 ![](/assets/investigations/Daraa2018/image34.png)
 ![](/assets/investigations/Daraa2018/image12.png)
 *Stills from the Al Jazeera report of a school, the medical center, and a neighboring mosque.*
 
+![](/assets/investigations/Daraa2018/image7.png)
+*Satellite imagery of the medical facility and the neighboring school.*
+
 ![](/assets/investigations/Daraa2018/image31.jpg)
 ![](/assets/investigations/Daraa2018/image29.png)
 *The [geolocation](https://www.google.com/url?q=https://goo.gl/maps/uMzSWTgFf112&sa=D&ust=1540401260493000) of the medical faciity using the Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town.*
 
-![](/assets/investigations/Daraa2018/image7.png)
-*Satellite imagery of the medical facility and the neighboring school.*
-
-Nearby the health care center, Busra Al Harir's Civil Defense center was attacked on the same day. 
+Nearby the health care center and on the same day, Busra Al Harir's Civil Defense center was attacked and pushed out of service. 
 
 ## The Second incident: Civil Defense Center in Busra al-Harir town
 -   Place of Attack: Daraa: [Busra Al Harir](https://goo.gl/maps/yLVmcE7hWTGMhjid6)
