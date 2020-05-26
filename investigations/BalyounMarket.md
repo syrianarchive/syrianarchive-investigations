@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Targeting Balyoun Market with airstrikes"
 desc: "Investigation reveals market targeted by airstrikes"
-date: 2020-05-26
+date: 2020-05-25
 image: /assets/investigations/BalyounMarket/image15.png
 socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 ---
