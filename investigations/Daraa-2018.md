@@ -99,6 +99,7 @@ Busra Al Harir Health Care Center was established on November 15, 2009 by the Sy
 ![](/assets/investigations/Daraa2018/image40.png)
 ![](/assets/investigations/Daraa2018/image19.png)
 ![](/assets/investigations/Daraa2018/image1.png)
+
 *[Images](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) from the Ministry of Local Administration of the medical facility's opening in 2009.*
 
 ![](/assets/investigations/Daraa2018/image21.jpg)
