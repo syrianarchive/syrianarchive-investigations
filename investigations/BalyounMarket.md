@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Targeting Balyoun Market with airstrikes"
 desc: "Investigation reveals market targeted by airstrikes"
-date: 2020-05-22
+date: 2020-05-26
 image: /assets/investigations/BalyounMarket/image15.png
 socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 ---
@@ -17,13 +17,13 @@ socialMediaImage: /assets/investigations/BalyounMarket/image15.png
 - Time: Between 14:00 and 14:15
 - Deaths: 10 killed, including 4 children and one woman.
 - Wounded: 13 injured, including 3 children and two women.
-- Type of Attack: One airstrike 
+- Type of Attack: One airstrike
 - Munitions Used: Unknown
-- Potentially Responsible: Flight observation data, witness testimony, and human rights organizations point towards the Russian Air Force as the potential perpetrator of the attack. 
+- Potentially Responsible: Flight observation data, witness testimony, and human rights organizations point towards the Russian Air Force as the potential perpetrator of the attack.
 
 
 ## Introduction
-Suddenly, on a Saturday afternoon on December 7 2019, Abdul Mohsen Al Hammadi found himself in an ambulance carrying him to the nearest medical point for treatment. Captured and published by international media, the picture of the [injured one-year-old](https://www.facebook.com/bluoninmemory.blogspot/posts/577950433017929) after the attack was used and asserted as evidence to the targeting of civilians in Idlib. 
+Suddenly, on a Saturday afternoon on December 7 2019, Abdul Mohsen Al Hammadi found himself in an ambulance carrying him to the nearest medical point for treatment. Captured and published by international media, the picture of the [injured one-year-old](https://www.facebook.com/bluoninmemory.blogspot/posts/577950433017929) after the attack was used and asserted as evidence to the targeting of civilians in Idlib.
 
 Although Abdul Mohsen survived, his brothers, Bilal and Hassan, were killed by the airstrike. Abdul Mohsen’s sister Aya [lost her life](https://www.facebook.com/blyooooon/posts/2664839550422611?__tn__=-R) after being injured and transferred to Turkey for treatment. His father Mohammed Al Deeb and grandfather Abdo Al Hammadi were amongst the ten civilians killed by the attack on the market in the village of Balyoun.
 
@@ -33,7 +33,7 @@ Syrian Archive conducted an investigation into the incident, based on three step
 
 (1) A local investigation’s team collected testimonies from eye-witnesses or those who witnessed the immediate aftermath of the airstrike;
 (2) Securing, analysing, and verifying of 47 videos and images uploaded to social media networks purportedly showing the incident;
-(3) The combined analysis of these sources has culminated in the present investigation report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage. 
+(3) The combined analysis of these sources has culminated in the present investigation report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage.
 
 Examining all information available on the attack, the investigations’ team developed an understanding of the incident and potential perpetrators.
 
@@ -44,33 +44,33 @@ For more details on Syrian Archive’s Methodology, please see our [website](htt
 ![](/assets/investigations/BalyounMarket/image16.png)
 *[Images](https://www.facebook.com/blyooooon/photos/a.2024479801125259/2660989014140998/?type=3&theater) of Balyoun before and after the attack posted by Blyon Voice.*
 
-The population of the small village of [Balyoun](https://goo.gl/maps/e7ZQbNkTBQZNKMLi6)(35.699651, 36.504135), which is located in Jabal Al Zawiya in southern Idlib province, has increased in the past few years. Having not been directly targeted since 2017, the “semi-safe” town, according to those the Syrian Archive’s investigations team spoke with in Balyoun, is a haven for many of the families from neighboring villages and towns. As a home for the displaced, Balyoun’s population has now reached about thirty thousand people. 
+The population of the small village of [Balyoun](https://goo.gl/maps/e7ZQbNkTBQZNKMLi6)(35.699651, 36.504135), which is located in Jabal Al Zawiya in southern Idlib province, has increased in the past few years. Having not been directly targeted since 2017, the “semi-safe” town, according to those the Syrian Archive’s investigations team spoke with in Balyoun, is a haven for many of the families from neighboring villages and towns. As a home for the displaced, Balyoun’s population has now reached about thirty thousand people.
 
-The town is located amongst a circle or area of villages around Jabal Al Zawiya (including Kansfara, Al Bara, Ehsim, and Ablin) that have been directly targeted throughout the past year. These villages are now almost completely empty of their residents because of attacks, while Balyoun has seen an increase in the number of homes as well as additional multistory apartment buildings to accommodate new residents. 
+The town is located amongst a circle or area of villages around Jabal Al Zawiya (including Kansfara, Al Bara, Ehsim, and Ablin) that have been directly targeted throughout the past year. These villages are now almost completely empty of their residents because of attacks, while Balyoun has seen an increase in the number of homes as well as additional multistory apartment buildings to accommodate new residents.
 
 ![](/assets/investigations/BalyounMarket/image23.png)
 *Satellite imagery from Google Earth of Balyoun and its surrounding villages.*
 
-Now in Balyoun, migrants from other villages have positively impacted its economy. This is best seen in its street or clothing market which, according to long-time residents of Balyoun, has significantly grown in recent years. In northeast Balyoun, the market, which at first did not exceed more than ten stores, now extends more than a kilometer and includes at least a hundred shops selling clothes, food, furniture, and electric appliances. The market also houses three pharmacies. 
+Now in Balyoun, migrants from other villages have positively impacted its economy. This is best seen in its street or clothing market which, according to long-time residents of Balyoun, has significantly grown in recent years. In northeast Balyoun, the market, which at first did not exceed more than ten stores, now extends more than a kilometer and includes at least a hundred shops selling clothes, food, furniture, and electric appliances. The market also houses three pharmacies.
 
-As the center of life for Balyoun and the target of the recent airstrikes on the village, the market, according to shop owners, hosts hundreds of visitors every hour. The only reason, according to villagers, more weren’t killed in the attack was an initial airstrike on an agricultural road 300 meters away from the market. After this strike, residents of the village feared the market would be next and began evacuating, nevertheless civilians were still killed and injured by the blasts. 
+As the center of life for Balyoun and the target of the recent airstrikes on the village, the market, according to shop owners, hosts hundreds of visitors every hour. The only reason, according to villagers, more weren’t killed in the attack was an initial airstrike on an agricultural road 300 meters away from the market. After this strike, residents of the village feared the market would be next and began evacuating, nevertheless civilians were still killed and injured by the blasts.
 
 
 ## What Happened (and When)?
 ![](/assets/investigations/BalyounMarket/image15.png)
 *An [image](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/pcb.2568182669947440/2568182313280809/?type=3&theater) from the Civil Defense in Idlib of the damage to the market and the rescue effort.*
 
-A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing ten people and wounding thirteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hammadi, killing five members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home. 
+A [street market](https://goo.gl/maps/5evwEAoSWK435DAw5) (35.695969, 36.505092) in northeast Balyoun was targeted and hit between 14:00 and 14:15 on Saturday December 7 2019 killing ten people and wounding thirteen others. According to images and videos uploaded to social media as well as witness testimony, an airstrike with two missiles hit the village. One targeted and struck the house of Abdul Mohsen Hammadi, killing five members of his family. The other missile hit near the village’s high school, which is about 30 meters away from Al Hammadi’s home.
 
 ![](/assets/investigations/BalyounMarket/image14.png)
 *An [image](https://www.facebook.com/blyooooon/photos/pcb.2660998007473432/2660997864140113/?type=3&theater) posted by Blyon Voice showing the damage to the market and its surrounding buildings from the attack.*
 
-The Syrian Archive investigation team collected two videos that show the moment of the airstrike on the market in Balyoun. 
+The Syrian Archive investigation team collected two videos that show the moment of the airstrike on the market in Balyoun.
 
 ![](/assets/investigations/BalyounMarket/image5.png)
 *Video on the left obtained from a source that lives in [Balyoun](https://www.google.de/maps/place/35%C2%B041'42.9%22N+36%C2%B030'27.6%22E/@35.6944779,36.5054612,916m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d35.69525!4d36.5076667?shorturl=1). Video on the right obtained from a civilian observer telegram channel.*
 
-The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) was recorded on the western outskirts of Balyoun village. It shows distinct shadows that corroborate the time of attack as at around 14:00. 
+The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) was recorded on the western outskirts of Balyoun village. It shows distinct shadows that corroborate the time of attack as at around 14:00.
 
 <video autoplay loop muted playsinline style="width: 100%; height: 550px">
 <source src="/assets/investigations/BalyounMarket/firstgif.webm" type="video/webm">
@@ -82,7 +82,7 @@ The [first video](https://www.youtube.com/watch?v=Wzd6BGev--g&feature=youtu.be) 
 ![](/assets/investigations/BalyounMarket/image17.jpg)
 *The estimation of the time the video was recorded using the shadows shown in the video and the tool [SunCalc](https://www.suncalc.org/). With this method, the investigations team was able to corroborate the time of the attack as at around 14:00.*
 
-Raed Khatib, a pharmacist and village resident, spoke to the investigations team and confirmed the time of the strike claiming that it coincided with the Adhan, or the call, to Asr prayer. This matches with and confirms a multitude of online videos and images from the attack analyzed by the investigations team. 
+Raed Khatib, a pharmacist and village resident, spoke to the investigations team and confirmed the time of the strike claiming that it coincided with the Adhan, or the call, to Asr prayer. This matches with and confirms a multitude of online videos and images from the attack analyzed by the investigations team.
 
 ![](/assets/investigations/BalyounMarket/image6.png)
 
@@ -104,7 +104,7 @@ The creation date and time of the video according to metadata is 07/12/2019 at 1
 ![](/assets/investigations/BalyounMarket/image21.jpg)
 *A [geolocation](https://goo.gl/maps/yu54cBJXkgbSsjdq5) of a still taken from the second video, which shows the moment of the attack. The video was taken from western Balyoun.*
 
-Further corroborating the time and location of the attack, Aram Media posted a [breaking news alert](https://twitter.com/AramMedia_N/status/1203284236356214790?s=19)  at 14:04 on Twitter about the airstrike claiming the Russian Air Force as responsible for the attack. Shortly thereafter at 14:26, around fifteen minutes after the attack, the Facebook page Blyon Voice posted a [video](https://www.facebook.com/blyooooon/videos/2476541036001513/?v=2476541036001513) showing the moments at the market directly after the attack. This video as well as [images](https://www.facebook.com/blyooooon/posts/2660998007473432?__tn__=-R) and another [video](https://www.facebook.com/watch/?v=897500257314441) posted by the same page at 14:31 and 20:54 additionally feature the extensive damage to the shops and surrounding homes with rubble covering the streets and small fires sparked by downed power lines. Orient News’ Jamil Hassan, in a [video report](https://www.facebook.com/jameel.jameel.5059/videos/2580215055546051/) published at 14:35, additionally shows the fires and chaos directly following the attack. 
+Further corroborating the time and location of the attack, Aram Media posted a [breaking news alert](https://twitter.com/AramMedia_N/status/1203284236356214790?s=19)  at 14:04 on Twitter about the airstrike claiming the Russian Air Force as responsible for the attack. Shortly thereafter at 14:26, around fifteen minutes after the attack, the Facebook page Blyon Voice posted a [video](https://www.facebook.com/blyooooon/videos/2476541036001513/?v=2476541036001513) showing the moments at the market directly after the attack. This video as well as [images](https://www.facebook.com/blyooooon/posts/2660998007473432?__tn__=-R) and another [video](https://www.facebook.com/watch/?v=897500257314441) posted by the same page at 14:31 and 20:54 additionally feature the extensive damage to the shops and surrounding homes with rubble covering the streets and small fires sparked by downed power lines. Orient News’ Jamil Hassan, in a [video report](https://www.facebook.com/jameel.jameel.5059/videos/2580215055546051/) published at 14:35, additionally shows the fires and chaos directly following the attack.
 
 ![](/assets/investigations/BalyounMarket/image18.png)
 *A still from a [video](https://www.facebook.com/watch/?v=2476541036001513) taken directly after the attack and posted by Blyon Voice.*
@@ -112,12 +112,12 @@ Further corroborating the time and location of the attack, Aram Media posted a [
 ![](/assets/investigations/BalyounMarket/image13.png)
 *A still from a [video](https://www.facebook.com/jameel.jameel.5059/videos/2580215055546051/) posted by Orient News correspondent Jamil Al Hassan showing the immediate aftermath of the attack.*
 
-Posts evaluating the damage from directly after the attack were followed by videos and images posted hours after the attack showing the efforts to rescue and recover those injured and killed. Journalist and media activist Hadi Al Abdullah, for example, uploaded a [video](https://youtu.be/UTXZBbrZPm8) at 18:08 showing rescue efforts by the local Civil Defense teams to rescue civilians trapped under the market’s rubble. Additional videos uploaded by the [Idlib Health Directorate](https://www.facebook.com/watch/?v=2082525618516791) and the [Idlib Civil Defense](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/444858409558086/) itself show ambulances arriving at the scene of the attack as well as first responders rescuing and sending those injured to nearby hospitals. Moreover, at 17:44, around three hours after the attack, the Civil Defense released an [initial assessment](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/2568182669947440?__tn__=-R) of nine killed and fourteen injured from the attack. 
+Posts evaluating the damage from directly after the attack were followed by videos and images posted hours after the attack showing the efforts to rescue and recover those injured and killed. Journalist and media activist Hadi Al Abdullah, for example, uploaded a [video](https://youtu.be/UTXZBbrZPm8) at 18:08 showing rescue efforts by the local Civil Defense teams to rescue civilians trapped under the market’s rubble. Additional videos uploaded by the [Idlib Health Directorate](https://www.facebook.com/watch/?v=2082525618516791) and the [Idlib Civil Defense](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/videos/444858409558086/) itself show ambulances arriving at the scene of the attack as well as first responders rescuing and sending those injured to nearby hospitals. Moreover, at 17:44, around three hours after the attack, the Civil Defense released an [initial assessment](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/2568182669947440?__tn__=-R) of nine killed and fourteen injured from the attack.
 
 ![](/assets/investigations/BalyounMarket/image72.jpg)
 *An image [posted](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/posts/2568182669947440?__tn__=-R) by the Syrian Civil Defense showing the rescue efforts after the attack.*
 
-One day after the attack on December 8, the Syrian Media Forum posted a [video](https://youtu.be/71E1r4gSFSw) showing the destroyed market’s shops and kiosks. The video includes an interview with Ahmed Ismail, the owner of one of the shops in Balyoun, who describes missiles destroying the Al Hammadi home and the market further confirming that two missiles hit the area at around 14:00. 
+One day after the attack on December 8, the Syrian Media Forum posted a [video](https://youtu.be/71E1r4gSFSw) showing the destroyed market’s shops and kiosks. The video includes an interview with Ahmed Ismail, the owner of one of the shops in Balyoun, who describes missiles destroying the Al Hammadi home and the market further confirming that two missiles hit the area at around 14:00.
 
 
 ## Damage to the Market and Surrounding Areas
@@ -140,9 +140,9 @@ In posts by the Civil Defense, [images and videos](https://www.facebook.com/Syri
 ![](/assets/investigations/BalyounMarket/image7.png)
 *A still from a [video](https://www.youtube.com/watch?v=D0TSxgoumWc&feature=youtu.be) uploaded by Baladi News showing the removal of rubble from the town’s streets.*
 
-Images published by the AFP show the destruction of buildings surrounding the market including several houses. Moreover, a [video](https://youtu.be/D0TSxgoumWc) uploaded by Baladi News Network shows the clearing of stones, cement ceilings, and iron sheets covering the streets and market. 
+Images published by the AFP show the destruction of buildings surrounding the market including several houses. Moreover, a [video](https://youtu.be/D0TSxgoumWc) uploaded by Baladi News Network shows the clearing of stones, cement ceilings, and iron sheets covering the streets and market.
 
-Following an analysis of the civilian media featured above, the Syrian Archive investigation team confirmed the impact site as well as the market buildings damaged as a result of the airstrike. With the attack taking place at the [street market](https://goo.gl/maps/5evwEAoSWK435DAw5)in northeast Balyoun, the investigations team identified 5 distinct buildings that were severely damaged from the attack. The destruction of the small but populated village of Balyoun was extensive and devastating. It also proves testing for those who moved to the village seeking safety. 
+Following an analysis of the civilian media featured above, the Syrian Archive investigation team confirmed the impact site as well as the market buildings damaged as a result of the airstrike. With the attack taking place at the [street market](https://goo.gl/maps/5evwEAoSWK435DAw5)in northeast Balyoun, the investigations team identified 5 distinct buildings that were severely damaged from the attack. The destruction of the small but populated village of Balyoun was extensive and devastating. It also proves testing for those who moved to the village seeking safety.
 
 ![](/assets/investigations/BalyounMarket/image1.png)
 *Satellite imagery taken from Google Earth showing the locations of the five damage buildings as identified by the Syrian Archive.*
@@ -170,7 +170,7 @@ Following an analysis of the civilian media featured above, the Syrian Archive i
 
 When documenting those dead and injured from the attack, the Syrian Archive’s investigations team corroborated the number and identity of those injured and killed by meeting with villagers and reviewing open source media. The team confirmed that ten were killed from the attack and thirteen were injured.  
 
-The ten killed were five members of the Al Hammadi family ([Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/578569136289392/?type=3&theater), [Mohammad Deeb Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577631163049856/?type=3&theater), [Bilal Mohammed Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577652379714401/?type=3&theater), [Hassan Mohammed Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577669053046067/?type=3&theater), and [Aya Mohammed Deeb Al Hammadi](https://www.facebook.com/blyooooon/posts/2664839550422611?__tn__=-R) ) from Balyoun, [Ahmed Al Nabhan](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577651049714534/?type=3&theater), [Majid Mohammad Hassan Al Abod](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577649956381310/?type=3&theater) from Balyoun, Umm Omar originally from Homs but owns a shoe store in Balyoun’s market, Jamil Bakour from Maratah, and [Zaid Khalid Abu Al Khish](https://www.facebook.com/permalink.php?story_fbid=156712485645145&id=100039191828599) from Al Fatira. 
+The ten killed were five members of the Al Hammadi family ([Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/578569136289392/?type=3&theater), [Mohammad Deeb Abdo Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577631163049856/?type=3&theater), [Bilal Mohammed Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577652379714401/?type=3&theater), [Hassan Mohammed Deeb Al Hammadi](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577669053046067/?type=3&theater), and [Aya Mohammed Deeb Al Hammadi](https://www.facebook.com/blyooooon/posts/2664839550422611?__tn__=-R) ) from Balyoun, [Ahmed Al Nabhan](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577651049714534/?type=3&theater), [Majid Mohammad Hassan Al Abod](https://www.facebook.com/bluoninmemory.blogspot/photos/a.212025756277067/577649956381310/?type=3&theater) from Balyoun, Umm Omar originally from Homs but owns a shoe store in Balyoun’s market, Jamil Bakour from Maratah, and [Zaid Khalid Abu Al Khish](https://www.facebook.com/permalink.php?story_fbid=156712485645145&id=100039191828599) from Al Fatira.
 
 
 ## Flight Data Analysis
