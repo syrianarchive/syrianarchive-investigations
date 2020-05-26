@@ -74,7 +74,7 @@ Shortly after 19:00 and the days after the attack, [soldiers](https://www.facebo
  ![](/assets/investigations/Daraa2018/image253.png)
  *A still from Al Saoor's video taken in front of the town's police station.*
  
- ![](/assets/investigations/Daraa2018/image252.png)
+ ![](/assets/investigations/Daraa2018/image255.png)
 *Geolocated images from Facebook profile [Aos Eid](https://www.facebook.com/aos.eid.1/posts/2095222387359915?__xts__[0]=68.ARCj3YtR_7MwX9nYghN7e9p2MGpfOA9i-jyJNuTrTKILiPzDSM7FZowoCulcrIyYXntPcT59FoWu6l97F3ulugWgJedbPVBvXCiHpfUVzrFNBocZhTW3d1MROQp0lwVzgzK55EuqaLF0s8CrPP6OEnxl2jL-mqWZRJ-3mIbSsLe4NZObeMM1keeLFf3rOmtYyqvklMCD3HOracfS4_ZW2lWsigwBpst8srX-cE_LaAxeetlY80-biWex7h9LYthpA6GgXdCm2OGvS9PDeYXeD2Ymb4EGtWHtjQ&__tn__=-R) and a [video](https://www.facebook.com/watch/?v=2009028722441294) posted by the Facebook page Damas Post taken in Busra Al Harir after the attack on the town.*
 
 Amongst the intense fighting by ground and air occurred during this raid, the Syrian Archive identified 3 salient incidents of attacks on vital facilities usually protected by international law. These incidents, some mentioned in the [Syrian Human Rights Committees annual report](https://www.shrc.org/wp-content/uploads/2019/01/Arabic-report.pdf), reveal the severity of the fight for southern Syria. 
