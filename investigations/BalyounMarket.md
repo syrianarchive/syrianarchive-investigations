@@ -144,7 +144,7 @@ Images published by the AFP show the destruction of buildings surrounding the ma
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="504.99999999999994" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=d4be797a-a041-11ea-a7cb-0edaf8f81e27"></iframe>
 
-*Compared with images from on the ground, satellite imagery provided by Digital Globe from before and after the attack offers an additional view of the damage to the market and the five buildings severely damaged from the attack.* 
+*In addition to images from on the ground, satellite imagery from before and after the attack offers an additional view of the damage to the market. From satellite imagery, the damage to the five buildings identified by the syrian archive is clearly visible.* 
 
 Following an analysis of the civilian media featured above, the Syrian Archive investigation team confirmed the impact site as well as the market buildings damaged as a result of the airstrike. With the attack taking place at the [street market](https://goo.gl/maps/5evwEAoSWK435DAw5)in northeast Balyoun, the investigations team identified 5 distinct buildings that were severely damaged from the attack. The destruction of the small but populated village of Balyoun was extensive and devastating. It also proves testing for those who moved to the village seeking safety.
 
