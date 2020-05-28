@@ -214,9 +214,39 @@ In an [article](https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D
 Further confirming the attack, on July 2 [Tishreen](http://tishreen.news.sy/?p=174154), a pro-government news source, published photos of the Syrian forces' control of a "field hospital" in Al Musayfirah previously held by "terrorist." These images match and show the Central Hospital. 
 
 
-## Perpetrators of the attack (?)
+## Flight Observation Data Analysis
 
+To provide a further layer of verification, the Syrian Archive cross referenced findings from open source media with flight observation data from a spotter organization. Data for flights occurring on the days of the attacks (June 24 and June 28) near and in Daraa, As Suwayda, and Rif Damashq was closely analyzed.
+
+### June 24
+
+Beginning in the morning (at around 9 AM) and into the late afternoon on June 24, warplanes from the Shayrat and T4 West Airbases in Homs, Hmemim Airbase in Lattakia, Dumayr and Sin Airbases in Rif Damashq, and Khalkhalah Airbase in As Suwayda were spotted taking off heading towards Daraa. The aircraft taking off from these airbases included Su-22 (Fitter), Su-24 (Fencer), MiG-21 (Fishbed), MiG-23 (Flogger), Yak 130 (Mitten), and Mi-8 (Hip) helicopter. 
+
+| Province  | Airbase |  Airbase distance from Busra Al Harir  | 
+| ------------- | ------------- | -------------  | 
+| Homs  | Shayrat   | 190 km  |  
+| Homs  | T4 West   | 221 km   |
+| Lattakia  | Hmemim   | 285 km   |
+| Rif Damashq  | Dumayr   | 94 km   |
+| Rif Damashq  | Sin   | 125 km   |
+| Al Suwayda  | Khalkhalah   | 33 km   |
+
+These planes were then spotted circling and flying over towns throughout Daraa, such as Lajat, Asim, Al Hirak, Al Masikeh, and Busra Al Harir. The morning of June 24 planes are first spotted at 09:23 with an Su-22 (Fitter) observed circling over the town. This circling by Su-22s (Fitter) continued until 10:41. Additionally, from 09:35 to 11:29 Su-24s (Fencer) were also spotted circling over Busra Al Harir. Stopping from around 11:00 to 13:00, circling above Busra Al Harir resumed as Yak 130 (Mitten) planes and Mi-8 (Hip) helicopters alongside Su-22s and Su-24s were spotted over the town till around 21:00 - 23:00. 
+
+TABLEAU LINK
+
+The common practice of circling by warzone aircrafts, as spotted frequently over Busra Al Harir, indicates target acquisition and/or preparation for an immenint attack. Furthermore, the circling over Busra Al Harir, as well as other neighboring villages in Daraa, on June 24, the day of the attack, further corroborates air attacks on the health care and Civil Defense centers in Busra Al Harir. Additionally given that the majority of the planes spotted over Busra Al Harir are frequently used by Syrian forces and in alignment with claims made in open source media, it is likely that the perpetrator responsible for these attacks is the Syrian government. However, no evidence available shows the direct involvement of the observed aircraft in the attack on Kansafra. Nevertheless, the presence of these aircrafts above Busra Al Harir and the neighboring villages and towns through the day the attack most likely occurred, increases the possibility that the airstrikes were carried out by the Syrian government.
+
+### June 28
+
+Similar to June 24, on June 28 planes and helicopters were spotted taking off from Khalkhalah, Al Sin, Dumayr, Blay, Hmemim, Shayrat, and T4 West airbases starting at around 05:30 to around 17:00. The aircrafts departing from these airbases include Russian planes, Su-22s (Fitter), Su-24s (Fencer), MiG-21s (Fishbed), MiG-23s (Flogger), Yak 130s (Mitten), and Mi-8 (Hip) helicopters. Moreover, these planes moved in their respective directions towards the southwestern governorate of Daraa. 
+
+TABLEAU LINK
+
+Beginning at around 07:30 specifically in Al Musayfirah, aircraft were spotted circling above the town. The circling by Su-22s (Fitter), Su-24s (Fencer), MiG-21s (Fishbed), MiG-23s (Flogger), Yak 130s (Mitten), and Mi-8 (Hip) helicopters continued until around 12:13. Additionally, Russian aircraft and drones were spotted circling over the neighboring towns of Sayda (10 km away), Al Karak (6 km away), and Al Jizeh (7 km away between 08:00 to 14:00. 
+
+Like with the June 24 attacks on Busra Al Harir, because the majority of the planes spotted over Al Musayfirah and its neighboring towns are most frequently used by Syrian forces, it is likely that the perpetrator responsible for the attack on the hospital is the Syrian government. Nevertheless, as stated earlier, there is no evidence avaiable which shows the direct involvement of the observed aircraft attacking the hospital in Al Musayfirah. The presence of the aircraft only increases the possibilty that the airstrikes were carried out by the Syrian government. 
 
 ## Conclusion
-Following the offensive to retake the Daraa province, Russian and Syrian planes attacked villages and cities further damaging and destroying vital facilities in the Daraa countryside. On June 24, in the government effort to conquer Busra Al Harir, the town's health care and Civil Defense centers were attacked by air pushing them out of service. Moving south, government forces then attacked the Central Hospital in Al Musayfirah also pushing it out of service. The date of the attacks and extent of damage to these facilities were confirmed through open source media found online. Although Syrian Archive is unable to definitevly identify the perpetrators of these attacks, the identification of Syrian warplanes flying over Busra Al Harir as well as the repeated reportings of Russian warplanes attacking sites in Daraa point towards the Syrian government and/or Russian Air Force as potentially responsible for the attack. 
+Following the offensive to retake the Daraa province, Russian and Syrian planes attacked villages and cities further damaging and destroying vital facilities in the Daraa countryside. On June 24, in the government effort to conquer Busra Al Harir, the town's health care and Civil Defense centers were attacked by air pushing them out of service. Moving south, government forces then attacked the Central Hospital in Al Musayfirah also pushing it out of service. The date of the attacks and extent of damage to these facilities were confirmed through open source media found online as well as flight observation data. Although Syrian Archive is unable to definitevly identify the perpetrators of these attacks, flight observation data, the identification of Syrian warplanes flying over Busra Al Harir through civilian media, as well as the repeated reportings of Russian warplanes attacking sites in Daraa point towards the Syrian government and/or Russian Air Force as potentially responsible for the attack. 
 
