@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Medical Facilities Under Fire: Kiwan Charitable Hospital"
 desc: "Investigation reveals the destruction of a hospital operating in southwestern Idlib"
-date: 2020-05-19
+date: 2020-06-01
 image: /assets/investigations/KiwanHospital/image54.jpg
 socialMediaImage: /assets/investigations/KiwanHospital/image54.jpg
 drafts: true
@@ -12,11 +12,11 @@ drafts: true
 - Place of Attack: Idlib: [Kansafra](https://goo.gl/maps/dBBbCV9xiSGKK77C8)
 - Location Hit: Kiwan Charitable Hospital, supported by [Syrian Expatriates Medical Association (SEMA)](https://www.sema-sy.org/en/project/kiwan-hospital/), serves the 175,000 people of the surrounding areas with over 900 patients treated at the hospital every month.
 - Date: 24 November 2019
-- Time: Between 21:00 and 21:30, according to interviews with hospital staff conducted by the Syrian Archive’s investigations team and in corroboration with online open source media and flight observation data.
+- Time: Between 21:00 and 21:30, according to interviews with hospital staff conducted by the Syrian Archive’s investigations team in corroboration with online open source media and flight observation data.
 - Deaths or Wounded: None
 - Type of Attack: Airstrike
 - Munitions Used: Unknown
-- Potentially Responsible: Flight observation data, witness testimony, and open source information point towards the Russian Air Force as the potentia perpetrator of the attack.
+- Potentially Responsible: Flight observation data, witness testimony, and open source information point towards the Russian Air Force as the potential perpetrator of the attack.
 
 
 ## Introduction
@@ -26,10 +26,10 @@ On November 24, 2019 between 21:00 and 21:30, Kiwan Charitable Hospital in Kansa
 Syrian Archive conducted an investigation into the incident, based on three steps:
 
 (1) A local investigation’s team collected testimonies from eye-witnesses or those who witnessed the immediate aftermath of the airstrike;
-(2) Securing, analysing, and verifying of 47 videos and images uploaded to social media networks purportedly showing the incident;
+(2) Securing, analysing, and verifying of 47 videos and images uploaded to social media networks purportedly showing the incident as well as examining flight observation data;
 (3) The combined analysis of these sources has culminated in the present investigation report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage.
 
-Examining all information available on the attack, the investigations’ team developed an understanding of the incident and potential perpetrators.
+Examining all information available on the attack, the investigations team developed an understanding of the incident and potential perpetrators.
 
 For more details on Syrian Archive’s Methodology, please see our [website](https://syrianarchive.org/en/tools_methods/methodology/).
 
@@ -44,9 +44,9 @@ Kiwan Charitable Hospital is a free medical facility that treats patients in the
 ![](/assets/investigations/KiwanHospital/image10.png)
 *An image taken from Google Earth of Kansafra and its neighboring villages.*
 
-Kiwan hospital is located in the [Kansafra village](https://goo.gl/maps/dBBbCV9xiSGKK77C8), which lies in the southwestern region of the Idlib governorate around 33 km southwest of Idlib city and 17 km west of Maaret Al Numan. The medical facility is centrally located in the village with the next nearest hospital 7 km area in Kafranbel.
+Kiwan hospital is located in the [Kansafra village](https://goo.gl/maps/dBBbCV9xiSGKK77C8), which lies in the southwestern region of the Idlib governorate around 33 km southwest of Idlib city and 17 km west of Maaret Al Numan. The medical facility is centrally located in the village with the next nearest hospital 7 km away in Kafranbel.
 
-The location of the hospital was corroborated by matching videos and images from online civilian media of the attack and from media taken by the Syrian Archive’s investigations team with satellite imagery of the location.
+The investigations team geolocated civilian media showing the hospital by matching thse videos and images with media taken by the team on the ground and satellite imagery of the location.
 
 ![](/assets/investigations/KiwanHospital/image11.jpg)
 *A geolocation of video reports by the investigations team and the [Idlib Health Directorate](https://youtu.be/hY0Ydwh2jPs) of the hospital after the attack matched with satellite imagery taken from Google Earth.*
@@ -59,7 +59,7 @@ The facility treated patients free of charge since its establishment with an exc
 ### History of the Hospital
 Kiwan Charitable Hospital was originally established in 2000 by Syrian businessman Adnan Kiwan who was living in Ukraine at the time. Before establishing the hospital, Kiwan studied engineering in the Soviet Union working as a lecturer while in a PHD program. Shortly after graduating, Kiwan began a career in woodwork later becoming a prominent businessman in the steel and irony industry in Ukraine.
 
-Although living in Ukraine, Kiwan is originally from Tafas, a city in the Daraa governorate, and remains active in his home country through charitable acts including the establishment of Adnan Kiwan Charitable Hospital in Kansafra. Kiwan started the hospital with his friend Abdul Al Basit Hashoum, a native of Kansafra who currently lives in Sweden.
+Although living in Ukraine, Kiwan is originally from Tafas, a city in the Daraa governorate, and remains active in his home country through charitable acts including the establishment of Adnan Kiwan Charitable Hospital in Kansafra. Kiwan started the hospital with his friend Abdul Al Basit Hashoum, a native of Kansafra who now lives in Sweden.
 
 When the hospital was first established, Kiwan worked to improve the facility through funding and new equipment. Although supported by Kiwan and Hashoum, the hospital was not completely free for patients until the revolution as Kiwan worked to cover the basic costs of the facility. Recognizing the hospital's mission, Munther Khalil, director of the Idlib Health Directorate, confirmed in an [interview](https://youtu.be/SzeP2wsWClY) that the hospital since its beginning was largely charitable rather than private and was known as “Hospital of the Poor.”
 
@@ -89,9 +89,9 @@ In the interview, Qarat reported the hospital was in service that day. However, 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="516.4985451018429" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8b262872-a03b-11ea-a7cb-0edaf8f81e27"></iframe>
 
-*Satellite imagery from Digital Globe from before and after the attack corroborates the time of the attack as well as the extent of damage. The northern block of the facility, shown as destroyed and collaposed in images taken by the investigations team found online, is visible in satellite imagery from before the attack and is gone in satellite imagery taken after the attack, further corroborating the severe damage to the facility.* 
+*Satellite imagery from Digital Globe from before and after the attack corroborates the time of the attack as well as the extent of damage. The northern block of the facility, shown as destroyed and collaposed in images taken by the investigations team and found online, is visible in satellite imagery from before the attack and is gone in satellite imagery taken after the attack, further corroborating the severe damage to the hospital.* 
 
-Corroborating Qarat's estimates of the time of attack, posts by [Syria TV](https://www.facebook.com/syrtelevision/photos/a.724676267727930/1233223020206583/?type=3&theater), [Effect Network](https://www.facebook.com/effectnetworksy/posts/1158739054518143), [Aleppo Media Center](https://www.facebook.com/AleppoAMC/posts/943320509378985?__xts__[0]=68.ARBYOb8nucDAjLUI-2aXbCFtGGXS50rWoqdRWH1ubOJD_FX-tFfaveJ3br_fK8JMTryClDm59XgLjFDfYvo8wAujXedkmci08X-0VIyV-95dDpMCnAG5xmn6goYBrzhxjTx7RTRAcieuFsUt5FvuwEFPBQwIjwL2loKoEf0Nrzk-rm3E_EsD49WUxmA3vZmXd27_r1cgxN4dKy5wNYMHeNQg7rXZme8YBAjTQCBXZhAVW93XeFGpr40fwWrI3d_CvBT4YmaE4LjKW4O1mLz0SpRU-37sGyVLFTKn24R3oESof5B9i2g5pcopAwO56ZYWv_FZuPVCfdLNcNm5fy0&__tn__=-R), and the media activist [Ubaida Dandoush](https://www.facebook.com/permalink.php?story_fbid=953204398385456&id=100010877139589) at around 21:50 alert of an attack, some claimed by "Russian warplanes," on Kiwan Charitable Hospital. Additionally, a [video interview](https://youtu.be/o085x5QxTH0) with a member of the local Civil Defense posted by the Civil Defense confirmed the time of the strike as on November 24 at 21:20. The team member mentioned that the time of 21:20 matches observations by the Civil Defense of a Russian aircraft above the village at 21:15. In the interview, the member additionally discussed the evacuation of hospital patients and staff as well as the extensive destruction to the facility from the attack.
+Corroborating Qarat's estimates of the time of attack, posts by [Syria TV](https://www.facebook.com/syrtelevision/photos/a.724676267727930/1233223020206583/?type=3&theater), [Effect Network](https://www.facebook.com/effectnetworksy/posts/1158739054518143), [Aleppo Media Center](https://www.facebook.com/AleppoAMC/posts/943320509378985?__xts__[0]=68.ARBYOb8nucDAjLUI-2aXbCFtGGXS50rWoqdRWH1ubOJD_FX-tFfaveJ3br_fK8JMTryClDm59XgLjFDfYvo8wAujXedkmci08X-0VIyV-95dDpMCnAG5xmn6goYBrzhxjTx7RTRAcieuFsUt5FvuwEFPBQwIjwL2loKoEf0Nrzk-rm3E_EsD49WUxmA3vZmXd27_r1cgxN4dKy5wNYMHeNQg7rXZme8YBAjTQCBXZhAVW93XeFGpr40fwWrI3d_CvBT4YmaE4LjKW4O1mLz0SpRU-37sGyVLFTKn24R3oESof5B9i2g5pcopAwO56ZYWv_FZuPVCfdLNcNm5fy0&__tn__=-R), and the media activist [Ubaida Dandoush](https://www.facebook.com/permalink.php?story_fbid=953204398385456&id=100010877139589) at around 21:50 alert of an attack, some claimed by "Russian warplanes," on Kiwan Charitable Hospital. Additionally, a [video interview](https://youtu.be/o085x5QxTH0), posted by the Civil Defense, with a member of the local Civil Defense confirmed the time of the strike as on November 24 at 21:20. The team member mentioned that the time of 21:20 matches observations by the Civil Defense of a Russian aircraft above the village at 21:15. In the interview, the member additionally discussed the evacuation of hospital patients and staff as well as the extensive destruction to the facility from the attack.
 
 In an additional interivew conducted by the investigations team, Pharmacist Raed Khatib, who works in a private pharmacy near the hospital, confirmed that a Russian plane targeted the facility on November 24 between 21:00 and 21:30 pushing the facility out of service. Mentioning the preceding attack on Kafr Awid and the subsequent warnings from flight observatories, Khatib also confirmed the evacuation of the hospital around a half hour before the attack.
 
@@ -102,7 +102,7 @@ Hospital staff member Abu Ayman confirmed the airstrike occurred between 21:00 a
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Falhadath.agency%2Fposts%2F1724238624377005&width=500" width="500" height="387" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-Images taken by the investigations team on the ground (featured later in the report) as well as posts on social media reveal the damage to the facility from directly after the attack. [Images](https://www.facebook.com/alhadath.agency/posts/1724238624377005) uploaded by Al Hadath show the severe damage to the hospital's interior as a result of the attack.    
+Images taken by the investigations team on the ground (featured later in the report) as well as posts on social media reveal the damage to the facility directly after the attack. [Images](https://www.facebook.com/alhadath.agency/posts/1724238624377005) uploaded by Al Hadath show the severe damage to the hospital's interior as a result of the attack.    
 
 <video autoplay loop muted playsinline style="width: 100%">
 <source src="/assets/investigations/KiwanHospital/1.webm" type="video/webm">
@@ -137,7 +137,7 @@ The damage to Kiwan Hospital from the attack was determined and analyzed by the 
 
 *A GIF from a video taken by the investigations team of outside the medical facility.*
 
-As shown in the videos and images taken by the investigations team, the hospital suffered severe damage externally with the hospital’s structure almost fully collapsed. Although part of the hospital’s main building was left still standing, the left block of Kiwan Hospital, which includes the medical warehouse and examination rooms, was completely destroyed with the roof collapsed and rooms exposed.
+As shown in the videos and images taken by the investigations team, the hospital suffered severe damage externally with the hospital’s structure almost fully collapsed. Although part of the hospital’s main building was left still standing, the left block of Kiwan Hospital, which includes the medical warehouse and examination rooms, was completely destroyed with the roof collapsed and rooms crushed.
 
 ![](/assets/investigations/KiwanHospital/image40.png)
 *An image of the collaposed and destroyed left block of Kiwan hospital taken by the investigations team.*
@@ -151,7 +151,7 @@ Directly after the attack                     |  Days after the attack
 
 *The image on the [left](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/2540115772754130/?type=3&theater) was uploaded by the Civil Defense of the pharmacy on fire directly after the attack. The image on the right is a still from a video taken of the hospital’s pharmacy days after the attack by the investigations team.*
 
-An additional building to the right of the primary hospital building, which is the hospital’s ambulance entrance, also suffered significant external damage with its windows broken and rooms’ walls destroyed. The hospital’s pharmacy faced severe damage with the entirety of the pharmacy burned and one of its walls destroyed. The hospital’s severe external damage matches its devastating internal damage, which rendered the hospital out of service.
+An additional building to the right of the primary hospital building, which is the hospital’s ambulance entrance, also suffered significant external damage with its windows broken and rooms’ walls destroyed. The hospital’s pharmacy faced severe damage with the entirety of the pharmacy burned and one of its walls destroyed. The hospital’s severe external damage matches its devastating internal damage, which rendered the facility out of service.
 
 ### Internal Damage
 ![](/assets/investigations//KiwanHospital/image17.jpg)
@@ -216,4 +216,4 @@ First in Latakia at Hmemim Airbase, a Russian fixed wing aircraft was seen takin
 Although this data matches media and posts on social media that purport the attack as committed by the Russian Air Force, no evidence available shows the direct involvement of the observed aircraft in the attack on Kansafra. Nevertheless, the presence of these aircrafts above the neighboring villages and towns at the time that the most likely attack occurred, increases the possibility that the airstrikes were carried out by the Russian Air Force.
 
 ## Conclusion
-On November 24 2019, Kiwan hospital, supported by SEMA, was attacked and pushed out of service. Providing free treatment to residents in the area, the hospital’s various departments including its women and children’s wards were destroyed. The time of the attack and the damage to the hospital was confirmed through open source media found online, media captured and interviews conducted by the investigations team at the attack site, and flight observation data. Witnesses, local news sources, and flight observation data points towards the Russian Air Force as responsible for the attack. However, given the limitations of open source information, the Syrian Archive is unable to definitively identify the perpetrators of this attack.
+On November 24 2019 at between 21:00-21:30, Kiwan hospital, supported by SEMA, was attacked and pushed out of service. Providing free treatment to residents in the area, the hospital’s various departments including its women and children’s wards were destroyed. The time of the attack and the damage to the hospital was confirmed through open source media found online, media captured and interviews conducted by the investigations team at the attack site, and flight observation data. Witnesses, local news sources, and flight observation data points towards the Russian Air Force as responsible for the attack. However, given the limitations of open source information, the Syrian Archive is unable to definitively identify the perpetrators of this attack.
