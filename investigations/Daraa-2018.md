@@ -22,8 +22,8 @@ Several days after intense shelling in the Daraa govenorate that began on Tuesda
 Syrian Archive conducted an investigation into the incident, based on:
 
 (1) Securing, analysing, and verifying of around 80 videos and images uploaded to social media networks purportedly showing the incident;
-(2) Analysing satellite imagery as well as flight observation data pointing towards potential perpetrators 
-(2) The combined analysis of these sources culminating in the present investigation report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage.
+(2) Analysing satellite imagery as well as flight observation data; 
+(3) The combined analysis of these sources culminating in the present report. Complementing each other, they provide information regarding the attack’s date and time, location, casualties, and extent of damage.
 
 Examining all information available on the attack, the investigations team developed an understanding of the incident and potential perpetrators.
 
@@ -55,7 +55,7 @@ Although only estimating, [LiveUAMap](https://syria.liveuamap.com/en/time/23.06.
 ![](/assets/investigations/Daraa2018/image260.png)
 *A screenshot from [LiveUAMap](https://syria.liveuamap.com/en/time/23.06.2018) showing the areas of control around Busra Al Harir the day of the attack on the town. Government territory is in red with opposition territory in green.*
 
-The fight for Busra Al Harir began on June 24 with posts, videos, and images reporting that morning of Syrian government forces and its accompanying militias shelling the town. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted alerting of government forces attacking the town. Videos posted, the morning of the attack, by pro-Syrian government Facebook pages allegedly also show [the early shelling](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) and [airstrikes](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) on the town. In addition to posts from the Facebook page [SyrianWatchers](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) warning of airstrikes by Russian warplanes on the town, Sham News published [images](https://smartnews-agency.com/ar/photos/2018-06-26-%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7#4) from June 24 featuring the air and ground attack on Busra Al Harir. Further confirming reports of air raids on the town, a video circulated by activists on social media, originally posted at 14:44, [shows a warplane flying low over Busra Al Harir](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401260473000).**(TAKEN DOWN)** Analyzing the aircraft's shape, wing length, and other distinct aspects, the Syrian Archive was able to identify the warplane as an MiG-23, a plane frequently used in the Syrian conflict.
+The fight for Busra Al Harir began on June 24 with posts, videos, and images reporting that morning of Syrian government forces and its accompanying militias shelling the town. At 10:01, [Radio Sham FM](https://www.google.com/url?q=https://www.facebook.com/radioshamfm/posts/1676073642445923&sa=D&ust=1540401260475000) posted alerting of government forces attacking the town. Videos posted, the morning of the attack, by pro-Syrian government Facebook pages allegedly also show [the early shelling](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) and [airstrikes](https://www.google.com/url?q=https://www.facebook.com/permalink.php?story_fbid%3D268311490394968%26id%3D221590625067055&sa=D&ust=1540401260476000) on the town. In addition to posts from the Facebook page [SyrianWatchers](https://www.google.com/url?q=https://www.facebook.com/Syrian.watchers/posts/274286033118467&sa=D&ust=1540401260479000) warning of airstrikes by Russian warplanes on the town, Sham News published [images](https://smartnews-agency.com/ar/photos/2018-06-26-%D9%82%D8%B5%D9%81-%D8%AC%D9%88%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7#4) from June 24 featuring the air and ground attack on Busra Al Harir. These posts alerting of air raids on Busra Al Harir are further confirmed by flight observation data (featured towards the end of this report), which shows planes above the town beginning at around 09:00. Further confirming reports of air raids on the town, a video circulated by activists on social media, originally posted at 14:44, [shows a warplane flying low over Busra Al Harir](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401260473000).**(TAKEN DOWN)** Analyzing the aircraft's shape, wing length, and other distinct aspects, the Syrian Archive was able to identify the warplane as an MiG-23, a plane frequently used in the Syrian conflict.
 
 ![](/assets/investigations/Daraa2018/image2.png)
 *A still from a video showing an MiG warplane flying low over Busra Al Harir.*
@@ -63,7 +63,7 @@ The fight for Busra Al Harir began on June 24 with posts, videos, and images rep
 ![](/assets/investigations/Daraa2018/image25.png)
 *An [image](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-23&sa=D&ust=1540401260475000) of a MiG 23, a plane frequently used in the Syrian conflict.*
 
-Given its declining usage by Russian forces in Syria and increased usage by the Syrian Air Force, it is likely that the aircraft shown in the video was operated by the Syrian Air Force at the time it was recorded. The Dutch website [Scramble](https://www.scramble.nl/orbats/syria/airforce) confirms the MiG-23's prevelance in the Syrian Air Force as well as includes information about the plane and air bases/military airports housing the aircraft. The nearest air bases to Busra Al Harir with the MiG-23 are the Khalkhaleh military airport (30 km away) in As-Suwayda's countryside and the Marj Rahil airport (50 km away) just outside Damascus.
+Given its declining usage by Russian forces in Syria and increased usage by the Syrian Air Force, it is likely that the aircraft shown in the video was operated by the Syrian Air Force at the time it was recorded. The Dutch website [Scramble](https://www.scramble.nl/orbats/syria/airforce) confirms the MiG-23's prevelance in the Syrian Air Force as well as includes information about the plane and air bases/military airports housing the aircraft. The nearest air bases to Busra Al Harir with the MiG-23 are the Khalkhaleh military airport (30 km away) in As-Suwayda's countryside and the Marj Rahil airport (50 km away) just outside Damascus. Flight observation data (featured later in the report) further confirms the potential presence of MiG -23 planes over Busra Al Harir as MiG-23s were spotted taking off from Khalkaleh Airbase at 10:12, 12:33, and 14:26 as well as circling over the town itself at 10:20 and 14:30. 
 
 ![](/assets/investigations/Daraa2018/img26.png)
 
@@ -91,7 +91,7 @@ Amongst the intense fighting by ground and air occurred during this raid, the Sy
 -   Reported killed: N/A
 -   Reported injured: N/A
 -   Munitions identified: N/A
--   Potentially responsible: Russian Air Force (FACT CHECK)
+-   Potentially responsible: Flight observation data and open source information point towards the Syrian government or Russian Air Force as the potential perpetrator of the attack.
 
 ### Background on the Facility
 
@@ -109,7 +109,7 @@ Busra Al Harir Health Care Center was established on November 15, 2009 by the Sy
 
 ### What happened?
 ![](/assets/investigations/Daraa2018/image39.jpg)
-According to the [UOSSM](https://www.uossm.org/breaking_uossm_phc_attacked_in_daraa) and verified open source media, on June 24, during the raid on the town, the Busra Al Harir Health Care Center was attacked suffering extensive damage. The UOSSM [posted](https://www.facebook.com/uossm.org/posts/1757864507626270) about the attack on June 25 claiming the facility was hit at 5 PM on June 24 and "suffered extensive damage."
+According to the [UOSSM](https://www.uossm.org/breaking_uossm_phc_attacked_in_daraa) and verified open source media, on June 24, during the raid on the town, the Busra Al Harir Health Care Center was attacked suffering extensive damage. The UOSSM [posted](https://www.facebook.com/uossm.org/posts/1757864507626270) about the attack on June 25 claiming the facility was hit at 17:00 on June 24 and "suffered extensive damage." Flight observation data shows planes and helicopters were circling above Busra Al Harir at around 17:00 further confirming that the center was hit by an airstrike.
 
 ![](/assets/investigations/Daraa2018/image24.png)
 
@@ -146,7 +146,7 @@ On the same day nearby the healthcare center, Busra Al Harir's Civil Defense cen
 -   Reported killed: N/A
 -   Reported injured:N/A
 -   Munitions identified: N/A
--   Potentially responsible: Russian Air Force **(FACT CHECK)**
+-   Potentially responsible: Flight observation data and open source information point towards the Syrian government or Russian Air Force as the potential perpetrator of the attack.
 
 On June 24, the same day as the Busra Al Harir attack, the Civil Defense center in [central Busra Al Harir](https://goo.gl/maps/cZRiba711sQBQ4786) was attacked destroying the Civil Defense's fire engine and a field hospital near the center. According to a [post](https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000) with pictures from the Civil Defense Facebook page, the Civil Defense team was directly targeted during the early artillery bombardment on Busra Al Harir. 
 
@@ -184,7 +184,7 @@ Although well inside the de-escalation zone, Al Musayfirah suffered severe damag
 ![](/assets/investigations/Daraa2018/image33.png)
 *An image of Al Musayfirah Central Hospital published by [Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2228407244047612?__xts__[0]=68.ARANeTGlfxBN61LiJsVoDxzPN66SBTH29g-5QEtFODJLa19DxucAtn9c6-pezcGjPNmg1rh9uZ2nW9Ap8IwYuqQO-1OFYNfHDs96v7lCaHWgGlG5nyYVwd3t3BGCkPS0wAHwSsjKpRBwd_kLngHO-JaHRWRUL3DRhyguKLKCUb3m9FTwGyrXNz-6nmcRh1geBkD5yRA2AOQ1yr42YC1x6EVpUjoBgtk59cB1UxibL5oSW8GoNjwXDotWxc7DVysnh6aUxFlscxsG8SNjk6_z36HOLqVl2mpJO1ZNqx4ypOKAAJGpTU0b20Ml-8iRvBRwhclen2E6Y8o2aIfEY1UGqZUodVXQ&__tn__=-R).*
 
-On June 28, Al Musayfirah Central Hospital was attacked by air raids rendering it inoperable and out of service. [The Syrian Network for Human Rights](http://sn4hr.org/sites/news/2018/06/29/syrian-russian-regime-forces-bombed-hospital-al-msaifra-town-daraa-suburbs-june-26/) and [BBC](https://www.bbc.com/arabic/middleeast-44630902) reported on the attack additionally confirming the hospital was pushed out of service. In addition to news sources such as [Faifa](https://www.faifaonline.net/portal/2018/06/29/429777.html), Anadolu Agency reported extensively on the attack including a [video](https://twitter.com/aa_arabic/status/1012394327954411520) showing the destruction to the facility and surrounding areas. Planes in this video can be heard flying above the town.   
+On June 28, Al Musayfirah Central Hospital was attacked by air raids rendering it inoperable and out of service. Flight observation data shows planes over Al Musayfirah the day of the attack confirming reports that the hospital was hit by an airstrike. [The Syrian Network for Human Rights](http://sn4hr.org/sites/news/2018/06/29/syrian-russian-regime-forces-bombed-hospital-al-msaifra-town-daraa-suburbs-june-26/) and [BBC](https://www.bbc.com/arabic/middleeast-44630902) reported on the attack additionally confirming the hospital was pushed out of service. In addition to news sources such as [Faifa](https://www.faifaonline.net/portal/2018/06/29/429777.html), Anadolu Agency reported extensively on the attack including a [video](https://twitter.com/aa_arabic/status/1012394327954411520) showing the destruction to the facility and surrounding areas. Planes in this video can be heard flying above the town.   
 
 
 <blockquote class="twitter-tweet"><p lang="ar" dir="rtl"><a href="https://twitter.com/hashtag/%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A?src=hash&amp;ref_src=twsrc%5Etfw">#الطيران_الروسي</a> يدمر مشفى مركزيا في <a href="https://twitter.com/hashtag/%D8%AF%D8%B1%D8%B9%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw">#درعا</a> السورية<br><br>ما أدى إلى مقتل مدني وجرح 14 آخرين، وخروج المشفى عن الخدمة بشكل كامل، حسب مصدر طبي. <a href="https://t.co/rs1cvBQjSD">pic.twitter.com/rs1cvBQjSD</a></p>&mdash; ANADOLU AGENCY (AR) (@aa_arabic) <a href="https://twitter.com/aa_arabic/status/1012394327954411520?ref_src=twsrc%5Etfw">June 28, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -220,7 +220,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 
 ### June 24
 
-Beginning in the morning (at around 9 AM) and into the late afternoon on June 24, warplanes from the Shayrat and T4 West Airbases in Homs, Hmemim Airbase in Lattakia, Dumayr and Sin Airbases in Rif Damashq, and Khalkhalah Airbase in As Suwayda were spotted taking off heading towards Daraa. The aircraft taking off from these airbases included Su-22 (Fitter), Su-24 (Fencer), MiG-21 (Fishbed), MiG-23 (Flogger), Yak 130 (Mitten), and Mi-8 (Hip) helicopter. 
+Beginning in the morning (at around 09:00) and into the late afternoon on June 24, warplanes from the Shayrat and T4 West Airbases in Homs, Hmemim Airbase in Lattakia, Dumayr and Sin Airbases in Rif Damashq, and Khalkhalah Airbase in As Suwayda were spotted taking off heading towards Daraa. The aircraft departing from these airbases included the Su-22 (Fitter), Su-24 (Fencer), MiG-21 (Fishbed), MiG-23 (Flogger), Yak 130 (Mitten), and Mi-8 (Hip) helicopter. 
 
 | Province  | Airbase |  Airbase distance from Busra Al Harir  | 
 | ------------- | ------------- | -------------  | 
@@ -231,19 +231,23 @@ Beginning in the morning (at around 9 AM) and into the late afternoon on June 24
 | Rif Damashq  | Sin   | 125 km   |
 | Al Suwayda  | Khalkhalah   | 33 km   |
 
-These planes were then spotted circling and flying over towns throughout Daraa, such as Lajat, Asim, Al Hirak, Al Masikeh, and Busra Al Harir. The morning of June 24 planes are first spotted at 09:23 with an Su-22 (Fitter) observed circling over the town. This circling by Su-22s (Fitter) continued until 10:41. Additionally, from 09:35 to 11:29 Su-24s (Fencer) were also spotted circling over Busra Al Harir. Stopping from around 11:00 to 13:00, circling above Busra Al Harir resumed as Yak 130 (Mitten) planes and Mi-8 (Hip) helicopters alongside Su-22s and Su-24s were spotted over the town till around 21:00 - 23:00. 
+These planes were then spotted circling and flying over towns throughout Daraa, such as Lajat, Asim, Al Hirak, Al Masikeh, and Busra Al Harir. The morning of June 24 planes are first spotted at 09:23 with an Su-22 (Fitter) observed circling over the town. This circling by Su-22s (Fitter) continued until 10:41. Additionally, from 09:35 to 11:29 Su-24s (Fencer) were also spotted circling over Busra Al Harir. Stopping from around 11:00 to 13:00, circling above Busra Al Harir resumed as Yak 130 (Mitten) planes and Mi-8 (Hip) helicopters alongside Su-22s and Su-24s were spotted again over the town till around 21:00 - 23:00. Additionally throughout the day, planes were spotted circling above the neighboring towns of Nahte (6 km away) and Al Hirak (10 km away).
 
-TABLEAU LINK
 
-The common practice of circling by warzone aircrafts, as spotted frequently over Busra Al Harir, indicates target acquisition and/or preparation for an immenint attack. Furthermore, the circling over Busra Al Harir, as well as other neighboring villages in Daraa, on June 24, the day of the attack, further corroborates air attacks on the health care and Civil Defense centers in Busra Al Harir. Additionally given that the majority of the planes spotted over Busra Al Harir are frequently used by Syrian forces and in alignment with claims made in open source media, it is likely that the perpetrator responsible for these attacks is the Syrian government. However, no evidence available shows the direct involvement of the observed aircraft in the attack on Kansafra. Nevertheless, the presence of these aircrafts above Busra Al Harir and the neighboring villages and towns through the day the attack most likely occurred, increases the possibility that the airstrikes were carried out by the Syrian government.
+<iframe height="550" src="https://public.tableau.com/views/FlightObservationDatafrom24June2018/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+
+
+The common practice of circling by warzone aircrafts, as spotted frequently over Busra Al Harir and neighboring towns, indicates target acquisition and/or preparation for an immenint attack. Furthermore, the circling over Busra Al Harir, as well as other neighboring villages, on June 24, the day of the attack, further corroborates air attacks on the health care and Civil Defense centers in Busra Al Harir. Additionally, given that the majority of the planes spotted over Busra Al Harir are frequently used by Syrian forces, it is likely that the perpetrator responsible for these attacks is the Syrian government. However, no evidence available shows the direct involvement of the observed aircraft in the attack on Kansafra. Nevertheless, the presence of these aircrafts above Busra Al Harir and the neighboring villages and towns through the day the attack most likely occurred, increases the possibility that the airstrikes were carried out by the Syrian government.
 
 ### June 28
 
 Similar to June 24, on June 28 planes and helicopters were spotted taking off from Khalkhalah, Al Sin, Dumayr, Blay, Hmemim, Shayrat, and T4 West airbases starting at around 05:30 to around 17:00. The aircrafts departing from these airbases include Russian planes, Su-22s (Fitter), Su-24s (Fencer), MiG-21s (Fishbed), MiG-23s (Flogger), Yak 130s (Mitten), and Mi-8 (Hip) helicopters. Moreover, these planes moved in their respective directions towards the southwestern governorate of Daraa. 
 
-TABLEAU LINK
 
-Beginning at around 07:30 specifically in Al Musayfirah, aircraft were spotted circling above the town. The circling by Su-22s (Fitter), Su-24s (Fencer), MiG-21s (Fishbed), MiG-23s (Flogger), Yak 130s (Mitten), and Mi-8 (Hip) helicopters continued until around 12:13. Additionally, Russian aircraft and drones were spotted circling over the neighboring towns of Sayda (10 km away), Al Karak (6 km away), and Al Jizeh (7 km away between 08:00 to 14:00. 
+<iframe height="550" src="https://public.tableau.com/views/FlightObservationDatafrom28June2018/Sheet1?:showVizHome=no&:embed=y" width="780"></iframe>
+
+
+Beginning at around 07:30, aircraft were spotted circling above Al Musayfirah. The circling by Su-22s (Fitter), Su-24s (Fencer), MiG-21s (Fishbed), MiG-23s (Flogger), Yak 130s (Mitten), and Mi-8 (Hip) helicopters continued until around 12:13. Additionally, Russian aircraft and drones were spotted circling over the neighboring towns of Sayda (10 km away), Al Karak (6 km away), and Al Jizeh (7 km away) between 08:00 to 14:00. 
 
 Like with the June 24 attacks on Busra Al Harir, because the majority of the planes spotted over Al Musayfirah and its neighboring towns are most frequently used by Syrian forces, it is likely that the perpetrator responsible for the attack on the hospital is the Syrian government. Nevertheless, as stated earlier, there is no evidence avaiable which shows the direct involvement of the observed aircraft attacking the hospital in Al Musayfirah. The presence of the aircraft only increases the possibilty that the airstrikes were carried out by the Syrian government. 
 
