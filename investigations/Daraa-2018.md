@@ -3,8 +3,8 @@ layout: investigation.html
 title: "Targeting vital facilities in Daraa"
 date: 2018-01-17
 desc: "investigation reveals the targeting of a health care center, Civil Defense center, and hospital in Daraa"
-image: /assets/investigations/russian-attacks.png
-socialMediaImage: /assets/investigations/russian-attacks.png
+image: /assets/investigations/Daraa2018/image33.png
+socialMediaImage: /assets/investigations/Daraa2018/image33.png
 drafts: true
 ---
 
@@ -107,7 +107,7 @@ Busra Al Harir Health Care Center was established on November 15, 2009 by the Sy
 ![](/assets/investigations/Daraa2018/image36.jpg)
 *Images from [Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) taken in 2018 and from the [Ministry of Local Administration](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) in 2009 of the medical facility. Both sets of images show consistent features including the main entrances, the gate, and the color of the building confirming that they are the same facility.*
 
-### What happened?
+### What Happened?
 ![](/assets/investigations/Daraa2018/image39.jpg)
 According to the [UOSSM](https://www.uossm.org/breaking_uossm_phc_attacked_in_daraa) and verified open source media, on June 24, during the raid on the town, the Busra Al Harir Health Care Center was attacked by air causing extensive damage to the facility. The UOSSM [posted](https://www.facebook.com/uossm.org/posts/1757864507626270) about the attack on June 25 claiming the facility was hit at 17:00 on June 24 and "suffered extensive damage." Flight observation data shows planes and helicopters were circling above Busra Al Harir at around 17:00 further confirming that the center was hit by an airstrike.
 
@@ -148,6 +148,7 @@ On the same day nearby the healthcare center, Busra Al Harir's Civil Defense cen
 -   Munitions identified: N/A
 -   Potentially responsible: Flight observation data and open source information point towards the Syrian government as the potential perpetrator of the attack.
 
+### What Happened?
 On June 24, the same day as the Busra Al Harir attack, the Civil Defense center in [central Busra Al Harir](https://goo.gl/maps/cZRiba711sQBQ4786) was attacked destroying the Civil Defense's fire engine and a field hospital near the center. According to a [post](https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000) with pictures from the Civil Defense Facebook page, the Civil Defense team was directly targeted during the early artillery bombardment on Busra Al Harir. 
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="382" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e29882e2-a04c-11ea-a7cb-0edaf8f81e27"></iframe>
