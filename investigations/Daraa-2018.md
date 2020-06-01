@@ -82,7 +82,7 @@ Shortly after these initial posts and the days after the attack, [soldiers](http
 Amongst the intense fighting by ground and air occurred during this raid, the Syrian Archive identified 3 salient incidents of attacks on vital facilities usually protected by international law. These incidents, some mentioned in the [Syrian Human Rights Committees annual report](https://www.shrc.org/wp-content/uploads/2019/01/Arabic-report.pdf), reveal the severity of the fight for southern Syria. 
 
 
-## The first incident: Busra Al Harir Health Care Center
+## The First Incident: Busra Al Harir Health Care Center
 -   Place of Attack: Daraa: [Busra Al Harir](https://goo.gl/maps/yLVmcE7hWTGMhjid6)
 -   Location Hit: Medical facility
 -   Date: 24 June 2018 
