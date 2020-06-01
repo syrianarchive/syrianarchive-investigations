@@ -5,7 +5,6 @@ desc: "Investigation reveals the destruction of a hospital operating in southwes
 date: 2020-06-01
 image: /assets/investigations/KiwanHospital/image54.jpg
 socialMediaImage: /assets/investigations/KiwanHospital/image54.jpg
-drafts: true
 ---
 
 ## Initial Summary
