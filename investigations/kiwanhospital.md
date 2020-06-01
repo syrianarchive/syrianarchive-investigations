@@ -51,7 +51,7 @@ The investigations team geolocated civilian media showing the hospital by matchi
 *A geolocation of video reports by the investigations team and the [Idlib Health Directorate](https://youtu.be/hY0Ydwh2jPs) of the hospital after the attack matched with satellite imagery taken from Google Earth.*
 
 ### Beneficiaries
-Prior to the attack, the hospital provided services for the [175,000 residents](https://www.sema-sy.org/project/%d9%85%d8%b4%d9%81%d9%89-%d9%83%d9%8a%d9%88%d8%a7%d9%86/) in the surrounding areas treating around 980 patients a month. Kiwan, according to its [website](https://www.sema-sy.org/project/%d9%85%d8%b4%d9%81%d9%89-%d9%83%d9%8a%d9%88%d8%a7%d9%86/), worked to serve those in Jabal Al Zawiya, parts of Jabal Al Arbaeen, parts of the Maaret Al Numan and Khan Sheikhoun countryside, and the city of Khan Sheikhoun.
+Prior to the attack, the hospital provided services for the [175,000 residents](https://www.sema-sy.org/project/%d9%85%d8%b4%d9%81%d9%89-%d9%83%d9%8a%d9%88%d8%a7%d9%86/) in the surrounding areas treating around 6500 patients a month. Kiwan, according to its [website](https://www.sema-sy.org/project/%d9%85%d8%b4%d9%81%d9%89-%d9%83%d9%8a%d9%88%d8%a7%d9%86/), worked to serve those in Jabal Al Zawiya, parts of Jabal Al Arbaeen, parts of the Maaret Al Numan and Khan Sheikhoun countryside, and the city of Khan Sheikhoun.
 
 The facility treated patients free of charge since 2011 with an exception in 2018 as a [discontinuation in financial support](https://www.youtube.com/watch?v=VMgkgZnvFK0) forced the hospital to begin charging nominal fees. However, later that year, Kiwan was able to return to its original mission and provide free services again with the support of SEMA.
 
