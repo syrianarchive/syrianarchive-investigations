@@ -27,7 +27,9 @@ drafts: true
 
 ## What Happened? 
 
-After collecting and analysing images and videos published on social media platforms and news networks, Syrian Archive concluded that on 22 March 2018 at roughly 16:00 the town of Harem was targeted with two air raids on the popular market and the surrounding area in western Harem. Russian forces are likely responsible for the attack. 
+**INCLUDE SATELLITE IMAGERY**
+
+After collecting and analysing images and videos published on social media platforms and news networks, Syrian Archive concluded that on 22 March 2018 at roughly 16:00 the town of Harem was targeted with two airstrikes on the popular market and the surrounding area in western Harem. Russian forces are likely responsible for the attack. The airstrikes on Harem are the third attack in Idlib by Russian aircraft in three days. The attack occurred days after airraids on [Hass](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvhWCokTU6GA&sa=D&ust=1538477135316000) (March 20, 2018) and [Kafr al-Battikh](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dbf1-afwsPv0&sa=D&ust=1538477135316000) (March 21, 2018), which resulted in the death of dozens of civilians, mostly women and children.
 
 ![](/assets/investigations/Harem/image24.png)
 *The location of the first air raid - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135306000): Syrian Civil Defense Channel in Idlib province on YouTube*
@@ -46,7 +48,7 @@ After collecting and analysing images and videos published on social media platf
 ![](/assets/investigations/Harem/image13.png)
 *Two satellite images of the sites of the air raids, 11 September 2017 on the right; 24 April 2018 on the left, showing the effects of the destruction on the buildings and the popular market*
 
-The airstrikes on Harem are the third attack in Idlib by Russian aircraft in three days. The attack occurred days after airraids on [Hass](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DvhWCokTU6GA&sa=D&ust=1538477135316000) (March 20, 2018) and [Kafr al-Battikh](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dbf1-afwsPv0&sa=D&ust=1538477135316000) (March 21, 2018), which resulted in the death of dozens of civilians, mostly women and children.
+
 
 ### Civilian Media
 
