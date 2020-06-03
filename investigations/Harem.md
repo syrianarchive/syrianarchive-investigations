@@ -89,9 +89,49 @@ Similarly, Thiqa News Agency also published a [video](https://www.youtube.com/wa
 ## Deaths and Injuries
 The efforts to recover those injured in the attack were widely documented. Videos from [Nedaa Syria Network](https://www.youtube.com/watch?v=Bg4SInsCizA) and [Baladi News](https://www.youtube.com/watch?v=TBzihKgrKqo) amongst others show the intense efforts by the Civil Defense to rescue those injured by the strikes. Moreover, journalist, Ayman Abu Al Shouq published a [video](https://www.youtube.com/watch?v=-LT1lFxzalU) on YouTube showing the victims in the hospital. 
 
-Initial [posts](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/1609876025778114/?type=3&theater) from the Civil Defense report over 31 killed and 50 injured in the strikes. The following day after the attack, [Orient News](https://www.youtube.com/watch?v=reWiAxofGVY) published another video reporting an increase in the number of civlians killed from 31 to 42. Noting that the location of the market is far from any military headquarters, witnesses in the video reports described the market as crowded with residents at the time of the attack. Additionally, the report detailed that the second strike, which hit a residential area, destroyed a kindergarten. Only becuase the time of the strike was outside school hours, the kindergarten was mostly empty when hit. 
+Initial [posts](https://www.facebook.com/SyrianCivilDefenceIdlibWhiteHelmets/photos/a.479509938814734/1609876025778114/?type=3&theater) from the Civil Defense report over 31 killed and 50 injured in the strikes. The following day after the attack, [Orient News](https://www.youtube.com/watch?v=reWiAxofGVY) published another video reporting an increase in the number of civlians killed from 31 to 42. Noting that the location of the market is far from any military headquarters, witnesses in the video reports described the market as crowded with residents at the time of the attack. Additionally, the report detailed that the second strike, which hit a residential area, destroyed a kindergarten. 
 
-[Kafar Yahmoul coordination committee](https://www.facebook.com/k.nn.hos/) published the [names of the civilians killed](https://www.google.com/url?q=http://archive.fo/y9AiW&sa=D&ust=1538477135303000) in the attack.
+The Kafr Yahmoul Coordination Committee's Facebook page [published the names and ages](https://www.google.com/url?q=http://archive.fo/y9AiW&sa=D&ust=1538477135303000) of the first 31 killed in the attack on Harem. 
+
+
+| Name  | Age |
+| ------------- | ------------- |
+| Saeed Ahed Khayara  | 1  |
+| Hoda Armnazi  | 55  |
+| Sherif Haider  | 45  |
+| Sajida Sobhi  | 14  |
+| Muhammad Muhtadi  | 45  |
+| Abdel Qadir Muhtadi  | 6  |
+| Ali Muhtadi  | 20  |
+| Youssef Jomaa Fasil  | N/A  |
+| Mustafa Marid  | N/A  |
+| Jomaa Fasil  | N/A  |
+| Kinan Ghazal  | 45  |
+| Abdul Latif Al Aswad  | 55  |
+| Kinan Khazami  | 55  |
+| Unidentified Child  | N/A  |
+| Unidentified Child  | N/A  |
+| Unidentified Child  | N/A  |
+| Najmah Al Mashi  | 35  |
+| Hassan Ali Salloum  | 35  |
+| Roia Ghadab  | 3  |
+| Aya Marid  | 17  |
+| Nada Aliko  | 6 months  |
+| Mustafa Ladhkani  | 22  |
+| Mahmoud Sheikh Hamid  | 18  |
+| Bakour Bakr  | 20  |
+| Abdul Qadir Muhtadi  | N/A  |
+| Muhammad Khayara  | 3  |
+| Sara Khayara  | 5  |
+| Jana Jiblaq  | 4  |
+| Sondos Jiblaq  | 3  |
+| Muhammad Hasram and his 3 children | N/A  |
+
+
+
+
+
+
 
 
 ### Civilian Media
