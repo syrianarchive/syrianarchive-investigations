@@ -101,6 +101,7 @@ In addition to the healthcare center, on June 24, the Civil Defense center in [c
 ![](/assets/investigations/Daraa2018/image5.png)
 ![](/assets/investigations/Daraa2018/image22.png)
 ![](/assets/investigations/Daraa2018/image26.png)
+
 *Images [posted](https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000) by the Civil Defense Facebook page and [Enab Baladi](https://www.enabbaladi.net/archives/237050) showing the destroyed Civil Defense center and fire engine.* 
 
 Reports of the attack on the Civil Defense center were corrborate and confirmed by [Enab Baladi](https://www.enabbaladi.net/archives/237050) and [SMART News](https://smartnews-agency.com/ar/wires/302540/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%8A%D9%82%D8%B5%D9%81-%D9%81%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7). Although the location of the Civil Defense center was fairly new, the healthcare center in Busra Al Harir was well established before the beginning of the conflict in 2011. 
@@ -128,9 +129,10 @@ In verifying this attack, the Syrian Archive located the medical facility throug
 
 ![](/assets/investigations/Daraa2018/image7.png)
 
-*Satellite imagery of the medical facility and the neighboring school.*
+*Satellite imagery of the medical facility (on the right) and the neighboring school (on the left).*
 
 ![](/assets/investigations/Daraa2018/image31.jpg)
+
 *The [geolocation](https://goo.gl/maps/vfqoNBu946gejr3UA) of the medical faciity using the Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town.*
 
 
@@ -141,7 +143,7 @@ To provide a further layer of verification, the Syrian Archive cross referenced 
 Beginning in the morning (at around 09:00) and into the late afternoon on June 24, warplanes from the Shayrat and T4 West Airbases in Homs, Hmemim Airbase in Lattakia, Dumayr and Sin Airbases in Rif Damashq, and Khalkhalah Airbase in As Suwayda were spotted taking off heading towards Daraa. The aircraft departing from these airbases included the Su-22 (Fitter), Su-24 (Fencer), MiG-21 (Fishbed), MiG-23 (Flogger), Yak 130 (Mitten), and Mi-8 (Hip) helicopter. 
 
 | Province  | Airbase |  Airbase distance from Busra Al Harir  | 
-| ------------- | ------------- | -------------  | 
+| ------------- | ------------- | :---:  | 
 | Homs  | Shayrat   | 190 km  |  
 | Homs  | T4 West   | 221 km   |
 | Lattakia  | Hmemim   | 285 km   |
