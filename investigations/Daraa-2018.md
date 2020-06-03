@@ -12,8 +12,8 @@ drafts: true
 -   Place of Attack: Daraa: [Busra Al Harir](https://goo.gl/maps/yLVmcE7hWTGMhjid6)
 -   Location Hit: [Busra Al Harir Healthcare Center](https://goo.gl/maps/vfqoNBu946gejr3UA)
 -   Date: 24 June 2018 
--   Time: around 17:00, [according to UOSSM](https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000).
--   Beneficiaries: around 5,000 patients per month 
+-   Time: around 17:00, [according to the UOSSM](https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000).
+-   Beneficiaries: around 5,000 patients per month, [according to the UOSSM](https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000).
 -   Reported killed: N/A
 -   Reported injured: N/A
 -   Munitions identified: N/A
