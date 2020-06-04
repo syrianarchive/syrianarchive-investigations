@@ -74,6 +74,20 @@ Shortly after these initial posts and the days after the raid, [soldiers](https:
 
 Amongst the intense fighting by ground and air occurred during this raid, the healthcare and Civil Defense center in Busra Al Harir, as mentioned in the [Syrian Human Rights Committee's annual report](https://www.shrc.org/wp-content/uploads/2019/01/Arabic-report.pdf), were attacked and destroyed revealing the severity of the fight for southern Syria. 
 
+### History of the Facility
+Damaged in the attack in JUne 2018, Busra Al Harir Health Care Center was established on November 15, 2009 by the Syrian government as a "Family Medical Center," according to an [article](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) from a Busra Al Harir communitiy website sponsored by the Syrian government's Ministry of Local Administration. Providing images, the article shows the medical facility from well before the attack as well as it's location. The Syrian Archive was able to confirm through openly available images online that the center bombed in 2018 was the same as the one established in 2009. This indicates that the Syrian government had some knowledge of medical facility's location during the time of the raid on Busra Al Harir. Although originally a government facility, the health care center, according to [Orient News](https://orient-news.net/en/news_show/120513/0/Volunteers-in-Daraa%E2%80%99s-Busra-al-Harir-rehabilitate-Family-Care-Centre) was rehabilitated and, before the attack, was supported by the [Union of Medical Care and Relief Organizations (UOSSM)](https://www.uossm.org/) and, [according to the UOSSM](https://www.google.com/url?q=https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000), supported 5,000 patients a month. 
+
+![](/assets/investigations/Daraa2018/image40.png)
+![](/assets/investigations/Daraa2018/image19.png)
+![](/assets/investigations/Daraa2018/image1.png)
+
+*[Images](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) from the Ministry of Local Administration of the medical facility's opening in 2009.*
+
+![](/assets/investigations/Daraa2018/image21.jpg)
+![](/assets/investigations/Daraa2018/image36.jpg)
+*Images from [Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) taken in 2018 and from the [Ministry of Local Administration](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) in 2009 of the medical facility. Both sets of images show consistent features including the main entrance, the gate, and the color of the building confirming that they are the same facility.*
+
+
 ## What happened?
 ![](/assets/investigations/Daraa2018/image39.jpg)
 *An [image](https://www.facebook.com/nabaamedia/photos/pcb.2224929851062018/2224886924399644/?type=3&theater) published by Nabaa News Agency of the healthcare center from after the attack*
@@ -104,23 +118,10 @@ In addition to the healthcare center, on June 24, the Civil Defense center in [c
 
 *Images [posted](https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000) by the Civil Defense Facebook page and [Enab Baladi](https://www.enabbaladi.net/archives/237050) showing the destroyed Civil Defense center and fire engine.* 
 
-Reports of the attack on the Civil Defense center were corrborate and confirmed by [Enab Baladi](https://www.enabbaladi.net/archives/237050) and [SMART News](https://smartnews-agency.com/ar/wires/302540/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%8A%D9%82%D8%B5%D9%81-%D9%81%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7). Although the location of the Civil Defense center was fairly new, the healthcare center in Busra Al Harir was well established before the beginning of the conflict in 2011. 
-
-### Background on the Facility
-Busra Al Harir Health Care Center was established on November 15, 2009 by the Syrian government as a "Family Medical Center," according to an [article](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) from a Busra Al Harir communitiy website sponsored by the Syrian government's Ministry of Local Administration. Providing images, the article shows the medical facility from well before the attack as well as it's location. The Syrian Archive was able to confirm through openly available images online that the center bombed in 2018 was the same as the one established in 2009. This indicates that the Syrian government had some knowledge of medical facility's location during the time of the raid on Busra Al Harir. Although originally a government facility, the health care center, according to [Orient News](https://orient-news.net/en/news_show/120513/0/Volunteers-in-Daraa%E2%80%99s-Busra-al-Harir-rehabilitate-Family-Care-Centre) was rehabilitated and, before the attack, was supported by the [Union of Medical Care and Relief Organizations (UOSSM)](https://www.uossm.org/) and, [according to the UOSSM](https://www.google.com/url?q=https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000), supported 5,000 patients a month. 
-
-![](/assets/investigations/Daraa2018/image40.png)
-![](/assets/investigations/Daraa2018/image19.png)
-![](/assets/investigations/Daraa2018/image1.png)
-
-*[Images](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) from the Ministry of Local Administration of the medical facility's opening in 2009.*
-
-![](/assets/investigations/Daraa2018/image21.jpg)
-![](/assets/investigations/Daraa2018/image36.jpg)
-*Images from [Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) taken in 2018 and from the [Ministry of Local Administration](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) in 2009 of the medical facility. Both sets of images show consistent features including the main entrance, the gate, and the color of the building confirming that they are the same facility.*
+Reports of the attack on the Civil Defense center were corrborate and confirmed by [Enab Baladi](https://www.enabbaladi.net/archives/237050) and [SMART News](https://smartnews-agency.com/ar/wires/302540/%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D9%8A%D9%82%D8%B5%D9%81-%D9%81%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A-%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D8%A8%D8%AF%D8%B1%D8%B9%D8%A7).
  
 ### Geolocating the attacked site
-In verifying this attack, the Syrian Archive located the medical facility through images and videos from the center's opening and througout the conflict. An Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town from 2015, for example, shows Busra Al Harir and the surrounding areas. From the photos published of the attack and from the facility's opening in 2009, the Syrian Archive was able to identify consistent landmarks, including a school and mosque neighboring the facility, which reveal the [location of the the attacked medical center](https://goo.gl/maps/vfqoNBu946gejr3UA) to be in western Busra Al Harir. 
+In verifying the attack on the Busra Al Harir Healthcare Center, the Syrian Archive located the medical facility through images and videos from the center's opening and througout the conflict. An Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town from 2015, for example, shows Busra Al Harir and the surrounding areas. From the photos published of the attack and from the facility's opening in 2009, the Syrian Archive was able to identify consistent landmarks, including a school and mosque neighboring the facility, which reveal the [location of the the attacked medical center](https://goo.gl/maps/vfqoNBu946gejr3UA) to be in western Busra Al Harir. 
 
 ![](/assets/investigations/Daraa2018/image6.png)
 ![](/assets/investigations/Daraa2018/image34.png)
