@@ -1,12 +1,12 @@
-﻿---
+---
 layout: investigation.html
-title: "درعا"
+title: "Targeting vital facilities in Daraa"
 date: 2018-01-17
-desc: "تحقيق"
+desc: "investigation reveals the targeting of a health care center, Civil Defense Center, and Hospital"
 image: /assets/investigations/russian-attacks.png
+socialMediaImage: /assets/investigations/russian-attacks.png
 drafts: true
 ---
-
 # استهداف المراكز الصحية في درعا
 
 في يوم السبت 23 حزيران\\يونيو 2018 بدأت قوّات الحكومة السوريّة هجوماً على معاقل المعارضة المسلّحة في محافظة درعا جنوب سوريا؛ بعد عدّة أيّام من قصف مكثّف على المنطقة بدأ يوم الثلاثاء 19 حزيران\\يونيو.
@@ -35,6 +35,7 @@ drafts: true
 
 ![](/assets/investigations/Daraa2018/image23.png)
 
+## حول الهجوم
 نشرت الشبكة الإخباريّة Syria News Kit عن [قصف مدينة بصر الحرير من قبل طائراتٍ حربية](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692427715370&sa=D&ust=1540401317194000) ، إضافة إلى [إلقاء مروحيات تابعة للنظام براميل متفجّرة](https://www.google.com/url?q=https://www.facebook.com/SyriaNewsKit/posts/2091692604382019&sa=D&ust=1540401317194000)  على المدينة صباح 24 حزيران\\يونيو.
 
 تداول ناشطون [فيديو لطائرة](https://www.google.com/url?q=https://www.facebook.com/tunza.santhong/posts/1112941155513047&sa=D&ust=1540401317195000) من نوع ميغ تحلّق على ارتفاع منخفض فوق بلدة بصر الحرير، نُشر هذا الفيديو في الساعة 14:44 من يوم 24 حزيران\\يونيو.
