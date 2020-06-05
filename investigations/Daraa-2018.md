@@ -2,9 +2,9 @@
 layout: investigation.html
 title: "Medical Facilities Under Fire: Busra Al Harir Healthcare Center"
 date: 2018-01-17
-desc: "investigation reveals the targeting of a health care center and Civil Defense center in "
-image: /assets/investigations/Daraa2018/image33.png
-socialMediaImage: /assets/investigations/Daraa2018/image33.png
+desc: "investigation reveals the targeting of a health care center and Civil Defense center in Daraa"
+image: /assets/investigations/Daraa2018/image39.jpg
+socialMediaImage: /assets/investigations/Daraa2018/image39.jpg
 drafts: true
 ---
 
