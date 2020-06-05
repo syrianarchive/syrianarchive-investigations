@@ -119,7 +119,7 @@ In verifying the attack on the Busra Al Harir Healthcare Center, the Syrian Arch
 ![](/assets/investigations/Daraa2018/image6.png)
 ![](/assets/investigations/Daraa2018/image34.png)
 ![](/assets/investigations/Daraa2018/image12.png)
-*Stills from the Al Jazeera report of a school, the medical center, and a neighboring mosque.*
+*Stills from the [Al Jazeera](https://www.youtube.com/watch?v=lrD4rY0nCS4) report of a school, the medical center, and a neighboring mosque.*
 
 ![](/assets/investigations/Daraa2018/image7.png)
 
@@ -127,7 +127,7 @@ In verifying the attack on the Busra Al Harir Healthcare Center, the Syrian Arch
 
 ![](/assets/investigations/Daraa2018/image31.jpg)
 
-*The [geolocation](https://goo.gl/maps/vfqoNBu946gejr3UA) of the medical faciity using the Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town.*
+*The [geolocation](https://goo.gl/maps/vfqoNBu946gejr3UA) of the medical facility using the Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town.*
 
 
 ## Flight Observation Data Analysis
