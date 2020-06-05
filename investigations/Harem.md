@@ -8,7 +8,7 @@ drafts: true
 ---
 
 - Place of Attack: Idlib: [Harem](https://goo.gl/maps/xjm7jbEvVNmCvKtSA)
-- Locations Hit: The town's street market and nearby residential area.
+- Locations Hit: The town's street [market](https://goo.gl/maps/H1jsA15932ZnXcLCA) and nearby [residential complex](https://goo.gl/maps/tGNoJ7cdsS8se1Ct8).
 - Date: 22 March 2018
 - Reported killed: +31
 - Reported injured: +50
@@ -23,14 +23,12 @@ Harem is a large city, under opposition control at the time of the attack, in th
 
 ## What Happened? 
 
-**INCLUDE SATELLITE IMAGERY**
-
 After collecting and analysing images and videos published on social media platforms and news networks, Syrian Archive concluded that on March 22, 2018 at roughly 16:00 the town of Harem was hit by two missiles on the popular market and a nearby residential building in southern Harem. The strikes severely damaged the market burning stores and surrounding buildings as well as collapsed a residential building with civlians. This attack killed over 31 people and injured over 50 others.
 
 ![](/assets/investigations/Harem/image24.png)
 *The location of the first air raid as shown in a [video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135306000) posted by the Syrian Civil Defense in Idlib.*
 
-[The first missile](https://goo.gl/maps/tT2qVMEpCe5uVa2B80) hit the popular market near the Grand Mosque and the neighboring vegetable market. 
+[The first missile](https://goo.gl/maps/H1jsA15932ZnXcLCA) hit the popular market near the Grand Mosque and the neighboring vegetable market. 
 
 ![](/assets/investigations/Harem/image26.png)
 *The location of the second air raid as shown in a [video](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dg4SJoYgo7hU&sa=D&ust=1538477135307000) posted by the Syrian Civil Defense in Idlib.*
@@ -41,25 +39,23 @@ After collecting and analysing images and videos published on social media platf
 ![](/assets/investigations/Harem/image61.jpg)
 *The location of the two airstrikes in the popular market area in western Harem, according to witnesses and visual analysis. The distance between both attack sites is 90 meters.*
 
-![](/assets/investigations/Harem/image13.png)
-*Two satellite images of the sites of the air raids, 11 September 2017 on the right; 24 April 2018 on the left, showing the effects of the destruction on the buildings and the popular market*
-
 Further confirming that Harem was hit with two strikes, a [video](https://www.facebook.com/1765254933690858/videos/2064178657131816/?v=2064178657131816) posted onto Facebook from the outskirts of Harem shows the an airstrike on the city. An airstirke is also shown in a [video](https://www.facebook.com/khaled.alaseer.33/videos/307222189801937) posted by Facebook user Khaled Al Aseer taken from above the town. This video shows the surrounding area as well as the sun. Estimating the time from the position of the sun in the video, Syrian Archive estimates one of the strikes was most likely at around 15:30-16:30.
 
-![](/assets/investigations/Harem/image3434.png)
+![](/assets/investigations/Harem/image4343.png)
 *The sun's position in a [video](https://www.facebook.com/khaled.alaseer.33/videos/307222189801937) from the Facebook user Khaled Al Aseer confirms the time of the attack as between 15:30-16:30. Syrian Archive used the tool [SunCalc](https://www.suncalc.org/#/36.2059,36.524,15/2018.03.22/16:00/1/1) to estimate the position of the sun around the alleged time of the attack.* 
 
 These estimated times match reports from the Syrian Civil Defense in Idlib on the attack. Reporting on the two airstrikes on Harem, a [video](https://www.youtube.com/watch?v=g4SJoYgo7hU) from the Civil Defense shows the rescue operations at both impact sites as well as an interview with a local Civil Defense team member. According to the member, and further corroborating the estimated time of attack, the two strikes on March 22 took place at around 16:00 after the call to Salat Al Asr (the late-afternoon prayer) which, in the Idlib governorate, was [recited at 15:08](https://www.google.com/url?q=https://timesprayer.today/1677-month03-year2018-%25D8%25AC%25D8%25AF%25D9%2588%25D9%2584-%25D9%2585%25D9%2588%25D8%25A7%25D9%2582%25D9%258A%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25B5%25D9%2584%25D8%25A7%25D8%25A9-%25D8%25B4%25D9%2587%25D8%25B1-%25D9%2585%25D8%25A7%25D8%25B1%25D8%25B3-%25D8%25A5%25D8%25AF%25D9%2584%25D8%25A8.html&sa=D&ust=1538477135305000). Given the extreme damage from the attack, the rescue efforts according to the local Civil Defense team member took over 17 hours. 
 
 
 ## Damage
-![](/assets/investigations/Harem/image40.jpg)
-*An [image](https://www.facebook.com/photo.php?fbid=593326274354400&set=a.106884299665269&type=3&theater) posted by Mohammed Al Ahmed Dadaa of the residential building damaged from the second strike.*
+![](/assets/investigations/Harem/image4545.png)
+*A still from a [video](https://youtu.be/0ab_zYmfDpg?t=126) posted by Qasioun News Agency showing the location of and residential building severely damaged in the second strike on Harem.*
 
 In the hours and days after the strike, reports from [local](https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/2018/03/22/%D9%85%D9%82%D8%AA%D9%84-30-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D8%B1%D9%85-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8) [news](https://www.sy-24.com/news/%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-20-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D8%A8%D9%82%D8%B5%D9%81-%D8%B3%D9%88%D9%82%D9%8D-%D8%B4%D8%B9%D8%A8%D9%8A-%D9%81%D9%8A-%D9%85/) [sources](https://halabtodaytv.net/archives/70722) and [civilians](https://www.facebook.com/permalink.php?story_fbid=593326501021044&id=100010310973181) detailed the damage to the market and residential complex directly hit by the strikes as well as the surrounding areas of Harem. Hisham Al Abdullah, a correspondent with Orient News, published a [video report](https://youtu.be/pDtU38PE_oM) hours after the attack covering the raids. Al Abduallah confirmed that two airstrikes hit the town severely damaging the market and residential areas. A doctor who spoke with Al Abduallah in the report confirmed that alongside severe damage to the city around 30 civlians were killed from the attack and 50 were admitted to the town's hospital suffering from serious injuries. 
 
 ![](/assets/investigations/Harem/image33.png)
-*An image taken showing the popular market, the site of the first strike on the city.*
+
+*An image published by [SY24](https://www.sy-24.com/news/%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-20-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D8%A8%D9%82%D8%B5%D9%81-%D8%B3%D9%88%D9%82%D9%8D-%D8%B4%D8%B9%D8%A8%D9%8A-%D9%81%D9%8A-%D9%85/) showing the popular market, the site of the first strike on the city.*
 
 A day after the attack Qasioun News Agency publish a [video](https://www.youtube.com/watch?v=5hnK-uqSAMc) showing both the impact sites, specifically the location of the first strike on the market. The video shows burnt shops and crumbled buildings destroyed from the strike. Images from an [article](https://www.google.com/url?q=https://www.zamanalwsl.net/news/article/85783/&sa=D&ust=1538477135310000) published by Zaman Al Wasl additionally show the destroyed shops and homes surrounding the impact site of the first strike. Resident Hassan Youssef Al Zikr additionally published [videos](https://www.facebook.com/permalink.php?story_fbid=1015578755262381&id=100004307985320) from both attack sites showing the severe damage to the market and the nearby residential commplex. 
 
@@ -69,6 +65,9 @@ A day after the attack Qasioun News Agency publish a [video](https://www.youtube
 *Stills from one of Hassan Youssef Al Zikr's [videos](https://www.facebook.com/100004307985320/videos/pcb.1015578755262381/1015572608596329/?type=3&theater) showing the damage to Harem's street market.*
 
 Similarly, Thiqa News Agency also published a [video](https://www.youtube.com/watch?v=ogKrVO-o3sE) after the attack showing the impact site of the second strike. In the video, a witness confirms that, pointing to the location of the second strike, the building hit was a residential complex inhabiated by families. A [video](https://www.youtube.com/watch?v=LdF1QL87uUg) posted by Baladi News Network shows the effort to rescue civilians buried under the rubble of the residential buildling. 
+
+![](/assets/investigations/Harem/image13.png)
+*Two satellite images from Google Earth Pro of the sites of the air raids, 11 September 2017 on the right; 24 April 2018 on the left, showing the destruction to the residential complex and the market.*
 
 
 ## Deaths and Injuries
@@ -121,62 +120,6 @@ The Kafr Yahmoul Coordination Committee's Facebook page [published the names and
 
 
 
-
-![](/assets/investigations/Harem/image20.png)
-
-
-
-
-![](/assets/investigations/Harem/image17.png)
-
-
-
-![](/assets/investigations/Harem/image35.jpg)
-*The location of Harem city, the map shows the distance between the city and the fighting fronts*
-
-![](/assets/investigations/Harem/image9.png)
-*A photo of the kindergarten affected by the second air raid - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DreWiAxofGVY&sa=D&ust=1538477135304000): Orient Television*
-
-
-
-
-
-
-![](/assets/investigations/Harem/image21.png)
-
-
-
-
-![](/assets/investigations/Harem/image1.png)
-
-![](/assets/investigations/Harem/image6.png)
-
-![](/assets/investigations/Harem/image8.png)
-
-![](/assets/investigations/Harem/image18.png)
-
-![](/assets/investigations/Harem/image23.png)
-
-![](/assets/investigations/Harem/image3.png)
-
-![](/assets/investigations/Harem/image29.jpg)
-*A panoramic photo of the two airstrikes locations*
-
-
-
-
-
-
-
-
-![](/assets/investigations/Harem/image19.png)
-*One of the collapsed buildings at the location of the second airstrike
-[Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWo95UYI-_M8&sa=D&ust=1538477135314000) Baladi News Network*
-
-
-
-![](/assets/investigations/Harem/image31.png)
-*Destruction at the site of the second airstrike - [Source](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D0ab_zYmfDpg&sa=D&ust=1538477135315000): Qasioun News Agency*
 
 
 ## Conclusion
