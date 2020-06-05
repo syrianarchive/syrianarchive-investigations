@@ -3,7 +3,8 @@ layout: investigation.html
 title: "درعا"
 date: 2018-01-17
 desc: "تحقيق"
-image: /assets/investigations/russian-attacks.png
+image: /assets/investigations/Daraa2018/image39.jpg
+socialMediaImage: /assets/investigations/Daraa2018/image39.jpg
 drafts: true
 ---
 
