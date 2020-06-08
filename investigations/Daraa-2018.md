@@ -100,7 +100,7 @@ According to the [UOSSM](https://www.uossm.org/breaking_uossm_phc_attacked_in_da
 
 *A screenshot of the UOSSM's [Facebook post](https://www.facebook.com/uossm.org/posts/1757864507626270).*
 
-[Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) posted several images of the hospital after the attack reporting it was now out of service. A number of Facebook pages, such as [Houran News](https://www.facebook.com/2187202808178227/photos/a.2187278384837336/2187370148161493/?type=3&theater) posted on June 24 about the attack also confirming the facility was pushed out of service by airstrikes. Additionally, Sham News published a [video report](https://smartnews-agency.com/en/videos/2018-06-24-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7) on the attacks on Busra Al Harir showing the outside of the facility. 
+[Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) posted several images of the hospital after the attack reporting it was now out of service. A number of Facebook pages, such as [Houran News](https://www.facebook.com/2187202808178227/photos/a.2187278384837336/2187370148161493/?type=3&theater) posted on June 24 about the attack also confirming the facility was pushed out of service by airstrikes. Additionally, Smart News published a [video report](https://smartnews-agency.com/en/videos/2018-06-24-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7) on the attacks on Busra Al Harir showing the outside of the facility. 
 
 ![](/assets/investigations/Daraa2018/image28.jpg)
 ![](/assets/investigations/Daraa2018/image353.jpg)
@@ -134,7 +134,7 @@ In verifying the attack on the Busra Al Harir Healthcare Center, the Syrian Arch
 
 ![](/assets/investigations/Daraa2018/image31.jpg)
 
-*The [geolocation](https://goo.gl/maps/vfqoNBu946gejr3UA) of the medical facility using the Al Jazeera [video report](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DlrD4rY0nCS4&sa=D&ust=1540401260493000) on the town.*
+*The [geolocation](https://goo.gl/maps/vfqoNBu946gejr3UA) of the medical facility using the Al Jazeera [video report](https://www.youtube.com/watch?v=lrD4rY0nCS4) on the town.*
 
 
 ## Flight Observation Data Analysis
