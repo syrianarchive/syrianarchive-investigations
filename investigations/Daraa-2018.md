@@ -63,7 +63,7 @@ In the evening of June 24, after air support from Russian and Syrian planes, the
 Shortly after these initial posts and the days after the raid, [soldiers](https://www.facebook.com/permalink.php?story_fbid=2075988246057323&id=100009385034957&__tn__=-R) posted [images](https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) and [videos](https://www.facebook.com/ali.arabi.549668/posts/515124878931110) of themselves in Busra Al Harir with captions announcing and celebrating the conquering of the town as well as describing the tactics used by the government to seize the territory. Two days after the raid on June 26 at 15:29, Feras Hasan Al Saoor posted a [video](https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) of himself in front of Busra Al Harir's Free Police station. In the video, Al Saoor describes the attack as lasting 24 hours and calls the retaking of Busra Al Harir a strategic win that opens up Daraa for government forces. [Videos](https://www.facebook.com/watch/?v=2009028722441294) and [images](https://www.facebook.com/damas.times2/photos/a.298038533644340/1721996271248552/?type=3&theater) like Al Saoor's show [soldiers](https://www.facebook.com/supporting.Syrian.military.encyclopedia/posts/1089711401195287) [in and around](https://www.facebook.com/aos.eid.1/posts/2095222387359915?__tn__=-R) the city [the days after the attack](https://www.facebook.com/permalink.php?story_fbid=2065938530401467&id=100009560207508), including soldiers affiliated with the [Zulfiqar Brigade](https://www.facebook.com/permalink.php?story_fbid=2139514872985165&id=1825406404396015), an Iraqi military group allegedly [linked to Iran](https://www.terrorism-info.org.il/en/hezbollah-iran-handled-shiite-militias-integrated-syrian-army-campaign-take-control-south-syria/). Alongside images posted by the soldiers themselves, SANA, a state sponsored news organization, published a [report](https://web.archive.org/web/20200116040315/https://www.sana.sy/?p=772742) detailing the raid. 
 
  ![](/assets/investigations/Daraa2018/image253.png)
- *A still from Al Saoor's [video](https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) taken in front of the town's police station.*
+ *A still from Al Saoor's [video](https://www.facebook.com/groups/525959247758164/permalink/656964697990951/) taken in front of the town's Free police station.*
  
  ![](/assets/investigations/Daraa2018/image255.png)
 *Geolocated images from the Facebook profile [Aos Eid](https://www.facebook.com/aos.eid.1/posts/2095222387359915?__xts__[0]=68.ARCj3YtR_7MwX9nYghN7e9p2MGpfOA9i-jyJNuTrTKILiPzDSM7FZowoCulcrIyYXntPcT59FoWu6l97F3ulugWgJedbPVBvXCiHpfUVzrFNBocZhTW3d1MROQp0lwVzgzK55EuqaLF0s8CrPP6OEnxl2jL-mqWZRJ-3mIbSsLe4NZObeMM1keeLFf3rOmtYyqvklMCD3HOracfS4_ZW2lWsigwBpst8srX-cE_LaAxeetlY80-biWex7h9LYthpA6GgXdCm2OGvS9PDeYXeD2Ymb4EGtWHtjQ&__tn__=-R) and a [video](https://www.facebook.com/watch/?v=2009028722441294) posted by the Facebook page Damas Post taken in [western Busra Al Harir](https://goo.gl/maps/WJzrwuHXhJuxDuWK9) after the attack on the town.*
@@ -76,7 +76,6 @@ Damaged in the attack in June 2018, Busra Al Harir Health Care Center was establ
 ![](/assets/investigations/Daraa2018/image40.png)
 ![](/assets/investigations/Daraa2018/image19.png)
 ![](/assets/investigations/Daraa2018/image1.png)
-
 *[Images](https://web.archive.org/web/20180904070113/http://bosrharir.reefnet.sy/index.php?option=com_content&view=article&id=414:2009-11-15-15-19-13&catid=2:2009-02-14-07-40-41) from the Ministry of Local Administration of the medical facility's opening in 2009.*
 
 ![](/assets/investigations/Daraa2018/image21.jpg)
@@ -90,7 +89,6 @@ Damaged in the attack in June 2018, Busra Al Harir Health Care Center was establ
 According to the [UOSSM](https://www.uossm.org/breaking_uossm_phc_attacked_in_daraa) and verified open source media, on June 24, during the raid on the town, the Busra Al Harir Health Care Center in [western Busra Al Harir](https://goo.gl/maps/vfqoNBu946gejr3UA) was attacked by air causing extensive damage to the facility. The UOSSM [posted](https://www.facebook.com/uossm.org/posts/1757864507626270) on June 25 about the attack claiming the facility was hit at 17:00 on June 24 and "suffered extensive damage." Flight observation data shows planes and helicopters were circling above Busra Al Harir at around 17:00, further confirming that the center was hit by an airstrike.
 
 ![](/assets/investigations/Daraa2018/image24.png)
-
 *A screenshot of the UOSSM's [Facebook post](https://www.facebook.com/uossm.org/posts/1757864507626270).*
 
 [Nabaa News Agency](https://www.facebook.com/nabaamedia/posts/2224929851062018?__tn__=-R) posted several images of the hospital after the attack reporting it was now out of service. A number of Facebook pages, such as [Houran News](https://www.facebook.com/2187202808178227/photos/a.2187278384837336/2187370148161493/?type=3&theater) posted on June 24 about the attack also confirming the facility was pushed out of service by airstrikes. Additionally, Smart News published a [video report](https://smartnews-agency.com/en/videos/2018-06-24-%D9%82%D8%B5%D9%81-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%B5%D8%B1-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AF%D8%B1%D8%B9%D8%A7) on the attacks on Busra Al Harir showing the outside of the facility. 
@@ -110,7 +108,6 @@ In addition to the healthcare center, on June 24, the Civil Defense center in [c
 ![](/assets/investigations/Daraa2018/image5.png)
 ![](/assets/investigations/Daraa2018/image22.png)
 ![](/assets/investigations/Daraa2018/image26.png)
-
 *Images [posted](https://www.facebook.com/SyriaCivilDefense/posts/1035007486655006&sa=D&ust=1540401260498000) by the Civil Defense Facebook page and [Enab Baladi](https://www.enabbaladi.net/archives/237050) showing the destroyed Civil Defense center and fire engine.* 
  
 ### Geolocating the attack site
@@ -122,13 +119,10 @@ In verifying the attack on the Busra Al Harir Healthcare Center, the Syrian Arch
 *Stills from the [Al Jazeera](https://www.youtube.com/watch?v=lrD4rY0nCS4) report of a school, the medical center, and a neighboring mosque.*
 
 ![](/assets/investigations/Daraa2018/image7.png)
-
 *Satellite imagery of the medical facility (on the right) and the neighboring school (on the left).*
 
 ![](/assets/investigations/Daraa2018/image31.jpg)
-
 *The [geolocation](https://goo.gl/maps/vfqoNBu946gejr3UA) of the medical facility using the Al Jazeera [video report](https://www.youtube.com/watch?v=lrD4rY0nCS4) on the town.*
-
 
 ## Flight Observation Data Analysis
 
