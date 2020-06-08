@@ -7,7 +7,7 @@ image: /assets/investigations/Daraa2018/image39.jpg
 socialMediaImage: /assets/investigations/Daraa2018/image39.jpg
 ---
 ## حول الحادثة
-- مكان الهجوم : درعا: [بصر الحرير]((https://goo.gl/maps/yLVmcE7hWTGMhjid6)
+- مكان الهجوم : درعا: [بصر الحرير](https://goo.gl/maps/yLVmcE7hWTGMhjid6)
 - موقع التأثير:  [مركز الرعاية الصحيّة في بلدة بصر الحرير](https://goo.gl/maps/vfqoNBu946gejr3UA/)
 - التاريخ: 24 يونيو/حزيران 2018
 - التوقيت:  حوالي الساعة 17:00 وفقًا لـ[ UOSSM](https://www.facebook.com/uossm.org/posts/1757864507626270&sa=D&ust=1540401260482000).
