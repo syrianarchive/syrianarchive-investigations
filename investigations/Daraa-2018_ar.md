@@ -5,7 +5,6 @@ date: 2020-06-08
 desc: "تحقيق يتناول استهداف مركزي رعاية صحية ودفاع مدني في بصر الحرير"
 image: /assets/investigations/Daraa2018/image39.jpg
 socialMediaImage: /assets/investigations/Daraa2018/image39.jpg
-drafts: true
 ---
 ## حول الحادثة
 - مكان الهجوم : درعا: [بصر الحرير]((https://goo.gl/maps/yLVmcE7hWTGMhjid6)

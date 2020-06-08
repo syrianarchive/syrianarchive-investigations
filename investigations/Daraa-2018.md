@@ -5,7 +5,6 @@ date: 2020-06-08
 desc: "investigation reveals the targeting of a health care center and Civil Defense center in Daraa"
 image: /assets/investigations/Daraa2018/image39.jpg
 socialMediaImage: /assets/investigations/Daraa2018/image39.jpg
-drafts: true
 ---
 
 ## Initial Summary
