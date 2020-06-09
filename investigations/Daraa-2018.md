@@ -104,7 +104,7 @@ In verifying the attack on the Busra Al Harir Healthcare Center, the Syrian Arch
 *The [geolocation](https://goo.gl/maps/vfqoNBu946gejr3UA) of the medical facility using the Al Jazeera [video report](https://www.youtube.com/watch?v=lrD4rY0nCS4) on the town.*
 
 ![](/assets/investigations/Daraa2018/image7.png)
-*Satellite imagery of the medical facility (on the right) and the neighboring school (on the left).*
+*Satellite imagery on June 9th 2018, shows the medical facility (on the right) and the neighboring school (on the left).*
 
 ## Flight Observation Data Analysis
 
