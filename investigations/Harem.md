@@ -88,7 +88,7 @@ Similarly, Thiqa News Agency also published a [video](https://www.youtube.com/wa
 
 ## Deaths and Injuries
 ![](/assets/investigations/Harem/image44.png)
-*A still from a video posted by Orient News showing the effort to recover those stuck under the rubble of the collapsed building hit in the second strike.*
+*A still from a video posted by [Orient News](https://youtu.be/pDtU38PE_oM) showing the effort to recover those stuck under the rubble of the collapsed building hit in the second strike.*
 
 The efforts to recover those injured and killed in the attack were widely documented. Videos from [Nedaa Syria Network](https://www.youtube.com/watch?v=Bg4SInsCizA) and [Baladi News](https://www.youtube.com/watch?v=TBzihKgrKqo) amongst others show the intense efforts by the Civil Defense to rescue those injured by the strikes. Moreover, journalist, Ayman Abu Al Shouq published a [video](https://www.youtube.com/watch?v=-LT1lFxzalU) on YouTube showing victims of the attack in the hospital. 
 
