@@ -65,8 +65,8 @@ Further confirming that Harem was hit with two strikes, a [video](https://www.fa
 These estimated times match [video reports](https://www.youtube.com/watch?v=g4SJoYgo7hU) documenting the attack from the Syrian Civil Defense in Idlib. Corroborating the time of the strikes, the report shows the rescue operations at both impact sites as well as an interview with a local Civil Defense team member. According to the member, the two strikes on March 22 took place at around 16:00 after the call to Salat Al Asr (the late-afternoon prayer) which, in the Idlib governorate, was [recited at 15:08](https://www.google.com/url?q=https://timesprayer.today/1677-month03-year2018-%25D8%25AC%25D8%25AF%25D9%2588%25D9%2584-%25D9%2585%25D9%2588%25D8%25A7%25D9%2582%25D9%258A%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25B5%25D9%2584%25D8%25A7%25D8%25A9-%25D8%25B4%25D9%2587%25D8%25B1-%25D9%2585%25D8%25A7%25D8%25B1%25D8%25B3-%25D8%25A5%25D8%25AF%25D9%2584%25D8%25A8.html&sa=D&ust=1538477135305000). The member also mentioned that, given the extreme damage to the city from the attack, the efforts to rescue those stuck under the rubble took over 17 hours. 
 
 ## Damage
-![](/assets/investigations/Harem/image4545.png)
-*A still from a [video](https://youtu.be/0ab_zYmfDpg?t=126) posted by Qasioun News Agency showing the residential building severely damaged in the second strike on Harem.*
+![](/assets/investigations/Harem/image13.png)
+*Two satellite images from Google Earth Pro of the attack sites, 11 September 2017 on the right; 24 April 2018 on the left, showing the destruction to the residential complex and the market.*
 
 In the hours and days after the strike, [reports](https://youtu.be/pDtU38PE_oM) from [local](https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/2018/03/22/%D9%85%D9%82%D8%AA%D9%84-30-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D8%B1%D9%85-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8) [news](https://www.sy-24.com/news/%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-20-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D8%A8%D9%82%D8%B5%D9%81-%D8%B3%D9%88%D9%82%D9%8D-%D8%B4%D8%B9%D8%A8%D9%8A-%D9%81%D9%8A-%D9%85/) [sources](https://halabtodaytv.net/archives/70722) and [civilians](https://www.facebook.com/permalink.php?story_fbid=593326501021044&id=100010310973181) detailed the damage to the market and residential complex directly hit by the strikes as well as the surrounding areas of Harem. 
 
@@ -83,8 +83,8 @@ Videos and images published by [Qasioun News Agency](https://www.youtube.com/wat
 
 Similarly, Thiqa News Agency published a [video](https://www.youtube.com/watch?v=ogKrVO-o3sE) after the attack showing the impact site of the second strike. In the video, a witness confirms that, pointing to the location of the second strike, the building hit was a residential complex inhabited by families. With parts of the building still standing, the video shows a side of the complex completely collapsed after the blast. Furthermore, a [video](https://www.youtube.com/watch?v=LdF1QL87uUg) posted by Baladi News Network shows the effort to rescue civilians buried under the rubble of the residential building. 
 
-![](/assets/investigations/Harem/image13.png)
-*Two satellite images from Google Earth Pro of the attack sites, 11 September 2017 on the right; 24 April 2018 on the left, showing the destruction to the residential complex and the market.*
+![](/assets/investigations/Harem/image555.png)
+*A still from a Thiqa News [video report](https://www.youtube.com/watch?v=ogKrVO-o3sE) showing the damage to the residential building hit in the second strike on the city.*
 
 
 ## Deaths and Injuries
