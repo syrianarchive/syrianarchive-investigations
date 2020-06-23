@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: "Netherlands also prosecutes for exports to Syria"
-date: 2019-06-23
+date: 2020-06-23
 desc: "A version of this article first appeared in Knack"
 image: /assets/Port_of_Antwerp.JPG
 ---
