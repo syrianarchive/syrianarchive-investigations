@@ -1,11 +1,9 @@
 ---
+layout: investigation.html
 title: "Netherlands also prosecutes for exports to Syria"
 date: 2019-06-23
 desc: "A version of this article first appeared in Knack"
 image: /assets/Port_of_Antwerp.JPG
-level: 0
-dataset: chemical supply chain
-type: incident
 ---
 
 In 2018 Knack and Syrian Archive [revealed](https://syrianarchive.org/en/investigations/belgium-isopropanol/) that between 2014 and 2016 three Belgian companies had exported dozens of tonnes of isopropanol and acetone to Syria from the port of Antwerp. Since 2013 a license is required for such an export. EU member states are not allowed to deliver such a license if there is “reasonable grounds to believe that the chemicals can be used for “internal repression” or for the “manufacture of products” that could be used for that purpose.
