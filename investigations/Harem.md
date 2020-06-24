@@ -47,15 +47,15 @@ Harem is a city in northern Idlib approximately 2.3 km away from the Turkish bor
 
 
 ## What Happened? 
-After collecting and analysing images and videos published on social media, Syrian Archive concluded that on March 22, 2018 at roughly 16:00 the town of Harem was hit by two missiles on the popular market and a nearby residential building. The strikes severely damaged the market burning stores and the surrounding buildings as well as collapsed a residential building with civilians inside. This attack killed over 31 people and injured over 50 others.
+After collecting and analysing images and videos published on social media, Syrian Archive concluded that on March 22, 2018 at roughly 16:00 the town of Harem was hit by two missiles on the popular market and a nearby residential building. The missile strikes severely damaged the market burning stores and the surrounding buildings as well as collapsed a residential building with civilians inside. This attack killed over 31 people and injured over 50 others.
 
 ![](/assets/investigations/Harem/image24.png)
-*The location of the first strike as shown in a [video](https://www.youtube.com/watch?v=g4SJoYgo7hU) posted by the Syrian Civil Defense in Idlib.*
+*The location of the first missile strike as shown in a [video](https://www.youtube.com/watch?v=g4SJoYgo7hU) posted by the Syrian Civil Defense in Idlib.*
 
 [The first missile](https://goo.gl/maps/H1jsA15932ZnXcLCA) hit the popular market near the Grand Mosque and the neighboring vegetable market. 
 
 ![](/assets/investigations/Harem/image26.png)
-*The location of the second air raid as shown in a [video](https://goo.gl/maps/H1jsA15932ZnXcLCA) posted by the Syrian Civil Defense in Idlib.*
+*The location of the second missile strike as shown in a [video](https://goo.gl/maps/H1jsA15932ZnXcLCA) posted by the Syrian Civil Defense in Idlib.*
 
 [The second airstrike](https://goo.gl/maps/tGNoJ7cdsS8se1Ct8) hit and severely damaged a residential complex inhabited by civilians. 
 
@@ -70,20 +70,20 @@ desc: ""
 }
 ]} />
 
-*The location of the two airstrikes in the popular market area in western Harem. The distance between both attack sites is 90 meters.*
+*The location of the two missile strikes in the popular market area in western Harem. The distance between both attack sites is 90 meters.*
 
-Further confirming that Harem was hit with two strikes, a [video](https://www.facebook.com/1765254933690858/videos/2064178657131816/?v=2064178657131816) posted onto Facebook and taken at the outskirts of Harem shows an airstrike on the city. Another airstirke is also shown in a [video](https://www.facebook.com/khaled.alaseer.33/videos/307222189801937) posted by Facebook user Khaled Al Aseer taken from a hill above the town. This video shows the surrounding area as well as the sun. Estimating the time from the position of the sun in the video, one of the strikes hit Harem most likely at around 15:30-16:30.
+Further confirming that Harem was hit with two strikes, a [video](https://www.facebook.com/1765254933690858/videos/2064178657131816/?v=2064178657131816) posted onto Facebook and taken at the outskirts of Harem shows an air attaack on the city. Another attack is also shown in a [video](https://www.facebook.com/khaled.alaseer.33/videos/307222189801937) posted by Facebook user Khaled Al Aseer taken from a hill above the town. This video shows the surrounding area as well as the sun. Estimating the time from the position of the sun in the video, one of the strikes hit Harem most likely at around 15:30-16:30.
 
 ![](/assets/investigations/Harem/Image4343.png)
 *The sun's position in a [video](https://www.facebook.com/khaled.alaseer.33/videos/307222189801937) from Facebook user Khaled Al Aseer confirms the time of the attack as between 15:30-16:30. Syrian Archive used the tool [SunCalc](https://www.suncalc.org/#/36.2059,36.524,15/2018.03.22/16:00/1/1) to estimate the position of the sun around the alleged time of the attack.* 
 
-These estimated times match [video reports](https://www.youtube.com/watch?v=g4SJoYgo7hU) documenting the attack from the Syrian Civil Defense in Idlib. According to a Civil Defense member interviewed in the report, the two strikes on March 22 took place at around 16:00 after the call to Salat Al Asr (the late-afternoon prayer) which, in the Idlib governorate, was [recited at 15:08](https://timesprayer.today/1677-month03-year2018-%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D9%88%D8%A7%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B4%D9%87%D8%B1-%D9%85%D8%A7%D8%B1%D8%B3-%D8%A5%D8%AF%D9%84%D8%A8.html). Corroborating the time of the strikes, the member also mentioned that, given the extreme damage to the city from the attack, the efforts to rescue those stuck under the rubble took over 17 hours. 
+These estimated times match [video reports](https://www.youtube.com/watch?v=g4SJoYgo7hU) documenting the attack from the Syrian Civil Defense in Idlib. According to a Civil Defense member interviewed in the report, the two missile strikes on March 22 took place at around 16:00 after the call to Salat Al Asr (the late-afternoon prayer) which, in the Idlib governorate, was [recited at 15:08](https://timesprayer.today/1677-month03-year2018-%D8%AC%D8%AF%D9%88%D9%84-%D9%85%D9%88%D8%A7%D9%82%D9%8A%D8%AA-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D8%B4%D9%87%D8%B1-%D9%85%D8%A7%D8%B1%D8%B3-%D8%A5%D8%AF%D9%84%D8%A8.html). Corroborating the time of the strikes, the member also mentioned that, given the extreme damage to the city from the attack, the efforts to rescue those stuck under the rubble took over 17 hours. 
 
 ## Damage
 ![](/assets/investigations/Harem/image13.png)
 *Two satellite images from Google Earth Pro of the attack sites, 11 September 2017 on the right; 24 April 2018 on the left, showing the destruction to the residential complex and the market.*
 
-In the hours and days after the strike, [reports](https://youtu.be/pDtU38PE_oM) from [local](https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/2018/03/22/%D9%85%D9%82%D8%AA%D9%84-30-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D8%B1%D9%85-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8) [news](https://www.sy-24.com/news/%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-20-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D8%A8%D9%82%D8%B5%D9%81-%D8%B3%D9%88%D9%82%D9%8D-%D8%B4%D8%B9%D8%A8%D9%8A-%D9%81%D9%8A-%D9%85/) [sources](https://halabtodaytv.net/archives/70722) and [civilians](https://www.facebook.com/permalink.php?story_fbid=593326501021044&id=100010310973181) detailed the damage to the market and residential complex directly hit by the strikes. 
+In the hours and days after the strike, [reports](https://youtu.be/pDtU38PE_oM) from [local](https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/2018/03/22/%D9%85%D9%82%D8%AA%D9%84-30-%D9%85%D8%AF%D9%86%D9%8A%D8%A7-%D8%A8%D9%82%D8%B5%D9%81-%D8%B1%D9%88%D8%B3%D9%8A-%D8%B9%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AD%D8%A7%D8%B1%D9%85-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A5%D8%AF%D9%84%D8%A8) [news](https://www.sy-24.com/news/%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-20-%D9%85%D8%AF%D9%86%D9%8A%D8%A7%D9%8B-%D8%A8%D9%82%D8%B5%D9%81-%D8%B3%D9%88%D9%82%D9%8D-%D8%B4%D8%B9%D8%A8%D9%8A-%D9%81%D9%8A-%D9%85/) [sources](https://halabtodaytv.net/archives/70722) and [civilians](https://www.facebook.com/permalink.php?story_fbid=593326501021044&id=100010310973181) detailed the damage to the market and residential complex directly hit by the missile strikes. 
 
 ![](/assets/investigations/Harem/image2345.png)
 
@@ -173,5 +173,5 @@ This data showing Russian aircraft around and near Harem further corroborates th
 
 
 ## Conclusion
-On March 22, 2018 allegedly Russian planes hit the town of Harem severely damaging a residential complex and the town's market. The attack killed at least 31 people and injured over 50 others. The time of the attack, extent of damage, and number of those killed was confirmed through open source information found online. Corroborating open source media, flight observation data points towards the Russian Air Force as potentially responsible for the attack. However, given the limitations of open source information, the Syrian Archive is unable to definitively identify the perpetrators of this attack. A report from [Syria TV](https://www.youtube.com/watch?v=6UW5qFLk4qE) published months after the attack shows the market's recovery and restoration as Harem residents open their shops again.  
+On March 22, 2018 allegedly Russian planes hit the town of Harem withtwo missiles severely damaging a residential complex and the town's market. The attack killed at least 31 people and injured over 50 others. The time of the attack, extent of damage, and number of those killed was confirmed through open source information found online. Corroborating open source media, flight observation data points towards the Russian Air Force as potentially responsible for the attack. However, given the limitations of open source information, the Syrian Archive is unable to definitively identify the perpetrators of this attack. A report from [Syria TV](https://www.youtube.com/watch?v=6UW5qFLk4qE) published months after the attack shows the market's recovery and restoration as Harem residents open their shops again.  
 
