@@ -7,7 +7,7 @@ image: /assets/investigations/Harem/image41.png
 socialMediaImage: /assets/investigations/Harem/image41.png
 drafts: true
 level: 0
-dataset: attacks on medical facilities
+dataset: attacks on civilian infrastructure
 type: incident
 ---
 import Album from "../../src/components/Album.js";
